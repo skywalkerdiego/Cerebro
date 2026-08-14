@@ -2,16 +2,30 @@
 
 **Objetivo:** Ahorrar lo más posible sin descuidar lo esencial, en una
 cuenta conjunta con tu novia, para irse a vivir juntos.
-**Estado:** Por definir mecánica y cifras.
+**Fecha meta:** Antes de Navidad 2026 (~4 meses desde ahora: sep-dic).
+**Estado:** Fecha definida, faltan cifras.
 
 ## Preguntas a resolver juntos (tú y ella)
 
-- [ ] ¿Cuándo quieren mudarse? (fecha aproximada, ayuda a calcular cuánto
-      necesitan ahorrar por mes)
+- [x] ¿Cuándo quieren mudarse? → Antes de Navidad 2026
 - [ ] ¿Qué gastos cubre la mudanza? (depósito/renta, muebles, mudanza,
       colchón de emergencia)
 - [ ] ¿Qué banco/cuenta usarán para el fondo conjunto?
 - [ ] ¿Cada quién aporta lo mismo o proporcional a su ingreso?
+
+## Cálculo del monto objetivo (por llenar)
+
+| Concepto | Costo estimado |
+|----------|-----------------|
+| Depósito (garantía, normalmente 1 mes de renta) | |
+| Primer mes de renta | |
+| Muebles/enseres básicos | |
+| Mudanza (camión, empaque) | |
+| Colchón de emergencia (1 mes de gastos, recomendado) | |
+| **Total objetivo** | |
+
+Con el total y los ~4 meses que quedan (sep-dic), se divide entre 4 para
+saber cuánto deben apartar los dos juntos cada mes.
 
 ## Método sugerido (simple, sin apps complicadas)
 
@@ -26,11 +40,10 @@ cuenta conjunta con tu novia, para irse a vivir juntos.
 
 | Mes | Meta de ahorro | Ahorrado real | Notas |
 |-----|-----------------|----------------|-------|
-| Agosto 2026 | | | |
 | Septiembre 2026 | | | |
 | Octubre 2026 | | | |
 | Noviembre 2026 | | | |
-| Diciembre 2026 | | | |
+| Diciembre 2026 (antes de Navidad) | | | Meta límite |
 
 ## Notas
 

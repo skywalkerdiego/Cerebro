@@ -15,7 +15,7 @@ y un ahorro conjunto en marcha.
 |---|------|-----------|--------|---------|
 | 1 | 🎓 Titulación | Alta | En proceso | [metas/titulacion.md](metas/titulacion.md) |
 | 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) |
-| 3 | 💰 Ahorro en conjunto | Alta | Por definir | [metas/ahorro.md](metas/ahorro.md) |
+| 3 | 💰 Ahorro en conjunto | Alta | Meta: antes de Navidad 2026, faltan cifras | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️ Idioma | Media | Sin iniciar | [metas/aprendizaje.md](metas/aprendizaje.md) |
 | 5 | 📚 Cultura / lectura | Media | Sin iniciar | [metas/aprendizaje.md](metas/aprendizaje.md) |
 
