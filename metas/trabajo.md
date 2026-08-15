@@ -76,6 +76,38 @@ Ajustes concretos pendientes:
       Cambridge), agregarla — respalda el "Professional Working
       Proficiency" y suma para el perfil internacional
 
+**Borrador editado:** primer borrador del CV (Word) entregado el
+15/08/2026 con estos ajustes ya aplicados, más un bloque nuevo de "Áreas
+de conocimiento" y el resumen reescrito para sonar creíble tanto para
+comercio exterior como para investigación/posgrado (ver sección de abajo).
+Quedan marcados en rojo dentro del documento los datos que solo tú tienes
+(cifras reales de desempeño, tu URL de LinkedIn, tema de tesis, certificado
+de inglés si aplica) — hay que llenarlos antes de mandarlo a una vacante.
+
+## Camino alterno: academia / investigación (agregado 15/08/2026)
+
+Dijiste que no quieres cerrarte la puerta de la academia — investigación o
+una maestría con miras a dar clases. Esto **no compite** con la meta de
+diciembre 2026 (conseguir trabajo en comercio exterior): es horizonte de
+mediano/largo plazo, y de hecho tu experiencia en CIALC ya es investigación
+real que se puede aprovechar en una solicitud de maestría estando ya
+empleado. El CV quedó redactado para sostener las dos puertas a la vez, sin
+tener que elegir todavía.
+
+- [ ] Explorar programas de maestría afines: Estudios Latinoamericanos,
+      Relaciones Internacionales, Estudios sobre América del Norte,
+      Economía Internacional, Cooperación Internacional — revisar cuáles
+      ofrece la UNAM (posgrado.unam.mx) y otras opciones
+- [ ] Platicar con tu contacto/asesor en CIALC sobre posibilidad de
+      extender la colaboración de investigación y pedirle orientación u
+      referencia para posgrado
+- [ ] Revisar requisitos de admisión típicos (promedio mínimo, examen de
+      idioma, carta de exposición de motivos, EXANI-III si aplica) de 1-2
+      programas que te llamen la atención
+- [ ] Definir el tema de tu trabajo terminal/tesis de licenciatura (falta
+      en el CV) — además de completar el CV, sirve como punto de partida
+      para una futura propuesta de investigación de maestría
+
 ## Notas
 
 - Prioridad: primero conseguir un pie dentro del sector (aunque sea un
