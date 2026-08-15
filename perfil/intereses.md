@@ -32,7 +32,40 @@ te interesa, qué disfrutas.
 - **Ropa de etiqueta / moda formal**.
 - **Compras tech** — te gusta estar al día con gadgets/tecnología.
 - **Filosofía** — no lees mucho, pero disfrutas analizar a fondo lo que
-  sí lees. Albert Camus, *Siddhartha* (Hesse), *1984* (Orwell).
+  sí lees. Albert Camus, *Siddhartha* (Hesse), *1984* (Orwell). Conecta
+  directo con tu interés en el budismo y otras religiones/formas de ver
+  la vida — quieres leer y saber más del mundo en general.
+- **Tecnología** — te llama mucho la atención, más allá de solo comprar
+  gadgets.
+- **Música y guitarra** — te gusta escuchar música y tocarla.
+- **Videojuegos** (confirmado, ya estaba en la lista).
+- **Terror y suspenso** — como género favorito.
+- **Tatuajes** — te gustan muchísimo; ya traes al menos uno (lo vi en
+  una foto que me mandaste). Cuéntame el significado cuando quieras y
+  cuáles tienes pensado agregar.
+- **Curiosidades del mundo** — te gusta pensar y conocer datos de
+  distintos países; conecta directo con tu carrera en RI.
+- **Vida social** — te gusta conocer gente, tener amigos, salir a
+  comer, convivir.
+- **Aire libre** — te gustaría hacer más actividades al aire libre (te
+  falta, no es que ya lo hagas mucho).
+- **Marihuana** — la consumes.
+- **Escribir lo que sientes** — te gusta escribirle a tu novia y
+  contarle lo que te hace sentir; es parte de cómo expresas cariño.
+- **Estar con tu novia** — es, en tus palabras, lo que más disfrutas de
+  todo. Ver [novia.md](novia.md).
+
+## Notas personales (para ayudarte mejor)
+
+- Sientes que te cuesta recordar las cosas — por eso este espacio te
+  sirve; trato de dejar todo registrado para que no dependa de tu
+  memoria.
+- Me contaste que sientes que tienes problemas de atención, y que en
+  algún momento de terapia se mencionó la posibilidad de TLP y
+  ansiedad. Lo dejo anotado tal cual me lo compartiste — no es un
+  diagnóstico ni yo puedo darte uno, es contexto tuyo para que, si
+  algún día quieres retomarlo con un profesional, lo tengas a la mano
+  aquí.
 
 ## Sin confirmar (dime si aplica)
 

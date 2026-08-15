@@ -19,9 +19,9 @@ investigarlas a fondo (tallas, marca, dónde comprar):
   algo de cocina/casa con estampado (para cuando se muden)
 - **Game of Thrones:** joyería con sigilo de casa, edición especial de
   los libros, arte/print
-- **Harry Potter (+ fanfics):** réplica de varita de su casa de
-  Hogwarts, edición ilustrada de un libro, algo temático de su casa
-  (Gryffindor/Slytherin/etc. — confirmar cuál es)
+- **Harry Potter (+ fanfics), es Ravenclaw:** joyería/pin del águila de
+  Ravenclaw, bufanda o playera de la casa, réplica de varita, edición
+  ilustrada de un libro
 - **Skincare / cuidado personal:** set de una marca que ya use (falta
   confirmar cuál), certificado de spa/facial
 - **Gimnasio:** ropa deportiva, bolsa de gym, accesorio que le falte
