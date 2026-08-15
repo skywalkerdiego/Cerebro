@@ -4,7 +4,7 @@
 cuenta conjunta con tu novia, para irse a vivir juntos.
 **Fecha meta:** Antes de Navidad 2026 (idealmente listos a mediados de
 diciembre, para tener margen de maniobra).
-**Estado:** Plan calculado, pendiente confirmar valor de venta del Chevy.
+**Estado:** Plan confirmado y listo para revisar en pareja.
 
 ## Preguntas resueltas
 
@@ -13,8 +13,10 @@ diciembre, para tener margen de maniobra).
       esenciales/muebles, costo de mudanza
 - [x] ¿Cada quién aporta lo mismo o proporcional a su ingreso? →
       Proporcional (mismo % de ingreso para cada quien, ver abajo)
-- [ ] ¿Qué banco/cuenta usarán para el fondo conjunto?
-- [ ] Valor estimado de venta del Chevy
+- [x] ¿Qué banco/cuenta usarán para el fondo conjunto? → MercadoPago
+      (cuenta remunerada), por liquidez — ver sección de rendimiento
+- [x] Chevy: sin comprador todavía → se trata como fondo aparte, no como
+      parte del cálculo de la mudanza (ver sección dedicada)
 
 ## Monto objetivo
 
@@ -47,16 +49,41 @@ quien (mismo esfuerzo relativo, ~24% del ingreso mensual de cada uno):
 4 meses x $12,000 = $48,000 → cubre el total objetivo ($47,000) con
 ~$1,000 de colchón.
 
-## 🚗 Venta del Chevy — pendiente de cifra
+## 🚗 Venta del Chevy — fondo aparte (no cuenta para la mudanza)
 
-Vender el Chevy es un ingreso extra de una sola exhibición (no mensual) que
-puede usarse para:
-- **Acortar el tiempo** necesario de ahorro mensual, o
-- **Bajar el monto mensual** que le toca a cada quien, o
-- **Aumentar el colchón de emergencia** una vez cubierto lo esencial
+Estimado de venta: **~$40,000**, pero sin comprador todavía. Por eso NO se
+resta del objetivo de $47,000 — el plan de $12,000/mes se mantiene íntegro
+como colchón de seguridad, para no depender de una venta que aún no está
+garantizada.
 
-En cuanto tengas un número aproximado de venta, recalculamos el plan
-completo (nuevo monto mensual o nueva fecha en la que estarían listos).
+Cuando se venda, ese dinero se trata como **extra**, con este destino
+sugerido:
+- Fondo de emergencia (recomendado tener ~1 mes de gastos esenciales
+  guardado, algo que el plan actual no incluye)
+- O adelantar la siguiente meta grande (el próximo coche)
+- Idealmente en **CETES** en vez de MercadoPago, ya que este dinero no se
+  necesita en el corto plazo (ver sección de rendimiento abajo)
+
+## 📈 ¿Dónde guardar el dinero? (rendimiento)
+
+*Nota: no soy asesor financiero certificado, esto es orientación general.
+Confirmen las tasas vigentes antes de mover dinero — cambian con el tiempo.*
+
+| | MercadoPago (cuenta remunerada) | CETES (cetesdirecto.com) |
+|---|---|---|
+| Liquidez | Inmediata, sacas cuando quieras | El dinero queda amarrado hasta que vence el plazo (28/91/182/364 días) |
+| Seguridad | Regulado como SOFIPO — revisar límite de protección de depósitos vigente | Respaldado directamente por el gobierno mexicano — de lo más seguro que existe |
+| Fricción | Cero, ya tienen cuenta ambos | Toma unos días abrir cuenta la primera vez |
+| Rendimiento | Bueno, pero variable (revisar tasa actual en la app) | Bueno, sin comisiones |
+
+**Recomendación:**
+- **Fondo de la mudanza (los $12,000/mes):** en **MercadoPago**, porque
+  ese dinero sí lo van a necesitar antes de diciembre y podría hacer
+  falta antes si surge algo — prioridad a la liquidez sobre el máximo
+  rendimiento.
+- **Fondo del Chevy (cuando se venda):** en **CETES**, idealmente a 28
+  días (se renuevan solos y dan algo de flexibilidad), porque ese dinero
+  no se toca en el corto plazo y ahí sí conviene exprimir el rendimiento.
 
 ## Decisiones para bajar la carga mental
 
@@ -85,7 +112,9 @@ completo (nuevo monto mensual o nueva fecha en la que estarían listos).
 
 ## Notas
 
-- Este plan se recalcula en cuanto: (a) sepamos el valor de venta del
-  Chevy, o (b) definan el banco/cuenta conjunta.
+- Este plan ya está completo para presentar y revisar en pareja — solo
+  falta que ambos lo validen y empiecen a registrar lo ahorrado cada mes.
+- Si el Chevy se vende antes de diciembre, ese dinero NO reemplaza el
+  ahorro mensual — se guarda aparte como fondo de emergencia/próxima meta.
 - La tabla de seguimiento se actualiza cada vez que reporten cuánto
   lograron ahorrar ese mes.
