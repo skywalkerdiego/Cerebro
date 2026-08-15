@@ -38,6 +38,16 @@ Lo que NO pasa: no hay sincronización en vivo entre lo que capturas tú
 mismo en el tablero y este archivo — esa dirección sigue siendo
 manual (exportar y pegar, o contarme los totales).
 
+## Funciones del tablero (agregado 15/08/2026)
+
+- **Presupuestos por categoría** — le pones un límite mensual a una
+  categoría (ej. Comida: $3,000) y la barra se pone roja si te pasas.
+- **Gastos fijos recurrentes** — registras algo una vez (ej. Renta,
+  Netflix) y se agrega solo como gasto cada mes, sin que lo captures
+  a mano.
+- **Tendencia mensual** — gráfica de ingresos vs. gastos de los
+  últimos meses, en cuanto haya al menos 2 meses con movimientos.
+
 ## Notas
 
 - Esto es tu presupuesto personal. El ahorro conjunto de la mudanza
