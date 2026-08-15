@@ -57,9 +57,10 @@ te interesa, qué disfrutas.
 - Arte, pintura, fotografía.
 - Relojes y estilo/moda — ropa de etiqueta, formal.
 - Perfumes — Dior Sauvage EDP, Guerlain, Versace Eros.
-- Tatuajes — te gustan muchísimo; ya traes al menos uno (lo vi en una
-  foto que me mandaste). Cuéntame el significado cuando quieras y
-  cuáles tienes pensado agregar.
+- Tatuajes — te gustan muchísimo (esto sí confirmado). Sin confirmar
+  si ya tienes alguno — en una foto vi una marca en tu antebrazo, pero
+  al revisarla mejor parece más un sticker/brazalete de evento que un
+  tatuaje real. Dime si tienes alguno y lo anoto bien.
 - Navajas.
 
 ### Otros
