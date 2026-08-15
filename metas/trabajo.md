@@ -5,6 +5,12 @@ relacionado con Relaciones Internacionales, con foco en comercio exterior
 y aduanas.
 **Estado:** Por arrancar — falta definir camino de entrada.
 
+**Actualización 15/08/2026 — prioridad real:** estás cansado del trabajo
+actual y lo urgente es **más dinero y/o remoto**, no necesariamente
+comercio exterior específicamente. Comercio exterior sigue como meta de
+mediano plazo, pero no es la ruta más rápida a "gano más ya" (ver sección
+de ruta rápida abajo) — se corren en paralelo, no es o uno o el otro.
+
 ## El panorama real (para no perder tiempo)
 
 Ser **agente aduanal** en México es una profesión regulada: requiere examen
@@ -83,6 +89,44 @@ comercio exterior como para investigación/posgrado (ver sección de abajo).
 Quedan marcados en rojo dentro del documento los datos que solo tú tienes
 (cifras reales de desempeño, tu URL de LinkedIn, tema de tesis, certificado
 de inglés si aplica) — hay que llenarlos antes de mandarlo a una vacante.
+
+## Ruta rápida: más dinero y/o remoto (agregado 15/08/2026)
+
+Pregunta: ¿qué se puede conseguir YA con el CV actual, priorizando sueldo
+y/o remoto sobre el enfoque específico de comercio exterior? Investigué
+rangos de mercado (México, 2026) para calibrar expectativas:
+
+| Ruta | Realista ahora | Sueldo aprox. |
+|------|-----------------|-----------------|
+| Auxiliar/asistente de comercio exterior (entrada) | Sí, pero es la meta de mediano plazo | $9,000–$18,000 MXN/mes — probablemente **menos** de lo que ganas hoy |
+| Coordinador de comercio exterior/logística | No todavía (pide experiencia en el área) | $25,000–$45,000 MXN/mes, pero es el siguiente escalón, no el de entrada |
+| Salto lateral a otro CS/soporte bilingüe (mejor empresa, remoto) | Sí, ya | Variable, pero con tu experiencia de casos complejos puedes apuntar arriba del piso de entrada |
+| Asistente virtual / soporte operativo remoto para clientes de EU (Virtual Latinos, Belay, Boldly, Athena, Somewhere, Near) | **Sí, la más viable ahora** | $6–20 USD/hora según experiencia; con tu perfil, apuntar a $8–15/hora (~$1,300–2,400 USD/mes, pagado en dólares) |
+| Customer Success/Support remoto para empresa de EU en LatAm | Sí, como entrada | ~$16K USD/año de entrada (~$1,300 USD/mes) con crecimiento |
+| Coordinador de logística/documentación en forwarder o shared-services (DHL, Kuehne+Nagel, Uber Freight, etc.) | Sí, alineado con la carrera | Similar al salto lateral de CS, pero normalmente presencial/híbrido, no remoto |
+
+**Conclusión:** la ruta más rápida a "gano más y/o trabajo remoto" es
+capitalizar lo que ya tienes (bilingüe + atención a casos complejos +
+coordinación + investigación/redacción) hacia empleadores que pagan en
+USD — asistente virtual/soporte remoto o customer success remoto — no
+entrar a comercio exterior por la puerta de abajo, que a corto plazo
+puede significar un recorte de sueldo.
+
+**Segundo CV entregado (15/08/2026):** versión enfocada en soporte/
+operaciones remotas y compensación en dólares (resalta casos complejos,
+coordinación, disponibilidad remota) en vez del ángulo de comercio
+exterior/academia. Mismo aviso: llenar los datos en rojo antes de usarlo.
+
+- [ ] Armar perfil en Virtual Latinos / Belay / Boldly / Somewhere / Near
+      (agencias de asistentes virtuales bilingües para clientes de EU)
+- [ ] Buscar vacantes de "Customer Success Specialist remote LatAm" /
+      "Bilingual Support Specialist remote" en LinkedIn, RemoteRocketship,
+      We Work Remotely
+- [ ] Actualizar LinkedIn para que aparezca "Open to remote work" y el
+      huso horario, no solo el enfoque de comercio exterior
+- [ ] Cuidado con estafas de "trabajo remoto": nunca pagar por
+      capacitación/equipo, desconfiar de ofertas que piden datos
+      bancarios antes de una entrevista real
 
 ## Camino alterno: academia / investigación (agregado 15/08/2026)
 
