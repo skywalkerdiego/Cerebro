@@ -32,6 +32,7 @@ y un ahorro conjunto en marcha.
 ## Enlaces rápidos
 
 - 🧮 [Simulador interactivo del plan de ahorro](https://claude.ai/code/artifact/d66ad007-842c-4377-ac69-c9fdc8267002) — mueve los aportes de cada quien y la venta del Chevy para ver cómo cambia la fecha en que estarían listos.
+- 🎮 [HUD de Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tus metas como stats de videojuego, con los datos reales de `metas/` y `perfil/`. Se regenera cuando avances algo.
 
 ## Cómo usar esto
 
