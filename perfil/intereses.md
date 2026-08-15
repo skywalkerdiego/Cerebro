@@ -51,7 +51,10 @@ te interesa, qué disfrutas.
 - Vas a ir al concierto de Nescafé Vaivén.
 - Tocas guitarra.
 - Arctic Monkeys (*Tranquility Base Hotel &amp; Casino*), Interpol
-  (*Turn on the Bright Lights*), Nirvana (*Nevermind*).
+  (*Turn on the Bright Lights*), Nirvana (*Nevermind*), Kendrick Lamar.
+- **Su canción con Fanny: "Disco", de Surf Curse.**
+- Comparten mucho gusto musical — Kendrick Lamar, Gorillaz, Nirvana. Ver
+  [novia.md](novia.md).
 
 ### Series y películas
 

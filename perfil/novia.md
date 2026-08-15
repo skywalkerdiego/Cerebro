@@ -22,6 +22,9 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
 - Gorillaz
 - 21 Pilots
 - Olivia Rodrigo
+- **Su canción con Diego: "Disco", de Surf Curse.**
+- Comparten mucho gusto musical con Diego — Kendrick Lamar, Gorillaz,
+  Nirvana.
 
 ## Series y películas
 
