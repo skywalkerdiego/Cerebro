@@ -14,9 +14,10 @@
 - **20 de octubre** — Aniversario como pareja. Cumplen **2 años** en
   2026. Faltan ~66 días (al 15/08/2026). Ver
   [novia.md](novia.md) / [regalos-novia.md](regalos-novia.md).
-- **20 de enero** — Cumpleaños de tu novia. Próximo: 20/01/2027, faltan
+- **20 de enero** — Cumpleaños de Fanny. Próximo: 20/01/2027, faltan
   ~158 días (al 15/08/2026).
-- [ ] Tu cumpleaños
+- **1 de diciembre** — Tu cumpleaños (naciste en 2002). Faltan ~108 días
+  (al 15/08/2026).
 - [ ] Otras fechas familiares importantes
 
 *(Los conteos de días se calcularon el 15/08/2026 — pídeme que los

@@ -6,6 +6,8 @@ te interesa, qué disfrutas.
 
 ## Lo que sé hasta ahora (15/08/2026)
 
+### Carrera y forma de pensar
+
 - **Relaciones Internacionales y comercio exterior** — no es solo un
   objetivo laboral: el enfoque en comercio internacional, negocios
   internacionales y logística fue una elección académica consciente
@@ -13,47 +15,70 @@ te interesa, qué disfrutas.
 - **Investigación y academia** — disfrutas el trabajo de investigación
   (tu paso por CIALC-UNAM) y no quieres cerrarte la puerta a un camino
   académico: maestría, e incluso dar clases a futuro.
-- **Música / conciertos** — vas a ir al concierto de Nescafé Vaivén; ya
-  lo tienes contemplado como algo que quieres hacer, no solo como gasto.
-- **Idiomas** — además del inglés (nivel profesional), estás aprendiendo
-  alemán. Parece interés genuino en idiomas, no solo utilitario.
+- **Historia, antiguas civilizaciones y diplomacia** — conecta directo
+  con RI; te gusta pensar y conocer curiosidades de distintos países.
 - **Construir cosas / sistemas** — te llama la atención la idea de armar
   una automatización para conectar con proveedores de importación y
-  exportación. Interés por el lado técnico/de sistemas del comercio
-  exterior, no solo el operativo.
-- **Tu proyecto de vida en pareja** — la mudanza con tu novia y el
-  ahorro conjunto son una prioridad real para ti, no solo un tema de
-  dinero. Están perdidamente enamorados — ver
-  [novia.md](novia.md) para todo lo suyo.
-- **Perfumes** — Dior Sauvage EDP, Guerlain, Versace Eros. Te interesa
-  el mundo de las fragancias, no solo tener "un perfume".
-- **Videojuegos**.
-- **Navajas**.
-- **Ropa de etiqueta / moda formal**.
-- **Compras tech** — te gusta estar al día con gadgets/tecnología.
-- **Filosofía** — no lees mucho, pero disfrutas analizar a fondo lo que
-  sí lees. Albert Camus, *Siddhartha* (Hesse), *1984* (Orwell). Conecta
-  directo con tu interés en el budismo y otras religiones/formas de ver
-  la vida — quieres leer y saber más del mundo en general.
-- **Tecnología** — te llama mucho la atención, más allá de solo comprar
-  gadgets.
-- **Música y guitarra** — te gusta escuchar música y tocarla.
-- **Videojuegos** (confirmado, ya estaba en la lista).
-- **Terror y suspenso** — como género favorito.
-- **Tatuajes** — te gustan muchísimo; ya traes al menos uno (lo vi en
-  una foto que me mandaste). Cuéntame el significado cuando quieras y
+  exportación.
+- **Tecnología** — te llama mucho la atención en general, no solo como
+  consumidor (compras tech, Apple).
+
+### Filosofía y religión
+
+- No lees mucho, pero disfrutas analizar a fondo lo que sí lees.
+- **Existencialismo y absurdismo** — Albert Camus (el absurdismo es
+  literalmente su filosofía central), *Siddhartha* de Hesse, *1984* de
+  Orwell.
+- **Budismo y cristianismo** — te interesa conocer distintas religiones
+  y formas de ver la vida, más allá de una sola.
+
+### Idiomas
+
+- Inglés (nivel profesional), alemán (aprendiendo).
+- Interés en italiano y ruso.
+
+### Música
+
+- Vas a ir al concierto de Nescafé Vaivén.
+- Tocas guitarra.
+- Arctic Monkeys, Interpol, Nirvana.
+
+### Series y películas
+
+- **Terror y suspenso** como género favorito — historias de terror en
+  general, *Prisoners*, *Nocturnal Animals*.
+- Christopher Nolan — *Tenet*.
+- *The Last of Us*, *Seinfeld*, *Better Call Saul*, *Shrek*.
+- *Peaky Blinders* y *Breaking Bad* — también le gustan a Fanny, son
+  algo que comparten.
+
+### Arte y estilo
+
+- Arte, pintura, fotografía.
+- Relojes y estilo/moda — ropa de etiqueta, formal.
+- Perfumes — Dior Sauvage EDP, Guerlain, Versace Eros.
+- Tatuajes — te gustan muchísimo; ya traes al menos uno (lo vi en una
+  foto que me mandaste). Cuéntame el significado cuando quieras y
   cuáles tienes pensado agregar.
-- **Curiosidades del mundo** — te gusta pensar y conocer datos de
-  distintos países; conecta directo con tu carrera en RI.
-- **Vida social** — te gusta conocer gente, tener amigos, salir a
-  comer, convivir.
-- **Aire libre** — te gustaría hacer más actividades al aire libre (te
-  falta, no es que ya lo hagas mucho).
-- **Marihuana** — la consumes.
-- **Escribir lo que sientes** — te gusta escribirle a tu novia y
-  contarle lo que te hace sentir; es parte de cómo expresas cariño.
-- **Estar con tu novia** — es, en tus palabras, lo que más disfrutas de
-  todo. Ver [novia.md](novia.md).
+- Navajas.
+
+### Otros
+
+- Videojuegos.
+- Vida social — conocer gente, tener amigos, salir a comer, convivir.
+- Aire libre — te gustaría hacer más actividades (es algo que te falta,
+  no que ya hagas mucho).
+- Marihuana — la consumes.
+
+### Tu proyecto de vida en pareja
+
+- La mudanza con Fanny y el ahorro conjunto son una prioridad real para
+  ti, no solo un tema de dinero.
+- Te gusta escribirle y contarle lo que sientes — es parte de cómo
+  expresas cariño.
+- Estar con ella es, en tus palabras, lo que más disfrutas de todo.
+- Están perdidamente enamorados. Ver [novia.md](novia.md) para todo lo
+  suyo.
 
 ## Notas personales (para ayudarte mejor)
 
