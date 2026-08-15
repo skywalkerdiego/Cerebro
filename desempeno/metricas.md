@@ -1,28 +1,35 @@
 # 📈 Historial de métricas
 
 Se llena a partir de los respaldos del tablero interactivo, o de lo
-que me cuentes en la conversación. Ver [README.md](README.md).
+que me cuentes en la conversación. Ver [README.md](README.md). Todos
+los valores son "% to goal" — 100% es la meta.
 
-## ECT en llamada
+## ACT · Chat
 
-| Fecha | Valor |
-|-------|-------|
+| Fecha | % to goal |
+|-------|-----------|
 | | |
 
-## ECT en chat
+## Chat Survey
 
-| Fecha | Valor |
-|-------|-------|
+| Fecha | % to goal |
+|-------|-----------|
+| | |
+
+## ACT · Voice / Escalations
+
+| Fecha | % to goal |
+|-------|-----------|
 | | |
 
 ## First Call Resolution
 
-| Fecha | Valor |
-|-------|-------|
+| Fecha | % to goal |
+|-------|-----------|
 | | |
 
-## Survey en chats
+## Performance Total
 
-| Fecha | Valor |
-|-------|-------|
+| Fecha | % to goal |
+|-------|-----------|
 | | |

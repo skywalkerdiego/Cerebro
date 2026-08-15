@@ -6,30 +6,38 @@ corriendo la meta de cambiar de trabajo
 mejores métricas ahora también ayudan si necesitas referencias o
 quieres negociar algo antes de irte.
 
-## Tus métricas (15/08/2026)
+## Tus métricas (corregido 15/08/2026, según captura de tu dashboard)
 
-- **ECT en llamada**
-- **ECT en chat**
-- **First Call Resolution (FCR)** — evita callbacks; es la que más te
-  está costando ahora mismo, vas abajo de meta.
-- **Survey en chats**
+Boost Mobile ya te da todo normalizado como **"% to goal"** — 100%
+siempre es la meta, sin importar si la métrica de fondo es tiempo,
+calificación o porcentaje. Por eso el tablero solo pide ese número.
+
+- **ACT · Chat** (Average Contact Time, chat) — antes lo mencionaste
+  como "ECT", era ACT.
+- **Chat Survey**
+- **ACT · Voice / Escalations** (Average Contact Time, llamada)
+- **First Call Resolution** — antes se llamaba "c/c 3" en tu
+  dashboard, mismo concepto (evitar callbacks). Es la que más te está
+  costando ahora mismo.
+- **Performance Total** — el número global de tu evaluación.
 
 ## Cómo se lleva esto
 
 Mismo patrón que `finanzas/`:
 
 1. **Directo en el tablero interactivo** (enlace en el README
-   principal) — capturas tus lecturas ahí, se guardan en ese
-   navegador. Botón "Exportar respaldo" para bajar un Markdown y
+   principal) — capturas el "% to goal" de cada métrica, se guarda en
+   ese navegador. Botón "Exportar respaldo" para bajar un Markdown y
    pegarlo en `metricas.md` o mandármelo.
-2. **Contándome en la conversación** ("mi ECT de llamada esta semana
-   fue 92%") — lo anoto en `metricas.md` *y* lo agrego como dato
-   semilla al tablero, para que aparezca solo la próxima vez que lo
-   abras.
+2. **Contándome en la conversación** ("mi First Call Resolution esta
+   semana dio 92% to goal") — lo anoto en `metricas.md` *y* lo agrego
+   como dato semilla al tablero, para que aparezca solo la próxima vez
+   que lo abras.
 
 ## Notas
 
-- No conozco tus metas numéricas reales para cada métrica — ponlas tú
-  mismo en el tablero (campo "Meta" en cada tarjeta) para que las
-  alertas de "abajo de meta" sean precisas.
+- El 15/08/2026 me mandaste una captura de tu dashboard (STAR 108.8%,
+  Performance 108.8%) — la usé para corregir los nombres y la lógica
+  de las métricas, pero **no la metí como lectura actual** porque tú
+  mismo dijiste que esa captura es vieja.
 - Foco actual: subir el First Call Resolution.
