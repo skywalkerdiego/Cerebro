@@ -57,10 +57,17 @@ te interesa, qué disfrutas.
 - Arte, pintura, fotografía.
 - Relojes y estilo/moda — ropa de etiqueta, formal.
 - Perfumes — Dior Sauvage EDP, Guerlain, Versace Eros.
-- Tatuajes — te gustan muchísimo (esto sí confirmado). Sin confirmar
-  si ya tienes alguno — en una foto vi una marca en tu antebrazo, pero
-  al revisarla mejor parece más un sticker/brazalete de evento que un
-  tatuaje real. Dime si tienes alguno y lo anoto bien.
+- **Tatuajes** — te gustan muchísimo, y ya tienes varios (confirmado
+  15/08/2026):
+  - Pecho: pieza tribal/gótica geométrica sobre el esternón, con "alas"
+    que se extienden hacia ambos hombros
+  - Antebrazo: criatura tipo lobo/venado con cráneo, blackwork oscuro
+  - Espalda/hombro: alas grandes tipo tribal, líneas afiladas negras
+  - Antebrazo: mandala de loto/girasol
+  - Antebrazo: ilustración estilo grabado clásico de demonios alados
+    con tridentes ascendiendo hacia un sol
+  - Si te haces uno nuevo o quieres agregar el significado de alguno,
+    dime y lo sumo aquí.
 - Navajas.
 
 ### Otros
