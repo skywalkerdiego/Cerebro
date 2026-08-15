@@ -5,7 +5,7 @@ Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 Última actualización: 2026-08-15 · **132 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
-`perfil/` y `finanzas/` con lo que avance.
+`perfil/`, `finanzas/` y [logros.md](logros.md) con lo que avance.
 
 ## Proyecto: Diciembre 2026
 
@@ -37,6 +37,11 @@ y un ahorro conjunto en marcha.
 |---------|-----------|
 | [finanzas/README.md](finanzas/README.md) | Cómo funciona tu control de gastos personales |
 | [finanzas/gastos.md](finanzas/gastos.md) | Historial de ingresos y gastos |
+
+## 🏆 [Logros](logros.md)
+
+Lo que ya lograste, no lo que falta — para que el avance también se
+vea.
 
 ## Enlaces rápidos
 

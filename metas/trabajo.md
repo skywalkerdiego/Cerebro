@@ -37,6 +37,17 @@ puerta de acceso más rápida, y desde ahí construir experiencia y contactos.
 - [ ] Preparar LinkedIn con este enfoque y empezar a conectar con gente del
       gremio (agentes aduanales, comercio exterior)
 
+## Vacantes aplicadas (agregado 15/08/2026)
+
+Seguimiento real de a dónde le has entrado — actualízalo cada vez que
+apliques a algo, sea comercio exterior o la ruta rápida remota/USD.
+
+| Fecha | Empresa / vacante | Plataforma | Estatus | Notas |
+|-------|--------------------|-----------|---------|-------|
+| | | | | |
+
+Estatus sugeridos: Aplicado → Entrevista → Oferta / Rechazado.
+
 ## Fase 2 (proyecto paralelo, no urgente): idea de automatización
 
 La idea de armar algún tipo de sistema/automatización ligado a importación
