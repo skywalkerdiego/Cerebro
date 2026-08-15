@@ -4,8 +4,8 @@ Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
 Última actualización: 2026-08-15 · **132 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
-Cada vez que hablemos, actualizamos este archivo y los de `metas/` y
-`perfil/` con lo que avance.
+Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
+`perfil/` y `finanzas/` con lo que avance.
 
 ## Proyecto: Diciembre 2026
 
@@ -31,11 +31,19 @@ y un ahorro conjunto en marcha.
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
 
+## 💵 Finanzas
+
+| Archivo | Contenido |
+|---------|-----------|
+| [finanzas/README.md](finanzas/README.md) | Cómo funciona tu control de gastos personales |
+| [finanzas/gastos.md](finanzas/gastos.md) | Historial de ingresos y gastos |
+
 ## Enlaces rápidos
 
 - 🧮 [Simulador interactivo del plan de ahorro](https://claude.ai/code/artifact/d66ad007-842c-4377-ac69-c9fdc8267002) — mueve los aportes de cada quien y la venta del Chevy para ver cómo cambia la fecha en que estarían listos.
 - 🎮 [HUD de Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tus metas como stats de videojuego, con los datos reales de `metas/` y `perfil/`. Se regenera cuando avances algo.
 - 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
+- 💵 [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e) — tablero para registrar ingresos y gastos, con resumen del mes y desglose por categoría. Guarda datos en tu navegador; exporta seguido para respaldar.
 
 ## Cómo usar esto
 
