@@ -22,6 +22,8 @@ te interesa, qué disfrutas.
   exportación.
 - **Tecnología** — te llama mucho la atención en general, no solo como
   consumidor (compras tech, Apple).
+- **Diseño** — sí te gusta el lado creativo, más allá de usar Canva
+  solo como herramienta de trabajo; te gustaría desarrollarlo.
 
 ### Filosofía y religión
 
@@ -29,6 +31,7 @@ te interesa, qué disfrutas.
 - **Existencialismo y absurdismo** — Albert Camus (el absurdismo es
   literalmente su filosofía central), *Siddhartha* de Hesse, *1984* de
   Orwell.
+- Leyendo actualmente: *El arte de la guerra* (Sun Tzu).
 - **Budismo y cristianismo** — te interesa conocer distintas religiones
   y formas de ver la vida, más allá de una sola.
 
@@ -70,6 +73,19 @@ te interesa, qué disfrutas.
     dime y lo sumo aquí.
 - Navajas.
 
+### Comida
+
+- Carne y cortes, pan de ajo, spaghetti, lasaña.
+- Tacos de tripa, de pastor, de suadero, birria, caldo de gallina.
+- Chilis (restaurante).
+
+### Manejar
+
+- Te gusta muchísimo manejar, y rápido.
+- Quieres cambiar el Chevy por una moto o un carro para tener con
+  Fanny (ver [../metas/ahorro.md](../metas/ahorro.md) — próxima meta
+  después de la mudanza).
+
 ### Otros
 
 - Videojuegos.
@@ -77,6 +93,7 @@ te interesa, qué disfrutas.
 - Aire libre — te gustaría hacer más actividades (es algo que te falta,
   no que ya hagas mucho).
 - Marihuana — la consumes.
+- No practicas ningún deporte actualmente, pero te gustaría empezar.
 
 ### Tu proyecto de vida en pareja
 
@@ -99,14 +116,6 @@ te interesa, qué disfrutas.
   diagnóstico ni yo puedo darte uno, es contexto tuyo para que, si
   algún día quieres retomarlo con un profesional, lo tengas a la mano
   aquí.
-
-## Sin confirmar (dime si aplica)
-
-- **Diseño de presentaciones** — manejas Canva y PowerPoint en el
-  trabajo. ¿Es solo herramienta o también te gusta el lado creativo?
-- **Coches** — tienes un Chevy que vas a vender. ¿Te interesan los
-  coches en general o es solo transporte? Cuando compres el siguiente,
-  cuéntame qué te importa de él.
 
 ## Cómo usar esto
 

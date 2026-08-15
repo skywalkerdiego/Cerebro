@@ -27,6 +27,8 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
 
 - Game of Thrones
 - *That 70s Show* — su sitcom favorita
+- *Community*
+- *Inglourious Basterds*
 - Le encantan las películas y series en general
 - *Peaky Blinders* y *Breaking Bad* — le gustan a los dos, algo que
   comparten con Diego
@@ -36,11 +38,27 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
 - Harry Potter — le fascina, incluyendo fanfics relacionados
 - Snoopy
 
+## Comida
+
+- Le gusta comer sano, las ensaladas.
+- También le gustan mucho los tacos.
+
 ## Cuidado personal
 
 - Skincare, cuidado de cabello, cuerpo y salud en general
 - Maquillaje
 - Gimnasio
+- Marcas que usa: Elf, Cerave, Dior
+
+## Tallas
+
+- Calzado: 4 (MX)
+- Ropa: M
+
+## Bienestar
+
+- Le estresa: el trabajo, el dinero.
+- Le relaja: que le den masaje y cariño.
 
 ## Notas
 
@@ -49,5 +67,4 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
 - La foto de los dos (evento formal, 15/08/2026) ya está incorporada en
   el dossier visual [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e).
 - Este archivo es un borrador armado con lo que me has contado —
-  cuéntame más (comida favorita, tallas, marcas que le gustan, qué la
-  estresa/relaja) y lo voy sumando.
+  cuéntame más cuando quieras y lo voy sumando.

@@ -22,12 +22,15 @@ investigarlas a fondo (tallas, marca, dónde comprar):
 - **Harry Potter (+ fanfics), es Ravenclaw:** joyería/pin del águila de
   Ravenclaw, bufanda o playera de la casa, réplica de varita, edición
   ilustrada de un libro
-- **Skincare / cuidado personal:** set de una marca que ya use (falta
-  confirmar cuál), certificado de spa/facial
-- **Gimnasio:** ropa deportiva, bolsa de gym, accesorio que le falte
+- **Skincare / maquillaje (usa Elf, Cerave, Dior):** algo de Dior es la
+  opción con más "peso" para un regalo especial (perfume o set de
+  maquillaje); Elf/Cerave para detalles más chicos
+- **Gimnasio:** ropa deportiva (talla M), tenis/accesorio — calza 4 (MX)
+  si es calzado
 - **Como doctora:** algo práctico para el trabajo (bata bordada,
   accesorio de calidad) o algo de autocuidado para después de un
-  turno pesado
+  turno pesado — conecta con que le relaja que le den masaje/cariño:
+  un masaje profesional o kit de spa en casa es buena opción segura
 
 ## Historial de regalos
 

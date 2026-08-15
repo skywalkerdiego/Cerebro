@@ -87,11 +87,12 @@ Confirmen las tasas vigentes antes de mover dinero — cambian con el tiempo.*
 
 ## Decisiones para bajar la carga mental
 
-- **Coche (uno nuevo/otro):** pospuesto hasta después de la mudanza — un
-  coche implica seguro, gasolina y mantenimiento recurrentes que
-  competirían directamente con este ahorro. Pasa a ser la siguiente meta
-  natural después de diciembre (posiblemente financiado en parte con la
-  venta del Chevy, según cuánto quede disponible).
+- **Coche o moto (para reemplazar el Chevy):** pospuesto hasta después
+  de la mudanza — implica seguro, gasolina y mantenimiento recurrentes
+  que competirían directamente con este ahorro. Diego quiere que sea
+  algo para tener con Fanny, no solo un coche personal. Pasa a ser la
+  siguiente meta natural después de diciembre (posiblemente financiado
+  en parte con la venta del Chevy, según cuánto quede disponible).
 - **Concierto (Nescafé Vaivén):** tratarlo como gasto ya contemplado
   dentro del ~76% del ingreso que queda libre cada mes, con un tope
   sugerido (ej. $2,000-3,000 por persona) para que no compita con el
