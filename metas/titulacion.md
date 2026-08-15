@@ -29,7 +29,7 @@ El sistema no da el motivo específico del rechazo. Usa el checklist de abajo
 
 - [x] Llenar el ATI (versión "Expediente DGAE") con los datos personales
 - [x] Llenar el formato de solicitud y elección de título (Licenciado en Relaciones Internacionales, cuenta 318117676, cartulina imitación pergamino)
-- [ ] Hacer el pago de la ficha (BBVA Convenio CIE 1407279 / Referencia 5530126110115QF20241, o SPEI CLABE 012914002014072795 — vence 29/08/2026, $620.00)
+- [ ] Hacer el pago de la ficha (BBVA Convenio CIE 1407279 / Referencia 5530126110115QF20241, o SPEI CLABE 012914002014072795 — vence 29/08/2026, $620.00). **Plan: pagarlo el 20/08/2026, cuando te paguen** — no es que lo estés dejando pasar, es cuestión de flujo de efectivo. Sigue teniendo margen antes del vencimiento.
 - [ ] Armar el comprobante de pago (ficha + recibo/CEP en un solo PDF)
 - [ ] Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud
 - [ ] Subir los 3 documentos corregidos al sistema de seguimiento
