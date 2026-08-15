@@ -153,12 +153,19 @@ tener que elegir todavía.
       Relaciones Internacionales, Estudios sobre América del Norte,
       Economía Internacional, Cooperación Internacional — revisar cuáles
       ofrece la UNAM (posgrado.unam.mx) y otras opciones
-- **Dato nuevo (15/08/2026):** dijiste que si el dinero no importara, tu
-  trabajo soñado sería **psicólogo**. Es una carrera distinta a RI, así
-  que no es un simple "siguiente paso" — pero vale la pena explorarlo
-  como opción real y no solo un comentario al aire: qué implicaría
-  (otra licenciatura vs. alguna maestría afín que sí acepte tu perfil),
-  y si es algo que quieres tomar en serio o dejarlo como interés.
+- **Actualización (15/08/2026):** confirmaste que **sí quieres explorar
+  psicología en serio**, no solo como comentario al aire. Tú mismo
+  reconoces dos cosas de frente: implica investigar, aprender y leer
+  muchísimo, y tu dificultad de atención le pega directo a eso — no es
+  un detalle menor, es algo a planear alrededor, no a ignorar.
+- [ ] Investigar qué caminos existen para alguien que ya tiene
+      licenciatura en otra área: ¿segunda licenciatura, maestría afín
+      que acepte tu perfil, diplomados como puente? Cada uno tiene
+      distinto costo de tiempo/dinero — vale la pena compararlos antes
+      de decidir.
+- [ ] Si decides ir en serio, platicarlo también con tu terapeuta si
+      retomas terapia — el tema de la atención es justo algo que un
+      profesional te puede ayudar a manejar mientras estudias.
 - [ ] Platicar con tu contacto/asesor en CIALC sobre posibilidad de
       extender la colaboración de investigación y pedirle orientación u
       referencia para posgrado

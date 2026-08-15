@@ -15,8 +15,10 @@ te interesa, qué disfrutas.
 - **Investigación y academia** — disfrutas el trabajo de investigación
   (tu paso por CIALC-UNAM) y no quieres cerrarte la puerta a un camino
   académico: maestría, e incluso dar clases a futuro.
-- **Trabajo soñado, sin pensar en dinero: psicólogo.** Vale la pena
-  tenerlo presente junto con lo de academia — ver también
+- **Psicólogo — ya no es solo "trabajo soñado", dijiste que sí te
+  interesa explorarlo en serio** (15/08/2026). Sabes que implica
+  investigar, aprender y leer mucho, y que tu propia dificultad de
+  atención es un obstáculo real a considerar, no un detalle menor. Ver
   [../metas/trabajo.md](../metas/trabajo.md).
 - **Historia, antiguas civilizaciones y diplomacia** — conecta directo
   con RI; te gusta pensar y conocer curiosidades de distintos países.
@@ -87,11 +89,22 @@ te interesa, qué disfrutas.
     sumo aquí.
 - Navajas — Victorinox y los stilettos.
 
-### Comida
+### Comida y bebida
 
 - Carne y cortes, pan de ajo, spaghetti, lasaña.
 - Tacos de tripa, de pastor, de suadero, birria, caldo de gallina.
 - Chilis (restaurante).
+- Tomas alcohol, aunque no es lo tuyo particularmente — lo que sí te
+  gusta mucho: **piña colada**.
+- **Alergia:** a algún medicamento (sin especificar todavía cuál — si
+  quieres, dime el nombre y lo dejo preciso, es dato de seguridad, no
+  solo trivia).
+
+### Viajes
+
+- No has salido del país todavía.
+- Te gustaría conocer algún país de Europa, y también Asia, Rusia y
+  Estados Unidos.
 
 ### Manejar
 
@@ -113,6 +126,7 @@ te interesa, qué disfrutas.
 - No practicas ningún deporte actualmente, pero te gustaría empezar —
   te encantaría el box (aunque usas lentes, lo cual complica), y estás
   considerando tenis o squash como alternativa. Sigues explorando cuál.
+- No sigues ningún equipo de fútbol.
 
 ### Tu hermana
 
