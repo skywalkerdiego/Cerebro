@@ -20,18 +20,23 @@ las que quieras — el tablero interactivo acepta categoría libre.
 
 ## Cómo se lleva esto
 
-- El día a día se captura en el **tablero interactivo** (enlace en el
-  README principal) — ahí registras cada movimiento y ves el resumen
-  del mes.
-- El tablero guarda los datos **en este navegador/dispositivo**, no en
-  GitHub — no hay forma de sincronizarlo en automático todavía.
-- Cuando quieras respaldar tu historial (o pasarlo a otro dispositivo),
-  usa el botón de exportar del tablero: baja un archivo en Markdown que
-  puedes pegar aquí en `gastos.md`, o mandármelo en la conversación
-  para que yo lo integre.
-- Si prefieres algo más simple: dime tus totales del mes de viva voz
-  ("gasté X en comida, Y en salidas") y yo los anoto directo en
-  `gastos.md`, sin necesidad de tocar el tablero.
+Dos formas de capturar, y no se mezclan solas:
+
+1. **Directo en el tablero** (enlace en el README principal) — lo que
+   captures ahí se guarda solo en ese navegador/dispositivo. Para
+   respaldarlo o pasarlo a otro lado, usa el botón "Exportar respaldo":
+   baja un Markdown que puedes pegar en `gastos.md` o mandarme en la
+   conversación.
+2. **Contándome en la conversación** ("gasté $350 en Chilis ayer") — yo
+   lo anoto en `gastos.md` (permanente en GitHub) *y* lo agrego como
+   dato semilla dentro del tablero, luego lo vuelvo a publicar. La
+   próxima vez que abras el tablero en cualquier navegador donde ya lo
+   hayas usado, ese movimiento aparece solo, fusionado con lo que ya
+   tenías — sin duplicarse.
+
+Lo que NO pasa: no hay sincronización en vivo entre lo que capturas tú
+mismo en el tablero y este archivo — esa dirección sigue siendo
+manual (exportar y pegar, o contarme los totales).
 
 ## Notas
 
