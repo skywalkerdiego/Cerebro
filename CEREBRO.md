@@ -13,7 +13,7 @@ y un ahorro conjunto en marcha.
 
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
-| 1 | 🎓 Titulación | Alta | En proceso | [metas/titulacion.md](metas/titulacion.md) |
+| 1 | 🎓 Titulación | Alta | ATI y solicitud llenados, falta pago (vence 29/08/2026) | [metas/titulacion.md](metas/titulacion.md) |
 | 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) |
 | 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️ Idioma | Media | Sin iniciar | [metas/aprendizaje.md](metas/aprendizaje.md) |
@@ -30,7 +30,7 @@ y un ahorro conjunto en marcha.
 
 ## Próximas 2 semanas (lo más inmediato)
 
-- [ ] Corregir documentos de titulación
-- [ ] Hacer el pago del trámite
-- [ ] Reenviar documentos corregidos
-- [ ] Platicar con tu novia el monto/mecánica de la cuenta conjunta de ahorro
+- [ ] Hacer el pago de la ficha de titulación (vence 29/08/2026, $620.00)
+- [ ] Armar el comprobante de pago e imprimir/firmar/escanear ATI y solicitud
+- [ ] Subir los 3 documentos corregidos al sistema de seguimiento
+- [x] Platicar con tu novia el monto/mecánica de la cuenta conjunta de ahorro — plan listo para revisar juntos
