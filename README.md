@@ -4,8 +4,8 @@ Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
 Última actualización: 2026-08-15 · **132 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
-Cada vez que hablemos, actualizamos este archivo y los de `metas/` con lo
-que avance.
+Cada vez que hablemos, actualizamos este archivo y los de `metas/` y
+`perfil/` con lo que avance.
 
 ## Proyecto: Diciembre 2026
 
@@ -18,6 +18,11 @@ y un ahorro conjunto en marcha.
 | 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) |
 | 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️📚 Idioma y cultura general | Media | Sin iniciar | [metas/aprendizaje.md](metas/aprendizaje.md) |
+
+## 👤 Perfil
+
+- [perfil/intereses.md](perfil/intereses.md) — lo que sé que te gusta y
+  te interesa, más allá de las metas.
 
 ## Enlaces rápidos
 
