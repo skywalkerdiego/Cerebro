@@ -1,8 +1,8 @@
-# 🧠 Cerebro
+# 🧠 Yo.exe
 
 Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
-Última actualización: 2026-08-14
+Última actualización: 2026-08-15 · **132 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/` con lo
 que avance.
@@ -17,8 +17,11 @@ y un ahorro conjunto en marcha.
 | 1 | 🎓 Titulación | Alta | ATI y solicitud llenados, falta pago (vence 29/08/2026) | [metas/titulacion.md](metas/titulacion.md) |
 | 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) |
 | 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
-| 4 | 🗣️ Idioma | Media | Sin iniciar | [metas/aprendizaje.md](metas/aprendizaje.md) |
-| 5 | 📚 Cultura / lectura | Media | Sin iniciar | [metas/aprendizaje.md](metas/aprendizaje.md) |
+| 4 | 🗣️📚 Idioma y cultura general | Media | Sin iniciar | [metas/aprendizaje.md](metas/aprendizaje.md) |
+
+## Enlaces rápidos
+
+- 🧮 [Simulador interactivo del plan de ahorro](https://claude.ai/code/artifact/d66ad007-842c-4377-ac69-c9fdc8267002) — mueve los aportes de cada quien y la venta del Chevy para ver cómo cambia la fecha en que estarían listos.
 
 ## Cómo usar esto
 
