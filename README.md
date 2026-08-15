@@ -58,6 +58,7 @@ vea.
 - 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
 - 💵 [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e) — tablero para registrar ingresos y gastos, con resumen del mes y desglose por categoría. Guarda datos en tu navegador; exporta seguido para respaldar.
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
+- 🌳 [Habilidades.exe](https://claude.ai/code/artifact/3a0ddef9-d6a7-493d-a512-387301f153fa) — árbol de habilidades: tus metas, vínculo con Fanny, finanzas y desempeño como sendas de nodos completados, disponibles y bloqueados. Se regenera cuando avances algo.
 
 ## Cómo usar esto
 
