@@ -9,12 +9,18 @@
 - **Concierto Nescafé Vaivén** — mencionado en `metas/ahorro.md` como
   gasto ya contemplado; falta la fecha exacta
 
-## Personales (sin confirmar)
+## Personales
 
-- [ ] Cumpleaños de tu novia
-- [ ] Aniversario como pareja
+- **20 de octubre** — Aniversario como pareja. Cumplen **2 años** en
+  2026. Faltan ~66 días (al 15/08/2026). Ver
+  [novia.md](novia.md) / [regalos-novia.md](regalos-novia.md).
+- **20 de enero** — Cumpleaños de tu novia. Próximo: 20/01/2027, faltan
+  ~158 días (al 15/08/2026).
 - [ ] Tu cumpleaños
 - [ ] Otras fechas familiares importantes
+
+*(Los conteos de días se calcularon el 15/08/2026 — pídeme que los
+recalcule si ha pasado tiempo.)*
 
 ## Notas
 

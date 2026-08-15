@@ -24,6 +24,7 @@ y un ahorro conjunto en marcha.
 | Archivo | Contenido |
 |---------|-----------|
 | [perfil/intereses.md](perfil/intereses.md) | Gustos e intereses |
+| [perfil/novia.md](perfil/novia.md) | Todo sobre tu novia |
 | [perfil/regalos-novia.md](perfil/regalos-novia.md) | Ideas de regalos para tu novia |
 | [perfil/fechas-importantes.md](perfil/fechas-importantes.md) | Fechas importantes |
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar |
@@ -33,6 +34,7 @@ y un ahorro conjunto en marcha.
 
 - 🧮 [Simulador interactivo del plan de ahorro](https://claude.ai/code/artifact/d66ad007-842c-4377-ac69-c9fdc8267002) — mueve los aportes de cada quien y la venta del Chevy para ver cómo cambia la fecha en que estarían listos.
 - 🎮 [HUD de Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tus metas como stats de videojuego, con los datos reales de `metas/` y `perfil/`. Se regenera cuando avances algo.
+- 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
 
 ## Cómo usar esto
 

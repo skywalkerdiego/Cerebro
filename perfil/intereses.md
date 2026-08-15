@@ -23,7 +23,16 @@ te interesa, qué disfrutas.
   exterior, no solo el operativo.
 - **Tu proyecto de vida en pareja** — la mudanza con tu novia y el
   ahorro conjunto son una prioridad real para ti, no solo un tema de
-  dinero.
+  dinero. Están perdidamente enamorados — ver
+  [novia.md](novia.md) para todo lo suyo.
+- **Perfumes** — Dior Sauvage EDP, Guerlain, Versace Eros. Te interesa
+  el mundo de las fragancias, no solo tener "un perfume".
+- **Videojuegos**.
+- **Navajas**.
+- **Ropa de etiqueta / moda formal**.
+- **Compras tech** — te gusta estar al día con gadgets/tecnología.
+- **Filosofía** — no lees mucho, pero disfrutas analizar a fondo lo que
+  sí lees. Albert Camus, *Siddhartha* (Hesse), *1984* (Orwell).
 
 ## Sin confirmar (dime si aplica)
 
