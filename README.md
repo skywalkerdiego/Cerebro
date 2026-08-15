@@ -21,8 +21,13 @@ y un ahorro conjunto en marcha.
 
 ## 👤 Perfil
 
-- [perfil/intereses.md](perfil/intereses.md) — lo que sé que te gusta y
-  te interesa, más allá de las metas.
+| Archivo | Contenido |
+|---------|-----------|
+| [perfil/intereses.md](perfil/intereses.md) | Gustos e intereses |
+| [perfil/regalos-novia.md](perfil/regalos-novia.md) | Ideas de regalos para tu novia |
+| [perfil/fechas-importantes.md](perfil/fechas-importantes.md) | Fechas importantes |
+| [perfil/compras.md](perfil/compras.md) | Cosas para comprar |
+| [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
 
 ## Enlaces rápidos
 
