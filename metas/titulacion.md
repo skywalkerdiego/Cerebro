@@ -3,7 +3,7 @@
 **Objetivo:** Terminar el trámite de titulación (FES Aragón, Relaciones Internacionales).
 **Fecha límite deseada:** antes de diciembre 2026 (entre más pronto, mejor —
 esto desbloquea el resto del año).
-**Estado:** En proceso — 3 de 4 documentos de la etapa de entrega fueron rechazados y hay que resubirlos corregidos.
+**Estado:** En proceso — ATI y formato de solicitud ya llenados y listos para imprimir/firmar/escanear; falta hacer el pago para armar el comprobante.
 
 Contacto de la carrera: titulacion.relacionesinternacionales@aragon.unam.mx
 Sistema de seguimiento: https://seguimientotitulacion.unam.mx/expediente/21179
@@ -27,12 +27,14 @@ El sistema no da el motivo específico del rechazo. Usa el checklist de abajo
 
 ## Pasos pendientes
 
-- [ ] Corregir el ATI (ver checklist abajo)
-- [ ] Corregir el formato de solicitud y elección de título (ver checklist abajo)
-- [ ] Corregir el comprobante de pago (ver checklist abajo)
-- [ ] Reenviar los 3 documentos corregidos en el sistema de seguimiento
+- [x] Llenar el ATI (versión "Expediente DGAE") con los datos personales
+- [x] Llenar el formato de solicitud y elección de título (Licenciado en Relaciones Internacionales, cuenta 318117676, cartulina imitación pergamino)
+- [ ] Hacer el pago de la ficha (BBVA Convenio CIE 1407279 / Referencia 5530126110115QF20241, o SPEI CLABE 012914002014072795 — vence 29/08/2026, $620.00)
+- [ ] Armar el comprobante de pago (ficha + recibo/CEP en un solo PDF)
+- [ ] Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud
+- [ ] Subir los 3 documentos corregidos al sistema de seguimiento
 - [ ] Confirmar que fueron aceptados / dar seguimiento a la respuesta
-- [ ] Una vez los 4 documentos estén "Aceptado", continuar con la entrega física de la documentación
+- [ ] Una vez los 4 documentos estén "Aceptado", avanzar con la entrega física de la documentación (ver checklist de la carpeta física abajo)
 
 ## Checklist de corrección por documento
 
@@ -62,6 +64,26 @@ Ficha: https://sigerel.dgae.unam.mx/alumnos/login
 - [ ] Ambos documentos deben verse **completos y legibles**, cada uno en su propia hoja — **no los empalmes/sobrepongan**.
 - [ ] Si el pago fue por transferencia SPEI, el concepto debía decir "Pago de título".
 - [ ] Revisa que el número de cuenta y el monto en la ficha coincidan con el comprobante.
+
+## Paso 6: Integración de la carpeta física de titulación
+
+Una vez aprobados los documentos electrónicos, esto es lo que pide el sistema
+para la carpeta física que se entrega a la Dirección de Certificación y
+Control Documental de la DGAE (checklist del plantel, marcado con * = obligatorio):
+
+- [ ] Constancia de liberación del servicio social (únicamente la obtenida del sistema DGOAE) *
+- [ ] Copia del certificado de licenciatura cerrado con acuse de recibido *
+- [ ] Constancia de idioma (si la emite la UNAM, solo copia; si es de otra institución, debe ser original) *
+- [ ] Copia del certificado de bachillerato con acuse de recibido (solo si vienes de la ENP o el CCH)
+- [ ] Oficio de autorización de modalidad de titulación *
+- [ ] Protesta Universitaria de Integridad y Honestidad Académica y Profesional, con firma original *
+- [ ] Formato ATI *
+- [ ] Formato de solicitud y elección de título *
+- [ ] Comprobante de pago por el tipo de título (ficha + comprobante BANXICO si aplica) *
+- [ ] Formato de no adeudo de bibliotecas *
+- [ ] 4 fotografías según los requisitos del tipo de título elegido *
+- [ ] Original del acta de titulación debidamente requisitada *
+- [ ] Copia del acta de titulación *
 
 ## Notas
 
