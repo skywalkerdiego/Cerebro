@@ -4,7 +4,7 @@
 **Casa de Hogwarts:** Ravenclaw
 **Cumpleaños:** 20 de enero
 **Aniversario como pareja:** 20 de octubre — cumplen 2 años el 20/10/2026
-**Profesión:** Doctora
+**Profesión:** Doctora (todavía sin especialidad definida)
 
 Ver fechas con cuenta regresiva en
 [fechas-importantes.md](fechas-importantes.md) e ideas de regalo en
@@ -40,7 +40,12 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
 
 ## Familia
 
-- Tiene dos hermanas menores, gemelas entre ellas.
+- Tiene dos hermanas menores, gemelas entre ellas — cumplen el 19 de
+  junio.
+
+## Mascota
+
+- Tiene una perrita llamada **Tris**.
 
 ## Tatuaje en pareja
 
@@ -48,10 +53,11 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
   el contorno, Diego el relleno. Es el único de los tatuajes de Diego
   con un significado.
 
-## Comida
+## Comida y bebida
 
 - Le gusta comer sano, las ensaladas.
 - También le gustan mucho los tacos.
+- Le gusta el café y la cerveza.
 
 ## Cuidado personal
 
@@ -69,6 +75,8 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
 
 - Le estresa: el trabajo, el dinero.
 - Le relaja: que le den masaje y cariño.
+- Cómo le gusta recibir cariño: que tengas detalles con ella, que le
+  digas cosas (palabras), y contacto físico (que la acaricies).
 
 ## Notas
 

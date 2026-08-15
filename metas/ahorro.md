@@ -17,6 +17,8 @@ diciembre, para tener margen de maniobra).
       (cuenta remunerada), por liquidez — ver sección de rendimiento
 - [x] Chevy: sin comprador todavía → se trata como fondo aparte, no como
       parte del cálculo de la mudanza (ver sección dedicada)
+- [x] Zona en mente → cerca de Santa Mónica, por Tlalnepantla
+      (15/08/2026)
 
 ## Monto objetivo
 

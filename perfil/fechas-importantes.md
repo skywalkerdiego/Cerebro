@@ -24,7 +24,8 @@
   (al 15/08/2026).
 - **4 de octubre** — Cumpleaños de tu hermana (nació en 2004). Faltan
   ~50 días (al 15/08/2026).
-- [ ] Cumpleaños de las hermanas (gemelas) de Fanny
+- **19 de junio** — Cumpleaños de las hermanas gemelas de Fanny.
+  Próximo: 19/06/2027, faltan ~308 días (al 15/08/2026).
 
 *(Los conteos de días se calcularon el 15/08/2026 — pídeme que los
 recalcule si ha pasado tiempo.)*

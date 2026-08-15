@@ -142,6 +142,12 @@ tener que elegir todavía.
       Relaciones Internacionales, Estudios sobre América del Norte,
       Economía Internacional, Cooperación Internacional — revisar cuáles
       ofrece la UNAM (posgrado.unam.mx) y otras opciones
+- **Dato nuevo (15/08/2026):** dijiste que si el dinero no importara, tu
+  trabajo soñado sería **psicólogo**. Es una carrera distinta a RI, así
+  que no es un simple "siguiente paso" — pero vale la pena explorarlo
+  como opción real y no solo un comentario al aire: qué implicaría
+  (otra licenciatura vs. alguna maestría afín que sí acepte tu perfil),
+  y si es algo que quieres tomar en serio o dejarlo como interés.
 - [ ] Platicar con tu contacto/asesor en CIALC sobre posibilidad de
       extender la colaboración de investigación y pedirle orientación u
       referencia para posgrado

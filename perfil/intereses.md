@@ -15,8 +15,12 @@ te interesa, qué disfrutas.
 - **Investigación y academia** — disfrutas el trabajo de investigación
   (tu paso por CIALC-UNAM) y no quieres cerrarte la puerta a un camino
   académico: maestría, e incluso dar clases a futuro.
+- **Trabajo soñado, sin pensar en dinero: psicólogo.** Vale la pena
+  tenerlo presente junto con lo de academia — ver también
+  [../metas/trabajo.md](../metas/trabajo.md).
 - **Historia, antiguas civilizaciones y diplomacia** — conecta directo
   con RI; te gusta pensar y conocer curiosidades de distintos países.
+  Te laten sobre todo griegos, romanos y culturas mesoamericanas.
 - **Construir cosas / sistemas** — te llama la atención la idea de armar
   una automatización para conectar con proveedores de importación y
   exportación.
@@ -24,8 +28,8 @@ te interesa, qué disfrutas.
   consumidor (compras tech, Apple).
 - **Diseño** — sí te gusta el lado creativo, más allá de usar Canva
   solo como herramienta de trabajo; te gustaría desarrollarlo.
-- **Dibujar** y **escribir** — te gustaría dibujar más, y escribes ideas
-  que a veces se vuelven poemas.
+- **Dibujar** y **escribir** — te gustaría dibujar más (tipo sketches),
+  y escribes poemas sobre Fanny.
 
 ### Filosofía y religión
 
@@ -46,7 +50,8 @@ te interesa, qué disfrutas.
 
 - Vas a ir al concierto de Nescafé Vaivén.
 - Tocas guitarra.
-- Arctic Monkeys, Interpol, Nirvana.
+- Arctic Monkeys (*Tranquility Base Hotel &amp; Casino*), Interpol
+  (*Turn on the Bright Lights*), Nirvana (*Nevermind*).
 
 ### Series y películas
 
@@ -77,7 +82,7 @@ te interesa, qué disfrutas.
     con tridentes ascendiendo hacia un sol
   - Si te haces uno nuevo o quieres agregar más significado, dime y lo
     sumo aquí.
-- Navajas.
+- Navajas — Victorinox y los stilettos.
 
 ### Comida
 
@@ -95,14 +100,16 @@ te interesa, qué disfrutas.
 
 ### Otros
 
-- Videojuegos.
+- Videojuegos — favoritos: *Red Dead Redemption 2*, *The Last of Us*,
+  *God of War*, *Silent Hill*. Se nota el patrón con tu gusto por
+  terror/suspenso e historias narrativas fuertes.
 - Vida social — conocer gente, tener amigos, salir a comer, convivir.
 - Aire libre — te gustaría hacer más actividades (es algo que te falta,
   no que ya hagas mucho).
 - Marihuana — la consumes, a veces con tu hermana.
 - No practicas ningún deporte actualmente, pero te gustaría empezar —
   te encantaría el box (aunque usas lentes, lo cual complica), y estás
-  considerando tenis o squash como alternativa.
+  considerando tenis o squash como alternativa. Sigues explorando cuál.
 
 ### Tu hermana
 
@@ -130,6 +137,7 @@ te interesa, qué disfrutas.
   diagnóstico ni yo puedo darte uno, es contexto tuyo para que, si
   algún día quieres retomarlo con un profesional, lo tengas a la mano
   aquí.
+- Ahorita ya no estás yendo a terapia (confirmado 15/08/2026).
 
 ## Cómo usar esto
 

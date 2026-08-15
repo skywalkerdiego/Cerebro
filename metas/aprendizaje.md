@@ -1,14 +1,16 @@
 # 🗣️📚 Idioma y cultura general
 
-**Estado:** Idioma elegido (italiano) — falta definir nivel/meta y
-método. Prioridad media, en paralelo a las 3 metas principales.
+**Estado:** Idioma, método y meta definidos — falta arrancar.
+Prioridad media, en paralelo a las 3 metas principales.
 
 ## Idioma
 
 - [x] Definir qué idioma — **italiano**, porque crees que sería lo más
       sencillo para avanzar rápido (15/08/2026)
-- [ ] Definir nivel actual y meta a diciembre
-- [ ] Elegir método (app, curso, intercambio de conversación)
+- [x] Meta a diciembre — **conversacional simple** (nivel básico para
+      poder sostener una conversación sencilla)
+- [x] Método — **Duolingo**
+- [ ] Empezar
 
 ## Cultura general / lectura
 
