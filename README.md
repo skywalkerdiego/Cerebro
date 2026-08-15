@@ -17,7 +17,7 @@ y un ahorro conjunto en marcha.
 | 1 | 🎓 Titulación | Alta | ATI y solicitud llenados, falta pago (vence 29/08/2026) | [metas/titulacion.md](metas/titulacion.md) |
 | 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) |
 | 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
-| 4 | 🗣️📚 Idioma y cultura general | Media | Sin iniciar | [metas/aprendizaje.md](metas/aprendizaje.md) |
+| 4 | 🗣️📚 Idioma y cultura general | Media | Idioma elegido: italiano | [metas/aprendizaje.md](metas/aprendizaje.md) |
 
 ## 👤 Perfil
 
@@ -29,6 +29,7 @@ y un ahorro conjunto en marcha.
 | [perfil/fechas-importantes.md](perfil/fechas-importantes.md) | Fechas importantes |
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
+| [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
 
 ## Enlaces rápidos
 

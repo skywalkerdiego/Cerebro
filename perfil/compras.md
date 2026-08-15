@@ -5,9 +5,11 @@ mejor va directo en [../metas/ahorro.md](../metas/ahorro.md).
 
 ## Pendientes
 
-*(vacío — cuéntame qué traes en mente y lo anoto)*
-
-- [ ]
+- [ ] Renovar tu YSL Y
+- [ ] Renovar tu Dior Sauvage
+- [ ] Buscar un perfume azul árabe — versátil y barato
+- [ ] Moto: Vento o Italika 250cc (más grande, va de la mano con
+      [../metas/ahorro.md](../metas/ahorro.md) — después de la mudanza)
 
 ## Notas
 

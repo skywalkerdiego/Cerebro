@@ -5,9 +5,16 @@ registro vivo. Cuando quieras que te traiga noticias de un tema
 (comercio exterior, tipo de cambio, algo de tu carrera, lo que sea), te
 las resumo aquí con fecha y fuente.
 
+## Tus temas fijos (15/08/2026)
+
+- Ambiente internacional
+- Temas políticos y sociales
+- Temas importantes en México
+- Temas de tu área (RI / comercio exterior)
+
 ## Registro
 
-*(vacío — dime de qué tema quieres que empiece a traerte noticias)*
+*(vacío — pide "dame las noticias" y te las traigo con estos temas)*
 
 | Fecha | Tema | Resumen | Fuente |
 |-------|------|---------|--------|

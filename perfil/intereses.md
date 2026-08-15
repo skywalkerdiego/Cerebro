@@ -24,6 +24,8 @@ te interesa, qué disfrutas.
   consumidor (compras tech, Apple).
 - **Diseño** — sí te gusta el lado creativo, más allá de usar Canva
   solo como herramienta de trabajo; te gustaría desarrollarlo.
+- **Dibujar** y **escribir** — te gustaría dibujar más, y escribes ideas
+  que a veces se vuelven poemas.
 
 ### Filosofía y religión
 
@@ -59,18 +61,22 @@ te interesa, qué disfrutas.
 
 - Arte, pintura, fotografía.
 - Relojes y estilo/moda — ropa de etiqueta, formal.
-- Perfumes — Dior Sauvage EDP, Guerlain, Versace Eros.
+- Perfumes — Dior Sauvage EDP, Guerlain, Versace Eros. Quieres renovar
+  tu YSL Y y tu Sauvage; buscando también un perfume azul árabe,
+  versátil y barato.
 - **Tatuajes** — te gustan muchísimo, y ya tienes varios (confirmado
   15/08/2026):
   - Pecho: pieza tribal/gótica geométrica sobre el esternón, con "alas"
     que se extienden hacia ambos hombros
   - Antebrazo: criatura tipo lobo/venado con cráneo, blackwork oscuro
   - Espalda/hombro: alas grandes tipo tribal, líneas afiladas negras
-  - Antebrazo: mandala de loto/girasol
+  - **Antebrazo, mandala de loto/girasol (el rojo) — el único con
+    significado**: es un tatuaje en pareja con Fanny — tú tienes el
+    relleno, ella el contorno.
   - Antebrazo: ilustración estilo grabado clásico de demonios alados
     con tridentes ascendiendo hacia un sol
-  - Si te haces uno nuevo o quieres agregar el significado de alguno,
-    dime y lo sumo aquí.
+  - Si te haces uno nuevo o quieres agregar más significado, dime y lo
+    sumo aquí.
 - Navajas.
 
 ### Comida
@@ -83,8 +89,9 @@ te interesa, qué disfrutas.
 
 - Te gusta muchísimo manejar, y rápido.
 - Quieres cambiar el Chevy por una moto o un carro para tener con
-  Fanny (ver [../metas/ahorro.md](../metas/ahorro.md) — próxima meta
-  después de la mudanza).
+  Fanny — traes en mente una Vento o Italika 250cc (ver
+  [../metas/ahorro.md](../metas/ahorro.md) — próxima meta después de
+  la mudanza).
 
 ### Otros
 
@@ -92,8 +99,15 @@ te interesa, qué disfrutas.
 - Vida social — conocer gente, tener amigos, salir a comer, convivir.
 - Aire libre — te gustaría hacer más actividades (es algo que te falta,
   no que ya hagas mucho).
-- Marihuana — la consumes.
-- No practicas ningún deporte actualmente, pero te gustaría empezar.
+- Marihuana — la consumes, a veces con tu hermana.
+- No practicas ningún deporte actualmente, pero te gustaría empezar —
+  te encantaría el box (aunque usas lentes, lo cual complica), y estás
+  considerando tenis o squash como alternativa.
+
+### Tu hermana
+
+- Nació el 4 de octubre de 2004.
+- Se llevan muy bien — escuchan música y fuman marihuana juntos.
 
 ### Tu proyecto de vida en pareja
 

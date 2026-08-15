@@ -90,8 +90,9 @@ Confirmen las tasas vigentes antes de mover dinero — cambian con el tiempo.*
 - **Coche o moto (para reemplazar el Chevy):** pospuesto hasta después
   de la mudanza — implica seguro, gasolina y mantenimiento recurrentes
   que competirían directamente con este ahorro. Diego quiere que sea
-  algo para tener con Fanny, no solo un coche personal. Pasa a ser la
-  siguiente meta natural después de diciembre (posiblemente financiado
+  algo para tener con Fanny, no solo un coche personal — trae en mente
+  una moto Vento o Italika 250cc. Pasa a ser la siguiente meta natural
+  después de diciembre (posiblemente financiado
   en parte con la venta del Chevy, según cuánto quede disponible).
 - **Concierto (Nescafé Vaivén):** tratarlo como gasto ya contemplado
   dentro del ~76% del ingreso que queda libre cada mes, con un tope

@@ -38,6 +38,16 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
 - Harry Potter — le fascina, incluyendo fanfics relacionados
 - Snoopy
 
+## Familia
+
+- Tiene dos hermanas menores, gemelas entre ellas.
+
+## Tatuaje en pareja
+
+- Tiene un tatuaje a juego con Diego — mandala de loto/girasol: ella
+  el contorno, Diego el relleno. Es el único de los tatuajes de Diego
+  con un significado.
+
 ## Comida
 
 - Le gusta comer sano, las ensaladas.

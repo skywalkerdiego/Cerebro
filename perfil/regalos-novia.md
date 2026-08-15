@@ -7,6 +7,10 @@ completos están en [novia.md](novia.md).
 
 Próxima fecha: **aniversario, 20 de octubre** (2 años).
 
+**Presupuesto:** no te importa gastar algo considerable con tal de que
+le guste. Idea que ya tienes en mente para el aniversario: una comida
++ unos zapatos o algo de maquillaje.
+
 ## Ideas actuales (borrador, 15/08/2026)
 
 Ideas de arranque según sus gustos — dime cuáles te laten para

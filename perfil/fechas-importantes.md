@@ -18,7 +18,13 @@
   ~158 días (al 15/08/2026).
 - **1 de diciembre** — Tu cumpleaños (naciste en 2002). Faltan ~108 días
   (al 15/08/2026).
-- [ ] Otras fechas familiares importantes
+- **20 de septiembre** — Cumpleaños de tu mamá. Faltan ~36 días
+  (al 15/08/2026).
+- **21 de septiembre** — Cumpleaños de tu papá. Faltan ~37 días
+  (al 15/08/2026).
+- **4 de octubre** — Cumpleaños de tu hermana (nació en 2004). Faltan
+  ~50 días (al 15/08/2026).
+- [ ] Cumpleaños de las hermanas (gemelas) de Fanny
 
 *(Los conteos de días se calcularon el 15/08/2026 — pídeme que los
 recalcule si ha pasado tiempo.)*
