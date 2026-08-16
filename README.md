@@ -28,6 +28,7 @@ y un ahorro conjunto en marcha.
 | [perfil/novia.md](perfil/novia.md) | Todo sobre tu novia |
 | [perfil/regalos-novia.md](perfil/regalos-novia.md) | Ideas de regalos para tu novia |
 | [perfil/fechas-importantes.md](perfil/fechas-importantes.md) | Fechas importantes |
+| [perfil/rutina.md](perfil/rutina.md) | Plantilla de rutina personal según tu horario rotativo de trabajo |
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |

@@ -40,4 +40,11 @@ Mismo patrón que `finanzas/`:
   Performance 108.8%) — la usé para corregir los nombres y la lógica
   de las métricas, pero **no la metí como lectura actual** porque tú
   mismo dijiste que esa captura es vieja.
-- Foco actual: subir el First Call Resolution.
+- **16/08/2026 — primera lectura real registrada** (ver
+  [metricas.md](metricas.md)): Performance Total 98.9%. Tres de las
+  cuatro métricas ya están en o arriba de meta (ACT Voice 104.2%, ACT
+  Chat 100.6%, Chat Survey 100.5%). La única abajo de 100% es **First
+  Call Resolution, en 95.9%** (71% absoluto vs. 74% de meta) — confirma
+  que sigue siendo el foco correcto, y la brecha es chica (3 puntos).
+- Foco actual: subir el First Call Resolution — plan concreto hablado
+  el 16/08/2026, ver conversación.
