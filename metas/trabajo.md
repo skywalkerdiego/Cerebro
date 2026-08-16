@@ -175,6 +175,16 @@ tener que elegir todavía.
 - [ ] Definir el tema de tu trabajo terminal/tesis de licenciatura (falta
       en el CV) — además de completar el CV, sirve como punto de partida
       para una futura propuesta de investigación de maestría
+- **Idea (agregada 16/08/2026):** escribir artículos de investigación
+  (comercio exterior / RI) y publicarlos en LinkedIn u otra plataforma.
+  Sirve doble: construye presencia profesional para la búsqueda de
+  trabajo, y deja evidencia de investigación real de cara a una futura
+  maestría. **Secuencia sugerida:** arrancarlo después de tener LinkedIn
+  actualizado y las primeras vacantes aplicadas — no antes, para que no
+  compita con el tiempo del pago de titulación (más urgente ahora mismo).
+  - [ ] Definir 2-3 temas iniciales (comercio exterior, RI, o lo que
+        salga de tu experiencia en CIALC)
+  - [ ] Publicar el primer artículo
 
 ## Notas
 
