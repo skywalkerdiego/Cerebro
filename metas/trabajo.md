@@ -101,6 +101,52 @@ Quedan marcados en rojo dentro del documento los datos que solo tú tienes
 (cifras reales de desempeño, tu URL de LinkedIn, tema de tesis, certificado
 de inglés si aplica) — hay que llenarlos antes de mandarlo a una vacante.
 
+## LinkedIn — revisión y ajustes pendientes (16/08/2026)
+
+Revisé tu perfil (linkedin.com/in/diego-ruiz-elizondo-634b48297) a partir de
+capturas que mandaste — LinkedIn está bloqueado para acceso directo en este
+entorno, igual que pasó con TikTok. Mismo diagnóstico que el CV: bien
+escrito, pero genérico, sin optimizar para comercio exterior ni para la
+ruta remota/USD.
+
+Lo que ya está bien: #OpenToWork activo, modalidad presencial/híbrido/remoto
+marcada, "Acerca de" bien redactado, experiencia en CIALC ya visible como
+becario de investigación.
+
+Ajustes concretos pendientes:
+
+- [ ] Reescribir el headline para incluir palabras clave que de verdad se
+      buscan: "Comercio Exterior", "Bilingüe" y algo de "Remote/Remoto" —
+      ahora mismo no aparece ninguna, y son las que te hacen aparecer en
+      búsquedas de reclutadores de ambas rutas
+- [ ] Meter las mismas palabras clave ATS del CV en el "Acerca de":
+      comercio exterior, importación/exportación, Incoterms, clasificación
+      arancelaria, logística internacional — y mencionar bilingüe/inglés
+      explícitamente (ahora está implícito, no dicho)
+- [ ] Cuantificar las descripciones de cada experiencia — ya tienes los
+      números reales en `../desempeno/metricas.md` (Performance Total, FCR,
+      Chat Survey) para la de Boost Mobile; para DIF Tlalnepantla y CIALC,
+      cuántos programas/eventos/proyectos coordinaste
+- [ ] Aclarar en las fechas que Boost Mobile, DIF Tlalnepantla y CIALC
+      traslapan (medio tiempo simultáneo 2025-2026), mismo ajuste que en
+      el CV
+- [ ] Agregar sección de **Idiomas** formal (inglés, alemán en curso) en
+      vez de dejarlo implícito en el texto
+- [ ] Conectar activamente con gente del gremio — agentes aduanales,
+      comercio exterior, RI, y reclutadores de trabajo remoto — 37
+      contactos es muy poco para que el algoritmo te muestre en búsquedas
+- [ ] Revisar "Mostrar detalles" de las preferencias de #OpenToWork: que
+      el remoto no esté limitado a México si vas a aplicar a vacantes en
+      USD
+- [ ] Uniformar el idioma de la sección Educación (aparece en inglés,
+      "International Relations and Affairs", mientras el resto del perfil
+      está en español)
+- [ ] Aceptar el prompt de LinkedIn de "añadir proyectos" — buen lugar
+      para mostrar tu trabajo en CIALC o el CV rehecho
+- [ ] **A futuro:** cuando publiques tus artículos de investigación (ver
+      sección de abajo), usar la sección **Destacados** para fijarlos en
+      la parte de arriba del perfil
+
 ## Ruta rápida: más dinero y/o remoto (agregado 15/08/2026)
 
 Pregunta: ¿qué se puede conseguir YA con el CV actual, priorizando sueldo
