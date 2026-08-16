@@ -61,6 +61,11 @@ agente aduanal todavía.
 
 ## CV — revisión y ajustes pendientes (15/08/2026)
 
+**Plan (agregado 16/08/2026):** hoy, después del turno, toca actualizar
+LinkedIn (headline/about ya redactados) y afinar este CV; aplicar a
+vacantes se mueve a mañana 17/08. Ver el día a día en
+[../perfil/rutina.md](../perfil/rutina.md) y [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433).
+
 Mandaste tu CV (versión inglés y español) para revisión. Diagnóstico: está
 limpio y bien escrito, pero es **genérico** — serviría para cualquier
 puesto de oficina. Para comercio exterior/aduanas necesita hablar ese
