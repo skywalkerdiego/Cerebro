@@ -86,10 +86,17 @@ Ajustes concretos pendientes:
       exterior, importación/exportación, Incoterms, clasificación
       arancelaria, logística internacional (aunque sea a nivel de
       conocimiento académico, no solo experiencia laboral)
-- [ ] Cuantificar los logros de cada experiencia (ej. cuántos casos/día en
-      Boost Mobile, cuántos eventos/conferencias coordinados en CIALC,
-      cuántos programas/proyectos en DIF Tlalnepantla) en vez de solo
-      listar tareas
+- [ ] Cuantificar los logros de cada experiencia donde sí hay números
+      (Boost Mobile: usar las cifras reales de `../desempeno/metricas.md`
+      — Performance Total 98.9%, FCR 95.9%, ACT voz 104.2%)
+- **Aclarado 16/08/2026:** en DIF Tlalnepantla y CIALC no aplica un
+  conteo — son roles de otra naturaleza. **DIF Tlalnepantla:**
+  colaboración externa tipo freelance, apoyo flexible a distintos
+  programas/iniciativas sociales según la necesidad, sin carga fija de
+  proyectos. **CIALC (becario):** enfocado en tres frentes — creación
+  de materiales educativos para cátedra, investigación sobre América
+  Latina y el Caribe, y redacción y revisión de documentos académicos.
+  Usar esta descripción cualitativa en vez de forzar un número.
 - [ ] Aclarar que Boost Mobile, DIF Tlalnepantla y CIALC son
       simultáneos/medio tiempo (las tres traslapan 2025-2026) para que no
       se lea como un error de fechas
@@ -128,10 +135,10 @@ Ajustes concretos pendientes:
       comercio exterior, importación/exportación, Incoterms, clasificación
       arancelaria, logística internacional — y mencionar bilingüe/inglés
       explícitamente (ahora está implícito, no dicho)
-- [ ] Cuantificar las descripciones de cada experiencia — ya tienes los
-      números reales en `../desempeno/metricas.md` (Performance Total, FCR,
-      Chat Survey) para la de Boost Mobile; para DIF Tlalnepantla y CIALC,
-      cuántos programas/eventos/proyectos coordinaste
+- [ ] Cuantificar Boost Mobile con los números reales de
+      `../desempeno/metricas.md` (Performance Total, FCR, ACT); para DIF
+      Tlalnepantla y CIALC, usar la descripción cualitativa aclarada el
+      16/08/2026 (ver checklist del CV arriba) en vez de un conteo
 - [ ] Aclarar en las fechas que Boost Mobile, DIF Tlalnepantla y CIALC
       traslapan (medio tiempo simultáneo 2025-2026), mismo ajuste que en
       el CV
