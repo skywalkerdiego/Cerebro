@@ -44,7 +44,7 @@ check mensual — no compite con el resto de la rutina.
 
 | Día | Turno | Llegas | Foco de la noche/día |
 |-----|-------|--------|------------------------|
-| **Hoy — Dom 16** | (turno de hoy) | al salir del trabajo | 💼 **Actualizar LinkedIn** (pegar el headline/about ya redactados) **+ afinar el CV** (llenar los datos marcados en rojo) |
+| **Hoy — Dom 16** | (turno de hoy) | al salir del trabajo | ✅ **Hecho** — LinkedIn actualizado + CV rehecho y entregado en PDF |
 | Lun 17 | 6 am - 4 pm | ~5:20 pm | 💼 Avance real — aplicar a 2-3 vacantes |
 | Mar 18 | 7 am - 5 pm | ~6:20 pm | ✍️ Escribir — definir 2-3 temas para tus artículos |
 | Mié 19 | 7 am - 5 pm | ~6:20 pm | 🎮 Entretenimiento — videojuegos, sin culpa |

@@ -13,6 +13,7 @@ y lo agrego aquí.
 | Fecha | Logro | Área |
 |-------|-------|------|
 | 15/08/2026 | Armaste todo el sistema de Cerebro: metas, perfil, finanzas y 3 tableros interactivos | Sistema |
+| 16/08/2026 | Actualizaste LinkedIn a fondo (headline, about, experiencia, open to work), rehiciste y entregaste tu CV final en PDF (ESP/ENG), y registraste tu primera lectura real de métricas laborales | Trabajo / Desempeño |
 
 ## Notas
 
