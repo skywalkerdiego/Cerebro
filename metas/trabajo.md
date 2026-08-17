@@ -127,18 +127,17 @@ becario de investigación.
 
 Ajustes concretos pendientes:
 
-- [ ] Reescribir el headline para incluir palabras clave que de verdad se
+- [x] Reescribir el headline para incluir palabras clave que de verdad se
       buscan: "Comercio Exterior", "Bilingüe" y algo de "Remote/Remoto" —
-      ahora mismo no aparece ninguna, y son las que te hacen aparecer en
-      búsquedas de reclutadores de ambas rutas
-- [ ] Meter las mismas palabras clave ATS del CV en el "Acerca de":
+      hecho 16/08/2026
+- [x] Meter las mismas palabras clave ATS del CV en el "Acerca de":
       comercio exterior, importación/exportación, Incoterms, clasificación
       arancelaria, logística internacional — y mencionar bilingüe/inglés
-      explícitamente (ahora está implícito, no dicho)
-- [ ] Cuantificar Boost Mobile con los números reales de
-      `../desempeno/metricas.md` (Performance Total, FCR, ACT); para DIF
-      Tlalnepantla y CIALC, usar la descripción cualitativa aclarada el
-      16/08/2026 (ver checklist del CV arriba) en vez de un conteo
+      explícitamente — hecho 16/08/2026
+- [x] Cuantificar Boost Mobile con los números reales de
+      `../desempeno/metricas.md` (Performance Total, FCR, ACT); DIF
+      Tlalnepantla y CIALC con la descripción cualitativa aclarada el
+      16/08/2026 — hecho
 - [ ] Aclarar en las fechas que Boost Mobile, DIF Tlalnepantla y CIALC
       traslapan (medio tiempo simultáneo 2025-2026), mismo ajuste que en
       el CV
@@ -147,9 +146,11 @@ Ajustes concretos pendientes:
 - [ ] Conectar activamente con gente del gremio — agentes aduanales,
       comercio exterior, RI, y reclutadores de trabajo remoto — 37
       contactos es muy poco para que el algoritmo te muestre en búsquedas
-- [ ] Revisar "Mostrar detalles" de las preferencias de #OpenToWork: que
-      el remoto no esté limitado a México si vas a aplicar a vacantes en
-      USD
+- [x] Revisar "Mostrar detalles" de las preferencias de #OpenToWork —
+      hecho 16/08/2026: cambiaste "Ubicaciones (en remoto)" de
+      Nezahualcóyotl a algo más amplio, y afinaste los **Cargos** (que
+      antes eran genéricos: asistente ejecutivo/ejecutivo/administrador)
+      hacia títulos de tus dos rutas
 - [ ] Uniformar el idioma de la sección Educación (aparece en inglés,
       "International Relations and Affairs", mientras el resto del perfil
       está en español)
