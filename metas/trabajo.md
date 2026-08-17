@@ -73,45 +73,38 @@ idioma explícitamente. Lo bueno: el enfoque académico de la carrera
 (negocios internacionales, comercio internacional y logística) ya encaja
 con la meta, solo está enterrado en una línea de Educación.
 
-Ajustes concretos pendientes:
+**16/08/2026 — revisión de los PDF reales:** mandaste el CV en ESP y ENG.
+El borrador editado del 15/08 (resumen reescrito, "Áreas de
+conocimiento") **no llegó a estos archivos** — son básicamente la
+versión genérica original. Se rehizo el borrador de texto completo, ver
+[cv.md](cv.md).
 
-- [ ] Subir el enfoque académico (comercio internacional, logística,
-      negocios internacionales) del pie de página a un bloque visible de
-      "Áreas de conocimiento" o dentro del resumen profesional
-- [ ] Reescribir el resumen profesional para nombrar explícitamente el
-      objetivo: comercio exterior / aduanas / logística internacional (en
-      vez de "business operations within an international environment",
-      que es genérico)
-- [ ] Meter palabras clave del sector para pasar filtros ATS: comercio
-      exterior, importación/exportación, Incoterms, clasificación
-      arancelaria, logística internacional (aunque sea a nivel de
-      conocimiento académico, no solo experiencia laboral)
-- [ ] Cuantificar los logros de cada experiencia donde sí hay números
-      (Boost Mobile: usar las cifras reales de `../desempeno/metricas.md`
-      — Performance Total 98.9%, FCR 95.9%, ACT voz 104.2%)
-- **Aclarado 16/08/2026:** en DIF Tlalnepantla y CIALC no aplica un
-  conteo — son roles de otra naturaleza. **DIF Tlalnepantla:**
-  colaboración externa tipo freelance, apoyo flexible a distintos
-  programas/iniciativas sociales según la necesidad, sin carga fija de
-  proyectos. **CIALC (becario):** enfocado en tres frentes — creación
-  de materiales educativos para cátedra, investigación sobre América
-  Latina y el Caribe, y redacción y revisión de documentos académicos.
-  Usar esta descripción cualitativa en vez de forzar un número.
-- [ ] Aclarar que Boost Mobile, DIF Tlalnepantla y CIALC son
-      simultáneos/medio tiempo (las tres traslapan 2025-2026) para que no
-      se lea como un error de fechas
-- [ ] Poner el LinkedIn como URL completa, no solo como texto
-- [ ] Si tienes o puedes sacar una certificación de inglés (TOEFL/IELTS/
-      Cambridge), agregarla — respalda el "Professional Working
-      Proficiency" y suma para el perfil internacional
+Ajustes aplicados en el borrador de `cv.md` (pendiente que tú los pegues
+en el Word):
 
-**Borrador editado:** primer borrador del CV (Word) entregado el
-15/08/2026 con estos ajustes ya aplicados, más un bloque nuevo de "Áreas
-de conocimiento" y el resumen reescrito para sonar creíble tanto para
-comercio exterior como para investigación/posgrado (ver sección de abajo).
-Quedan marcados en rojo dentro del documento los datos que solo tú tienes
-(cifras reales de desempeño, tu URL de LinkedIn, tema de tesis, certificado
-de inglés si aplica) — hay que llenarlos antes de mandarlo a una vacante.
+- [ ] Subir el enfoque académico a una sección nueva y visible de
+      "Áreas de conocimiento" (antes solo estaba en una línea de
+      Educación)
+- [ ] Reescribir el resumen profesional nombrando explícitamente
+      comercio exterior / logística internacional / aduanas
+- [ ] Meter palabras clave ATS: comercio exterior, importación/
+      exportación, Incoterms, clasificación arancelaria, logística
+      internacional
+- [ ] Cuantificar Boost Mobile con las cifras reales (Performance Total
+      98.9%, FCR 95.9%, ACT 104.2%)
+- [ ] Ajustar bullets de DIF Tlalnepantla (freelance/flexible) y CIALC
+      (los tres frentes reales: material de cátedra, investigación,
+      redacción/revisión) — misma descripción que ya se usó en LinkedIn
+- [ ] Aclarar en las fechas que Boost Mobile, DIF Tlalnepantla y CIALC
+      son simultáneos/medio tiempo (traslapan 2025-2026)
+- [ ] Poner el LinkedIn como URL completa
+      (`linkedin.com/in/diego-ruiz-elizondo-634b48297`), no solo texto
+
+**Resuelto:** no hay tema de tesis que definir — Diego se titula por
+promedio, no por trabajo terminal. Certificación de inglés: no tiene
+ninguna todavía, pero tiene confianza en pasar el TOEFL — no es urgente,
+queda como posible paso a futuro para respaldar el "Professional
+Working Proficiency" con un número real.
 
 ## LinkedIn — revisión y ajustes pendientes (16/08/2026)
 
@@ -231,9 +224,9 @@ tener que elegir todavía.
 - [ ] Revisar requisitos de admisión típicos (promedio mínimo, examen de
       idioma, carta de exposición de motivos, EXANI-III si aplica) de 1-2
       programas que te llamen la atención
-- [ ] Definir el tema de tu trabajo terminal/tesis de licenciatura (falta
-      en el CV) — además de completar el CV, sirve como punto de partida
-      para una futura propuesta de investigación de maestría
+- **Resuelto (16/08/2026):** no aplica tema de tesis — Diego se titula
+  por promedio, no por trabajo terminal. Para la maestría, el punto de
+  partida sigue siendo tu experiencia real en CIALC, no una tesis.
 - **Idea (agregada 16/08/2026):** escribir artículos de investigación
   (comercio exterior / RI) y publicarlos en LinkedIn u otra plataforma.
   Sirve doble: construye presencia profesional para la búsqueda de
