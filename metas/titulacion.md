@@ -8,6 +8,8 @@ esto desbloquea el resto del año).
 Contacto de la carrera: titulacion.relacionesinternacionales@aragon.unam.mx
 Sistema de seguimiento: https://seguimientotitulacion.unam.mx/expediente/21179
 
+Tablero: [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc)
+
 ## Documentos
 
 | Documento | Archivo |

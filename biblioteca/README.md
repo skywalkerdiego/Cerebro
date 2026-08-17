@@ -5,6 +5,8 @@ respaldan lo que se registra en `metas/`, `perfil/`, `finanzas/` y
 `desempeno/`. Cada carpeta corresponde a un tema, y los archivos `.md`
 de esas carpetas enlazan hacia aquí en una sección "Documentos".
 
+Tablero: [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7)
+
 ## Cómo agregar un documento nuevo
 
 1. Mándamelo en la conversación (como archivo adjunto).

@@ -15,8 +15,8 @@ y un ahorro conjunto en marcha.
 
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
-| 1 | 🎓 Titulación | Alta | ATI y solicitud llenados, falta pago (vence 29/08/2026) | [metas/titulacion.md](metas/titulacion.md) |
-| 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) |
+| 1 | 🎓 Titulación | Alta | ATI y solicitud llenados, falta pago (vence 29/08/2026) | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
+| 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
 | 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️📚 Idioma y cultura general | Media | Italiano con Duolingo, meta conversacional simple — falta arrancar | [metas/aprendizaje.md](metas/aprendizaje.md) |
 
@@ -50,16 +50,19 @@ y un ahorro conjunto en marcha.
 ## 📁 [Biblioteca](biblioteca/README.md)
 
 Documentos reales (PDFs, comprobantes, escaneos) que respaldan lo
-registrado en las demás secciones, organizados por tema.
+registrado en las demás secciones, organizados por tema. También como
+tablero: [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7).
 
 ## 🏆 [Logros](logros.md)
 
 Lo que ya lograste, no lo que falta — para que el avance también se
-vea.
+vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345).
 
 ## Enlaces rápidos
 
-- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — panel de arranque con acceso directo a los 7 tableros de abajo. Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
+- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — panel de arranque con acceso directo a los 11 tableros de abajo. Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
+- 🎓 [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) — estado del trámite, documentos y pasos pendientes.
+- 💼 [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) — rutas de búsqueda, ajustes de CV/LinkedIn y vacantes aplicadas.
 - 🧮 [Simulador interactivo del plan de ahorro](https://claude.ai/code/artifact/d66ad007-842c-4377-ac69-c9fdc8267002) — mueve los aportes de cada quien y la venta del Chevy para ver cómo cambia la fecha en que estarían listos.
 - 🎮 [HUD de Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tus metas como stats de videojuego, con los datos reales de `metas/` y `perfil/`. Se regenera cuando avances algo.
 - 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
@@ -67,6 +70,8 @@ vea.
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
 - 🌳 [Habilidades.exe](https://claude.ai/code/artifact/3a0ddef9-d6a7-493d-a512-387301f153fa) — árbol de habilidades: tus metas, vínculo con Fanny, finanzas y desempeño como sendas de nodos completados, disponibles y bloqueados. Se regenera cuando avances algo.
 - 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — tablero semanal: un foco distinto cada noche según tu horario real de turnos y traslado, con Duolingo y Fanny como anclas diarias. Se remapea cuando cambie tu horario.
+- 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
+- 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 
 ## Cómo usar esto
 
