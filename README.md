@@ -59,6 +59,7 @@ vea.
 
 ## Enlaces rápidos
 
+- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — panel de arranque con acceso directo a los 7 tableros de abajo. Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
 - 🧮 [Simulador interactivo del plan de ahorro](https://claude.ai/code/artifact/d66ad007-842c-4377-ac69-c9fdc8267002) — mueve los aportes de cada quien y la venta del Chevy para ver cómo cambia la fecha en que estarían listos.
 - 🎮 [HUD de Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tus metas como stats de videojuego, con los datos reales de `metas/` y `perfil/`. Se regenera cuando avances algo.
 - 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
