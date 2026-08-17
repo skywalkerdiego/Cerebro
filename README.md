@@ -47,6 +47,11 @@ y un ahorro conjunto en marcha.
 | [desempeno/README.md](desempeno/README.md) | Cómo funciona el seguimiento de tus métricas en Boost Mobile |
 | [desempeno/metricas.md](desempeno/metricas.md) | Historial de ACT, Chat Survey, FCR y Performance Total |
 
+## 📁 [Biblioteca](biblioteca/README.md)
+
+Documentos reales (PDFs, comprobantes, escaneos) que respaldan lo
+registrado en las demás secciones, organizados por tema.
+
 ## 🏆 [Logros](logros.md)
 
 Lo que ya lograste, no lo que falta — para que el avance también se
