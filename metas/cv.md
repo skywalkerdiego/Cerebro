@@ -4,10 +4,12 @@ Texto de referencia del CV, para no depender de un Word suelto que se
 pierde entre sesiones. Ver el checklist de ajustes en
 [trabajo.md](trabajo.md#cv--revisión-y-ajustes-pendientes-15082026).
 
-**Estado (16/08/2026):** borrador de texto listo — pendiente que Diego
-lo pegue en el Word real y confirme. La versión enviada ese mismo día
-(PDF en ESP/ENG) todavía era la genérica original, sin los ajustes de
-comercio exterior/ATS aplicados.
+**Estado (16/08/2026):** PDF final generado y entregado —
+[cv/DiegoRuizElizondo.CV.ESP.pdf](cv/DiegoRuizElizondo.CV.ESP.pdf) y
+[cv/DiegoRuizElizondo.CV.ENG.pdf](cv/DiegoRuizElizondo.CV.ENG.pdf).
+La versión que Diego había enviado ese mismo día todavía era la
+genérica original, sin los ajustes de comercio exterior/ATS — este
+texto de abajo es el que ya quedó aplicado en esos PDF.
 
 **No aplica tema de tesis** — titulación por promedio, no por trabajo
 terminal. **Certificación de inglés:** ninguna todavía; TOEFL queda

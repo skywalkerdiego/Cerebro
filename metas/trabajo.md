@@ -79,26 +79,33 @@ conocimiento") **no llegó a estos archivos** — son básicamente la
 versión genérica original. Se rehizo el borrador de texto completo, ver
 [cv.md](cv.md).
 
-Ajustes aplicados en el borrador de `cv.md` (pendiente que tú los pegues
-en el Word):
+**16/08/2026 — PDF final generado y entregado.** En vez de solo dejar el
+texto para que Diego lo pegara a mano en Word, se generó directamente el
+CV final en PDF (ESP y ENG, mismo formato del original: nombre centrado,
+regla horizontal, dos columnas de habilidades, empresa+fechas alineadas)
+y se le mandó por chat. Ajustes aplicados, todos ya en el PDF entregado:
 
-- [ ] Subir el enfoque académico a una sección nueva y visible de
+- [x] Subir el enfoque académico a una sección nueva y visible de
       "Áreas de conocimiento" (antes solo estaba en una línea de
       Educación)
-- [ ] Reescribir el resumen profesional nombrando explícitamente
+- [x] Reescribir el resumen profesional nombrando explícitamente
       comercio exterior / logística internacional / aduanas
-- [ ] Meter palabras clave ATS: comercio exterior, importación/
+- [x] Meter palabras clave ATS: comercio exterior, importación/
       exportación, Incoterms, clasificación arancelaria, logística
       internacional
-- [ ] Cuantificar Boost Mobile con las cifras reales (Performance Total
+- [x] Cuantificar Boost Mobile con las cifras reales (Performance Total
       98.9%, FCR 95.9%, ACT 104.2%)
-- [ ] Ajustar bullets de DIF Tlalnepantla (freelance/flexible) y CIALC
+- [x] Ajustar bullets de DIF Tlalnepantla (freelance/flexible) y CIALC
       (los tres frentes reales: material de cátedra, investigación,
       redacción/revisión) — misma descripción que ya se usó en LinkedIn
-- [ ] Aclarar en las fechas que Boost Mobile, DIF Tlalnepantla y CIALC
+- [x] Aclarar en las fechas que Boost Mobile, DIF Tlalnepantla y CIALC
       son simultáneos/medio tiempo (traslapan 2025-2026)
-- [ ] Poner el LinkedIn como URL completa
+- [x] Poner el LinkedIn como URL completa
       (`linkedin.com/in/diego-ruiz-elizondo-634b48297`), no solo texto
+
+Pendiente solo de tu parte: revisar el PDF y confirmar que te gusta como
+quedó (o pedir ajustes). El texto fuente vive en [cv.md](cv.md) por si
+se necesita regenerar.
 
 **Resuelto:** no hay tema de tesis que definir — Diego se titula por
 promedio, no por trabajo terminal. Certificación de inglés: no tiene
