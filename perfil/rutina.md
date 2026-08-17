@@ -23,6 +23,21 @@ para **una cosa con foco**, no para varias. Por eso la semana se
 reparte por categoría, un foco distinto cada noche, en vez de intentar
 meter todo todos los días.
 
+## Durante el turno: qué hacer en los breaks
+
+Cada turno trae 2 breaks cortos (~10-15 min) y un meal sin pago (~30-60
+min). Ahora mismo se van sin rumbo — aquí un menú simple para no tener
+que decidir en el momento:
+
+| Bloque | Para qué alcanza | Opciones |
+|--------|-------------------|----------|
+| **Break 1** (mañana) | Una cosa rápida | 🗣️ Duolingo del día (mejor aquí que competir con las 2.5h de la noche) · o simplemente desconectar — no hay obligación de llenarlo siempre |
+| **Meal** (sin pago, el más largo) | Algo con más sustancia | 💼 Revisar/aplicar a 1-2 vacantes (checklist en [metas/trabajo.md](../metas/trabajo.md)) · 🎓 checar el sistema de seguimiento de titulación si hay algo pendiente de estatus · 📖 leer unos minutos |
+| **Break 2** (tarde) | Otra cosa rápida | 🗣️ Duolingo si no lo hiciste en el Break 1 · LinkedIn — 1 conexión o revisar notificaciones · o descansar |
+
+Moviendo el Duolingo diario a un break (en vez de la noche), las 2.5h
+libres después del turno quedan enteras para el foco de esa noche.
+
 ## Días off: aquí va lo que pide bloque largo
 
 - Trámites de titulación (pagos, imprimir/firmar/escanear, subir
@@ -56,9 +71,9 @@ check mensual — no compite con el resto de la rutina.
 *Adelantaste LinkedIn + CV a hoy (16/08) en vez de dejarlo para el
 viernes — por eso ya no aparece en el bloque del viernes 21.*
 
-**Todos los días, sin excepción de turno:** 🗣️ Duolingo (~15-20 min) y
-💜 tiempo protegido con Fanny — estas dos no compiten con el foco de
-la noche, van aparte.
+**Todos los días, sin excepción de turno:** 🗣️ Duolingo (ahora en un
+break, ver arriba) y 💜 tiempo protegido con Fanny — estas dos no
+compiten con el foco de la noche, van aparte.
 
 ## Notas
 
