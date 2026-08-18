@@ -38,3 +38,20 @@ fresca y la vuelvo a consultar y a publicar.
   y [Habilidades.exe](https://claude.ai/code/artifact/3a0ddef9-d6a7-493d-a512-387301f153fa)).
 - Si cambia tu casa, tu trabajo o el traslado, dímelo y actualizo este
   archivo y el tablero.
+
+## Brief diario automático (18/08/2026)
+
+Tres check-ins al día, todos los días, vía Routines (mensaje directo
+en esta conversación, con notificación a tu teléfono si las tienes
+activadas):
+
+- **5:00 am** — arranque del día: fecha, clima real de casa y trabajo,
+  el evento más próximo, lo más urgente pendiente, y el foco de esta
+  noche.
+- **5:30 pm** — llegada a casa: cómo te fue en el trabajo, el foco de
+  la noche, y un aviso si algo está por vencer.
+- **8:00 pm** — cierre del día: qué avanzaste (se registra en
+  [logros.md](../logros.md) si aplica), y un vistazo breve a mañana.
+
+Si el ritmo se siente pesado o quieres cambiar horarios/contenido,
+dime y lo ajusto.

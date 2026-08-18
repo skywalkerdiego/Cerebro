@@ -26,6 +26,9 @@ y un ahorro conjunto en marcha.
 |---------|-----------|
 | [perfil/hoy.md](perfil/hoy.md) | Ubicaciones, clima y contexto inmediato |
 | [perfil/intereses.md](perfil/intereses.md) | Gustos e intereses |
+| [perfil/salud.md](perfil/salud.md) | Salud física y mental, sueño, ejercicio |
+| [perfil/familia.md](perfil/familia.md) | Relación con tus papás y tu hermana |
+| [perfil/amigos.md](perfil/amigos.md) | Vida social y amistades |
 | [perfil/novia.md](perfil/novia.md) | Todo sobre tu novia |
 | [perfil/regalos-novia.md](perfil/regalos-novia.md) | Ideas de regalos para tu novia |
 | [perfil/fechas-importantes.md](perfil/fechas-importantes.md) | Fechas importantes |
