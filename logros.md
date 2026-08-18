@@ -21,6 +21,7 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 18/08/2026 | Automatizaste los contadores de días (aniversario, cumpleaños, Navidad) en Nosotros.exe, Yo.exe y Habilidades.exe — ya no se quedan pegados en la fecha en que se armaron | Sistema |
 | 18/08/2026 | Armaste Hoy.exe (fecha, clima y próximo evento) y lo subiste al HUD principal de Cerebro.exe como barra de información, más una barra de búsqueda para los 13 tableros | Sistema |
 | 18/08/2026 | Corregiste Rutina.exe para que "Hoy" se ubique solo en el día real y quedara registrado que ya aplicaste a SMJ Consulting y NC Recruitment | Sistema |
+| 18/08/2026 | Armaste 3 Routines de check-in diario (5am, 5:30pm, 8pm) y abriste salud.md, familia.md y amigos.md — más Perfil.exe para verlo todo junto | Sistema |
 
 ## Notas
 
