@@ -44,8 +44,8 @@ check mensual — no compite con el resto de la rutina.
 
 | Día | Turno | Llegas | Foco de la noche/día |
 |-----|-------|--------|------------------------|
-| **Hoy — Dom 16** | (turno de hoy) | al salir del trabajo | ✅ **Hecho** — LinkedIn actualizado + CV rehecho y entregado en PDF |
-| Lun 17 | 6 am - 4 pm | ~5:20 pm | 💼 Avance real — aplicar a 2-3 vacantes · 📸 5:30pm mandar fotos de cómo está atornillado el carro |
+| Dom 16 | (turno de ese día) | — | ✅ Hecho — LinkedIn actualizado + CV rehecho y entregado en PDF |
+| **Hoy — Lun 17** | 6 am - 4 pm | ~5:20 pm | ✅ 5:30pm fotos del carro enviadas · 💼 **En curso** — buscar y aplicar a 2-3 vacantes |
 | Mar 18 | 7 am - 5 pm | ~6:20 pm | ✍️ Escribir — definir 2-3 temas para tus artículos |
 | Mié 19 | 7 am - 5 pm | ~6:20 pm | 🎮 Entretenimiento — videojuegos, sin culpa |
 | **Jue 20 (Off)** | — | — | Mañana: 🎓 **pagar la ficha de titulación** ($620) + armar comprobante · Tarde: 🎨 dibujar |
