@@ -160,6 +160,26 @@ Ajustes concretos pendientes:
       sección de abajo), usar la sección **Destacados** para fijarlos en
       la parte de arriba del perfil
 
+## Indeed — perfil (creado 17/08/2026)
+
+Diego creó cuenta en Indeed para aplicar a la vacante de SMJ Consulting.
+Perfil casi vacío — se le pasó el texto del Resumen, Experiencia laboral
+(Boost Mobile, DIF Tlalnepantla, CIALC) y Habilidades a agregar, mismo
+contenido que ya está pulido en [cv.md](cv.md).
+
+- [ ] Pegar Resumen
+- [ ] Pegar las 3 experiencias laborales
+- [ ] Agregar habilidades de comex/bilingüe (ya tiene Liderazgo y
+      Habilidades de comunicación)
+- [ ] Revisar qué pide la sección "Datos personales" (no visible en la
+      captura)
+- **Nota:** el correo de esta cuenta de Indeed es
+  `skywalkerdiego13@gmail.com`, distinto al `druizelizondo@gmail.com`
+  que usan el CV y LinkedIn — sin resolver si unificarlo o dejarlo así.
+- La Escolaridad ya está bien tal cual ("agosto 2020 a Presente") — no
+  necesita el mismo ajuste de "egresado/titulación en trámite" que el
+  CV porque no reclama que ya terminó.
+
 ## Ruta rápida: más dinero y/o remoto (agregado 15/08/2026)
 
 Pregunta: ¿qué se puede conseguir YA con el CV actual, priorizando sueldo
