@@ -25,10 +25,20 @@ LinkedIn (ver checklist en [trabajo.md](trabajo.md)).
 
 **17/08/2026 — carta de presentación:** se armó una carta específica
 para la vacante de SMJ Consulting (Customer Service Representative,
-Freight Forwarder) — puente entre el perfil de Diego y el requisito de
-1 año de experiencia en el sector que no tiene formalmente. Ver
+Freight Forwarder). Reescrita el mismo día: la primera versión sonaba
+acartonada (repetía el lenguaje de marketing del cliente) y además
+partía de una premisa equivocada — el requisito real es "1 año en
+customer service **o** importación marítima", y Diego ya lo cumple con
+sus 2+ años en Boost Mobile, así que no hacía falta compensar nada. La
+versión actual es más directa y en su propia voz. Ver
 [cv/DiegoRuizElizondo.CartaPresentacion.SMJ.ESP.pdf](cv/DiegoRuizElizondo.CartaPresentacion.SMJ.ESP.pdf)
 y [cv/DiegoRuizElizondo.CoverLetter.SMJ.ENG.pdf](cv/DiegoRuizElizondo.CoverLetter.SMJ.ENG.pdf).
+
+**17/08/2026 — métricas actualizadas:** Diego compartió una captura
+anterior de su dashboard (Performance Total 108.8%, con detalle
+completo por primera vez — ver [../desempeno/metricas.md](../desempeno/metricas.md)).
+El bullet de Boost Mobile ahora usa el rango real (98.9%–108.8% a
+meta) en vez de un solo corte, más representativo y más fuerte.
 
 ---
 
@@ -68,7 +78,7 @@ Negocios Internacionales
 - Resolución de casos complejos para clientes de habla inglesa.
 - Análisis de cuentas e historial de servicio para identificar soluciones eficientes.
 - Colaboración con equipos especializados para resolver incidencias técnicas y administrativas.
-- Performance Total consistente de 98.9% a meta, con First Call Resolution en 95.9% y tiempo de atención (ACT) en 104.2% a meta.
+- Performance Total consistente entre 98.9% y 108.8% a meta en los últimos meses, con métricas de atención en chat y voz frecuentemente por arriba de 100% a meta.
 
 **DIF Tlalnepantla** 2025 – 2026 (medio tiempo, simultáneo con Boost Mobile)
 *Apoyo a Proyectos*
@@ -129,7 +139,7 @@ Business
 - Resolve complex customer escalations for English-speaking clients.
 - Investigate account and service issues by analyzing customer history and technical information.
 - Partner with specialized teams to deliver timely and accurate resolutions.
-- Consistently achieved a 98.9% Performance Total to goal, with First Call Resolution at 95.9% and Average Contact Time at 104.2% to goal.
+- Sustained a Performance Total between 98.9% and 108.8% to goal over recent months, with chat and voice metrics frequently above 100% to goal.
 
 **DIF Tlalnepantla** 2025 – 2026 (part-time, concurrent with Boost Mobile)
 *Project Support*
