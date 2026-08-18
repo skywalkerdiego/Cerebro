@@ -6,6 +6,7 @@ relación con ellos, y si hay algo pendiente ahí.
 
 ## Lo que ya sé
 
+- **Vives con tus papás** actualmente (confirmado 18/08/2026).
 - **Mamá** — cumpleaños el 20 de septiembre. Ver
   [fechas-importantes.md](fechas-importantes.md).
 - **Papá** — cumpleaños el 21 de septiembre, un día después que tu
@@ -16,7 +17,6 @@ relación con ellos, y si hay algo pendiente ahí.
 
 ## Lo que no sé y me serviría saber
 
-- ¿Vives con ellos ahorita, o por tu cuenta?
 - ¿Cómo describirías tu relación día a día con tus papás — cercana,
   distante, tensa en algún tema en particular?
 - ¿Hay algo pendiente con tu familia ahorita (una conversación que

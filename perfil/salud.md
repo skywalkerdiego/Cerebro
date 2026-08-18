@@ -22,13 +22,18 @@ día le pegan directo al sueño y al tiempo para cuidarte.
 - **Alergia:** a algún medicamento, sin especificar todavía cuál —
   es dato de seguridad, no solo trivia, dímelo cuando quieras.
 - **Sustancias:** consumes marihuana, a veces con tu hermana.
+- **Sueño:** está mal casi siempre con el horario rotativo (confirmado
+  18/08/2026) — no es solo en ciertos turnos, es más constante que
+  eso. Es un problema real, no solo molestia.
+- **Nada médico pendiente** ahorita (confirmado 18/08/2026) — al día
+  en chequeos/dentista/etc.
 
 ## Lo que no sé y me serviría saber
 
-- ¿Cómo describirías tu sueño con el horario rotativo — duermes lo
-  suficiente, se te complica según el turno?
-- ¿Hay algo médico pendiente ahorita (chequeo, dentista, algo que
-  traigas posponiendo)?
+- Del sueño: ¿es que no te alcanza el tiempo por el traslado de 2h40,
+  o es que aunque tengas tiempo no logras dormir bien?
+- ¿Has probado algo para mejorarlo (rutina antes de dormir, evitar
+  pantallas, algo así), o es territorio sin explorar todavía?
 - ¿Quieres que el brief de las 5am/5:30pm/8pm (ver
   [hoy.md](hoy.md)) te pregunte de vez en cuando por esto, o prefieres
   que sea un tema aparte que tú saques cuando quieras?
