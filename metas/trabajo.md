@@ -46,7 +46,8 @@ apliques a algo, sea comercio exterior o la ruta rápida remota/USD.
 
 | Fecha | Empresa / vacante | Plataforma | Estatus | Notas |
 |-------|--------------------|-----------|---------|-------|
-| 17/08/2026 | SMJ Consulting (headhunter) — Customer Service Representative, Freight Forwarder ($25-28K MXN, presencial CDMX) | Indeed | Por aplicar | Match fuerte con el perfil (RI + atención al cliente bilingüe). El requisito de "1 año en customer service o importación marítima" **sí lo cumple** — 2+ años en Boost Mobile es la vía de customer service, no hace falta el sector marítimo específico. CV (con métricas actualizadas) y carta ya listos, ver [cv.md](cv.md). Precaución: SMJ Consulting sin presencia sólida verificable en LinkedIn — no dar CURP/INE/datos bancarios ni aceptar entrevistas solo por WhatsApp antes de una oferta formal por escrito. |
+| 17/08/2026 | SMJ Consulting (headhunter) — Customer Service Representative, Freight Forwarder ($25-28K MXN, presencial CDMX) | Indeed | **Aplicado** | Match fuerte con el perfil (RI + atención al cliente bilingüe). El requisito de "1 año en customer service o importación marítima" **sí lo cumple** — 2+ años en Boost Mobile es la vía de customer service, no hace falta el sector marítimo específico. CV (con métricas actualizadas) y carta enviados. Precaución: SMJ Consulting sin presencia sólida verificable en LinkedIn — no dar CURP/INE/datos bancarios ni aceptar entrevistas solo por WhatsApp antes de una oferta formal por escrito. |
+| 17/08/2026 | NC Recruitment Agency (headhunter) — Travel Reservation Specialist Agent, Mexico City ($34,000 MXN/mes: $21,700 base + bonos, híbrido, Escandón CDMX) | Indeed | **Aplicado** | Atención al cliente bilingüe / call center — cumple el requisito de 1 año de experiencia con Boost Mobile. Horario: turno fijo entre 7am-8pm. |
 
 Estatus sugeridos: Por aplicar → Aplicado → Entrevista → Oferta / Rechazado.
 
