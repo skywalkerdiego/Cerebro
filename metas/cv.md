@@ -15,6 +15,21 @@ texto de abajo es el que ya quedó aplicado en esos PDF.
 terminal. **Certificación de inglés:** ninguna todavía; TOEFL queda
 como posible paso a futuro (no urgente).
 
+**17/08/2026 — corrección importante:** Diego encontró (al analizar una
+vacante que pedía explícitamente "Licenciatura en RI") que la sección
+de Educación decía "Licenciatura en Relaciones Internacionales" sin
+matizar que es **egresado, no titulado** — la titulación sigue en
+trámite (ver [titulacion.md](titulacion.md)). Se corrigió el texto de
+abajo y se regeneraron los PDF. Pendiente: aplicar el mismo matiz en
+LinkedIn (ver checklist en [trabajo.md](trabajo.md)).
+
+**17/08/2026 — carta de presentación:** se armó una carta específica
+para la vacante de SMJ Consulting (Customer Service Representative,
+Freight Forwarder) — puente entre el perfil de Diego y el requisito de
+1 año de experiencia en el sector que no tiene formalmente. Ver
+[cv/DiegoRuizElizondo.CartaPresentacion.SMJ.ESP.pdf](cv/DiegoRuizElizondo.CartaPresentacion.SMJ.ESP.pdf)
+y [cv/DiegoRuizElizondo.CoverLetter.SMJ.ENG.pdf](cv/DiegoRuizElizondo.CoverLetter.SMJ.ENG.pdf).
+
 ---
 
 ## Versión español
@@ -68,7 +83,7 @@ Negocios Internacionales
 - Redacción y revisión de documentos académicos.
 
 ### Educación
-**Licenciatura en Relaciones Internacionales**
+**Licenciatura en Relaciones Internacionales — Egresado (titulación en trámite)**
 Facultad de Estudios Superiores Aragón (UNAM) — Enfoque académico en negocios internacionales, comercio internacional y logística.
 
 ### Idiomas
@@ -129,7 +144,7 @@ Business
 - Drafted and reviewed academic documents.
 
 ### Education
-**Bachelor of Arts in International Relations**
+**Bachelor of Arts in International Relations — Coursework completed (degree conferral in process)**
 FES Aragón (UNAM) — Academic focus in International Business, International Trade, and Logistics.
 
 ### Languages
