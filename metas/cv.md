@@ -99,8 +99,8 @@ Negocios Internacionales
 - Colaboración con equipos especializados para resolver incidencias técnicas y administrativas.
 - Performance Total consistente entre 98.9% y 108.8% a meta en los últimos meses, con métricas de atención en chat y voz frecuentemente por arriba de 100% a meta.
 
-**DIF Tlalnepantla** Junio 2025 – Julio 2026 (medio tiempo, simultáneo con Boost Mobile)
-*Apoyo a Proyectos*
+**DIF Tlalnepantla** Junio 2025 – Julio 2026
+*Apoyo a Proyectos (medio tiempo, simultáneo con Boost Mobile)*
 - Colaboración externa, tipo freelance, brindando apoyo flexible a distintos programas e iniciativas sociales según la necesidad del momento.
 - Apoyo en la planeación logística de programas sociales y eventos.
 - Elaboración de reportes y documentos para el seguimiento de proyectos.
@@ -160,8 +160,8 @@ Business
 - Partner with specialized teams to deliver timely and accurate resolutions.
 - Sustained a Performance Total between 98.9% and 108.8% to goal over recent months, with chat and voice metrics frequently above 100% to goal.
 
-**DIF Tlalnepantla** June 2025 – July 2026 (part-time, concurrent with Boost Mobile)
-*Project Support*
+**DIF Tlalnepantla** June 2025 – July 2026
+*Project Support (part-time, concurrent with Boost Mobile)*
 - Provided flexible, freelance-style support across different social programs and institutional initiatives as needed.
 - Supported operational planning and logistics for social welfare programs and public events.
 - Prepared analytical documents and informational materials to support project development and institutional decision-making.
