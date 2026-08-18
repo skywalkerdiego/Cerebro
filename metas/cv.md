@@ -34,6 +34,13 @@ versión actual es más directa y en su propia voz. Ver
 [cv/DiegoRuizElizondo.CartaPresentacion.SMJ.ESP.pdf](cv/DiegoRuizElizondo.CartaPresentacion.SMJ.ESP.pdf)
 y [cv/DiegoRuizElizondo.CoverLetter.SMJ.ENG.pdf](cv/DiegoRuizElizondo.CoverLetter.SMJ.ENG.pdf).
 
+**17/08/2026 — segunda pasada, tono formal:** Diego pidió que sonara
+formal pero humana, sin rasgos detectables de IA. Se quitaron los
+guiones largos, el saludo casual ("Hola") y frases genéricas, y se
+metieron detalles concretos (fecha exacta de ingreso a Boost Mobile,
+"casi dos años" en CIALC) para que se lea como alguien real, no una
+plantilla. Mismos archivos, actualizados.
+
 **17/08/2026 — métricas actualizadas:** Diego compartió una captura
 anterior de su dashboard (Performance Total 108.8%, con detalle
 completo por primera vez — ver [../desempeno/metricas.md](../desempeno/metricas.md)).
