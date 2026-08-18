@@ -60,7 +60,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 
 ## Enlaces rápidos
 
-- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — panel de arranque con acceso directo a los 12 tableros de abajo. Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
+- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 12 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
 - 📞 [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5) — flujo de llamada (cuenta suspendida, escalación, crédito) con la frase exacta del playbook en cada paso, priorizado por tus categorías más débiles del IS Evaluation.
 - 🎓 [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) — estado del trámite, documentos y pasos pendientes.
 - 💼 [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) — rutas de búsqueda, ajustes de CV/LinkedIn y vacantes aplicadas.
