@@ -18,6 +18,9 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 16/08/2026 | Actualizaste LinkedIn a fondo (headline, about, experiencia, open to work), rehiciste y entregaste tu CV final en PDF (ESP/ENG), y registraste tu primera lectura real de métricas laborales | Trabajo / Desempeño |
 | 17/08/2026 | Encontraste una vacante con match fuerte (SMJ Consulting), armaste CV y carta de presentación a la medida, corregiste fechas reales de tu historial laboral en todo el sistema, y dejaste tu perfil de Indeed completo | Trabajo |
 | 17/08/2026 | Mandaste tus dos primeras solicitudes de trabajo: SMJ Consulting (Customer Service Representative, Freight Forwarder) y NC Recruitment Agency (Travel Reservation Specialist, $34,000/mes) | Trabajo |
+| 18/08/2026 | Automatizaste los contadores de días (aniversario, cumpleaños, Navidad) en Nosotros.exe, Yo.exe y Habilidades.exe — ya no se quedan pegados en la fecha en que se armaron | Sistema |
+| 18/08/2026 | Armaste Hoy.exe (fecha, clima y próximo evento) y lo subiste al HUD principal de Cerebro.exe como barra de información, más una barra de búsqueda para los 13 tableros | Sistema |
+| 18/08/2026 | Corregiste Rutina.exe para que "Hoy" se ubique solo en el día real y quedara registrado que ya aplicaste a SMJ Consulting y NC Recruitment | Sistema |
 
 ## Notas
 
@@ -25,3 +28,10 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
   pasó.
 - Si algún mes se ve vacío, no pasa nada. Esto es para que se note el
   avance cuando lo haya, no para presionarte a llenarlo.
+- **Trofeos y experiencia (XP) se calculan de aquí**, no al revés: el
+  contador de trofeos en Cerebro.exe y Habilidades.exe es el número de
+  filas de esta tabla, y la XP de Yo.exe es
+  `(pasos marcados con [x] en metas/ × 10) + (filas de esta tabla × 50)`.
+  Cada vez que agregamos un logro aquí, esos tres tableros se
+  recalculan y se vuelven a publicar en el mismo turno — así no se
+  quedan atrás otra vez.
