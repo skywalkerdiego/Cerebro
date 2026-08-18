@@ -8,6 +8,17 @@ esto desbloquea el resto del año).
 Contacto de la carrera: titulacion.relacionesinternacionales@aragon.unam.mx
 Sistema de seguimiento: https://seguimientotitulacion.unam.mx/expediente/21179
 
+Tablero: [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc)
+
+## Documentos
+
+| Documento | Archivo |
+|-----------|---------|
+| Autorización de Transferencia de Información (ATI) — versión Expediente DGAE | [biblioteca/titulacion/ATI_ExpedienteDGAE.pdf](../biblioteca/titulacion/ATI_ExpedienteDGAE.pdf) |
+| Formato de solicitud y elección de título (llenado) | [biblioteca/titulacion/SolicitudTitulo_llenado.pdf](../biblioteca/titulacion/SolicitudTitulo_llenado.pdf) |
+| Comprobante de pago | Pendiente — se sube cuando esté armado |
+| Formato de no adeudo de bibliotecas | Pendiente de mandar |
+
 ## Proceso general (según correo de Daniel Edgar Muñoz Torres)
 
 1. Aprobación, desarrollo y conclusión del trabajo académico — ✅ hecho.

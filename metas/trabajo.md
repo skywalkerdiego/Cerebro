@@ -5,6 +5,8 @@ relacionado con Relaciones Internacionales, con foco en comercio exterior
 y aduanas.
 **Estado:** Por arrancar — falta definir camino de entrada.
 
+Tablero: [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136)
+
 **Actualización 15/08/2026 — prioridad real:** estás cansado del trabajo
 actual y lo urgente es **más dinero y/o remoto**, no necesariamente
 comercio exterior específicamente. Comercio exterior sigue como meta de

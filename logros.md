@@ -8,6 +8,8 @@ avance se vea, no solo lo que falta.
 Cada vez que completes algo (grande o chico), dilo en la conversación
 y lo agrego aquí.
 
+Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345)
+
 ## Registro
 
 | Fecha | Logro | Área |
