@@ -23,6 +23,7 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 18/08/2026 | Corregiste Rutina.exe para que "Hoy" se ubique solo en el día real y quedara registrado que ya aplicaste a SMJ Consulting y NC Recruitment | Sistema |
 | 18/08/2026 | Armaste 3 Routines de check-in diario (5am, 5:30pm, 8pm) y abriste salud.md, familia.md y amigos.md — más Perfil.exe para verlo todo junto | Sistema |
 | 18/08/2026 | Auditaste y corregiste Trabajo.exe, Logros.exe, Desempeño.exe y Biblioteca.exe (vacantes, logros y links que estaban desactualizados o rotos), y le diste a Cerebro.exe una tarjeta de prioridad, categorías colapsables y una mascota | Sistema |
+| 18/08/2026 | Armaste una sección de gustos completa en Perfil.exe (música, cine, series, libros, Berserk, arte y filosofía) con datos reales tuyos | Perfil |
 
 ## Notas
 

@@ -36,9 +36,9 @@ te interesa, qué disfrutas.
 ### Filosofía y religión
 
 - No lees mucho, pero disfrutas analizar a fondo lo que sí lees.
-- **Existencialismo y absurdismo** — Albert Camus (el absurdismo es
-  literalmente su filosofía central), *Siddhartha* de Hesse, *1984* de
-  Orwell.
+- **Existencialismo, absurdismo y estoicismo** — Albert Camus (*El
+  Extranjero*; el absurdismo es literalmente su filosofía central),
+  *Siddhartha* de Hesse, *1984* de Orwell.
 - Leyendo actualmente: *El arte de la guerra* (Sun Tzu).
 - **Budismo y cristianismo** — te interesa conocer distintas religiones
   y formas de ver la vida, más allá de una sola.
@@ -54,6 +54,7 @@ te interesa, qué disfrutas.
 - Tocas guitarra.
 - Arctic Monkeys (*Tranquility Base Hotel &amp; Casino*), Interpol
   (*Turn on the Bright Lights*), Nirvana (*Nevermind*), Kendrick Lamar.
+- Todavía te gusta algo de Eminem, aunque ya no lo sigues tanto.
 - **Su canción con Fanny: "Disco", de Surf Curse.**
 - Comparten mucho gusto musical — Kendrick Lamar, Gorillaz, Nirvana. Ver
   [novia.md](novia.md).
@@ -62,10 +63,20 @@ te interesa, qué disfrutas.
 
 - **Terror y suspenso** como género favorito — historias de terror en
   general, *Prisoners*, *Nocturnal Animals*.
-- Christopher Nolan — *Tenet*.
-- *The Last of Us*, *Seinfeld*, *Better Call Saul*, *Shrek*.
+- **Christopher Nolan** — *Tenet*, y *La Odisea* (su próxima película).
+- **Stanley Kubrick** y **Michael Mann** (*Heat*) — directores que te
+  laten mucho.
+- *The Last of Us*, *Seinfeld*, *The Office*, *Better Call Saul*,
+  *Shrek*.
 - *Peaky Blinders* y *Breaking Bad* — también le gustan a Fanny, son
   algo que comparten.
+
+### Manga — Berserk
+
+- Te gusta muchísimo: el estilo del dibujo (Kentaro Miura), el
+  personaje (Guts) y la esencia general de la historia.
+- Si quieres profundizar (arco favorito, alguna cita, algo puntual),
+  dime y lo agrego aquí.
 
 ### Arte y estilo
 
