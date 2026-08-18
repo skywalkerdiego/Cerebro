@@ -40,6 +40,25 @@ completo por primera vez — ver [../desempeno/metricas.md](../desempeno/metrica
 El bullet de Boost Mobile ahora usa el rango real (98.9%–108.8% a
 meta) en vez de un solo corte, más representativo y más fuerte.
 
+**17/08/2026 — fechas corregidas (via Indeed):** al armar su perfil de
+Indeed, Diego recordó las fechas reales de sus dos roles institucionales,
+distintas a lo que tenía el CV original:
+
+- **CIALC:** era **septiembre 2023 – mayo 2025** (ya terminó), no
+  "2025-2026 simultáneo" como decía el CV que él mismo había mandado.
+  Ya no traslapa con DIF Tlalnepantla (que empezó justo después) — sí
+  traslapó parcialmente con Boost Mobile.
+- **DIF Tlalnepantla:** era **junio 2025 – julio 2026** (también ya
+  terminó, el mes pasado), no "2025-2026" abierto. Sí fue simultáneo
+  con Boost Mobile todo ese tiempo.
+
+Con esto, la historia de fechas queda más simple y creíble: Boost
+Mobile es el único trabajo en curso; CIALC y DIF fueron consecutivos
+(uno terminó, empezó el otro), cada uno traslapando solo con Boost
+Mobile, nunca los tres a la vez. Corregido en el CV (ver arriba) —
+**pendiente aplicar la misma corrección en LinkedIn**, que todavía
+dice fechas distintas (jun 2023 – feb 2026 para CIALC).
+
 ---
 
 ## Versión español
@@ -80,13 +99,13 @@ Negocios Internacionales
 - Colaboración con equipos especializados para resolver incidencias técnicas y administrativas.
 - Performance Total consistente entre 98.9% y 108.8% a meta en los últimos meses, con métricas de atención en chat y voz frecuentemente por arriba de 100% a meta.
 
-**DIF Tlalnepantla** 2025 – 2026 (medio tiempo, simultáneo con Boost Mobile)
+**DIF Tlalnepantla** Junio 2025 – Julio 2026 (medio tiempo, simultáneo con Boost Mobile)
 *Apoyo a Proyectos*
 - Colaboración externa, tipo freelance, brindando apoyo flexible a distintos programas e iniciativas sociales según la necesidad del momento.
 - Apoyo en la planeación logística de programas sociales y eventos.
 - Elaboración de reportes y documentos para el seguimiento de proyectos.
 
-**Centro de Investigaciones sobre América Latina y el Caribe (CIALC) – UNAM** 2025 – 2026 (medio tiempo, simultáneo con Boost Mobile)
+**Centro de Investigaciones sobre América Latina y el Caribe (CIALC) – UNAM** Septiembre 2023 – Mayo 2025
 *Asistente de Investigación*
 - Creación de materiales educativos para la cátedra de Negocios Internacionales.
 - Investigación documental sobre temas políticos, económicos y sociales de América Latina y el Caribe.
@@ -141,13 +160,13 @@ Business
 - Partner with specialized teams to deliver timely and accurate resolutions.
 - Sustained a Performance Total between 98.9% and 108.8% to goal over recent months, with chat and voice metrics frequently above 100% to goal.
 
-**DIF Tlalnepantla** 2025 – 2026 (part-time, concurrent with Boost Mobile)
+**DIF Tlalnepantla** June 2025 – July 2026 (part-time, concurrent with Boost Mobile)
 *Project Support*
 - Provided flexible, freelance-style support across different social programs and institutional initiatives as needed.
 - Supported operational planning and logistics for social welfare programs and public events.
 - Prepared analytical documents and informational materials to support project development and institutional decision-making.
 
-**Center for Research on Latin America and the Caribbean (CIALC) – UNAM** 2025 – 2026 (part-time, concurrent with Boost Mobile)
+**Center for Research on Latin America and the Caribbean (CIALC) – UNAM** September 2023 – May 2025
 *Research Assistant*
 - Created educational materials for the International Business course.
 - Conducted documentary research on political, economic, and social issues across Latin America and the Caribbean.

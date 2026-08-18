@@ -14,6 +14,7 @@ y lo agrego aquí.
 |-------|-------|------|
 | 15/08/2026 | Armaste todo el sistema de Cerebro: metas, perfil, finanzas y 3 tableros interactivos | Sistema |
 | 16/08/2026 | Actualizaste LinkedIn a fondo (headline, about, experiencia, open to work), rehiciste y entregaste tu CV final en PDF (ESP/ENG), y registraste tu primera lectura real de métricas laborales | Trabajo / Desempeño |
+| 17/08/2026 | Encontraste una vacante con match fuerte (SMJ Consulting), armaste CV y carta de presentación a la medida, corregiste fechas reales de tu historial laboral en todo el sistema, y dejaste tu perfil de Indeed completo — listo para aplicar | Trabajo |
 
 ## Notas
 

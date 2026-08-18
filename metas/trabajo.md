@@ -99,7 +99,9 @@ y se le mandó por chat. Ajustes aplicados, todos ya en el PDF entregado:
       (los tres frentes reales: material de cátedra, investigación,
       redacción/revisión) — misma descripción que ya se usó en LinkedIn
 - [x] Aclarar en las fechas que Boost Mobile, DIF Tlalnepantla y CIALC
-      son simultáneos/medio tiempo (traslapan 2025-2026)
+      son simultáneos/medio tiempo — **actualizado 17/08/2026** con las
+      fechas reales (CIALC sep 2023-may 2025, DIF jun 2025-jul 2026,
+      ninguno de los dos sigue activo, ver [cv.md](cv.md))
 - [x] Poner el LinkedIn como URL completa
       (`linkedin.com/in/diego-ruiz-elizondo-634b48297`), no solo texto
 
@@ -138,9 +140,10 @@ Ajustes concretos pendientes:
       `../desempeno/metricas.md` (Performance Total, FCR, ACT); DIF
       Tlalnepantla y CIALC con la descripción cualitativa aclarada el
       16/08/2026 — hecho
-- [ ] Aclarar en las fechas que Boost Mobile, DIF Tlalnepantla y CIALC
-      traslapan (medio tiempo simultáneo 2025-2026), mismo ajuste que en
-      el CV
+- [ ] Corregir en LinkedIn las fechas de CIALC (dice jun 2023 – feb
+      2026; la fecha real, confirmada 17/08/2026 vía Indeed, es
+      septiembre 2023 – mayo 2025, ya terminó) y de DIF Tlalnepantla
+      (confirmar que diga junio 2025 – julio 2026, también terminado)
 - [ ] Agregar sección de **Idiomas** formal (inglés, alemán en curso) en
       vez de dejarlo implícito en el texto
 - [ ] Conectar activamente con gente del gremio — agentes aduanales,
@@ -167,18 +170,27 @@ Perfil casi vacío — se le pasó el texto del Resumen, Experiencia laboral
 (Boost Mobile, DIF Tlalnepantla, CIALC) y Habilidades a agregar, mismo
 contenido que ya está pulido en [cv.md](cv.md).
 
-- [ ] Pegar Resumen
-- [ ] Pegar las 3 experiencias laborales
-- [ ] Agregar habilidades de comex/bilingüe (ya tiene Liderazgo y
-      Habilidades de comunicación)
-- [ ] Revisar qué pide la sección "Datos personales" (no visible en la
-      captura)
+- [x] Pegar Resumen — hecho
+- [x] Pegar las 3 experiencias laborales — hecho, y de paso Diego
+      corrigió las fechas reales de CIALC y DIF Tlalnepantla (ver nota
+      abajo y en [cv.md](cv.md))
+- [x] Agregar habilidades de comex/bilingüe — hecho: Atención al
+      cliente, Bilingüe, Resolución de problemas (más Liderazgo y
+      Habilidades de comunicación que ya tenía)
+- [x] Revisar "Datos personales" — visible: disponibilidad para viajar
+      (Sí), grado de estudios ("Licenciatura incompleta o en curso" —
+      coincide con el ajuste de egresado/titulación en trámite que ya
+      se hizo en el CV), industria, total de años de experiencia (3)
 - **Nota:** el correo de esta cuenta de Indeed es
   `skywalkerdiego13@gmail.com`, distinto al `druizelizondo@gmail.com`
   que usan el CV y LinkedIn — sin resolver si unificarlo o dejarlo así.
 - La Escolaridad ya está bien tal cual ("agosto 2020 a Presente") — no
   necesita el mismo ajuste de "egresado/titulación en trámite" que el
   CV porque no reclama que ya terminó.
+
+**Perfil de Indeed: completo.** Solo falta que Diego mande la
+solicitud a la vacante de SMJ Consulting con el CV y la carta ya
+corregidos.
 
 ## Ruta rápida: más dinero y/o remoto (agregado 15/08/2026)
 
