@@ -3,7 +3,7 @@
 **Objetivo:** Salir del trabajo actual hacia uno mejor pagado, idealmente
 relacionado con Relaciones Internacionales, con foco en comercio exterior
 y aduanas.
-**Estado:** Por arrancar — falta definir camino de entrada.
+**Estado:** 2 vacantes aplicadas (SMJ Consulting, NC Recruitment Agency) — esperando respuesta, mientras sigue la búsqueda de más puertas de entrada.
 
 Tablero: [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136)
 

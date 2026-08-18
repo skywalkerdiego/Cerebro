@@ -28,6 +28,19 @@ día le pegan directo al sueño y al tiempo para cuidarte.
 - **Nada médico pendiente** ahorita (confirmado 18/08/2026) — al día
   en chequeos/dentista/etc.
 
+## Registro de sueño
+
+Vacío por ahora — arráncalo cuando quieras, no hace falta esperar a
+tener el patrón completo. Cuéntame en la conversación (o escríbelo tú
+directo aquí) algo tan simple como "dormí 5 horas, turno 6am–4pm" y lo
+agrego. Con unas semanas de datos reales podemos ver si el problema es
+el traslado, el turno específico, o algo más — en vez de quedarnos
+solo con la sensación de "duermo mal".
+
+| Fecha | Horas dormidas | Turno ese día | Notas |
+|-------|-----------------|---------------|-------|
+| — | — | — | — |
+
 ## Lo que no sé y me serviría saber
 
 - Del sueño: ¿es que no te alcanza el tiempo por el traslado de 2h40,

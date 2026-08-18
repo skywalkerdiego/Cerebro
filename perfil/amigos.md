@@ -17,6 +17,18 @@ tengas resuelto.
   problema real: casi no queda tiempo libre entre semana para ver
   gente fuera del trabajo. Ver [rutina.md](rutina.md).
 
+## Compañeros de trabajo
+
+Vacío por ahora — dime nombres y con quién tienes más relación, y lo
+voy llenando aquí, igual que hago con la familia de Fanny en
+[novia.md](novia.md). Así puedo llevar contexto real (algo que les
+esté pasando, un cumpleaños) en vez de tratarlos como un grupo
+genérico.
+
+| Nombre | Qué tan cercano | Notas |
+|--------|------------------|-------|
+| — | — | — |
+
 ## Lo que no sé y me serviría saber
 
 - ¿Con quién de tus compañeros de trabajo tienes más relación? ¿Se ven
