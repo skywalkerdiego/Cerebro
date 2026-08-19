@@ -79,10 +79,46 @@ cerca o después del corte de información más confiable de Claude —
 verificar resultados y fechas exactas antes de citarlos, no darlos por
 hechos solo porque se mencionen aquí.
 
+## 6. Prompt para pedirle ayuda a Claude con la redacción
+
+Una vez que tengas la investigación reunida, usa esto (copiar/pegar tal
+cual, rellenando lo que está entre corchetes):
+
+> Estoy escribiendo un artículo de investigación en español sobre "El
+> giro a la derecha en América Latina (2023-2026)", para publicar en
+> LinkedIn como parte de mi presencia profesional en Relaciones
+> Internacionales / comercio exterior, y como evidencia de investigación
+> de cara a una futura maestría. Vengo de dos años como asistente de
+> investigación en CIALC-UNAM (investigación documental sobre temas
+> políticos, económicos y sociales de América Latina y el Caribe).
+>
+> Mi tesis de trabajo es: **[pega aquí la tesis A o B que hayas elegido,
+> o la tuya propia]**.
+>
+> Abajo te paso toda la investigación que ya reuní (notas, datos,
+> fuentes, citas). Quiero que trabajes solo con esto — no completes
+> huecos con información que no te haya dado, y si algo que necesito no
+> está en mi investigación, dime exactamente qué falta en vez de
+> inventarlo o suponerlo.
+>
+> Ayúdame a:
+> 1. Revisar si mi tesis se sostiene con la evidencia que tengo, o si
+>    necesito matizarla.
+> 2. Proponer una estructura de artículo (2,000-3,000 palabras aprox.) a
+>    partir de mis notas.
+> 3. Redactar un primer borrador en tono analítico pero accesible para
+>    LinkedIn — no académico duro, pero tampoco superficial.
+> 4. Señalar si algún dato o afirmación necesita cita/fuente y no la
+>    tengo clara.
+>
+> Aquí está mi investigación:
+> **[pega tus notas, datos y fuentes aquí]**
+
 ## Estado
 
 - [x] Tema elegido (19/08/2026): el giro a la derecha en AL
 - [x] Desglose de investigación armado (19/08/2026)
+- [x] Prompt de redacción armado (19/08/2026)
 - [ ] Investigación (Diego)
 - [ ] Definir tesis final (A o B, o una propia)
 - [ ] Primer borrador
