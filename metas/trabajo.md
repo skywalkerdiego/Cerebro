@@ -278,21 +278,39 @@ tener que elegir todavía.
   compita con el tiempo del pago de titulación (más urgente ahora mismo).
   - [ ] Definir 2-3 temas iniciales (comercio exterior, RI, o lo que
         salga de tu experiencia en CIALC)
-    - **Propuestas (19/08/2026)** — listas para elegir y arrancar:
-      1. **Nearshoring y México: ¿oportunidad real o promesa sin
-         infraestructura?** — cómo está reconfigurando el comercio
-         exterior mexicano (aduanas, logística, cadenas de suministro).
-         Tema de actualidad, conecta directo con tu búsqueda de trabajo
-         en comercio exterior/aduanas.
-      2. **El T-MEC a mitad de camino: qué está en juego en la revisión
-         conjunta de 2026.** La revisión del tratado está en curso justo
-         ahora — análisis de qué sectores y reglas se están discutiendo
-         y qué implicaría para México.
-      3. **Diversificación de socios comerciales en América Latina y el
-         Caribe: CELAC, Alianza del Pacífico y Mercosur en un mundo
-         multipolar.** Se apoya directo en tu experiencia real de
-         investigación documental en CIALC sobre temas políticos y
-         económicos de la región.
+    - **Primera tanda (19/08/2026, enfoque comercio exterior)** —
+      propuesta inicial, pero dijiste que te late más lo social/político:
+      1. Nearshoring y México: ¿oportunidad real o promesa sin
+         infraestructura?
+      2. El T-MEC a mitad de camino: qué está en juego en la revisión
+         conjunta de 2026.
+      3. Diversificación de socios comerciales en AL y el Caribe: CELAC,
+         Alianza del Pacífico y Mercosur en un mundo multipolar.
+    - **Segunda tanda (19/08/2026, enfoque social/político/diplomático)**
+      — la que más te latió, agrupada por tema:
+      - *Político*
+        1. Populismo y polarización en América Latina: casos comparados
+           (Argentina, Brasil, México) — de dónde viene el patrón.
+        2. La crisis de gobernabilidad en Haití: ¿qué papel debe jugar
+           la comunidad internacional?
+        3. El giro a la derecha en América Latina (2023-2026): ¿fin del
+           "ciclo progresista" o reacomodo temporal?
+      - *Social*
+        1. Migración centroamericana y mexicana hacia EE.UU.: causas
+           estructurales más allá de la frontera.
+        2. Desigualdad y movilidad social en AL: por qué la región sigue
+           siendo la más desigual del mundo.
+        3. El papel de la juventud latinoamericana en los movimientos
+           sociales recientes (Perú, Colombia, Chile).
+      - *Diplomático / geopolítico*
+        1. La disputa EE.UU.-China por influencia en AL: préstamos,
+           infraestructura y alineamientos.
+        2. CELAC vs OEA: la pugna por el liderazgo regional y la
+           autonomía diplomática latinoamericana.
+        3. Multilateralismo en crisis: lecciones de la diplomacia
+           clásica (griega/romana) para el mundo multipolar actual —
+           conecta tu interés en civilizaciones antiguas con RI.
+      - Pendiente: que elijas 1 para arrancar el outline.
   - [ ] Publicar el primer artículo
 
 ## Notas
