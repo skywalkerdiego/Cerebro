@@ -17,7 +17,51 @@ datos:
   izquierda o derecha, porque se castiga a quien gobierne. Explica mejor
   los casos que no encajan en A.
 
-## 2. Índice de investigación (ve marcando conforme avances por partes)
+## 2. Puntos clave para tu análisis
+
+Ocho aspectos que le dan rigor al artículo. No son investigación en sí
+—son la lente con la que interpretas lo que vayas encontrando—.
+
+1. **¿Es un giro real o son elecciones sueltas?** Antes de asumir que
+   hay una "tendencia", cuenta cuántos países cambiaron realmente de
+   bloque político y compáralo con los que se quedaron igual. Una ola
+   necesita evidencia sistemática, no solo 2-3 casos ruidosos en las
+   noticias.
+2. **Calidad democrática ≠ orientación ideológica.** Son dos ejes
+   distintos. Un gobierno de derecha puede fortalecer o debilitar la
+   democracia, igual que uno de izquierda. No asumas que "derecha" es
+   sinónimo de autoritario o "izquierda" de democrático — compara el
+   índice (Economist/V-Dem) de cada país con su gobierno actual y ve qué
+   pasa realmente.
+3. **Anti-incumbencia: el patrón que cruza ideologías.** En muchos
+   países la gente no elige "derecha" por convicción — castiga a quien
+   esté gobernando por inflación, inseguridad o corrupción. Si tanto
+   gobiernos de izquierda como de derecha están perdiendo elecciones
+   seguidas, el patrón real es hartazgo con el poder en turno, no una
+   ideología ganando.
+4. **No toda "derecha" es la misma.** Milei (libertario), Bukele (mano
+   dura/seguridad), la derecha tradicional conservadora — son proyectos
+   distintos, con causas y consecuencias distintas. Meterlos en la misma
+   bolsa simplifica de más y le resta rigor al análisis.
+5. **Encuesta vs. resultado electoral.** Lo que la gente dice sentir en
+   una encuesta (autoidentificación izq/derecha) no siempre coincide con
+   por quién termina votando. El personalismo del candidato o el voto
+   "antisistema" muchas veces pesan más que la ideología pura.
+6. **Los contraejemplos son parte del argumento, no un obstáculo.**
+   México, Colombia, Brasil, Honduras siguen gobernados por la
+   izquierda/centro. No los escondas — úsalos para afinar tu tesis: ¿por
+   qué esos sí resistieron la tendencia?
+7. **El "por qué" de fondo, no solo el "qué".** Detrás del resultado
+   electoral casi siempre hay 2-3 factores estructurales repetidos:
+   inseguridad/crimen organizado, inflación/estancamiento, fatiga
+   institucional/corrupción, migración. Identifica cuáles pesan más en
+   cada país.
+8. **Cruza tus fuentes, no confíes en una sola.** Ya viste que una
+   fuente puso a Nicaragua como "derecha" por error. Antes de citar un
+   dato fuerte, confírmalo en al menos dos fuentes independientes — una
+   de datos duros (V-Dem/Latinobarómetro) y una de análisis o prensa.
+
+## 3. Índice de investigación (ve marcando conforme avances por partes)
 
 ### I. Panorama general — arrancar aquí
 - [ ] Mapa de gobiernos actuales por bloque político: ¿quién manda hoy en
@@ -132,16 +176,6 @@ partida, no verdad cerrada):**
 - [ ] Qué significa esto para México específicamente
 - [ ] Qué significa para el comercio exterior/RI de la región (tu ángulo
       profesional)
-
-## 3. Ejes para explicar el "por qué"
-
-- Inseguridad/crimen organizado como issue #1
-- Fatiga económica con gobiernos de izquierda/centro (inflación,
-  estancamiento)
-- Anti-incumbencia pura (explicación más simple que "giro ideológico")
-- Liderazgos "outsider" y redes sociales
-- Influencia externa (postura de EE.UU., China)
-- Migración como tema movilizador
 
 ## 4. Autores y especialistas sugeridos (punto de partida — verificar
    vigencia y buscar sus publicaciones más recientes)
