@@ -27,6 +27,59 @@ datos:
 - [ ] Últimos datos de Latinobarómetro: confianza institucional,
       aprobación de la democracia, autoidentificación izq/derecha
 
+**Hallazgos preliminares y links (búsqueda del 19/08/2026 — lee la
+fuente original antes de citar cualquier dato, esto es punto de
+partida, no verdad cerrada):**
+
+- Entre 2023 y 2026, **11 de 14 elecciones presidenciales** en AL las
+  habría ganado una fuerza de derecha — cifra y metodología a verificar
+  directo en la fuente:
+  [¿Cómo quedó el mapa ideológico de América Latina en 2025? — Diálogo
+  Político](https://dialogopolitico.org/agenda/analisis/mapa-ideologico-america-latina-2025/)
+- El triunfo de Abelardo de la Espriella en Colombia (2026) como el
+  evento más reciente que reconfigura el mapa regional:
+  [Infobae — "El triunfo de Abelardo de la Espriella cambió el mapa
+  político de América
+  Latina"](https://www.infobae.com/colombia/2026/06/23/el-triunfo-de-abelardo-de-la-espriella-cambio-el-mapa-politico-de-america-latina-asi-se-ve-la-region-entre-la-derecha-y-la-izquierda/)
+- Análisis sobre la irrupción de las "nuevas derechas" en la región:
+  [Radio Universidad de Chile — "El nuevo mapa político en América
+  Latina"](https://radio.uchile.cl/2026/06/27/el-nuevo-mapa-politico-en-america-latina-las-claves-de-la-irrupcion-de-las-nuevas-derechas/)
+- ⚠️ Una fuente (arbolinvertido.com) clasificó a **Nicaragua** como país
+  de "derecha consolidada" — es un error o fuente poco confiable (el
+  gobierno de Ortega/Murillo es autoritario de izquierda/FSLN, no de
+  derecha). No uses esa fuente sin cruzarla con otra — es justo el tipo
+  de dato que le resta credibilidad al artículo si se cuela sin revisar.
+- **The Economist Democracy Index 2025:** la región cortó 9 años
+  seguidos de declive democrático (subió de 5.61 a 5.71 en el índice
+  agregado). Ranking destacado: Uruguay (9.90), Chile (9.25), Costa Rica
+  (8.90) arriba; Venezuela (3.07), Cuba (3.05), Nicaragua (2.92) abajo;
+  Brasil (7.50), Argentina (7.35), Bolivia/Colombia (6.55), El Salvador
+  (4.27). Compilación con tablas por país:
+  [Congress.gov — Democracy in Latin America and the Caribbean (CRS
+  Report)](https://www.congress.gov/crs-product/R46016) · [PDF con
+  tablas](https://www.congress.gov/crs_external_products/R/PDF/R46016/R46016.11.pdf)
+  · [gráfico Statista](https://www.statista.com/chart/18737/democracy-index-world-map)
+- **V-Dem Democracy Report 2026** incluye una sección nueva sobre el
+  avance de la derecha radical en El Salvador, Brasil (era Bolsonaro) y
+  Argentina — útil directo para el bloque de casos, no solo panorama:
+  [PDF completo del reporte](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf)
+  · [página de reportes](https://www.v-dem.net/publications/democracy-reports/)
+  · [versión en español, nota de
+  prensa](https://www.v-dem.net/news/out-now-democracy-report-2026-in-spanish/)
+- **Latinobarómetro 2024 ("La Democracia Resiliente")** — confianza
+  institucional, apoyo a la democracia, autoidentificación izq/derecha
+  por país: [nota de
+  presentación](https://www.latinobarometro.org/news/informe-latinobarometro-2024-la-democracia-resiliente)
+  · [resultados por país
+  (PDF)](https://www.latinobarometro.org/documents/LAT-2024/latinobarometro-2024-results-by-country.pdf)
+  · [portal con todos los
+  documentos/datos](https://www.latinobarometro.org/latinobarometro-2024)
+- **LAPOP AmericasBarometer** — otra encuesta regional, buen
+  contraste/complemento a Latinobarómetro: [reportes
+  regionales](https://www.vanderbilt.edu/lapop/regional-reports.php) ·
+  [análisis del Inter-American Dialogue sobre la edición
+  2023](https://thedialogue.org/analysis/the-pulse-of-democracy-in-the-americas-results-of-the-2023-americasbarometer)
+
 ### II. Argentina — Milei
 - [ ] Contexto previo: hiperinflación, crisis con el FMI, desgaste del
       kirchnerismo
