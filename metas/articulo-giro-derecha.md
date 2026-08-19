@@ -17,29 +17,68 @@ datos:
   izquierda o derecha, porque se castiga a quien gobierne. Explica mejor
   los casos que no encajan en A.
 
-## 2. Casos a revisar
+## 2. Índice de investigación (ve marcando conforme avances por partes)
 
-**A favor de la tesis del giro a la derecha:**
-- **Argentina — Milei (dic. 2023):** contexto de hiperinflación previa,
-  coalición que lo llevó al poder, medidas reales tomadas, y su
-  aprobación *actual* (no la de su llegada).
-- **Ecuador — Noboa:** eje de seguridad/crimen organizado más que
-  economía — revisar si se sostiene.
-- **Bolivia — elección 2025:** fin de ~20 años de MAS. Quién ganó y por
-  qué se quebró esa hegemonía.
-- **Chile — proceso 2025-2026:** resultado de la presidencial de fines
-  de 2025, y contraste con el rechazo a la propuesta constitucional *de
-  derecha* en 2023 (no solo la de izquierda en 2022).
-- **El Salvador — Bukele:** caso atípico, "iliberalismo" de derecha con
-  aprobación altísima por seguridad — matiza que no toda "derecha" es
-  igual.
+### I. Panorama general — arrancar aquí
+- [ ] Mapa de gobiernos actuales por bloque político: ¿quién manda hoy en
+      cada país de AL?
+- [ ] Lista de países que cambiaron de signo político (izq→der o
+      der→izq) entre 2023-2026
+- [ ] Últimos datos de Latinobarómetro: confianza institucional,
+      aprobación de la democracia, autoidentificación izq/derecha
 
-**Contraejemplos (le dan rigor al artículo, no saltárselos):**
-- México (Sheinbaum/Morena, 2024)
-- Colombia (Petro)
-- Brasil (Lula)
-- Honduras (Castro)
-- Uruguay (Frente Amplio volvió al poder en 2024)
+### II. Argentina — Milei
+- [ ] Contexto previo: hiperinflación, crisis con el FMI, desgaste del
+      kirchnerismo
+- [ ] Coalición y bases electorales que lo llevaron al poder (dic. 2023)
+- [ ] Medidas económicas tomadas ("motosierra", desregulación, relación
+      con el dólar)
+- [ ] Resultado a mitad de 2026: inflación, pobreza, nivel de aprobación
+      *actual* (no el de su llegada)
+
+### III. Ecuador — Noboa
+- [ ] Contexto de crisis de seguridad/crimen organizado
+- [ ] Cómo ganó (y si se reeligió)
+- [ ] Balance real de resultados en seguridad
+
+### IV. Bolivia — elección 2025
+- [ ] Causas del quiebre de ~20 años de hegemonía del MAS (fractura
+      Evo/Arce, causas externas)
+- [ ] Quién ganó y su perfil político/económico
+- [ ] Primeras medidas del nuevo gobierno
+
+### V. Chile — proceso 2025-2026
+- [ ] Resultado de la presidencial de fines de 2025
+- [ ] Contraste con el rechazo a la propuesta constitucional *de
+      derecha* en 2023 (no solo la de izquierda en 2022) — ¿por qué el
+      electorado rechazó ambos extremos y qué cambió después?
+
+### VI. El Salvador — Bukele
+- [ ] Modelo de "iliberalismo" de derecha: mano dura, estado de
+      excepción
+- [ ] Aprobación vs. críticas de derechos humanos
+- [ ] Por qué es un caso distinto (no es libertario ni conservador
+      clásico) — matiza que no toda "derecha" es igual
+
+### VII. Contraejemplos — no saltárselos, le dan rigor al artículo
+- [ ] México (Sheinbaum/Morena, 2024) — ¿continuidad o giro?
+- [ ] Colombia (Petro)
+- [ ] Brasil (Lula, con el trasfondo de Bolsonaro)
+- [ ] Honduras (Castro)
+- [ ] Uruguay (el Frente Amplio volvió al poder en 2024)
+
+### VIII. Explicaciones de fondo
+- [ ] Anti-incumbencia global/regional — comparar con lo que pasó en
+      otras regiones del mundo post-pandemia/inflación
+- [ ] Inseguridad y crimen organizado como issue transversal
+- [ ] Papel de redes sociales y liderazgos "outsider"
+- [ ] Influencia externa (postura de EE.UU., relación con China)
+- [ ] Migración como tema movilizador
+
+### IX. Cierre
+- [ ] Qué significa esto para México específicamente
+- [ ] Qué significa para el comercio exterior/RI de la región (tu ángulo
+      profesional)
 
 ## 3. Ejes para explicar el "por qué"
 
@@ -51,18 +90,67 @@ datos:
 - Influencia externa (postura de EE.UU., China)
 - Migración como tema movilizador
 
-## 4. Dónde buscar
+## 4. Autores y especialistas sugeridos (punto de partida — verificar
+   vigencia y buscar sus publicaciones más recientes)
 
-- **Datos de opinión:** Latinobarómetro, LAPOP (Vanderbilt), CID Gallup
-- **Resultados oficiales:** organismo electoral de cada país
-- **Análisis académico:** Nueva Sociedad (nuso.org), Americas Quarterly,
-  Foreign Affairs Latinoamérica, publicaciones de CIALC-UNAM
-- **Prensa:** Reuters, AP, BBC Mundo, El País (sección América),
-  Bloomberg Línea
-- **Google Scholar:** "derechización" OR "right turn" "Latin America"
-  2023-2026
+- **Steven Levitsky** (Harvard) — democracia y populismo en AL, coautor
+  de *How Democracies Die*
+- **Kenneth Roberts** (Cornell) — ciclos de izquierda/derecha y
+  populismo latinoamericano
+- **Javier Corrales** (Amherst) — Venezuela, autoritarismo, elecciones
+- **Carlos de la Torre** (Universidad de Kentucky) — teoría del
+  populismo latinoamericano
+- **Cynthia Arnson** (Wilson Center, directora del Programa
+  Latinoamérica) — análisis político regional
+- **Michael Shifter** (Inter-American Dialogue) — comentarista frecuente
+  sobre política regional
+- **Andrés Malamud** (ISCTE-Lisboa) — buen puente entre academia y
+  prensa, comentarista habitual
+- **Oliver Stuenkel** (FGV, Brasil) — geopolítica y democracia en AL
+- **Manuel Alcántara Sáez** (Universidad de Salamanca) — élites políticas
+  latinoamericanas, buen dato duro
+- Investigadores de **CIALC-UNAM** — tu propia ex-institución; vale la
+  pena revisar directamente su catálogo de publicaciones recientes
 
-## 5. Estructura sugerida
+## 5. Dónde buscar (instituciones y medios)
+
+**Think tanks / centros de análisis**
+- Wilson Center — Latin America Program
+- Inter-American Dialogue
+- Americas Society/Council of the Americas (AS/COA)
+- Real Instituto Elcano (España)
+- CIDOB (Barcelona)
+- FLACSO
+
+**Datos y encuestas**
+- Latinobarómetro
+- LAPOP (Vanderbilt) — AmericasBarometer
+- V-Dem Institute
+- Freedom House
+- The Economist Democracy Index
+
+**Revistas académicas**
+- Nueva Sociedad (nuso.org, acceso abierto, en español)
+- Journal of Democracy
+- Latin American Politics and Society
+- Americas Quarterly (tiene versión en español)
+- Foreign Affairs Latinoamérica
+
+**Prensa**
+- El País (sección América)
+- BBC Mundo
+- Bloomberg Línea
+- Infobae
+- Reuters / AP — para hechos duros, fechas y resultados
+- *Latin America Risk Report* (newsletter de James Bosworth) — buen
+  análisis de riesgo político
+
+**Resultados oficiales:** organismo electoral de cada país
+
+**Google Scholar:** "derechización" OR "right turn" "Latin America"
+2023-2026
+
+## 6. Estructura sugerida
 
 1. Gancho con 2-3 datos fuertes (cuántos países cambiaron de signo
    político 2023-2026)
@@ -79,7 +167,7 @@ cerca o después del corte de información más confiable de Claude —
 verificar resultados y fechas exactas antes de citarlos, no darlos por
 hechos solo porque se mencionen aquí.
 
-## 6. Prompt para pedirle ayuda a Claude con la redacción
+## 7. Prompt para pedirle ayuda a Claude con la redacción
 
 Una vez que tengas la investigación reunida, usa esto (copiar/pegar tal
 cual, rellenando lo que está entre corchetes):
