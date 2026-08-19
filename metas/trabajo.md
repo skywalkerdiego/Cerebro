@@ -278,6 +278,21 @@ tener que elegir todavía.
   compita con el tiempo del pago de titulación (más urgente ahora mismo).
   - [ ] Definir 2-3 temas iniciales (comercio exterior, RI, o lo que
         salga de tu experiencia en CIALC)
+    - **Propuestas (19/08/2026)** — listas para elegir y arrancar:
+      1. **Nearshoring y México: ¿oportunidad real o promesa sin
+         infraestructura?** — cómo está reconfigurando el comercio
+         exterior mexicano (aduanas, logística, cadenas de suministro).
+         Tema de actualidad, conecta directo con tu búsqueda de trabajo
+         en comercio exterior/aduanas.
+      2. **El T-MEC a mitad de camino: qué está en juego en la revisión
+         conjunta de 2026.** La revisión del tratado está en curso justo
+         ahora — análisis de qué sectores y reglas se están discutiendo
+         y qué implicaría para México.
+      3. **Diversificación de socios comerciales en América Latina y el
+         Caribe: CELAC, Alianza del Pacífico y Mercosur en un mundo
+         multipolar.** Se apoya directo en tu experiencia real de
+         investigación documental en CIALC sobre temas políticos y
+         económicos de la región.
   - [ ] Publicar el primer artículo
 
 ## Notas
