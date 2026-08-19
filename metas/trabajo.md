@@ -310,7 +310,9 @@ tener que elegir todavía.
         3. Multilateralismo en crisis: lecciones de la diplomacia
            clásica (griega/romana) para el mundo multipolar actual —
            conecta tu interés en civilizaciones antiguas con RI.
-      - Pendiente: que elijas 1 para arrancar el outline.
+      - **Elegido (19/08/2026): "El giro a la derecha en América
+        Latina"** — desglose de investigación armado en
+        [articulo-giro-derecha.md](articulo-giro-derecha.md).
   - [ ] Publicar el primer artículo
 
 ## Notas
