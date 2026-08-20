@@ -77,21 +77,23 @@ mitad: $1,860**.
 | Debes a tu abuela | $500 | Alta |
 | Otra deuda | $200 | Alta |
 | Ficha de titulación | $620 | Alta — vence 29/08 |
-| Cita de hoy con Fanny (tacos + hotel + gasolina) | ~$1,300 (estimado, falta confirmar tarifa del hotel) | Ya en curso |
-| Transporte quincena (~12 días laborales, $17.50/día — Uber de fin de semana lo cubre el trabajo) | ~$210 (estimado) | Fijo |
+| Terapia (sesión de mañana) | $350 | Alta |
+| Cita de hoy con Fanny (hotel $600 + gasolina $500 + tacos $300 + cerveza ~$100) | $1,500 | Ya en curso |
+| Transporte quincena (~12 días laborales, $17.50/día — Uber de fin de semana lo cubre el trabajo) | ~$210 (estimado, falta confirmar días) | Fijo |
 | Despensa | ~$700 (estimado, ajustable) | Flexible |
 | **Ahorro conjunto (adelantando la meta de septiembre)** | **$2,400** | Empieza antes de lo planeado |
-| **Colchón / imprevistos del resto de la quincena** | **$1,163.48** | Lo que sobra |
+| **Colchón / imprevistos del resto de la quincena** | **$613.48** | Lo que sobra |
 | **Total** | **$8,953.48** | |
 
 La idea del ahorro: el plan de `ahorro.md` pide $4,800/mes de tu
 parte a partir de septiembre (~$2,400 por quincena). Metiendo $2,400
 ahora, en agosto, quedas **adelantado** en vez de empezar en ceros en
-septiembre — y aun así queda un colchón de ~$1,163 para lo que salga
-en estos días. Los montos de "cita de hoy" y "transporte" son
-estimados; en cuanto me des el número real del hotel/gasolina y
-cuántos días laborales te quedan, reajusto el colchón final (sube o
-baja, no el ahorro).
+septiembre. El colchón se achicó de ~$1,163 a **$613.48** al sumar la
+terapia y ajustar la cita de hoy a los montos reales — sigue siendo
+positivo, pero ya no sobra mucho. Si algo más aparece esta quincena,
+lo primero que se recorta es la despensa (~$700, es flexible), no el
+ahorro. El único número que sigue siendo estimado es el transporte —
+en cuanto sepas cuántos días laborales te quedan, lo afino.
 
 Ver desglose en [gastos.md](gastos.md).
 

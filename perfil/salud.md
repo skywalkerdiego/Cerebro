@@ -7,7 +7,10 @@ día le pegan directo al sueño y al tiempo para cuidarte.
 
 ## Lo que ya sé
 
-- **Terapia:** ya no estás yendo (confirmado 15/08/2026). En algún
+- **Terapia:** dijiste que ya no ibas (15/08/2026), pero el 20/08
+  mencionaste una sesión pagada para el día siguiente ($350) — parece
+  que la retomaste, aunque sea suelta. Avísame si es algo puntual o si
+  vas a volver de forma regular para dejarlo claro aquí. En algún
   momento se mencionó la posibilidad de TLP y ansiedad — lo dejo
   anotado tal cual me lo contaste, no es un diagnóstico ni yo puedo
   darte uno, es contexto tuyo por si algún día quieres retomarlo con
