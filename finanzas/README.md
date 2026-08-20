@@ -38,8 +38,32 @@ Lo que NO pasa: no hay sincronización en vivo entre lo que capturas tú
 mismo en el tablero y este archivo — esa dirección sigue siendo
 manual (exportar y pegar, o contarme los totales).
 
-## Funciones del tablero (agregado 15/08/2026)
+## Funciones del tablero
 
+Rediseñado el 20/08/2026 al estilo de apps tipo Moneyfy — por cuentas,
+no solo un saldo suelto:
+
+- **Cuentas** — Santander, Efectivo y MercadoPago por default (con sus
+  balances reales de hoy: $8,953.48, $93.50 y $0). Cada movimiento se
+  asigna a una cuenta, así que cada tarjeta siempre muestra cuánto hay
+  ahí de verdad. Puedes agregar/quitar cuentas desde el tablero
+  ("+ Cuenta"). Tocar una cuenta filtra el resto del tablero (gastos
+  por categoría, historial) a solo esa cuenta.
+- **Categorías con ícono** — eliges de una lista fija (🍔 Comida, 🚌
+  Transporte, 🎉 Salidas, 🩺 Salud, 💾 Ahorro, etc.) tocando un chip,
+  en vez de escribir texto libre. Más rápido y consistente.
+- **Transferencias entre cuentas** — tipo de movimiento aparte
+  ("Mover"), para cuando pasas dinero de una cuenta a otra sin que
+  cuente como gasto real.
+- **Pendientes de pagar** — lo que sabes que debes pero todavía no
+  sale de ninguna cuenta (boletos, deudas, ficha, etc.), con un botón
+  "Ya lo pagué" que te pregunta de qué cuenta salió y lo convierte en
+  movimiento real al instante.
+- **Accesos rápidos** — botones de un toque para gastos que se repiten
+  (Metro $5 desde Santander, Combi $7.50 desde Efectivo por default).
+  Agrega los tuyos con nombre, emoji, categoría, monto y cuenta.
+- **Historial agrupado por día** — en vez de una tabla plana, ves cada
+  movimiento con su ícono, cuenta y categoría, agrupado por fecha.
 - **Presupuestos por categoría** — le pones un límite mensual a una
   categoría (ej. Comida: $3,000) y la barra se pone roja si te pasas.
 - **Gastos fijos recurrentes** — registras algo una vez (ej. Renta,
@@ -47,10 +71,11 @@ manual (exportar y pegar, o contarme los totales).
   a mano.
 - **Tendencia mensual** — gráfica de ingresos vs. gastos de los
   últimos meses, en cuanto haya al menos 2 meses con movimientos.
-- **Accesos rápidos** (agregado 20/08/2026) — botones tipo Metro
-  ($5) y Combi ($7.50) para registrar un gasto con un toque, sin
-  llenar el formulario. Puedes agregar los tuyos (nombre, emoji,
-  categoría, monto) desde el mismo tablero.
+
+El "Disponible del mes" (el techo de $15,200 que no se entendía bien)
+ya no existe en el tablero — lo reemplazan las cuentas reales y los
+pendientes, que dicen lo mismo de forma más concreta: cuánto tienes,
+cuánto debes, cuánto te queda.
 
 ## Quincena del 20/08/2026 (confirmado)
 
