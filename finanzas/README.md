@@ -62,9 +62,28 @@ apuntado como posible cuando se hizo el cálculo. No es un error de
 cálculo tuyo ni nuestro — es cómo retiene el patrón sobre el ingreso
 "extra" de la quincena.
 
-Este número ya reemplaza el estimado anterior como el real. Ver
-desglose de gastos de esta quincena en
-[gastos.md](gastos.md).
+Este número ya reemplaza el estimado anterior como el real.
+
+### Reparto de la quincena (20/08 – ~04/09/2026)
+
+| Destino | Monto | Prioridad |
+|---|---|---|
+| Boletos Vaivén (la parte de Fanny, la estás adelantando) | $3,720 | Alta — ya comprometido |
+| Debes a tu abuela | $500 | Alta |
+| Otra deuda | $200 | Alta |
+| Ficha de titulación | $620 | Alta — vence 29/08 |
+| **Subtotal compromisos fijos** | **$5,040** | |
+| Cita de hoy con Fanny (tacos + hotel + gasolina) | ~$1,200–1,400 (estimado, falta confirmar tarifa del hotel) | Ya en curso |
+| Transporte quincena (días laborales, $17.50/día — Uber de fin de semana lo cubre el trabajo) | ~$175–210 (falta confirmar cuántos días laborales quedan) | Fijo |
+| **Queda libre para comida diaria / imprevistos / colchón** | **~$2,300–2,550** | El resto |
+
+Depósito ($8,953.48) − compromisos fijos ($5,040) − cita de hoy
+(~$1,300) − transporte (~$190) ≈ **$2,400** para el resto de la
+quincena (comida del día a día, imprevistos, algo de colchón). Ajustado
+en cuanto confirmes el monto real del hotel/gasolina de hoy y los días
+laborales que te quedan.
+
+Ver desglose en [gastos.md](gastos.md).
 
 ## Notas
 
