@@ -23,9 +23,11 @@ salga cada uno y lo paso a Movimientos.
 
 | Concepto | Categoría | Monto | Estatus |
 |----------|-----------|-------|---------|
-| Boletos Vaivén (parte de Fanny) | Salidas/citas | $3,720 | Pendiente — hablar con Fanny para que regrese su parte |
+| Boletos Corona Capital (tu mitad — el resto lo cubre/regresa Fanny) | Salidas/citas | $1,860 | Pendiente |
 | Deuda con la abuela | Otros | $500 | Pendiente |
 | Otra deuda | Otros | $200 | Pendiente |
 | Ficha de titulación | Otros | $620 | Pendiente — vence 29/08 |
-| Cita de hoy con Fanny (tacos + hotel + gasolina) | Salidas/citas | ~$1,200–1,400 (por confirmar) | En curso |
-| Transporte quincena (días laborales) | Transporte | ~$175–210 (por confirmar días) | Recurrente
+| Cita de hoy con Fanny (tacos + hotel + gasolina) | Salidas/citas | ~$1,300 (por confirmar) | En curso |
+| Transporte quincena (~12 días laborales) | Transporte | ~$210 (por confirmar días) | Recurrente |
+| Despensa | Comida | ~$700 (ajustable) | Pendiente |
+| Aporte a ahorro conjunto (adelantado, ver `ahorro.md`) | Ahorro | $2,400 | Pendiente — transferir a la cuenta MercadoPago conjunta |

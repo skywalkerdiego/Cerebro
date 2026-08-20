@@ -66,22 +66,32 @@ Este número ya reemplaza el estimado anterior como el real.
 
 ### Reparto de la quincena (20/08 – ~04/09/2026)
 
+Corrección: los $3,720 de boletos son de **Corona Capital** (no
+Vaivén) — evento nuevo, plan aparte pendiente. Es una compra a
+medias con Fanny, así que solo cuenta como tu gasto real **la
+mitad: $1,860**.
+
 | Destino | Monto | Prioridad |
 |---|---|---|
-| Boletos Vaivén (la parte de Fanny, la estás adelantando) | $3,720 | Alta — ya comprometido |
+| Boletos Corona Capital (tu mitad, la otra la cubre/regresa Fanny) | $1,860 | Alta — ya comprometido |
 | Debes a tu abuela | $500 | Alta |
 | Otra deuda | $200 | Alta |
 | Ficha de titulación | $620 | Alta — vence 29/08 |
-| **Subtotal compromisos fijos** | **$5,040** | |
-| Cita de hoy con Fanny (tacos + hotel + gasolina) | ~$1,200–1,400 (estimado, falta confirmar tarifa del hotel) | Ya en curso |
-| Transporte quincena (días laborales, $17.50/día — Uber de fin de semana lo cubre el trabajo) | ~$175–210 (falta confirmar cuántos días laborales quedan) | Fijo |
-| **Queda libre para comida diaria / imprevistos / colchón** | **~$2,300–2,550** | El resto |
+| Cita de hoy con Fanny (tacos + hotel + gasolina) | ~$1,300 (estimado, falta confirmar tarifa del hotel) | Ya en curso |
+| Transporte quincena (~12 días laborales, $17.50/día — Uber de fin de semana lo cubre el trabajo) | ~$210 (estimado) | Fijo |
+| Despensa | ~$700 (estimado, ajustable) | Flexible |
+| **Ahorro conjunto (adelantando la meta de septiembre)** | **$2,400** | Empieza antes de lo planeado |
+| **Colchón / imprevistos del resto de la quincena** | **$1,163.48** | Lo que sobra |
+| **Total** | **$8,953.48** | |
 
-Depósito ($8,953.48) − compromisos fijos ($5,040) − cita de hoy
-(~$1,300) − transporte (~$190) ≈ **$2,400** para el resto de la
-quincena (comida del día a día, imprevistos, algo de colchón). Ajustado
-en cuanto confirmes el monto real del hotel/gasolina de hoy y los días
-laborales que te quedan.
+La idea del ahorro: el plan de `ahorro.md` pide $4,800/mes de tu
+parte a partir de septiembre (~$2,400 por quincena). Metiendo $2,400
+ahora, en agosto, quedas **adelantado** en vez de empezar en ceros en
+septiembre — y aun así queda un colchón de ~$1,163 para lo que salga
+en estos días. Los montos de "cita de hoy" y "transporte" son
+estimados; en cuanto me des el número real del hotel/gasolina y
+cuántos días laborales te quedan, reajusto el colchón final (sube o
+baja, no el ahorro).
 
 Ver desglose en [gastos.md](gastos.md).
 

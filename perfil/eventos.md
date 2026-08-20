@@ -58,6 +58,14 @@ cumpleaños de mamá (20/09), papá (21/09), hermana (04/10), aniversario
 con Fanny (20/10), tu cumpleaños (01/12), Navidad/meta de mudanza
 (25/12) y cumpleaños de Fanny (20/01).
 
+## Corona Capital (pendiente de planear)
+
+Ya compraste/vas a comprar boletos ($3,720, a medias con Fanny — ver
+[finanzas/gastos.md](../finanzas/gastos.md)). Falta fecha exacta,
+lineup y el plan completo — dijiste que lo armamos después, avísame
+cuando quieras arrancar con esto y le doy el mismo tratamiento que al
+Vaivén.
+
 ## Notas
 
 - Si se anuncia otro concierto o celebración, dilo aquí en la
