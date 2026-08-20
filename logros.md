@@ -25,6 +25,7 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 18/08/2026 | Auditaste y corregiste Trabajo.exe, Logros.exe, Desempeño.exe y Biblioteca.exe (vacantes, logros y links que estaban desactualizados o rotos), y le diste a Cerebro.exe una tarjeta de prioridad, categorías colapsables y una mascota | Sistema |
 | 18/08/2026 | Armaste una sección de gustos completa en Perfil.exe (música, cine, series, libros, Berserk, arte y filosofía) con datos reales tuyos | Perfil |
 | 20/08/2026 | Rediseñaste Cerebro.exe (look RGB gamer, mascota fuera), armaste Tiempo.exe (presupuesto visual de la semana) y dos automatizaciones nuevas: clima en vivo cada mañana y auditoría semanal de todo el sistema | Sistema |
+| 20/08/2026 | Armaste Eventos.exe: línea de tiempo de conciertos y celebraciones con el plan completo del Nescafé Vaivén (fecha, hospedaje, presupuesto y checklist interactivo) | Perfil |
 
 ## Notas
 

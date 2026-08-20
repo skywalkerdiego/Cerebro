@@ -48,6 +48,27 @@ manual (exportar y pegar, o contarme los totales).
 - **Tendencia mensual** — gráfica de ingresos vs. gastos de los
   últimos meses, en cuanto haya al menos 2 meses con movimientos.
 
+## Próxima quincena (estimado, 20/08/2026)
+
+Diego reportó: 100 horas trabajadas + bono de $2,500, pago quincenal
+por nómina esperado el 21/08/2026. Ya sacó $1,400 de adelanto y le
+descuentan $70 de comisión.
+
+No tenemos tu tarifa por hora exacta guardada, así que esto es un
+**estimado** usando el ingreso mensual conocido (~$20,000 ⇒ ~$10,000
+por quincena "normal" ⇒ ~$115–125/hora implícito):
+
+| Concepto | Estimado |
+|----------|----------|
+| 100 horas (~$115–125/h) | $11,500 – $12,500 |
+| Bono | +$2,500 |
+| Adelanto ya tomado | −$1,400 |
+| Comisión | −$70 |
+| **Neto estimado** | **≈ $12,500 – $13,500 MXN** |
+
+Pendiente: confirmar el monto real cuando llegue el depósito y
+registrarlo aquí y en el tablero.
+
 ## Notas
 
 - Esto es tu presupuesto personal. El ahorro conjunto de la mudanza
