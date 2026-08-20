@@ -48,26 +48,23 @@ manual (exportar y pegar, o contarme los totales).
 - **Tendencia mensual** — gráfica de ingresos vs. gastos de los
   últimos meses, en cuanto haya al menos 2 meses con movimientos.
 
-## Próxima quincena (estimado, 20/08/2026)
+## Quincena del 20/08/2026 (confirmado)
 
 Diego reportó: 100 horas trabajadas + bono de $2,500, pago quincenal
-por nómina esperado el 21/08/2026. Ya sacó $1,400 de adelanto y le
-descuentan $70 de comisión.
+por nómina, ya con el adelanto de $1,400 y la comisión de $70
+descontados.
 
-No tenemos tu tarifa por hora exacta guardada, así que esto es un
-**estimado** usando el ingreso mensual conocido (~$20,000 ⇒ ~$10,000
-por quincena "normal" ⇒ ~$115–125/hora implícito):
+**Depósito real: $8,953.48 MXN** — bastante por debajo del estimado
+que teníamos (~$12,500–13,500). La diferencia (~$3,500–4,500) es casi
+seguro ISR: la retención sobre horas extra y bono suele ser más alta
+que la tasa promedio del sueldo base, justo el riesgo que habíamos
+apuntado como posible cuando se hizo el cálculo. No es un error de
+cálculo tuyo ni nuestro — es cómo retiene el patrón sobre el ingreso
+"extra" de la quincena.
 
-| Concepto | Estimado |
-|----------|----------|
-| 100 horas (~$115–125/h) | $11,500 – $12,500 |
-| Bono | +$2,500 |
-| Adelanto ya tomado | −$1,400 |
-| Comisión | −$70 |
-| **Neto estimado** | **≈ $12,500 – $13,500 MXN** |
-
-Pendiente: confirmar el monto real cuando llegue el depósito y
-registrarlo aquí y en el tablero.
+Este número ya reemplaza el estimado anterior como el real. Ver
+desglose de gastos de esta quincena en
+[gastos.md](gastos.md).
 
 ## Notas
 

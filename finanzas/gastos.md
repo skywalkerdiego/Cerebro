@@ -14,4 +14,4 @@ tablero interactivo, o de lo que me cuentes en la conversación. Ver
 
 | Fecha | Tipo | Categoría | Descripción | Monto |
 |-------|------|-----------|-------------|-------|
-| | | | | |
+| 20/08/2026 | Ingreso | Nómina | Quincena (100h + bono $2,500, neto tras adelanto y comisión) | $8,953.48 |
