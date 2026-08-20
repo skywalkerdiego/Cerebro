@@ -39,7 +39,8 @@ te interesa, qué disfrutas.
 - **Existencialismo, absurdismo y estoicismo** — Albert Camus (*El
   Extranjero*; el absurdismo es literalmente su filosofía central),
   *Siddhartha* de Hesse, *1984* de Orwell.
-- Leyendo actualmente: *El arte de la guerra* (Sun Tzu).
+- Leyendo actualmente: *El arte de la guerra* (Sun Tzu), y releyendo
+  *Siddhartha*.
 - **Budismo y cristianismo** — te interesa conocer distintas religiones
   y formas de ver la vida, más allá de una sola.
 
@@ -52,9 +53,11 @@ te interesa, qué disfrutas.
 
 - Vas a ir al concierto de Nescafé Vaivén.
 - Tocas guitarra.
+- Géneros que más te laten: rock, pop, hip-hop/rap, indie, reggaetón.
 - Arctic Monkeys (*Tranquility Base Hotel &amp; Casino*), Interpol
   (*Turn on the Bright Lights*), Nirvana (*Nevermind*), Kendrick Lamar.
 - Todavía te gusta algo de Eminem, aunque ya no lo sigues tanto.
+- En repeat ahorita: "Helena Beat", de Foster the People.
 - **Su canción con Fanny: "Disco", de Surf Curse.**
 - Comparten mucho gusto musical — Kendrick Lamar, Gorillaz, Nirvana. Ver
   [novia.md](novia.md).
@@ -68,6 +71,7 @@ te interesa, qué disfrutas.
   laten mucho.
 - *The Last of Us*, *Seinfeld*, *The Office*, *Better Call Saul*,
   *Shrek*.
+- *Dexter* — te quedaste a medias, quieres retomarla.
 - *Peaky Blinders* y *Breaking Bad* — también le gustan a Fanny, son
   algo que comparten.
 
@@ -116,6 +120,7 @@ te interesa, qué disfrutas.
 - No has salido del país todavía.
 - Te gustaría conocer algún país de Europa, y también Asia, Rusia y
   Estados Unidos.
+- Destinos soñados específicos: Nueva York, Noruega y Japón.
 
 ### Manejar
 
@@ -128,8 +133,12 @@ te interesa, qué disfrutas.
 ### Otros
 
 - Videojuegos — favoritos: *Red Dead Redemption 2*, *The Last of Us*,
-  *God of War*, *Silent Hill*. Se nota el patrón con tu gusto por
+  *God of War*, *Silent Hill*. Ahorita jugando el remake de *Silent
+  Hill 2* (Bloober Team, 2024). Se nota el patrón con tu gusto por
   terror/suspenso e historias narrativas fuertes.
+- Comida que nunca falla: pizza, hamburguesa, algún corte de carne.
+- Preferencias rápidas: café sobre té, montaña sobre playa, te gustan
+  tanto las mañanas como las noches, invierno sobre verano.
 - Vida social — conocer gente, tener amigos, salir a comer, convivir.
 - Aire libre — te gustaría hacer más actividades (es algo que te falta,
   no que ya hagas mucho).
@@ -159,6 +168,11 @@ te interesa, qué disfrutas.
 - Sientes que te cuesta recordar las cosas — por eso este espacio te
   sirve; trato de dejar todo registrado para que no dependa de tu
   memoria.
+- Te percibes como alguien inteligente en muchos aspectos, y también
+  mencionas (medio en broma, 20/08/2026) que sientes que tienes
+  "bastantes situaciones mentales" — lo dejo anotado en tus palabras,
+  conecta con lo que ya está en [salud.md](salud.md) sobre atención,
+  ansiedad y la posible TLP mencionada en terapia.
 - Me contaste que sientes que tienes problemas de atención, y que en
   algún momento de terapia se mencionó la posibilidad de TLP y
   ansiedad. Lo dejo anotado tal cual me lo compartiste — no es un
