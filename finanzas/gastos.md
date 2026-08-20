@@ -10,16 +10,36 @@ tablero interactivo, o de lo que me cuentes en la conversación. Ver
 |-----|----------|--------|--------------------------------------|-------|
 | | | | | |
 
+## Saldo en vivo — quincena del 20/08 al 04/09/2026
+
+Próximo pago: **05/09/2026** (16 días).
+
+| | Monto |
+|---|---|
+| Saldo bancario ahora | **$8,953.48** |
+| Reservado (compromisos de la tabla de abajo, aún no pagados) | $8,340.00 |
+| **Libre real / colchón** | **$613.48** |
+| Efectivo aparte en la mochila (no sale del banco, para combi) | $93.50 |
+
+**Cómo lo trackeamos:** en cuanto pagues algo, dímelo aquí en la
+conversación ("ya pagué el hotel, $600" o "gasté $15 en combi") y lo
+paso de "Compromisos pendientes" (o lo agrego si es nuevo) a
+Movimientos, con el saldo bancario recalculado. El metro lo pagas con
+el teléfono (saldo de la tarjeta, no efectivo) — sigue contando dentro
+del presupuesto de transporte aunque no uses el cambio de la mochila
+para eso.
+
 ## Movimientos
 
-| Fecha | Tipo | Categoría | Descripción | Monto |
-|-------|------|-----------|-------------|-------|
-| 20/08/2026 | Ingreso | Nómina | Quincena (100h + bono $2,500, neto tras adelanto y comisión) | $8,953.48 |
+| Fecha | Tipo | Categoría | Descripción | Monto | Saldo bancario después |
+|-------|------|-----------|-------------|-------|--------------------------|
+| 20/08/2026 | Ingreso | Nómina | Quincena (100h + bono $2,500, neto tras adelanto y comisión) | +$8,953.48 | $8,953.48 |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
 
 Reportados por Diego, aún no confirmados como pagados — avísame cuando
-salga cada uno y lo paso a Movimientos.
+salga cada uno y lo paso a Movimientos (ahí se descuenta del saldo
+bancario de verdad).
 
 | Concepto | Categoría | Monto | Estatus |
 |----------|-----------|-------|---------|
