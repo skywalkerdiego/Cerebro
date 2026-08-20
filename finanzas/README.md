@@ -47,6 +47,10 @@ manual (exportar y pegar, o contarme los totales).
   a mano.
 - **Tendencia mensual** — gráfica de ingresos vs. gastos de los
   últimos meses, en cuanto haya al menos 2 meses con movimientos.
+- **Accesos rápidos** (agregado 20/08/2026) — botones tipo Metro
+  ($5) y Combi ($7.50) para registrar un gasto con un toque, sin
+  llenar el formulario. Puedes agregar los tuyos (nombre, emoji,
+  categoría, monto) desde el mismo tablero.
 
 ## Quincena del 20/08/2026 (confirmado)
 
