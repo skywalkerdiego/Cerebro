@@ -40,7 +40,7 @@ El sistema no da el motivo específico del rechazo. Usa el checklist de abajo
 
 - [x] Llenar el ATI (versión "Expediente DGAE") con los datos personales
 - [x] Llenar el formato de solicitud y elección de título (Licenciado en Relaciones Internacionales, cuenta 318117676, cartulina imitación pergamino)
-- [ ] Hacer el pago de la ficha ($620.00). La ficha actual vence 29/08/2026, antes de tu próximo pago (05/09) — **decidiste esperar y sacar una ficha nueva** con fecha de vencimiento nueva en cuanto tengas flujo, en vez de forzar el pago con esta. Confirmado contigo (21/08): no es que se pierda el trámite, solo se regenera la referencia de pago. **Segunda razón, agregada 21/08:** FES Aragón sigue en vacaciones administrativas, así que tampoco hay prisa por el lado del trámite mismo. Cuando la saques, actualiza aquí el nuevo convenio/referencia/CLABE y la nueva fecha límite.
+- [ ] Hacer el pago de la ficha ($620.00). La ficha original vencía el 29/08/2026, pero **decidiste esperar y sacar una ficha nueva** en vez de forzar el pago con esa — no se pierde el trámite, solo se regenera la referencia de pago. Motivos: sin flujo hasta el próximo pago, y FES Aragón sigue en vacaciones administrativas, así que tampoco hay prisa por el lado del trámite mismo. **Fecha objetivo (confirmada 21/08): sacar y pagar la ficha nueva el 05/09/2026**, día de tu próximo pago quincenal. Cuando la saques, actualiza aquí el convenio/referencia/CLABE reales de esa ficha.
 - [ ] Armar el comprobante de pago (ficha + recibo/CEP en un solo PDF)
 - [ ] Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud
 - [ ] Subir los 3 documentos corregidos al sistema de seguimiento

@@ -25,9 +25,9 @@ esos). La terapia ($350) ya se pagó, no sigue pendiente.
 **Ya hiciste varios pagos más (21/08):** ahorro ($2,400 a Fanny —
 confirmado, no eran $3,000), la primera deuda de $200, tu abuela ($500,
 entregado), y un apoyo nuevo de $800 a tu mamá para gas y despensa.
-Sobre la ficha: decidiste esperar al 05/09 y sacar una ficha nueva con
-fecha de vencimiento nueva — no se pierde el trámite, solo se
-regenera la referencia de pago (ya actualizado en
+Sobre la ficha: decidiste esperar y sacar/pagar una ficha nueva el
+**05/09/2026**, día de tu próximo pago — no se pierde el trámite,
+solo se regenera la referencia de pago (ya actualizado en
 [metas/titulacion.md](../metas/titulacion.md)).
 
 | | Monto |
@@ -42,7 +42,7 @@ regenera la referencia de pago (ya actualizado en
 |---|---|---|
 | Otra deuda (la segunda, distinta a la que ya pagaste) | $200 | Pendiente |
 | Transporte del resto de la quincena | ~$210 | Estimado |
-| Ficha de titulación (ficha nueva, después del 05/09) | $620 | Movida a la próxima quincena |
+| Ficha de titulación (ficha nueva) | $620 | Objetivo: sacarla y pagarla el 05/09 |
 
 **Cómo lo trackeamos:** en cuanto pagues algo, dímelo aquí en la
 conversación ("ya pagué el hotel, $600" o "gasté $15 en combi") y lo
@@ -94,7 +94,7 @@ salga cada uno y lo paso a Movimientos.
 
 | Concepto | Categoría | Monto | Nota |
 |----------|-----------|-------|------|
-| Ficha de titulación (ficha nueva) | Otros | $620 | La actual vence 29/08; se saca una nueva con fecha nueva cuando haya flujo. Ver [metas/titulacion.md](../metas/titulacion.md). |
+| Ficha de titulación (ficha nueva) | Otros | $620 | La original vencía 29/08; se saca y paga la nueva el **05/09/2026**, día de pago. Ver [metas/titulacion.md](../metas/titulacion.md). |
 
 **Nota sobre el préstamo:** el crédito nómina ($307.89 esta quincena)
 probablemente se descuenta solo cada quincena, no es un pago único —

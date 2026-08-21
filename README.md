@@ -15,7 +15,7 @@ y un ahorro conjunto en marcha.
 
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
-| 1 | 🎓 Titulación | Alta | ATI y solicitud llenados; pago aplazado a la próxima quincena (sin flujo + FES Aragón en vacaciones administrativas) | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
+| 1 | 🎓 Titulación | Alta | ATI y solicitud llenados; pago aplazado al 05/09/2026 (día de pago; FES Aragón sigue en vacaciones administrativas) | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
 | 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
 | 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️📚 Idioma y cultura general | Media | Italiano con Duolingo, meta conversacional simple — falta arrancar | [metas/aprendizaje.md](metas/aprendizaje.md) |
@@ -68,6 +68,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes: cine, conciertos, cumpleaños y aniversario, con los días marcados.
 - 🧭 [Aspect.exe](https://claude.ai/code/artifact/9f1cc5e9-30b4-46d9-b540-6f2a3a3f938c) — tu día en bloques: turno, traslado, breaks, rutina de higiene y lo que vale la pena hoy.
+- ✍️ [Artículos.exe](https://claude.ai/code/artifact/25b45539-b542-44ea-9085-a19aeb4edca8) — checklist de investigación por caso, fuentes, prompt de redacción y banco de ideas para los siguientes artículos.
 - 📞 [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5) — flujo de llamada (cuenta suspendida, escalación, crédito) con la frase exacta del playbook en cada paso, priorizado por tus categorías más débiles del IS Evaluation.
 - 🎓 [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) — estado del trámite, documentos y pasos pendientes.
 - 💼 [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) — rutas de búsqueda, ajustes de CV/LinkedIn y vacantes aplicadas.
@@ -92,7 +93,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 
 ## Próximas 2 semanas (lo más inmediato)
 
-- [ ] Sacar la ficha nueva de titulación y pagarla ($620.00) — aplazado a la próxima quincena (05/09), FES Aragón sigue en vacaciones administrativas
+- [ ] Sacar y pagar la ficha nueva de titulación ($620.00) — objetivo: 05/09/2026, día de pago
 - [ ] Armar el comprobante de pago e imprimir/firmar/escanear ATI y solicitud
 - [ ] Subir los 3 documentos corregidos al sistema de seguimiento
 - [x] Platicar con tu novia el monto/mecánica de la cuenta conjunta de ahorro — plan listo para revisar juntos
