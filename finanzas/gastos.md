@@ -37,13 +37,14 @@ El documento original (imagen/PDF) vive en
 | ISR | $1,915.13 |
 | Seguro Social (IMSS) | $348.19 |
 
-⚠️ **Discrepancia a resolver:** en `finanzas/README.md` (quincena del
-20/08) se había anotado un adelanto de $1,400 + $70 de comisión
-($1,470 en total). El recibo oficial solo trae una línea, "Anticipo de
-Nómina MINU: $2,070.00", sin más desglose — puede ser que el $1,470
-sea una parte de ese anticipo, o que el estimado original fuera
-impreciso. Vale la pena confirmarlo (con RH o el detalle del préstamo
-MINU) para no arrastrar el número equivocado la próxima quincena.
+**Confirmado (21/08/2026):** el "Anticipo de Nómina MINU" de $2,070.00
+sí son los adelantos de nómina que Diego ha estado pidiendo — el
+estimado anterior de $1,400 + $70 de comisión era impreciso, el número
+real de esta quincena es $2,070.00. **Meta nueva:** dejar de pedir
+adelantos a partir de la próxima quincena (05/09/2026 en adelante),
+para no seguir perdiendo una parte del sueldo antes de tiempo. Vale la
+pena planear el colchón de cada quincena (ver "Saldo en vivo" abajo)
+pensando en cubrir imprevistos sin depender del anticipo.
 
 **Cómo se usa esto para futuras quincenas:** en cuanto llegue el
 siguiente recibo de nómina (foto o PDF), mándamelo en la conversación

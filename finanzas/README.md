@@ -100,9 +100,17 @@ neto ($9,229.34) y trae el desglose completo de percepciones y
 deducciones (Horas sueldo, Compensación Extraordinaria Variable,
 Séptimo día, ISR, IMSS, etc.) — ver la tabla completa en
 [gastos.md](gastos.md#recibos-de-nómina-oficiales-cfdi). Ese mismo
-documento trae un "Anticipo de Nómina MINU" de $2,070.00, que no
-cuadra con el adelanto de $1,400 + $70 comisión anotado abajo —
-discrepancia sin resolver, ver la nota en gastos.md.
+documento trae un "Anticipo de Nómina MINU" de $2,070.00 — Diego
+confirmó que sí son los adelantos que ha estado pidiendo (el estimado
+anterior de $1,400 + $70 comisión era impreciso).
+
+**Meta nueva (21/08/2026): dejar de pedir adelantos.** A partir de la
+quincena que empieza el 05/09/2026, la idea es cubrir imprevistos con
+el colchón de cada quincena en vez de pedir anticipo — cada anticipo
+le resta una tajada al neto de la siguiente quincena (revisa el ciclo:
+$2,070 de esta quincena salió de sueldo que ya se había adelantado
+antes). Vale la pena que en la próxima quincena revisemos juntos si el
+colchón alcanzó sin necesidad de pedir.
 
 ### Reparto de la quincena (20/08 – ~04/09/2026)
 
