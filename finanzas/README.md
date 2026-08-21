@@ -107,7 +107,7 @@ estimado ($1,500).
 
 | Destino | Monto | Prioridad |
 |---|---|---|
-| Boletos Corona Capital (lo que falta de tu parte) | $1,720 | Alta — ya comprometido |
+| Boletos Corona Capital (total — ya cubierto $2,000 por Fanny) | $3,720 | Alta — ya comprometido |
 | Debes a tu abuela | $500 | Alta |
 | Otra deuda | $200 | Alta |
 | Ficha de titulación | $620 | Alta — vence 29/08 |
@@ -116,15 +116,16 @@ estimado ($1,500).
 | Transporte quincena (~12 días laborales, $17.50/día — Uber de fin de semana lo cubre el trabajo) | ~$210 (estimado, falta confirmar días) | Fijo |
 | Despensa | ~$700 (estimado, ajustable) | Flexible |
 | **Ahorro conjunto (adelantando la meta de septiembre)** | **$2,400** | Empieza antes de lo planeado |
-| **Colchón / imprevistos del resto de la quincena** | **$583.68** | Lo que sobra |
-| **Total (nómina + lo de Fanny)** | **$11,053.48** | |
+| **Colchón / imprevistos del resto de la quincena** | **$677.18** | Lo que sobra |
+| **Total (nómina + efectivo que ya traías + lo de Fanny)** | **$11,146.98** | |
 
-El colchón bajó apenas ~$30 (de $613.48 a $583.68): gastaste más de
-lo estimado en la cita ($269.80 extra), pero Fanny cubrió más de la
-mitad de los boletos de lo que habíamos supuesto ($2,000 de $3,720,
-no $1,860), y eso compensó casi todo. Sigue positivo. Falta confirmar
-en qué cuenta cayeron los $2,000 de Fanny y cuánto sacaste tú del
-cajero — no cambia el colchón, solo en qué cuenta está cada peso (ver
+El colchón queda casi igual (de $613.48 a **$677.18** — subió un poco):
+gastaste más de lo estimado en la cita ($269.80 extra), pero Fanny
+cubrió $2,100 entre boletos y cerveza (más de lo que habíamos
+supuesto), y eso compensó de sobra. Confirmado: sacaste $950 del
+cajero (Santander → efectivo) y los $2,000 de Fanny llegaron por
+transferencia a Santander — con eso, Santander queda en $8,650.68 y
+Efectivo en $726.50 (ver desglose por cuenta en
 [gastos.md](gastos.md)).
 
 Ver desglose completo en [gastos.md](gastos.md).

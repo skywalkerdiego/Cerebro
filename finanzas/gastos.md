@@ -16,14 +16,19 @@ Próximo pago: **05/09/2026** (16 días).
 
 | | Monto |
 |---|---|
-| Ingresos totales (nómina + lo que te dio Fanny) | $11,053.48 |
+| Ingresos totales (nómina + efectivo que ya traías + lo que te dio Fanny) | $11,146.98 |
 | Ya gastado de verdad (hotel, gasolina, tacos, cerveza) | −$1,769.80 |
 | Reservado (compromisos de la tabla de abajo, aún no pagados) | −$8,700.00 |
-| **Libre real / colchón** | **$583.68** |
+| **Libre real / colchón** | **$677.18** |
 
-Pendiente de confirmar (no cambia el colchón, solo en qué cuenta está
-cada peso): cuánto sacaste del cajero ayer, y si los $2,000 de Fanny
-para los boletos llegaron en efectivo o por transferencia.
+Confirmado: sacaste $950 del cajero (Santander → efectivo), y los
+$2,000 de Fanny para los boletos te los depositó directo a Santander.
+Con eso, así quedan tus dos cuentas ahorita:
+
+| Cuenta | Saldo |
+|---|---|
+| Santander | $8,650.68 |
+| Efectivo | $726.50 |
 
 **Cómo lo trackeamos:** en cuanto pagues algo, dímelo aquí en la
 conversación ("ya pagué el hotel, $600" o "gasté $15 en combi") y lo
@@ -38,13 +43,14 @@ para eso.
 | Fecha | Tipo | Categoría | Descripción | Monto |
 |-------|------|-----------|-------------|-------|
 | 20/08/2026 | Ingreso | Nómina | Quincena (100h + bono $2,500, neto tras adelanto y comisión) | +$8,953.48 |
-| 20/08/2026 | Ingreso | Fanny | Para los boletos de Corona Capital (¿efectivo o transferencia? por confirmar) | +$2,000.00 |
+| 20/08/2026 | Ingreso | Fanny | Para los boletos de Corona Capital (transferencia a Santander) | +$2,000.00 |
 | 20/08/2026 | Ingreso | Fanny | Para la cerveza (efectivo, asumido) | +$100.00 |
 | 20/08/2026 | Gasto | Salidas/citas | Hotel (tarjeta, asumido) | −$580.00 |
 | 20/08/2026 | Gasto | Transporte | Gasolina — tarjeta | −$583.80 |
 | 20/08/2026 | Gasto | Transporte | Gasolina — efectivo (del cambio) | −$7.00 |
 | 20/08/2026 | Gasto | Salidas/citas | Tacos (efectivo) | −$410.00 |
 | 20/08/2026 | Gasto | Salidas/citas | Cerveza (tarjeta, asumido) | −$189.00 |
+| 20/08/2026 | Transferencia | — | Retiro de cajero: Santander → Efectivo | $950.00 |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
 
