@@ -51,6 +51,13 @@ Los checks de este viaje se guardan directamente en el navegador
 dentro de Eventos.exe (localStorage) — dile a Claude cuando avances
 algo para que quede reflejado aquí también.
 
+## 🎬 Cine — jueves 27 de agosto 2026
+
+- **Dónde:** Cinepolis Sentura Tlalnepantla, sala 6, asientos K-10 y K-11.
+- **Boletos:** ya comprados (21/08/2026), $82.00 total (2 boletos + cargo
+  de servicio) — ver [finanzas/gastos.md](../finanzas/gastos.md).
+- Gasto ya contemplado dentro del presupuesto de la quincena.
+
 ## Resto del calendario
 
 Fechas ya cubiertas en [fechas-importantes.md](fechas-importantes.md):

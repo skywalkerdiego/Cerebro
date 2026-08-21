@@ -77,6 +77,8 @@ Reconstruido a partir de tu estado de cuenta real de Santander
 | 21/08/2026 | Gasto | Otros | Deuda (la primera de las dos) | −$200.00 |
 | 21/08/2026 | Gasto | Otros | Efectivo → tu abuela (entregado) | −$500.00 |
 | 21/08/2026 | Gasto | Otros | Apoyo a tu mamá (gas + despensa) | −$800.00 |
+| 21/08/2026 | Gasto | Salidas/citas | Boletos de cine (2, Cinepolis Sentura Tlalnepantla, sala 6, para el jueves 27/08) — tarjeta terminando en 5248, **confirmar si es Santander u otra cuenta** | −$82.00 |
+| 21/08/2026 | Gasto | Comida | Tianguis — **monto exacto sin confirmar**, dijiste que te quedaron $59.50 después, dime de qué cuenta/efectivo salió y el monto real para dejarlo bien registrado | por confirmar |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
 
