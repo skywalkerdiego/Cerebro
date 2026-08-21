@@ -130,6 +130,7 @@ salga cada uno y lo paso a Movimientos.
 |----------|-----------|-------|---------|
 | Otra deuda (la segunda) | Otros | $200 | Pendiente |
 | Transporte quincena (~12 días laborales) | Transporte | ~$210 (por confirmar días) | Recurrente |
+| Domingo 23/08: turno + desvío a Satélite (transporte público) + helado con Fanny + regreso a Neza | Transporte + Salidas/citas | ~$220 estimado (~$45-55 transporte extra sobre el normal del día + ~$150-200 helado) | Estimado — confirmar montos reales ese día |
 
 ## Movido a la próxima quincena (05/09 en adelante)
 
