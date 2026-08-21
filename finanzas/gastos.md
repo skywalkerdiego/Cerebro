@@ -27,14 +27,21 @@ esos). La terapia ($350) ya se pagó, no sigue pendiente.
 | Santander (real, según tu estado de cuenta) | $8,057.68 |
 | Efectivo — $500 apartados para tu abuela + $66.50 sueltos | $566.50 |
 | **Total que tienes ahorita** | **$8,624.18** |
-| Reservado (compromisos de la tabla de abajo, aún no pagados) | −$8,350.00 |
-| **Libre real / colchón** | **$274.18** |
+| Reservado (compromisos de la tabla de abajo, aún no pagados — ya sin despensa) | −$7,650.00 |
+| **Libre real / colchón** | **$974.18** |
 
-El colchón bajó de $677.18 (mi cálculo de ayer, con datos
-incompletos) a **$274.18** real: la nómina fue mejor de lo que
-pensábamos (+$275.86), pero el préstamo y lo de Simi que no
-conocíamos se llevaron más de eso (−$650.89). Sigue en positivo, pero
-ya no hay margen para gastos extra que no estén en la lista de abajo.
+Quitaste la despensa de la lista, así que el colchón sube a
+**$974.18**. Desglose de a dónde va cada peso, de lo que ya tienes:
+
+| Destino | Monto | Estatus |
+|---|---|---|
+| Boletos Corona Capital (total, ya con los $2,000 de Fanny adentro) | $3,720 | Pendiente |
+| Debes a tu abuela | $500 | Ya la tienes apartada, falta entregarla |
+| Otra deuda | $200 | Pendiente |
+| Ficha de titulación | $620 | Pendiente — vence 29/08 |
+| Transporte del resto de la quincena | ~$210 | Estimado |
+| Ahorro conjunto (adelantado) | $2,400 | Pendiente |
+| **Colchón libre** | **$974.18** | Sin comprometer |
 
 **Cómo lo trackeamos:** en cuanto pagues algo, dímelo aquí en la
 conversación ("ya pagué el hotel, $600" o "gasté $15 en combi") y lo
@@ -77,7 +84,6 @@ salga cada uno y lo paso a Movimientos.
 | Otra deuda | Otros | $200 | Pendiente |
 | Ficha de titulación | Otros | $620 | Pendiente — vence 29/08 |
 | Transporte quincena (~12 días laborales) | Transporte | ~$210 (por confirmar días) | Recurrente |
-| Despensa | Comida | ~$700 (ajustable) | Pendiente |
 | Aporte a ahorro conjunto (adelantado, ver `ahorro.md`) | Ahorro | $2,400 | Pendiente — transferir a la cuenta MercadoPago conjunta |
 
 **Nota sobre el préstamo:** el crédito nómina ($307.89 esta quincena)

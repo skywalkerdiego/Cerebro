@@ -115,19 +115,17 @@ pagó.
 | Otra deuda | $200 | Alta |
 | Ficha de titulación | $620 | Alta — vence 29/08 |
 | Transporte quincena (~12 días laborales, $17.50/día) | ~$210 (estimado) | Fijo |
-| Despensa | ~$700 (estimado, ajustable) | Flexible |
 | **Ahorro conjunto (adelantando la meta de septiembre)** | **$2,400** | Empieza antes de lo planeado |
-| **Colchón / imprevistos del resto de la quincena** | **$274.18** | Lo que sobra |
+| **Colchón / imprevistos del resto de la quincena** | **$974.18** | Sin comprometer |
 | **Total que tienes ahorita (Santander + efectivo)** | **$8,624.18** | |
 
-El colchón bajó de $677.18 (cálculo de ayer, con datos incompletos) a
-**$274.18** real: la nómina fue mejor de lo pensado (+$275.86), pero
-el crédito nómina y lo de Similares que no conocíamos se llevaron más
-de eso (−$650.89). Sigue positivo, pero ya no queda margen para algo
-que no esté en la lista de arriba — ver el desglose completo, cuenta
-por cuenta, en [gastos.md](gastos.md).
-
-Ver desglose completo en [gastos.md](gastos.md).
+Quitaste la despensa de la lista (ya no está entre los compromisos),
+así que el colchón sube de $274.18 a **$974.18**. Es el número real,
+ya con todo lo del banco reconciliado: la nómina fue mejor de lo
+pensado (+$275.86 sobre el estimado de ayer), el crédito nómina y lo
+de Similares se llevaron más de eso (−$650.89), y sin despensa queda
+$700 más libre. Ver el desglose completo, cuenta por cuenta, en
+[gastos.md](gastos.md).
 
 ## Notas
 
