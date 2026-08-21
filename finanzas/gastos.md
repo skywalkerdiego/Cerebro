@@ -130,7 +130,7 @@ salga cada uno y lo paso a Movimientos.
 |----------|-----------|-------|---------|
 | Otra deuda (la segunda) | Otros | $200 | Pendiente |
 | Transporte quincena (~12 días laborales) | Transporte | ~$210 (por confirmar días) | Recurrente |
-| Domingo 23/08: turno + desvío a Satélite (transporte público) + helado con Fanny + regreso a Neza | Transporte + Salidas/citas | ~$220 estimado (~$45-55 transporte extra sobre el normal del día + ~$150-200 helado) | Estimado — confirmar montos reales ese día |
+| Domingo 23/08: turno + desvío a Satélite (transporte público) + helado con Fanny + regreso | Transporte + Salidas/citas | ~$180-240 estimado (~$31-41 transporte: metro + combi El Rosario-Satélite ida y vuelta + Metrobús L6 — su mamá lo recoge en la parada, sin combi final — + ~$150-200 helado) | Estimado — falta el lugar exacto en Satélite y confirmar montos reales ese día. Ruta completa en [../perfil/rutina.md](../perfil/rutina.md#domingo-2308-ruta-a-satélite-y-de-regreso) |
 
 ## Movido a la próxima quincena (05/09 en adelante)
 
