@@ -6,8 +6,11 @@ tiempo libre real después de un turno es más corto de lo que parece.
 Por eso esto no es un horario fijo hora por hora, es una plantilla de
 anclas que puedes reaplicar cada vez que te llega el horario nuevo.
 Ver también [../desempeno/README.md](../desempeno/README.md) para las
-métricas del trabajo, y [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433)
-para la versión visual de la semana.
+métricas del trabajo, [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433)
+para la versión visual de la semana, y
+[Aspecto.exe](https://claude.ai/code/artifact/9f1cc5e9-30b4-46d9-b540-6f2a3a3f938c)
+para el día de hoy en bloques (turno, breaks, rutina de higiene y
+pendientes que valen la pena).
 
 ## Cuánto tiempo real tienes
 

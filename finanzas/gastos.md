@@ -32,11 +32,11 @@ regenera la referencia de pago (ya actualizado en
 
 | | Monto |
 |---|---|
-| Santander | $937.68 |
-| Efectivo (ya sin los $500 de la abuela, solo sueltos) | $66.50 |
-| **Total que tienes ahorita** | **$1,004.18** |
+| Santander (después de los boletos de cine, −$82) | $855.68 |
+| Efectivo (después del tianguis, −$7) | $59.50 |
+| **Total que tienes ahorita** | **$915.18** |
 | Reservado (otra deuda #2 + transporte — la ficha se mueve a la próxima quincena) | −$410.00 |
-| **Libre real / colchón** | **$594.18** |
+| **Libre real / colchón** | **$505.18** |
 
 | Destino | Monto | Estatus |
 |---|---|---|
@@ -77,8 +77,8 @@ Reconstruido a partir de tu estado de cuenta real de Santander
 | 21/08/2026 | Gasto | Otros | Deuda (la primera de las dos) | −$200.00 |
 | 21/08/2026 | Gasto | Otros | Efectivo → tu abuela (entregado) | −$500.00 |
 | 21/08/2026 | Gasto | Otros | Apoyo a tu mamá (gas + despensa) | −$800.00 |
-| 21/08/2026 | Gasto | Salidas/citas | Boletos de cine (2, Cinepolis Sentura Tlalnepantla, sala 6, para el jueves 27/08) — tarjeta terminando en 5248, **confirmar si es Santander u otra cuenta** | −$82.00 |
-| 21/08/2026 | Gasto | Comida | Tianguis — **monto exacto sin confirmar**, dijiste que te quedaron $59.50 después, dime de qué cuenta/efectivo salió y el monto real para dejarlo bien registrado | por confirmar |
+| 21/08/2026 | Gasto | Salidas/citas | Boletos de cine (2, Cinepolis Sentura Tlalnepantla, sala 6, para el jueves 27/08) — Santander | −$82.00 |
+| 21/08/2026 | Gasto | Comida | Tianguis (efectivo, sueltos) | −$7.00 |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
 
