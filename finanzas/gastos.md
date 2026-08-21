@@ -22,34 +22,27 @@ aparecieron dos gastos que no teníamos registrados: un pago de
 y **$343 en Farmacias Similares** (anticonceptivos, Fanny puso $100 de
 esos). La terapia ($350) ya se pagó, no sigue pendiente.
 
-**Ya pagaste los boletos de Corona Capital** ($3,720 desde Santander) —
-lo vi reflejado en tu saldo real. Con eso:
+**Ya hiciste varios pagos más (21/08):** ahorro ($2,400 a Fanny —
+confirmado, no eran $3,000), la primera deuda de $200, tu abuela ($500,
+entregado), y un apoyo nuevo de $800 a tu mamá para gas y despensa.
+Sobre la ficha: decidiste esperar al 05/09 y sacar una ficha nueva con
+fecha de vencimiento nueva — no se pierde el trámite, solo se
+regenera la referencia de pago (ya actualizado en
+[metas/titulacion.md](../metas/titulacion.md)).
 
 | | Monto |
 |---|---|
-| Santander (real, después de pagar los boletos) | $4,337.68 |
-| Efectivo — $500 apartados para tu abuela + $66.50 sueltos | $566.50 |
-| **Total que tienes ahorita** | **$4,904.18** |
-| Reservado (abuela, otra deuda, ficha, transporte, ahorro) | −$3,930.00 a −$4,530.00 |
-| **Libre real / colchón** | **$374.18 a $974.18** (según si el ahorro es $2,400 o $3,000 — ver nota abajo) |
+| Santander | $937.68 |
+| Efectivo (ya sin los $500 de la abuela, solo sueltos) | $66.50 |
+| **Total que tienes ahorita** | **$1,004.18** |
+| Reservado (otra deuda #2 + transporte — la ficha se mueve a la próxima quincena) | −$410.00 |
+| **Libre real / colchón** | **$594.18** |
 
 | Destino | Monto | Estatus |
 |---|---|---|
-| Debes a tu abuela | $500 | Ya la tienes apartada, falta entregarla |
-| Otra deuda | $200 | Pendiente |
-| Ficha de titulación | $620 | Pendiente — **vence 29/08, antes del próximo pago (05/09)** |
+| Otra deuda (la segunda, distinta a la que ya pagaste) | $200 | Pendiente |
 | Transporte del resto de la quincena | ~$210 | Estimado |
-| Ahorro conjunto | $2,400 o $3,000 (por confirmar) | Pendiente |
-
-**Sobre aplazar la ficha:** no te lo recomiendo. El problema no es de
-dinero — te alcanza de sobra en cualquiera de los dos escenarios de
-ahorro — es de fecha: vence el 29/08, y tu próximo pago es hasta el
-05/09. Si la aplazas "para el siguiente pago", vas a llegar tarde a la
-fecha límite, no solo tarde a pagarla con más comodidad.
-
-**Sobre el ahorro de $3,000:** ¿es tu parte completa, o es el total
-entre tú y Fanny (con ella poniendo más, como decías)? Con eso
-confirmado dejo el colchón exacto en vez de un rango.
+| Ficha de titulación (ficha nueva, después del 05/09) | $620 | Movida a la próxima quincena |
 
 **Cómo lo trackeamos:** en cuanto pagues algo, dímelo aquí en la
 conversación ("ya pagué el hotel, $600" o "gasté $15 en combi") y lo
@@ -80,6 +73,10 @@ Reconstruido a partir de tu estado de cuenta real de Santander
 | — | Ingreso | Fanny | En efectivo (la misma de arriba, no es extra) | +$100.00 |
 | — | Gasto | Otros | Efectivo sin detalle — para cuadrar con lo que reportaste ($566.50 reales: $500 apartados + $66.50 sueltos) | −$60.00 |
 | 21/08/2026 | Gasto | Salidas/citas | Boletos Corona Capital (total, ya con los $2,000 de Fanny adentro) | −$3,720.00 |
+| 21/08/2026 | Gasto | Ahorro | Aporte a ahorro conjunto, enviado a Fanny | −$2,400.00 |
+| 21/08/2026 | Gasto | Otros | Deuda (la primera de las dos) | −$200.00 |
+| 21/08/2026 | Gasto | Otros | Efectivo → tu abuela (entregado) | −$500.00 |
+| 21/08/2026 | Gasto | Otros | Apoyo a tu mamá (gas + despensa) | −$800.00 |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
 
@@ -88,11 +85,14 @@ salga cada uno y lo paso a Movimientos.
 
 | Concepto | Categoría | Monto | Estatus |
 |----------|-----------|-------|---------|
-| Deuda con la abuela (ya la tienes apartada en efectivo) | Otros | $500 | Pendiente de entregar |
-| Otra deuda | Otros | $200 | Pendiente |
-| Ficha de titulación | Otros | $620 | Pendiente — vence 29/08, no aplazar |
+| Otra deuda (la segunda) | Otros | $200 | Pendiente |
 | Transporte quincena (~12 días laborales) | Transporte | ~$210 (por confirmar días) | Recurrente |
-| Aporte a ahorro conjunto | Ahorro | $2,400 o $3,000 (por confirmar) | Pendiente — transferir a la cuenta MercadoPago conjunta |
+
+## Movido a la próxima quincena (05/09 en adelante)
+
+| Concepto | Categoría | Monto | Nota |
+|----------|-----------|-------|------|
+| Ficha de titulación (ficha nueva) | Otros | $620 | La actual vence 29/08; se saca una nueva con fecha nueva cuando haya flujo. Ver [metas/titulacion.md](../metas/titulacion.md). |
 
 **Nota sobre el préstamo:** el crédito nómina ($307.89 esta quincena)
 probablemente se descuenta solo cada quincena, no es un pago único —

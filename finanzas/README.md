@@ -108,26 +108,25 @@ Farmacias Similares de $343 (anticonceptivos) que no teníamos
 registrada — Fanny puso $100 de esa. La terapia ($350) también ya se
 pagó.
 
+**Ya pagaste casi todo (21/08):** ahorro $2,400 a Fanny (confirmado —
+no eran $3,000), la primera deuda de $200, tu abuela ($500, entregado)
+y un apoyo nuevo de $800 a tu mamá para gas y despensa. La ficha de
+titulación se movió a la próxima quincena: la actual vence 29/08,
+antes de tu próximo pago (05/09), así que vas a sacar una ficha nueva
+con fecha límite nueva en vez de forzarla ahora — no se pierde el
+trámite, solo se regenera la referencia de pago (ver
+[metas/titulacion.md](../metas/titulacion.md)).
+
 | Destino | Monto | Prioridad |
 |---|---|---|
-| Debes a tu abuela (ya la tienes apartada en efectivo) | $500 | Alta |
-| Otra deuda | $200 | Alta |
-| Ficha de titulación | $620 | Alta — **vence 29/08, no aplazar** |
-| Transporte quincena (~12 días laborales, $17.50/día) | ~$210 (estimado) | Fijo |
-| **Ahorro conjunto** | **$2,400 o $3,000** (por confirmar con Fanny) | Alta |
-| **Colchón / imprevistos del resto de la quincena** | **$374.18 a $974.18** | Sin comprometer |
-| **Total que tienes ahorita (Santander + efectivo)** | **$4,904.18** | |
+| Otra deuda (la segunda) | $200 | Alta |
+| Transporte, resto de la quincena | ~$210 (estimado) | Fijo |
+| **Colchón / imprevistos del resto de la quincena** | **$594.18** | Sin comprometer |
+| **Total que tienes ahorita (Santander + efectivo)** | **$1,004.18** | |
 
-**Importante — la ficha no se puede aplazar al siguiente pago:**
-vence el 29/08 y tu próxima quincena cae hasta el 05/09. No es tema
-de dinero (te alcanza en cualquiera de los dos escenarios de ahorro),
-es tema de fecha límite — aplazarla significa llegar tarde de verdad,
-no solo pagarla con más comodidad.
-
-Falta confirmar si el ahorro de $3,000 que acordaste con Fanny es tu
-parte completa o el total entre los dos — con eso el colchón queda
-exacto en vez de en rango. Ver el desglose completo, cuenta por
-cuenta, en [gastos.md](gastos.md).
+La ficha ($620) ya no compite por este dinero — queda como pendiente
+de la próxima quincena. Ver el desglose completo, cuenta por cuenta,
+en [gastos.md](gastos.md).
 
 ## Notas
 
