@@ -82,9 +82,12 @@ Satélite a ver a Fanny (helado) antes de volver a Neza.
 
 1. **Trabajo (Tabacalera) → Satélite:** Metro hasta El Rosario ($5,
    tarifa única aunque haya transbordo dentro del sistema) + combi/
-   camión de El Rosario a Satélite (~$10-15). ~1 a 1.5 h. Falta
-   confirmar el punto exacto de encuentro en Satélite (Diego va a
-   mandar el nombre del lugar).
+   camión de El Rosario a Satélite (~$10-15). ~1 a 1.5 h. Punto de
+   encuentro: (19.5188912, -99.2468676) — zona norte de Ciudad
+   Satélite, sobre el corredor de Vía Gustavo Baz/Periférico que ya
+   cubre esa ruta; no se pudo confirmar el nombre exacto del lugar
+   (Maps bloqueado en esta sesión), pero las coordenadas sirven para
+   abrir en cualquier app de mapas el día de hoy.
 2. **Satélite → El Rosario:** mismo combi de regreso (~$10-15).
 3. **El Rosario → cerca de casa:** Metrobús Línea 6 (El Rosario ↔
    Villa de Aragón, ~$6, ~60 min).
