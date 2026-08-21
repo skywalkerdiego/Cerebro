@@ -133,10 +133,37 @@ partida, no verdad cerrada):**
 - [ ] Resultado a mitad de 2026: inflación, pobreza, nivel de aprobación
       *actual* (no el de su llegada)
 
+**Links y accesos directos (búsqueda del 21/08/2026 — cruza estas fuentes,
+hay versiones bastante distintas del "éxito" de Milei):**
+- [Infobae — encuesta de aprobación del gobierno de Milei
+  (mayo 2026)](https://www.infobae.com/politica/2026/05/04/una-nueva-encuesta-midio-el-nivel-de-aprobacion-del-gobierno-de-javier-milei/)
+- [Infobae — análisis prospectivo de la Argentina de Milei
+  (agosto 2026)](https://www.infobae.com/opinion/2026/08/01/un-analisis-prospectivo-de-la-argentina-de-javier-milei/)
+- [Economics Observatory — "Argentina's second test: can the Milei
+  government deliver lasting growth?"](https://www.economicsobservatory.com/argentinas-second-test-can-the-milei-government-deliver-lasting-growth)
+  — salarios reales estancados y desempleo al alza pese a la baja de
+  inflación, buen contrapeso a las notas más celebratorias
+- ⚠️ Nota de fuente: [Freiheit.org (fundación liberal alemana) — "Two
+  years of Javier Milei"](https://www.freiheit.org/argentina-brazil-paraguay-and-uruguay/javier-milei-two-years-office-impressive-successes-and)
+  es un think tank con posición ideológica marcada a favor — útil como
+  dato, no como fuente neutral única
+
 ### III. Ecuador — Noboa
 - [ ] Contexto de crisis de seguridad/crimen organizado
 - [ ] Cómo ganó (y si se reeligió)
 - [ ] Balance real de resultados en seguridad
+
+**Links y accesos directos (búsqueda del 21/08/2026):**
+- [CNN — resultados en vivo, elecciones Ecuador
+  2025](https://cnnespanol.cnn.com/latinoamerica/live-news/resultados-elecciones-ecuador-2025-quien-gana-gonzalez-noboa-orix)
+  — Noboa ganó el balotaje con 56% vs. 44.05% de Luisa González
+- [InSight Crime — "How Organized Crime Shaped Ecuador's Presidential
+  Elections"](https://insightcrime.org/news/organized-crime-agenda-ecuadors-presidential-elections/)
+- [Radio Nacional de Colombia — "La 'mano dura' de Noboa, bajo
+  cuestionamiento: homicidios en Ecuador aumentaron más de 40% en
+  2025"](https://www.radionacional.co/actualidad/mundo/violencia-en-ecuador-aumenta-pese-la-estrategia-de-noboa)
+  — clave para la parte de "balance real": 15,561 homicidios entre
+  nov. 2023 y oct. 2025 pese al discurso de "guerra al crimen"
 
 ### IV. Bolivia — elección 2025
 - [ ] Causas del quiebre de ~20 años de hegemonía del MAS (fractura
@@ -144,11 +171,35 @@ partida, no verdad cerrada):**
 - [ ] Quién ganó y su perfil político/económico
 - [ ] Primeras medidas del nuevo gobierno
 
+**Links y accesos directos (búsqueda del 21/08/2026):**
+- [Wikipedia — Elecciones generales de Bolivia de
+  2025](https://es.wikipedia.org/wiki/Elecciones_generales_de_Bolivia_de_2025)
+  — buen resumen con fechas y cifras exactas (1ª vuelta 17/ago,
+  balotaje 19/oct, MAS <3% en la 1ª vuelta, Rodrigo Paz gana el
+  balotaje con >54%)
+- [Razón Pública — "Elecciones en Bolivia: fin de ciclo y lecciones
+  para América Latina"](https://razonpublica.com/elecciones-bolivia-fin-ciclo-lecciones-america-latina/)
+- [Misión de Observación Electoral de la UE en Bolivia 2025 — informe
+  final
+  (PDF)](https://www.eeas.europa.eu/sites/default/files/2025/documents/MOEUE_Bolivia_2025_Informe_Final.pdf)
+  — fuente dura/oficial si necesitas citar con más peso
+
 ### V. Chile — proceso 2025-2026
 - [ ] Resultado de la presidencial de fines de 2025
 - [ ] Contraste con el rechazo a la propuesta constitucional *de
       derecha* en 2023 (no solo la de izquierda en 2022) — ¿por qué el
       electorado rechazó ambos extremos y qué cambió después?
+
+**Links y accesos directos (búsqueda del 21/08/2026):**
+- [Wikipedia — Elección presidencial de Chile de
+  2025](https://es.wikipedia.org/wiki/Elecci%C3%B3n_presidencial_de_Chile_de_2025)
+  — José Antonio Kast (Partido Republicano) ganó el balotaje del
+  14/12/2025 con 58.16% sobre Jeannette Jara; asume el 11/03/2026
+- [CNN — resumen resultados presidenciales y parlamentarias, Chile
+  2025](https://cnnespanol.cnn.com/latinoamerica/live-news/elecciones-presidenciales-parlamento-chile-2025-resultados-orix)
+- Para el contraste con 2023: busca directo "rechazo propuesta
+  constitucional Chile diciembre 2023" — no quedó en esta ronda de
+  búsqueda, pero es el dato que le da fuerza al matiz de este bloque
 
 ### VI. El Salvador — Bukele
 - [ ] Modelo de "iliberalismo" de derecha: mano dura, estado de
@@ -157,12 +208,53 @@ partida, no verdad cerrada):**
 - [ ] Por qué es un caso distinto (no es libertario ni conservador
       clásico) — matiza que no toda "derecha" es igual
 
+**Links y accesos directos (búsqueda del 21/08/2026):**
+- [Human Rights Watch — Informe Mundial 2026, capítulo El
+  Salvador](https://www.hrw.org/es/world-report/2026/country-chapters/el-salvador)
+  — la fuente más fuerte del lado de derechos humanos
+- [Emol — "Cuatro años de estado de excepción en El Salvador: cómo se
+  aprobó y por qué sigue
+  vigente"](https://www.emol.com/noticias/Internacional/2026/03/27/1195484/bukele-el-salvador-estado-excepcion.html)
+  — 48 prórrogas seguidas desde marzo 2022, +91,000 detenciones (7,000+
+  liberadas después por no tener vínculo con pandillas)
+- [CNN — "Hasta dónde están dispuestos los salvadoreños a aceptar
+  medidas extremas de Bukele con tal de vivir en
+  calma"](https://cnnespanol.cnn.com/2026/05/01/latinoamerica/derechos-seguridad-salvador-bukele-orix)
+  — el ángulo de aprobación pese a las críticas, útil para el punto de
+  "por qué es un caso distinto"
+
 ### VII. Contraejemplos — no saltárselos, le dan rigor al artículo
 - [ ] México (Sheinbaum/Morena, 2024) — ¿continuidad o giro?
 - [ ] Colombia (Petro)
 - [ ] Brasil (Lula, con el trasfondo de Bolsonaro)
 - [ ] Honduras (Castro)
 - [ ] Uruguay (el Frente Amplio volvió al poder en 2024)
+
+**Links y accesos directos por país (búsqueda del 21/08/2026):**
+- **México:** [CNN — "Morena vs. Morena: el desafío electoral para
+  Claudia Sheinbaum en
+  2027"](https://cnnespanol.cnn.com/2026/08/13/mexico/sheinbaum-morena-clave-electoral-mexico-orix)
+  — aprobación de Sheinbaum ~70%, Morena controla 24/32 estados; hay
+  lecturas encontradas sobre si el partido gira a la derecha por dentro
+- **Colombia:** [CNN — "El legado de Gustavo Petro en Colombia, entre
+  la popularidad, la retórica y las promesas
+  incumplidas"](https://cnnespanol.cnn.com/2026/05/26/colombia/gustavo-petro-legado-colombia-elecciones-presidente-orix)
+  · [ANIF — balance económico de la administración
+  Petro](https://www.anif.com.co/informe-semanal/balance-economico-de-la-administracion-petro-notas-regulares-y-un-gran-lunar-en-materia-fiscal/)
+  (su gobierno terminó el 07/08/2026, dato a confirmar/actualizar)
+- **Brasil:** [Nueva Sociedad — "Brasil bajo la polarización: balance y
+  perspectivas"](https://nuso.org/articulo/322-brasil-bajo-la-polarizacion/)
+  — Lula busca reelección el 04/10/2026 contra Flávio Bolsonaro,
+  encuestas muy cerradas (39% vs. 35%)
+- **Honduras:** [Wikipedia — Gobierno de Xiomara
+  Castro](https://es.wikipedia.org/wiki/Gobierno_de_Xiomara_Castro)
+  (mandato terminó el 27/01/2026 — confirmar quién gobierna ahora, es
+  un dato que puede haber cambiado después del corte de información)
+- **Uruguay:** [France 24 — "Orsi gana las presidenciales y encumbra
+  nuevamente a la izquierda en
+  Uruguay"](https://www.france24.com/es/am%C3%A9rica-latina/20241125-orsi-gana-las-presidenciales-y-encumbra-nuevamente-a-la-izquierda-en-uruguay)
+  — Orsi (Frente Amplio) ganó con 52%, terminando 5 años de gobierno de
+  centroderecha (Lacalle Pou)
 
 ### VIII. Explicaciones de fondo
 - [ ] Anti-incumbencia global/regional — comparar con lo que pasó en
@@ -172,10 +264,60 @@ partida, no verdad cerrada):**
 - [ ] Influencia externa (postura de EE.UU., relación con China)
 - [ ] Migración como tema movilizador
 
+**Links y accesos directos por sub-tema (búsqueda del 21/08/2026) —
+este bloque es el corazón de la tesis matizada (opción B), vale la pena
+no saltárselo:**
+- *Anti-incumbencia:* [Real Instituto Elcano — "Elecciones en América
+  Latina (2024): ¿fin del voto de castigo al
+  oficialismo?"](https://www.realinstitutoelcano.org/analisis/elecciones-en-america-latina-2024-fin-del-voto-de-castigo-al-oficialismo/)
+  · [Real Instituto Elcano — "Las elecciones latinoamericanas en 2025:
+  nuevas y viejas
+  dinámicas"](https://www.realinstitutoelcano.org/analisis/las-elecciones-latinoamericanas-en-2025-nuevas-y-viejas-dinamicas/)
+  — dato clave: en 2/3 de las elecciones entre 2022-2024 ganó la
+  oposición, independientemente de su signo ideológico
+- *Inseguridad/crimen organizado:* [InSight Crime — portal de
+  investigación y análisis](https://insightcrime.org/) · [El Tiempo —
+  "Los 10 riesgos políticos para América Latina en 2026: crimen
+  organizado, inseguridad y caída de Nicolás
+  Maduro"](https://www.eltiempo.com/mundo/latinoamerica/los-10-riesgos-politicos-para-america-latina-en-2026-crimen-organizado-inseguridad-y-caida-de-nicolas-maduro-desafian-a-la-region-3523912)
+  — 20 homicidios por 100k habitantes en la región, 50% ligado a crimen
+  organizado
+- *Redes sociales/outsiders:* [ramonramon.org — "El nuevo manual del
+  outsider latinoamericano: qué cambió desde
+  Bukele"](https://ramonramon.org/blog/2026/06/16/el-nuevo-manual-del-outsider-latinoamericano-que-cambio-desde-bukele/)
+  — plantea que el outsider ya no es anomalía, es categoría estable del
+  sistema (Milei, Bukele, Rodrigo Chaves en Costa Rica)
+- *Influencia externa (EE.UU.-China):* [CNN — "Trump y Xi se reúnen en
+  China. América Latina está en el tablero de la disputa
+  geopolítica"](https://cnnespanol.cnn.com/2026/05/13/latinoamerica/trump-xi-disputa-geopolitica-latinoamerica-orix)
+  — casos concretos: Canal de Panamá, Venezuela, Colombia (descertificada
+  por EE.UU. tras acercarse a China), Paraguay-Taiwán
+- *Migración:* [Foreign Affairs Latinoamérica — "Centroamérica entre
+  muros"](https://revistafal.com/centroamerica-entre-muros/) — causas
+  estructurales (violencia, pobreza, clima) frente al uso político del
+  tema en EE.UU. vs. México
+
 ### IX. Cierre
 - [ ] Qué significa esto para México específicamente
 - [ ] Qué significa para el comercio exterior/RI de la región (tu ángulo
       profesional)
+
+**Links y accesos directos (búsqueda del 21/08/2026) — para conectar el
+cierre con tu ángulo profesional de comercio exterior:**
+- [The Logistics World — "Perspectivas del nearshoring 2026: ¿Qué se
+  espera a nivel global y para
+  México?"](https://thelogisticsworld.com/planeacion-estrategica/perspectivas-del-nearshoring-2026-que-se-espera-a-nivel-global-y-para-mexico/)
+  — México como principal socio comercial de EE.UU. desde 2023,
+  desplazando a China; el nearshoring entra en fase de mayor
+  escrutinio político/regulatorio en 2026 (útil para conectar
+  inestabilidad política regional con riesgo de inversión)
+- [Coface — "Nearshoring en México: ¿oportunidad o falsa
+  promesa?"](https://www.coface.es/noticias-economia-insights/nearshoring-en-mexico-oportunidad-o-falsa-promesa)
+- Idea de gancho para el cierre: la estabilidad/orientación política de
+  cada país (este artículo) es justo una de las variables que un
+  analista de comercio exterior tendría que leer antes de recomendar
+  una cadena de suministro o mercado — es tu valor agregado real frente
+  a un politólogo puro
 
 ## 4. Autores y especialistas sugeridos (punto de partida — verificar
    vigencia y buscar sus publicaciones más recientes)
@@ -294,7 +436,14 @@ cual, rellenando lo que está entre corchetes):
 - [x] Tema elegido (19/08/2026): el giro a la derecha en AL
 - [x] Desglose de investigación armado (19/08/2026)
 - [x] Prompt de redacción armado (19/08/2026)
-- [ ] Investigación (Diego)
+- [x] Links y accesos directos agregados en cada bloque del índice de
+      investigación (21/08/2026) — cada sección (II-IX) ya trae de 2 a
+      5 fuentes reales con las que arrancar, no hace falta salir a
+      buscar desde cero
+- [ ] Investigación (Diego) — ir sección por sección del índice
+      (empezando en I. Panorama general), leer las fuentes ya puestas,
+      marcar los checkboxes y anotar lo que vayas encontrando debajo de
+      cada bloque de links
 - [ ] Definir tesis final (A o B, o una propia)
 - [ ] Primer borrador
 - [ ] Publicar

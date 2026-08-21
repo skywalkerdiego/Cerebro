@@ -95,6 +95,15 @@ un préstamo del banco que se descuenta solo, probablemente cada
 quincena. Vale la pena confirmar el saldo pendiente y si conviene
 liquidarlo antes, como mencionaste.
 
+**Recibo de nómina oficial (CFDI) recibido el 21/08/2026:** confirma el
+neto ($9,229.34) y trae el desglose completo de percepciones y
+deducciones (Horas sueldo, Compensación Extraordinaria Variable,
+Séptimo día, ISR, IMSS, etc.) — ver la tabla completa en
+[gastos.md](gastos.md#recibos-de-nómina-oficiales-cfdi). Ese mismo
+documento trae un "Anticipo de Nómina MINU" de $2,070.00, que no
+cuadra con el adelanto de $1,400 + $70 comisión anotado abajo —
+discrepancia sin resolver, ver la nota en gastos.md.
+
 ### Reparto de la quincena (20/08 – ~04/09/2026)
 
 Corrección: los boletos son de **Corona Capital** (no Vaivén) —

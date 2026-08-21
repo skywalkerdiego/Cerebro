@@ -10,6 +10,48 @@ tablero interactivo, o de lo que me cuentes en la conversación. Ver
 |-----|----------|--------|--------------------------------------|-------|
 | | | | | |
 
+## Recibos de nómina oficiales (CFDI)
+
+Desglose tal como viene en el recibo de nómina oficial (CFDI) de TTEC
+CX Solutions México — respalda los montos de "Movimientos" más abajo.
+El documento original (imagen/PDF) vive en
+[biblioteca/finanzas/](../biblioteca/finanzas/).
+
+| Quincena (fecha de pago) | Percepciones | Deducciones | Neto a pagar | Documento |
+|---|---|---|---|---|
+| 20/08/2026 | $13,562.66 | $4,333.32 | **$9,229.34** | [recibo-nomina_2026-08-20.png](../biblioteca/finanzas/recibo-nomina_2026-08-20.png) |
+
+**Desglose del 20/08/2026** (15 días pagados, periodo 01/08–15/08/2026):
+
+| Percepciones | Monto |
+|---|---|
+| Horas sueldo | $8,215.69 |
+| Compensación Extraordinaria Variable | $2,550.00 |
+| Séptimo día | $1,504.80 |
+| Sueldo por Vacaciones | $809.96 |
+| Prima Dominical | $247.59 (+ $234.62 exento) |
+
+| Deducciones | Monto |
+|---|---|
+| Anticipo de Nómina MINU | $2,070.00 |
+| ISR | $1,915.13 |
+| Seguro Social (IMSS) | $348.19 |
+
+⚠️ **Discrepancia a resolver:** en `finanzas/README.md` (quincena del
+20/08) se había anotado un adelanto de $1,400 + $70 de comisión
+($1,470 en total). El recibo oficial solo trae una línea, "Anticipo de
+Nómina MINU: $2,070.00", sin más desglose — puede ser que el $1,470
+sea una parte de ese anticipo, o que el estimado original fuera
+impreciso. Vale la pena confirmarlo (con RH o el detalle del préstamo
+MINU) para no arrastrar el número equivocado la próxima quincena.
+
+**Cómo se usa esto para futuras quincenas:** en cuanto llegue el
+siguiente recibo de nómina (foto o PDF), mándamelo en la conversación
+— lo guardo en `biblioteca/finanzas/`, agrego la fila a la tabla de
+arriba y actualizo el desglose. Así queda un historial real,
+quincena por quincena, en vez de depender solo del estimado del estado
+de cuenta bancario.
+
 ## Saldo en vivo — quincena del 20/08 al 04/09/2026
 
 Próximo pago: **05/09/2026** (16 días).
