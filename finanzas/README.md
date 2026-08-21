@@ -83,15 +83,17 @@ Diego reportó: 100 horas trabajadas + bono de $2,500, pago quincenal
 por nómina, ya con el adelanto de $1,400 y la comisión de $70
 descontados.
 
-**Depósito real: $8,953.48 MXN** — bastante por debajo del estimado
-que teníamos (~$12,500–13,500). La diferencia (~$3,500–4,500) es casi
-seguro ISR: la retención sobre horas extra y bono suele ser más alta
-que la tasa promedio del sueldo base, justo el riesgo que habíamos
-apuntado como posible cuando se hizo el cálculo. No es un error de
-cálculo tuyo ni nuestro — es cómo retiene el patrón sobre el ingreso
-"extra" de la quincena.
+**Depósito real: $9,229.34 MXN** (confirmado con el estado de cuenta
+de Santander el 21/08 — el número que teníamos antes, $8,953.48, era
+en realidad tu saldo *después* de un cargo que no habíamos visto, no
+el depósito mismo). Sigue por debajo del estimado original
+(~$12,500–13,500); la diferencia es casi seguro ISR sobre las horas
+extra y el bono, como ya habíamos apuntado.
 
-Este número ya reemplaza el estimado anterior como el real.
+También apareció un **pago automático de crédito nómina ($307.89)** —
+un préstamo del banco que se descuenta solo, probablemente cada
+quincena. Vale la pena confirmar el saldo pendiente y si conviene
+liquidarlo antes, como mencionaste.
 
 ### Reparto de la quincena (20/08 – ~04/09/2026)
 
@@ -100,33 +102,30 @@ evento nuevo, plan aparte pendiente. Ya no es "a la mitad": Fanny te
 dio **$2,000** en efectivo/transferencia para cubrir su parte, y tú
 pones lo que falta de los $3,720 totales — **$1,720**.
 
-La cita de ayer con Fanny ya tiene montos reales (no estimados):
-hotel $580, gasolina $590.80, tacos $410, cerveza $189 (Fanny puso
-$100 de esos). Total real: **$1,769.80** — $269.80 más de lo
-estimado ($1,500).
+La cita con Fanny ya tiene montos reales (confirmados con el banco):
+hotel $580, gasolina $590.80, cerveza $189, y una compra en
+Farmacias Similares de $343 (anticonceptivos) que no teníamos
+registrada — Fanny puso $100 de esa. La terapia ($350) también ya se
+pagó.
 
 | Destino | Monto | Prioridad |
 |---|---|---|
 | Boletos Corona Capital (total — ya cubierto $2,000 por Fanny) | $3,720 | Alta — ya comprometido |
-| Debes a tu abuela | $500 | Alta |
+| Debes a tu abuela (ya la tienes apartada en efectivo) | $500 | Alta |
 | Otra deuda | $200 | Alta |
 | Ficha de titulación | $620 | Alta — vence 29/08 |
-| Terapia | $350 | Alta |
-| Cita con Fanny (hotel + gasolina + tacos + cerveza, real) | $1,769.80 | Ya pagado |
-| Transporte quincena (~12 días laborales, $17.50/día — Uber de fin de semana lo cubre el trabajo) | ~$210 (estimado, falta confirmar días) | Fijo |
+| Transporte quincena (~12 días laborales, $17.50/día) | ~$210 (estimado) | Fijo |
 | Despensa | ~$700 (estimado, ajustable) | Flexible |
 | **Ahorro conjunto (adelantando la meta de septiembre)** | **$2,400** | Empieza antes de lo planeado |
-| **Colchón / imprevistos del resto de la quincena** | **$677.18** | Lo que sobra |
-| **Total (nómina + efectivo que ya traías + lo de Fanny)** | **$11,146.98** | |
+| **Colchón / imprevistos del resto de la quincena** | **$274.18** | Lo que sobra |
+| **Total que tienes ahorita (Santander + efectivo)** | **$8,624.18** | |
 
-El colchón queda casi igual (de $613.48 a **$677.18** — subió un poco):
-gastaste más de lo estimado en la cita ($269.80 extra), pero Fanny
-cubrió $2,100 entre boletos y cerveza (más de lo que habíamos
-supuesto), y eso compensó de sobra. Confirmado: sacaste $950 del
-cajero (Santander → efectivo) y los $2,000 de Fanny llegaron por
-transferencia a Santander — con eso, Santander queda en $8,650.68 y
-Efectivo en $726.50 (ver desglose por cuenta en
-[gastos.md](gastos.md)).
+El colchón bajó de $677.18 (cálculo de ayer, con datos incompletos) a
+**$274.18** real: la nómina fue mejor de lo pensado (+$275.86), pero
+el crédito nómina y lo de Similares que no conocíamos se llevaron más
+de eso (−$650.89). Sigue positivo, pero ya no queda margen para algo
+que no esté en la lista de arriba — ver el desglose completo, cuenta
+por cuenta, en [gastos.md](gastos.md).
 
 Ver desglose completo en [gastos.md](gastos.md).
 

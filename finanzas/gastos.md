@@ -14,21 +14,27 @@ tablero interactivo, o de lo que me cuentes en la conversación. Ver
 
 Próximo pago: **05/09/2026** (16 días).
 
+**Corrección con tu estado de cuenta real (21/08):** el depósito de
+nómina fue en realidad **$9,229.34** (no $8,953.48 — ese número era
+tu saldo *después* de un cargo que no habíamos visto). También
+aparecieron dos gastos que no teníamos registrados: un pago de
+**crédito nómina de $307.89** (préstamo del banco, se descuenta solo)
+y **$343 en Farmacias Similares** (anticonceptivos, Fanny puso $100 de
+esos). La terapia ($350) ya se pagó, no sigue pendiente.
+
 | | Monto |
 |---|---|
-| Ingresos totales (nómina + efectivo que ya traías + lo que te dio Fanny) | $11,146.98 |
-| Ya gastado de verdad (hotel, gasolina, tacos, cerveza) | −$1,769.80 |
-| Reservado (compromisos de la tabla de abajo, aún no pagados) | −$8,700.00 |
-| **Libre real / colchón** | **$677.18** |
+| Santander (real, según tu estado de cuenta) | $8,057.68 |
+| Efectivo — $500 apartados para tu abuela + $66.50 sueltos | $566.50 |
+| **Total que tienes ahorita** | **$8,624.18** |
+| Reservado (compromisos de la tabla de abajo, aún no pagados) | −$8,350.00 |
+| **Libre real / colchón** | **$274.18** |
 
-Confirmado: sacaste $950 del cajero (Santander → efectivo), y los
-$2,000 de Fanny para los boletos te los depositó directo a Santander.
-Con eso, así quedan tus dos cuentas ahorita:
-
-| Cuenta | Saldo |
-|---|---|
-| Santander | $8,650.68 |
-| Efectivo | $726.50 |
+El colchón bajó de $677.18 (mi cálculo de ayer, con datos
+incompletos) a **$274.18** real: la nómina fue mejor de lo que
+pensábamos (+$275.86), pero el préstamo y lo de Simi que no
+conocíamos se llevaron más de eso (−$650.89). Sigue en positivo, pero
+ya no hay margen para gastos extra que no estén en la lista de abajo.
 
 **Cómo lo trackeamos:** en cuanto pagues algo, dímelo aquí en la
 conversación ("ya pagué el hotel, $600" o "gasté $15 en combi") y lo
@@ -40,17 +46,24 @@ para eso.
 
 ## Movimientos
 
+Reconstruido a partir de tu estado de cuenta real de Santander
+(21/08/2026) — estos números ya no son estimados.
+
 | Fecha | Tipo | Categoría | Descripción | Monto |
 |-------|------|-----------|-------------|-------|
-| 20/08/2026 | Ingreso | Nómina | Quincena (100h + bono $2,500, neto tras adelanto y comisión) | +$8,953.48 |
-| 20/08/2026 | Ingreso | Fanny | Para los boletos de Corona Capital (transferencia a Santander) | +$2,000.00 |
-| 20/08/2026 | Ingreso | Fanny | Para la cerveza (efectivo, asumido) | +$100.00 |
-| 20/08/2026 | Gasto | Salidas/citas | Hotel (tarjeta, asumido) | −$580.00 |
-| 20/08/2026 | Gasto | Transporte | Gasolina — tarjeta | −$583.80 |
-| 20/08/2026 | Gasto | Transporte | Gasolina — efectivo (del cambio) | −$7.00 |
-| 20/08/2026 | Gasto | Salidas/citas | Tacos (efectivo) | −$410.00 |
-| 20/08/2026 | Gasto | Salidas/citas | Cerveza (tarjeta, asumido) | −$189.00 |
-| 20/08/2026 | Transferencia | — | Retiro de cajero: Santander → Efectivo | $950.00 |
+| 20/08/2026 | Ingreso | Nómina | Quincena (100h + bono $2,500, neto tras adelanto y comisión) | +$9,229.34 |
+| 20/08/2026 | Gasto | Otros | Pago de crédito nómina (préstamo del banco, automático) | −$307.89 |
+| 20/08/2026 | Gasto | Salud | Terapia | −$350.00 |
+| 20/08/2026 | Gasto | Transporte | Gasolina (tarjeta) | −$483.80 |
+| 20/08/2026 | Transferencia | — | Retiro de cajero: Santander → Efectivo | −$950.00 |
+| 20/08/2026 | Gasto | Salidas/citas | Cerveza (OXXO) | −$189.00 |
+| 20/08/2026 | Gasto | Salud | Farmacias Similares (anticonceptivos) — Fanny puso $100 de esto | −$343.00 |
+| 20/08/2026 | Gasto | Salidas/citas | Hotel | −$580.00 |
+| 21/08/2026 | Ingreso | Fanny | Para los boletos de Corona Capital (vía MercadoPago, a Santander) | +$2,000.00 |
+| — | Gasto | Salidas/citas | Tacos (efectivo, no aparece en el banco) | −$410.00 |
+| — | Gasto | Transporte | Gasolina, la parte en efectivo | −$107.00 |
+| — | Ingreso | Fanny | En efectivo (la misma de arriba, no es extra) | +$100.00 |
+| — | Gasto | Otros | Efectivo sin detalle — para cuadrar con lo que reportaste ($566.50 reales: $500 apartados + $66.50 sueltos) | −$60.00 |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
 
@@ -60,10 +73,14 @@ salga cada uno y lo paso a Movimientos.
 | Concepto | Categoría | Monto | Estatus |
 |----------|-----------|-------|---------|
 | Boletos Corona Capital (total — ya cubierto: $2,000 de Fanny, faltan $1,720 tuyos) | Salidas/citas | $3,720 | Pendiente |
-| Deuda con la abuela | Otros | $500 | Pendiente |
+| Deuda con la abuela (ya la tienes apartada en efectivo) | Otros | $500 | Pendiente de entregar |
 | Otra deuda | Otros | $200 | Pendiente |
 | Ficha de titulación | Otros | $620 | Pendiente — vence 29/08 |
-| Terapia (sesión de hoy) | Salud | $350 | Pendiente |
 | Transporte quincena (~12 días laborales) | Transporte | ~$210 (por confirmar días) | Recurrente |
 | Despensa | Comida | ~$700 (ajustable) | Pendiente |
 | Aporte a ahorro conjunto (adelantado, ver `ahorro.md`) | Ahorro | $2,400 | Pendiente — transferir a la cuenta MercadoPago conjunta |
+
+**Nota sobre el préstamo:** el crédito nómina ($307.89 esta quincena)
+probablemente se descuenta solo cada quincena, no es un pago único —
+vale la pena confirmarlo y ver si conviene liquidarlo antes, como
+mencionaste. Dime si quieres que investiguemos eso.
