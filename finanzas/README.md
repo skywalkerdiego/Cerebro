@@ -98,9 +98,9 @@ liquidarlo antes, como mencionaste.
 ### Reparto de la quincena (20/08 – ~04/09/2026)
 
 Corrección: los boletos son de **Corona Capital** (no Vaivén) —
-evento nuevo, plan aparte pendiente. Ya no es "a la mitad": Fanny te
-dio **$2,000** en efectivo/transferencia para cubrir su parte, y tú
-pones lo que falta de los $3,720 totales — **$1,720**.
+evento nuevo, plan aparte pendiente. **Ya los pagaste** ($3,720 desde
+Santander, confirmado con tu saldo real) — Fanny ya había puesto
+$2,000 de eso.
 
 La cita con Fanny ya tiene montos reales (confirmados con el banco):
 hotel $580, gasolina $590.80, cerveza $189, y una compra en
@@ -110,22 +110,24 @@ pagó.
 
 | Destino | Monto | Prioridad |
 |---|---|---|
-| Boletos Corona Capital (total — ya cubierto $2,000 por Fanny) | $3,720 | Alta — ya comprometido |
 | Debes a tu abuela (ya la tienes apartada en efectivo) | $500 | Alta |
 | Otra deuda | $200 | Alta |
-| Ficha de titulación | $620 | Alta — vence 29/08 |
+| Ficha de titulación | $620 | Alta — **vence 29/08, no aplazar** |
 | Transporte quincena (~12 días laborales, $17.50/día) | ~$210 (estimado) | Fijo |
-| **Ahorro conjunto (adelantando la meta de septiembre)** | **$2,400** | Empieza antes de lo planeado |
-| **Colchón / imprevistos del resto de la quincena** | **$974.18** | Sin comprometer |
-| **Total que tienes ahorita (Santander + efectivo)** | **$8,624.18** | |
+| **Ahorro conjunto** | **$2,400 o $3,000** (por confirmar con Fanny) | Alta |
+| **Colchón / imprevistos del resto de la quincena** | **$374.18 a $974.18** | Sin comprometer |
+| **Total que tienes ahorita (Santander + efectivo)** | **$4,904.18** | |
 
-Quitaste la despensa de la lista (ya no está entre los compromisos),
-así que el colchón sube de $274.18 a **$974.18**. Es el número real,
-ya con todo lo del banco reconciliado: la nómina fue mejor de lo
-pensado (+$275.86 sobre el estimado de ayer), el crédito nómina y lo
-de Similares se llevaron más de eso (−$650.89), y sin despensa queda
-$700 más libre. Ver el desglose completo, cuenta por cuenta, en
-[gastos.md](gastos.md).
+**Importante — la ficha no se puede aplazar al siguiente pago:**
+vence el 29/08 y tu próxima quincena cae hasta el 05/09. No es tema
+de dinero (te alcanza en cualquiera de los dos escenarios de ahorro),
+es tema de fecha límite — aplazarla significa llegar tarde de verdad,
+no solo pagarla con más comodidad.
+
+Falta confirmar si el ahorro de $3,000 que acordaste con Fanny es tu
+parte completa o el total entre los dos — con eso el colchón queda
+exacto en vez de en rango. Ver el desglose completo, cuenta por
+cuenta, en [gastos.md](gastos.md).
 
 ## Notas
 
