@@ -95,36 +95,39 @@ Este número ya reemplaza el estimado anterior como el real.
 
 ### Reparto de la quincena (20/08 – ~04/09/2026)
 
-Corrección: los $3,720 de boletos son de **Corona Capital** (no
-Vaivén) — evento nuevo, plan aparte pendiente. Es una compra a
-medias con Fanny, así que solo cuenta como tu gasto real **la
-mitad: $1,860**.
+Corrección: los boletos son de **Corona Capital** (no Vaivén) —
+evento nuevo, plan aparte pendiente. Ya no es "a la mitad": Fanny te
+dio **$2,000** en efectivo/transferencia para cubrir su parte, y tú
+pones lo que falta de los $3,720 totales — **$1,720**.
+
+La cita de ayer con Fanny ya tiene montos reales (no estimados):
+hotel $580, gasolina $590.80, tacos $410, cerveza $189 (Fanny puso
+$100 de esos). Total real: **$1,769.80** — $269.80 más de lo
+estimado ($1,500).
 
 | Destino | Monto | Prioridad |
 |---|---|---|
-| Boletos Corona Capital (tu mitad, la otra la cubre/regresa Fanny) | $1,860 | Alta — ya comprometido |
+| Boletos Corona Capital (lo que falta de tu parte) | $1,720 | Alta — ya comprometido |
 | Debes a tu abuela | $500 | Alta |
 | Otra deuda | $200 | Alta |
 | Ficha de titulación | $620 | Alta — vence 29/08 |
-| Terapia (sesión de mañana) | $350 | Alta |
-| Cita de hoy con Fanny (hotel $600 + gasolina $500 + tacos $300 + cerveza ~$100) | $1,500 | Ya en curso |
+| Terapia | $350 | Alta |
+| Cita con Fanny (hotel + gasolina + tacos + cerveza, real) | $1,769.80 | Ya pagado |
 | Transporte quincena (~12 días laborales, $17.50/día — Uber de fin de semana lo cubre el trabajo) | ~$210 (estimado, falta confirmar días) | Fijo |
 | Despensa | ~$700 (estimado, ajustable) | Flexible |
 | **Ahorro conjunto (adelantando la meta de septiembre)** | **$2,400** | Empieza antes de lo planeado |
-| **Colchón / imprevistos del resto de la quincena** | **$613.48** | Lo que sobra |
-| **Total** | **$8,953.48** | |
+| **Colchón / imprevistos del resto de la quincena** | **$583.68** | Lo que sobra |
+| **Total (nómina + lo de Fanny)** | **$11,053.48** | |
 
-La idea del ahorro: el plan de `ahorro.md` pide $4,800/mes de tu
-parte a partir de septiembre (~$2,400 por quincena). Metiendo $2,400
-ahora, en agosto, quedas **adelantado** en vez de empezar en ceros en
-septiembre. El colchón se achicó de ~$1,163 a **$613.48** al sumar la
-terapia y ajustar la cita de hoy a los montos reales — sigue siendo
-positivo, pero ya no sobra mucho. Si algo más aparece esta quincena,
-lo primero que se recorta es la despensa (~$700, es flexible), no el
-ahorro. El único número que sigue siendo estimado es el transporte —
-en cuanto sepas cuántos días laborales te quedan, lo afino.
+El colchón bajó apenas ~$30 (de $613.48 a $583.68): gastaste más de
+lo estimado en la cita ($269.80 extra), pero Fanny cubrió más de la
+mitad de los boletos de lo que habíamos supuesto ($2,000 de $3,720,
+no $1,860), y eso compensó casi todo. Sigue positivo. Falta confirmar
+en qué cuenta cayeron los $2,000 de Fanny y cuánto sacaste tú del
+cajero — no cambia el colchón, solo en qué cuenta está cada peso (ver
+[gastos.md](gastos.md)).
 
-Ver desglose en [gastos.md](gastos.md).
+Ver desglose completo en [gastos.md](gastos.md).
 
 ## Notas
 
