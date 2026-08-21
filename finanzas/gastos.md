@@ -77,7 +77,7 @@ Reconstruido a partir de tu estado de cuenta real de Santander
 | 21/08/2026 | Gasto | Otros | Deuda (la primera de las dos) | −$200.00 |
 | 21/08/2026 | Gasto | Otros | Efectivo → tu abuela (entregado) | −$500.00 |
 | 21/08/2026 | Gasto | Otros | Apoyo a tu mamá (gas + despensa) | −$800.00 |
-| 21/08/2026 | Gasto | Salidas/citas | Boletos de cine (2, Cinepolis Sentura Tlalnepantla, sala 6, para el jueves 27/08) — Santander | −$82.00 |
+| 21/08/2026 | Gasto | Salidas/citas | Boletos de cine (2, Harry Potter y la Piedra Filosofal 25 años de magia, Cinepolis Sentura Tlalnepantla, sala 6, viernes 28/08 9:20pm) — Santander | −$82.00 |
 | 21/08/2026 | Gasto | Comida | Tianguis (efectivo, sueltos) | −$7.00 |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
