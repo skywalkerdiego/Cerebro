@@ -23,12 +23,13 @@ que el clima en Hoy.exe es una **lectura capturada**, con fecha de
 cuándo se tomó. Pídeme "actualiza el clima" cuando quieras una lectura
 fresca y la vuelvo a consultar y a publicar.
 
-Última lectura (20/08/2026):
-- Casa (Nezahualcóyotl): ~20°C, muy nublado (95%), lluvia ligera,
-  viento ~7 km/h, humedad 53%.
-- Trabajo (Tabacalera/Monumento a la Revolución): 17°C por la mañana
-  subiendo a ~22°C por la tarde con chubascos tormentosos, bajando a
-  ~16°C en la noche con lluvia débil, viento NO ~9 km/h.
+Última lectura (21/08/2026):
+- Casa (Nezahualcóyotl): ~17°C por la mañana con nubes y claros,
+  subiendo a ~20°C por la tarde con lluvia débil y cielo cubierto,
+  bajando a ~16°C en la noche con lluvia débil, viento SE ~10 km/h.
+- Trabajo (Tabacalera/Monumento a la Revolución): ~18°C ahorita,
+  parcialmente nublado con lluvia ligera, máxima del día entre
+  18–21°C y mínima entre 13–16°C, viento N ~10 km/h.
 
 ## Notas
 
