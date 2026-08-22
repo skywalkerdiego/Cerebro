@@ -48,3 +48,11 @@ Mismo patrón que `finanzas/`:
   que sigue siendo el foco correcto, y la brecha es chica (3 puntos).
 - Foco actual: subir el First Call Resolution — plan concreto hablado
   el 16/08/2026, ver conversación.
+- **22/08/2026:** tu supervisor Armando Cortes te ha mandado 4
+  observaciones de coaching enfocadas en FCR (11/08 y 21/08). La meta
+  de FCR ya subió de 73.74% a **78.13%** (+10% relativo). Causa raíz
+  que se repite: loops técnicos sin escalar rápido, respuestas rígidas
+  de política sin investigar el historial, y dejar temas secundarios
+  sin resolver en la misma llamada. Detalle completo + banco de frases
+  en [metricas.md](metricas.md) y en
+  [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5).

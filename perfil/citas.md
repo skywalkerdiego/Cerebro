@@ -8,8 +8,8 @@ laten, cuáles ya hicieron, y las voy marcando.
 
 - **Domingo 23/08/2026, ~5:30 pm** (sales del trabajo a las 4, hora
   aproximada según el traslado) — vas a verla saliendo de trabajar,
-  por el McDonald's de Circuito Dramaturgos, en Satélite. Plan: helado
-  en McDonald's o café en Starbucks cerca de donde vive ella, y
+  por el McDonald's de Circuito Dramaturgos, en Satélite. Plan
+  actualizado (22/08/2026): hamburguesa y helado en McDonald's, y
   regresar a casa. Ya está en tu calendario.
 
 ## Para el aniversario (20 de octubre)
