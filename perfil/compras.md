@@ -12,6 +12,10 @@ mejor va directo en [../metas/ahorro.md](../metas/ahorro.md).
 - [ ] Buscar un perfume azul árabe — versátil y barato
 - [ ] Moto: Vento o Italika 250cc (más grande, va de la mano con
       [../metas/ahorro.md](../metas/ahorro.md) — después de la mudanza)
+- [ ] Mochila **The North Face Borealis** — para reemplazar la que
+      usas ahorita (22/08/2026)
+- [ ] Artículos de TikTok Shop y Temu — pendiente que le digas a
+      Claude cuáles son para detallarlos aquí
 
 ## Notas
 

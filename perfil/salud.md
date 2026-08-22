@@ -32,7 +32,14 @@ día le pegan directo al sueño y al tiempo para cuidarte.
   en chequeos/dentista/etc.
 - **Agua:** quieres tomar más (22/08/2026) — dilo si quieres que te lo
   recuerde de vez en cuando en los check-ins (5am/5:30pm/8pm), al
-  mismo ritmo ligero que la pregunta de sueño.
+  mismo ritmo ligero que la pregunta de sueño. Meta diaria calculada
+  con tus datos (abajo): **~2,200 ml**. El medidor de agua en vivo del
+  HUD principal (Cerebro.exe) ya cuenta en ml usando esta meta y la
+  capacidad de tu botella (editable ahí mismo).
+- **Estatura y peso (22/08/2026):** 1.78 m, 63 kg. Uso esto para
+  calcular tu meta de agua (~35 ml por kg) y, a futuro, un medidor de
+  calorías/planeador de comidas — todavía sin construir, queda como
+  plan.
 
 ## Registro de sueño
 
