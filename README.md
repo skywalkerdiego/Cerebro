@@ -33,7 +33,7 @@ y un ahorro conjunto en marcha.
 | [perfil/regalos-novia.md](perfil/regalos-novia.md) | Ideas de regalos para tu novia |
 | [perfil/fechas-importantes.md](perfil/fechas-importantes.md) | Fechas importantes |
 | [perfil/rutina.md](perfil/rutina.md) | Plantilla de rutina personal según tu horario rotativo de trabajo |
-| [perfil/compras.md](perfil/compras.md) | Cosas para comprar |
+| [perfil/compras.md](perfil/compras.md) | Cosas para comprar, con Fondo cosillas aparte del ahorro de la mudanza |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
 
@@ -79,6 +79,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
 - 🌳 [Habilidades.exe](https://claude.ai/code/artifact/3a0ddef9-d6a7-493d-a512-387301f153fa) — árbol de habilidades: tus metas, vínculo con Fanny, finanzas y desempeño como sendas de nodos completados, disponibles y bloqueados. Se regenera cuando avances algo.
 - 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — tablero semanal: un foco distinto cada noche según tu horario real de turnos y traslado, con Duolingo y Fanny como anclas diarias. Se remapea cuando cambie tu horario.
+- 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, para no competir con ese dinero.
 - 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 
