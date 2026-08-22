@@ -3,7 +3,7 @@
 Tableros para explicarle a la familia por qué conviene cambiar:
 
 - [Combo Totalplay](https://claude.ai/code/artifact/c4cdab4f-0b30-4b9e-ac5d-c24b24f73741) — para papás y hermana.
-- [Chao AT&T](https://claude.ai/code/artifact/fd1ec75f-bbba-4da2-a121-04b78cb2ba83) — solo para mamá.
+- [Chao AT&T](https://claude.ai/code/artifact/fd1ec75f-bbba-4da2-a121-04b78cb2ba83) — para toda la familia (4 líneas: mamá, papá, hermana y tú).
 
 Investigación para dejar de pagar de más — comparar lo que tienes hoy
 contra alternativas que agrupen todo en un solo lugar o cuesten menos.
@@ -50,38 +50,45 @@ que el internet sube de velocidad. Vale la pena:
 - [ ] Cancelar las suscripciones sueltas de streaming una vez que el
       combo esté activo (para no pagar doble el primer mes).
 
-## 📱 Telefonía (AT&T actual, plan compartido con tu mamá)
+## 📱 Telefonía (AT&T actual → posible plan familiar de 4 líneas)
 
-**Situación actual:** plan compartido en AT&T con tu mamá (2 líneas).
+**Situación actual:** líneas repartidas en AT&T entre la familia.
 Sensación: pagan mucho y la señal no es tan buena.
 
-### Alternativas 2026
+**Decisión (22/08/2026):** en vez de solo tú y tu mamá, se evaluó
+juntar las 4 líneas de la familia (mamá, papá, hermana y tú) en un
+solo plan.
 
-| Operador | Plan | Precio | Qué incluye |
+### Alternativas 2026 — plan compartido de 4 líneas
+
+| Operador | Plan | Precio (4 líneas) | Qué incluye |
 |---|---|---|---|
-| **Telcel** | Duo (2 líneas) | **$900/mes** (las 2 líneas) | 20 GB compartidos, 1,000 min nacionales, redes sociales ilimitadas en ambas líneas |
-| **Telcel** | Multilínea Familiar | $199/línea ($398 para 2) | Solo 3 GB compartidos + 200 min — muy limitado, no ilimitado |
-| **Movistar** | Pro Ilimitado (línea titular + adicional) | $599 la titular + ~$509 la adicional (15% desc. 12 meses) = **~$1,108/mes el primer año**, luego ~$1,198/mes | Datos verdaderamente ilimitados en ambas líneas |
-| **AT&T** | Planes actuales | $330-$1,300/línea según el plan | Referencia — confirma tu plan real para comparar |
+| **Telcel** | Multilínea Familiar | **$636-716/mes** (~$159-179/línea) | 15 GB compartidos entre las 4, 600 min compartidos, SMS ilimitado por línea |
+| **Movistar** | Pro Ilimitado ×4 (con desc. en adicionales) | ~$2,000+/mes | Datos verdaderamente ilimitados en las 4 líneas |
+| **AT&T** | Planes actuales | $330-$1,300/línea según el plan | Referencia — confirmar lo que paga cada quien hoy |
+
+**Reparto de datos:** tus papás casi no usan datos móviles, así que en
+la práctica los 15 GB compartidos los consumen tú y tu hermana — unos
+7.5 GB cada uno si se reparten parejo. Confirmaste que ambos usan WiFi
+casi todo el tiempo, así que deberían alcanzar sin problema; si algún
+mes no alcanza, Telcel vende paquetes de datos adicionales desde $39
+(mejor eso que pagar de más todo el año por un plan con más GB fijos).
 
 **Cobertura/señal:** Telcel es consistentemente el mejor en velocidad y
 cobertura en México; Movistar y AT&T se han alternado el 2º/3er lugar
-en pruebas recientes — es decir, cambiarte a Movistar no garantiza
-mejor señal que AT&T, pero Telcel sí suele ser un salto real en
-cobertura.
+en pruebas recientes.
 
-**Recomendación:**
-- Si el uso de datos de las dos líneas es moderado (no ven mucho video
-  en datos móviles, usan WiFi casi siempre): **Telcel Duo, $900/mes por
-  las 2 líneas**, es la opción más barata y con la mejor red — probable
-  ahorro real contra AT&T y resuelve la queja de señal.
-- Si de verdad necesitan datos ilimitados sin restricción: Movistar Pro
-  Ilimitado (~$1,108/mes primer año) da más GB, pero no resuelve
-  necesariamente el problema de señal.
-- [ ] Confirmar cuánto pagan hoy exactamente en AT&T (revisa el recibo)
-      para comparar contra estos números reales.
-- [ ] Si Telcel Duo convence, verificar cobertura en las zonas donde
-      más usan el teléfono (casa, trabajo, traslado) antes de portar.
+**Recomendación:** **Telcel Multilínea Familiar de 4 líneas, $636-716/mes
+en total** (menos de $180/persona) — la opción más barata, con la
+mejor red, y con los 15 GB compartidos + paquetes extra ocasionales
+cubriendo bien el uso real de la familia.
+
+- [ ] Juntar los recibos actuales de AT&T de las 4 líneas para comparar
+      real contra real.
+- [ ] Confirmar el precio exacto por línea con Telcel al momento de
+      contratar (varía $159-179 según la promoción vigente).
+- [ ] Verificar cobertura de Telcel en casa y en los lugares donde más
+      se usa el teléfono, antes de portar.
 - [ ] Portabilidad: se puede hacer sin perder el número, marcando *051
       o desde la app del operador nuevo.
 
