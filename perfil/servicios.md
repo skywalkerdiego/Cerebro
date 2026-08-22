@@ -1,5 +1,10 @@
 # 📡 Servicios: internet/streaming y telefonía
 
+Tableros para explicarle a la familia por qué conviene cambiar:
+
+- [Combo Totalplay](https://claude.ai/code/artifact/c4cdab4f-0b30-4b9e-ac5d-c24b24f73741) — para papás y hermana.
+- [Chao AT&T](https://claude.ai/code/artifact/fd1ec75f-bbba-4da2-a121-04b78cb2ba83) — solo para mamá.
+
 Investigación para dejar de pagar de más — comparar lo que tienes hoy
 contra alternativas que agrupen todo en un solo lugar o cuesten menos.
 
