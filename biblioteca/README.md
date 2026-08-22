@@ -19,3 +19,4 @@ Tablero: [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e
 | Carpeta | Contenido |
 |---------|-----------|
 | [titulacion/](titulacion/) | ATI, formato de solicitud y demás documentos del trámite de titulación |
+| [finanzas/](finanzas/) | Recibos de nómina (CFDI) escaneados, quincena por quincena |

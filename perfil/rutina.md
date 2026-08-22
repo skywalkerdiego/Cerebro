@@ -69,7 +69,7 @@ check mensual — no compite con el resto de la rutina.
 | **Jue 20 (Off)** | — | — | Mañana: 🎓 **pagar la ficha de titulación** ($620) + armar comprobante · Tarde: 🎨 dibujar |
 | **Vie 21 (Off)** | — | — | Mañana: 💼 bloque largo — más vacantes y perfil en agencias · Tarde: ✍️ escribir el primer artículo |
 | Sáb 22 | 6 am - 4 pm | ~5:20 pm | 🎨 Hobby — dibujar |
-| Dom 23 | 6 am - 4 pm | ~5:20 pm | 🎮 Entretenimiento / descanso antes de la siguiente semana |
+| **Dom 23** | 6 am - 4 pm | **~9-9:30 pm** (no 5:20pm — hay desvío) | 💜 Después del turno: Satélite a ver a Fanny (helado), luego trayecto largo de regreso — ver desglose en [../finanzas/gastos.md](../finanzas/gastos.md#compromisos-pendientes-de-esta-quincena-20082026) |
 
 *Adelantaste LinkedIn + CV a hoy (16/08) en vez de dejarlo para el
 viernes — por eso ya no aparece en el bloque del viernes 21.*
@@ -77,6 +77,30 @@ viernes — por eso ya no aparece en el bloque del viernes 21.*
 **Todos los días, sin excepción de turno:** 🗣️ Duolingo (ahora en un
 break, ver arriba) y 💜 tiempo protegido con Fanny — estas dos no
 compiten con el foco de la noche, van aparte.
+
+### Domingo 23/08 — ruta a Satélite y de regreso
+
+Turno normal 6am-4pm, pero en vez de ir directo a casa hay un desvío a
+Satélite a ver a Fanny (helado) antes de volver a Neza.
+
+1. **Trabajo (Tabacalera) → Satélite:** Metro hasta El Rosario ($5,
+   tarifa única aunque haya transbordo dentro del sistema) + combi/
+   camión de El Rosario a Satélite (~$10-15). ~1 a 1.5 h. Punto de
+   encuentro: (19.5188912, -99.2468676) — zona norte de Ciudad
+   Satélite, sobre el corredor de Vía Gustavo Baz/Periférico que ya
+   cubre esa ruta; no se pudo confirmar el nombre exacto del lugar
+   (Maps bloqueado en esta sesión), pero las coordenadas sirven para
+   abrir en cualquier app de mapas el día de hoy.
+2. **Satélite → El Rosario:** mismo combi de regreso (~$10-15).
+3. **El Rosario → cerca de casa:** Metrobús Línea 6 (El Rosario ↔
+   Villa de Aragón, ~$6, ~60 min).
+4. **Último tramo:** su mamá pasa por él en la parada del Metrobús —
+   no hace falta combi ni gasto extra para llegar a Neza.
+
+**Total estimado de transporte del día: ~$31-41.** Llegada estimada a
+casa ~9-9:30 pm (día largo: salida de casa ~4:40am por el turno,
+regreso hasta la noche). Desglose de gasto (transporte + helado) en
+[../finanzas/gastos.md](../finanzas/gastos.md#compromisos-pendientes-de-esta-quincena-20082026).
 
 ## Notas
 
