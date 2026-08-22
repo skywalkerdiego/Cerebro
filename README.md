@@ -43,6 +43,7 @@ y un ahorro conjunto en marcha.
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
+| [perfil/servicios.md](perfil/servicios.md) | Internet/streaming (Totalplay) y telefonía (AT&T vs. alternativas) — comparativas para bajar el gasto fijo |
 
 ## 💵 Finanzas
 
