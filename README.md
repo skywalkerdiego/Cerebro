@@ -85,6 +85,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 - 🌳 [Árbol.exe](https://claude.ai/code/artifact/d0c4a5cf-e170-4c8b-a29e-df6f7f8ca699) — árbol genealógico visual: pareja, familia y amigos de un vistazo. Se actualiza a mano cuando cuentes algo nuevo.
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — lista visual de pendientes de compra, calcada de `perfil/compras.md`.
+- ✅ [Pendientes.exe](https://claude.ai/code/artifact/63d7f21a-ee1d-4176-9147-d6d5739e70b8) — checklist en vivo de lo más urgente ahora mismo, junto de `metas/`, `perfil/` y `eventos.md`. Se regenera a mano después de una sesión larga.
 
 ## Cómo usar esto
 
