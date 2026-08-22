@@ -24,6 +24,7 @@ y un ahorro conjunto en marcha.
 
 | Archivo | Contenido |
 |---------|-----------|
+| [metas/titulacion.md](metas/titulacion.md) | Trámite de titulación (FES Aragón) — también listado como meta prioritaria arriba |
 | [metas/tramites.md](metas/tramites.md) | Trámites y gestiones puntuales (ej. licencia de conducir permanente CDMX) |
 
 ## 👤 Perfil
