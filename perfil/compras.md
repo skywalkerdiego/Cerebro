@@ -34,6 +34,16 @@ mejor va directo en [../metas/ahorro.md](../metas/ahorro.md).
   si el precio es sospechosamente bajo, mejor no arriesgar el
   celular/laptop por ahorrarte unos pesos.
 
+**Aproximado de precio en puesto/tianguis** (referencia, no es precio
+exacto — confírmalo ahí mismo):
+
+| Artículo | Estimado |
+|----------|----------|
+| Chicles | ~$10-20 |
+| Body mist | ~$40-80 |
+| Cable USB-C a USB-C | ~$40-90 |
+| **Total aprox.** | **~$90-190** |
+
 ## Notas
 
 - Si algo aquí es caro o compite con el ahorro de la mudanza, lo
