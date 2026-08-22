@@ -4,6 +4,14 @@ Lista armada con lo que sabemos de los dos — ver
 [intereses.md](intereses.md) y [novia.md](novia.md). Dime cuáles te
 laten, cuáles ya hicieron, y las voy marcando.
 
+## Próxima salida planeada
+
+- **Domingo 23/08/2026, ~5:30 pm** (sales del trabajo a las 4, hora
+  aproximada según el traslado) — vas a verla saliendo de trabajar,
+  por el McDonald's de Circuito Dramaturgos, en Satélite. Plan: helado
+  en McDonald's o café en Starbucks cerca de donde vive ella, y
+  regresar a casa. Ya está en tu calendario.
+
 ## Para el aniversario (20 de octubre)
 
 - [ ] Cena en un restaurante italiano + zapatos o maquillaje después —
