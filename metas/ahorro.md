@@ -1,10 +1,11 @@
-# 💰 Ahorro en conjunto
+# 💰 Ahorro de Diego y Fanny
 
 **Objetivo:** Ahorrar lo más posible sin descuidar lo esencial, en una
 cuenta conjunta con tu novia, para irse a vivir juntos.
 **Fecha meta:** Antes de Navidad 2026 (idealmente listos a mediados de
 diciembre, para tener margen de maniobra).
-**Estado:** Plan confirmado y listo para revisar en pareja.
+**Estado:** En marcha — primer depósito real ya hecho, ver
+[Progreso real](#-progreso-real) abajo.
 
 ## Preguntas resueltas
 
@@ -105,7 +106,23 @@ Confirmen las tasas vigentes antes de mover dinero — cambian con el tiempo.*
   banco lo permite), para que el ahorro no dependa de fuerza de voluntad
   cada quincena/mes.
 
+## 📊 Progreso real
+
+**Acumulado: $2,400 de $47,000 (5.1%)**
+
+| Fecha | Quién | Monto | Acumulado | Notas |
+|-------|-------|-------|-----------|-------|
+| 22/08/2026 | Diego | $2,400 | $2,400 | Primer depósito real — adelantado, antes de que arranque la ventana formal de septiembre |
+
+Cada vez que deposites (tú o Fanny), dime cuánto y quién, y lo agrego
+aquí — el acumulado y el % se recalculan solos con cada entrada nueva.
+
 ## Seguimiento mensual
+
+Esta tabla es contra la meta de **$12,000/mes** de la ventana
+septiembre-diciembre; el depósito de arriba fue antes de que arranque
+esa ventana, así que todavía no se acredita a ningún mes — se
+reflejará en el mes que corresponda una vez que empiece septiembre.
 
 | Mes | Meta de ahorro (combinada) | Ahorrado real | Notas |
 |-----|------------------------------|-----------------|-------|

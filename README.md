@@ -17,7 +17,7 @@ y un ahorro conjunto en marcha.
 |---|------|-----------|--------|---------|
 | 1 | 🎓 Titulación | Alta | ATI y solicitud llenados; pago aplazado al 05/09/2026 (día de pago; FES Aragón sigue en vacaciones administrativas) | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
 | 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
-| 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
+| 3 | 💰 Ahorro de Diego y Fanny | Alta | En marcha: $2,400 depositados de $47,000 (5.1%), meta de $12,000/mes en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️📚 Idioma y cultura general | Media | Italiano con Duolingo, meta conversacional simple — falta arrancar | [metas/aprendizaje.md](metas/aprendizaje.md) |
 
 ## 👤 Perfil
