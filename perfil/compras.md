@@ -16,6 +16,23 @@ mejor va directo en [../metas/ahorro.md](../metas/ahorro.md).
       usas ahorita (22/08/2026)
 - [ ] Artículos de TikTok Shop y Temu — pendiente que le digas a
       Claude cuáles son para detallarlos aquí
+- [ ] Chicles
+- [ ] Body mist
+- [ ] Cable **USB-C a USB-C**
+- [ ] Grooming kit y EDC — ver [edc.md](edc.md) para el plan completo
+      de qué llevar y qué sacar de la mochila
+
+## Dónde comprar barato
+
+- **Camino al metro desde el trabajo** hay puestos de artículos de
+  aseo (chicles, body mist, etc.) y varios negocios de tecnología con
+  cables — no son oficiales, pero pueden salir bien de precio. Vale
+  la pena revisar ahí antes de comprar en tienda de marca, sobre todo
+  para chicles, body mist y el cable USB-C.
+- **Ojo con el cable USB-C:** uno genérico barato puede cargar más
+  lento o incluso dañar el equipo a la larga si es de mala calidad —
+  si el precio es sospechosamente bajo, mejor no arriesgar el
+  celular/laptop por ahorrarte unos pesos.
 
 ## Notas
 

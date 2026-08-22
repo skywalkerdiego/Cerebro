@@ -38,6 +38,8 @@ y un ahorro conjunto en marcha.
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
 | [perfil/regalos-familia.md](perfil/regalos-familia.md) | Ideas de regalos para papás y hermana |
 | [perfil/relaciones.md](perfil/relaciones.md) | Mapa simple de tu red de relaciones |
+| [perfil/edc.md](perfil/edc.md) | EDC diario y grooming kit — aligerar la mochila |
+| [perfil/cuarto.md](perfil/cuarto.md) | Plan para organizar el cuarto |
 
 ## 💵 Finanzas
 
