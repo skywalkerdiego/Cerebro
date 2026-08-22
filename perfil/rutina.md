@@ -34,9 +34,11 @@ que decidir en el momento:
 
 | Bloque | Para qué alcanza | Opciones |
 |--------|-------------------|----------|
-| **Break 1** (mañana) | Una cosa rápida | 🗣️ Duolingo del día (mejor aquí que competir con las 2.5h de la noche) · o simplemente desconectar — no hay obligación de llenarlo siempre |
-| **Meal** (sin pago, el más largo) | Algo con más sustancia | 💼 Revisar/aplicar a 1-2 vacantes (checklist en [metas/trabajo.md](../metas/trabajo.md)) · 🎓 checar el sistema de seguimiento de titulación si hay algo pendiente de estatus · 📖 leer unos minutos |
-| **Break 2** (tarde) | Otra cosa rápida | 🗣️ Duolingo si no lo hiciste en el Break 1 · LinkedIn — 1 conexión o revisar notificaciones · o descansar |
+| **Break 1** (~9:00am) | Una cosa rápida | 🗣️ Duolingo del día (mejor aquí que competir con las 2.5h de la noche) · o simplemente desconectar — no hay obligación de llenarlo siempre |
+| **Meal** (sin pago, el más largo, ~1:00pm) | Algo con más sustancia | 💼 Revisar/aplicar a 1-2 vacantes (checklist en [metas/trabajo.md](../metas/trabajo.md)) · 🎓 checar el sistema de seguimiento de titulación si hay algo pendiente de estatus · 📖 leer unos minutos |
+| **Break 2** (~2:30pm) | Otra cosa rápida | 🗣️ Duolingo si no lo hiciste en el Break 1 · LinkedIn — 1 conexión o revisar notificaciones · o descansar |
+
+Confirmado 22/08/2026: la comida cae ~1:00pm (no 11:30am como se asumía antes).
 
 Moviendo el Duolingo diario a un break (en vez de la noche), las 2.5h
 libres después del turno quedan enteras para el foco de esa noche.
