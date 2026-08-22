@@ -133,16 +133,24 @@ sacas la ficha nueva y la pagas ese mismo día en vez de forzarla ahora
 — no se pierde el trámite, solo se regenera la referencia de pago (ver
 [metas/titulacion.md](../metas/titulacion.md)).
 
+Los boletos de cine (−$82, 21/08) y el tianguis (−$7, 21/08) ya
+salieron de ahí también — ver el desglose completo, cuenta por cuenta,
+en [gastos.md](gastos.md).
+
+**Fanny te depositó $1,000 extra el 22/08/2026** — todavía sin
+comprometer. Sugerencia: usa $200 para liquidar la otra deuda y deja
+los $800 restantes en el colchón, como apoyo directo a la meta de
+dejar de pedir adelantos de nómina (MINU) la próxima quincena. La
+ficha ($620) sigue sin competir por este dinero — FES Aragón está en
+vacaciones administrativas hasta antes del 05/09, así que no se puede
+adelantar aunque haya flujo.
+
 | Destino | Monto | Prioridad |
 |---|---|---|
 | Otra deuda (la segunda) | $200 | Alta |
 | Transporte, resto de la quincena | ~$210 (estimado) | Fijo |
-| **Colchón / imprevistos del resto de la quincena** | **$594.18** | Sin comprometer |
-| **Total que tienes ahorita (Santander + efectivo)** | **$1,004.18** | |
-
-La ficha ($620) ya no compite por este dinero — queda como pendiente
-de la próxima quincena. Ver el desglose completo, cuenta por cuenta,
-en [gastos.md](gastos.md).
+| **Colchón / imprevistos del resto de la quincena** | **$1,505.18** | Sin comprometer |
+| **Total que tienes ahorita (Santander + efectivo)** | **$1,915.18** | |
 
 ## Notas
 

@@ -70,9 +70,9 @@ con Fanny (20/10), tu cumpleaños (01/12), Navidad/meta de mudanza
 
 ## Corona Capital (pendiente de planear)
 
-Ya compraste/vas a comprar boletos ($3,720 en total — Fanny puso
-$2,000, a ti te faltan $1,720; ver
-[finanzas/gastos.md](../finanzas/gastos.md)). Falta fecha exacta,
+Boletos ya comprados y pagados por completo (21/08/2026): $3,720 en
+total, Fanny puso $2,000, tú pagaste el resto ($1,720) desde Santander
+— ver [finanzas/gastos.md](../finanzas/gastos.md). Falta fecha exacta,
 lineup y el plan completo — dijiste que lo armamos después, avísame
 cuando quieras arrancar con esto y le doy el mismo tratamiento que al
 Vaivén.

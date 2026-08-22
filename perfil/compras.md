@@ -5,6 +5,8 @@ mejor va directo en [../metas/ahorro.md](../metas/ahorro.md).
 
 ## Pendientes
 
+- [ ] Revisar y comprar productos de higiene que se te estén acabando
+      (22/08/2026 — dime cuáles en cuanto los revises y los detallo aquí)
 - [ ] Renovar tu YSL Y
 - [ ] Renovar tu Dior Sauvage
 - [ ] Buscar un perfume azul árabe — versátil y barato

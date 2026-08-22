@@ -17,6 +17,12 @@ tengas resuelto.
   problema real: casi no queda tiempo libre entre semana para ver
   gente fuera del trabajo. Ver [rutina.md](rutina.md).
 
+## Amigos
+
+| Nombre | Qué tan cercano | Notas |
+|--------|------------------|-------|
+| Joe | Amigo | Es barbero — le vas a pedir que te corte el cabello (22/08/2026). Pendiente: avisarle. |
+
 ## Compañeros de trabajo
 
 Vacío por ahora — dime nombres y con quién tienes más relación, y lo

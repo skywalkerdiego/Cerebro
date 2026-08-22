@@ -30,6 +30,9 @@ día le pegan directo al sueño y al tiempo para cuidarte.
   eso. Es un problema real, no solo molestia.
 - **Nada médico pendiente** ahorita (confirmado 18/08/2026) — al día
   en chequeos/dentista/etc.
+- **Agua:** quieres tomar más (22/08/2026) — dilo si quieres que te lo
+  recuerde de vez en cuando en los check-ins (5am/5:30pm/8pm), al
+  mismo ritmo ligero que la pregunta de sueño.
 
 ## Registro de sueño
 

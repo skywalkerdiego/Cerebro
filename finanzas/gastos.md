@@ -55,7 +55,23 @@ de cuenta bancario.
 
 ## Saldo en vivo — quincena del 20/08 al 04/09/2026
 
-Próximo pago: **05/09/2026** (16 días).
+Próximo pago: **05/09/2026** (14 días).
+
+**Fanny te depositó $1,000 (22/08/2026)** — dinero extra, no comprometido
+todavía. **Sugerencia para aprovecharlo al máximo:** la ficha de
+titulación no se puede adelantar aunque tengas el dinero (FES Aragón
+sigue en vacaciones administrativas hasta antes del 05/09), así que no
+compite por este ingreso. Lo que sí tiene sentido:
+
+1. **Liquidar la otra deuda ($200)** — la quitas de encima ya, en vez de
+   dejarla pendiente el resto de la quincena.
+2. **El resto ($800) al colchón** — apoya directo tu meta nueva de
+   dejar de pedir adelantos de nómina (MINU) la próxima quincena, y te
+   da margen para lo que falte de definir del Corona Capital y del
+   domingo en Satélite.
+
+Dime si lo quieres así o prefieres repartirlo distinto — en lo que
+confirmes, lo dejo dentro del colchón sin comprometer.
 
 **Corrección con tu estado de cuenta real (21/08):** el depósito de
 nómina fue en realidad **$9,229.34** (no $8,953.48 — ese número era
@@ -75,11 +91,11 @@ solo se regenera la referencia de pago (ya actualizado en
 
 | | Monto |
 |---|---|
-| Santander (después de los boletos de cine, −$82) | $855.68 |
+| Santander (con el depósito de Fanny de $1,000 ya adentro) | $1,855.68 |
 | Efectivo (después del tianguis, −$7) | $59.50 |
-| **Total que tienes ahorita** | **$915.18** |
+| **Total que tienes ahorita** | **$1,915.18** |
 | Reservado (otra deuda #2 + transporte — la ficha se mueve a la próxima quincena) | −$410.00 |
-| **Libre real / colchón** | **$505.18** |
+| **Libre real / colchón** | **$1,505.18** |
 
 | Destino | Monto | Estatus |
 |---|---|---|
@@ -122,6 +138,7 @@ Reconstruido a partir de tu estado de cuenta real de Santander
 | 21/08/2026 | Gasto | Otros | Apoyo a tu mamá (gas + despensa) | −$800.00 |
 | 21/08/2026 | Gasto | Salidas/citas | Boletos de cine (2, Harry Potter y la Piedra Filosofal 25 años de magia, Cinepolis Sentura Tlalnepantla, sala 6, viernes 28/08 9:20pm) — Santander | −$82.00 |
 | 21/08/2026 | Gasto | Comida | Tianguis (efectivo, sueltos) | −$7.00 |
+| 22/08/2026 | Ingreso | Fanny | Depósito extra, sin comprometer todavía — ver sugerencia de reparto arriba | +$1,000.00 |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
 
