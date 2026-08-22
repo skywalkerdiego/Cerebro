@@ -53,6 +53,46 @@ arriba y actualizo el desglose. Así queda un historial real,
 quincena por quincena, en vez de depender solo del estimado del estado
 de cuenta bancario.
 
+## 🎁 Aguinaldo
+
+**Dato real (22/08/2026):** Diego mandó su recibo de nómina de la
+quincena del 16-30/11/2025 (pagado 05/12/2025), que incluye el
+aguinaldo del año pasado — guardado en
+[biblioteca/finanzas/recibo-nomina_2025-12-05.png](../biblioteca/finanzas/recibo-nomina_2025-12-05.png).
+Confirma que TTEC paga el **mínimo de ley (15 días)**, calculado sobre
+el salario ordinario (no el salario diario integrado de $729.7 que
+también aparece en el recibo):
+
+| Concepto | Monto |
+|---|---|
+| Aguinaldo bruto (15 días) | $8,181.60 |
+| Exento de ISR (30 UMA 2025 × $113.14) | $3,394.20 |
+| Gravado (sujeto a ISR) | $4,787.40 |
+| Salario diario implícito ($8,181.60 ÷ 15) | ~$545.44 |
+
+Ese aguinaldo venía mezclado en una quincena normal (percepciones
+totales $22,420.31, neto $18,916.38 esa quincena) — el ISR de esa
+quincena ($2,745.37) cubre tanto el sueldo normal como el aguinaldo
+juntos, no se puede separar limpio del recibo.
+
+**Proyección para diciembre 2026**, con el mismo método y tu salario
+diario más reciente (Horas sueldo $8,215.69 ÷ 15 días = ~$547.71/día,
+del recibo del 20/08/2026):
+
+| Concepto | Monto estimado |
+|---|---|
+| Aguinaldo bruto (15 días) | ~$8,215.69 |
+| Exento de ISR (30 UMA 2026 × $117.31) | ~$3,519.30 |
+| Gravado (sujeto a ISR) | ~$4,696.39 |
+| ISR estimado sobre lo gravado (~16-17%, según la tasa efectiva del recibo de 2025) | ~$770-800 |
+| **Neto estimado** | **~$7,400-7,450** |
+
+Como el año pasado, es probable que este monto llegue **mezclado con
+tu quincena normal de diciembre**, no como depósito aparte — así que el
+"neto a pagar" de esa quincena se va a ver inflado, no es solo el
+aguinaldo. En cuanto tengas el recibo real de diciembre 2026, lo
+comparamos aquí y ajustamos si TTEC cambió algo.
+
 ## Saldo en vivo — quincena del 20/08 al 04/09/2026
 
 Próximo pago: **05/09/2026** (14 días).
