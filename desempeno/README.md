@@ -34,6 +34,22 @@ Mismo patrón que `finanzas/`:
    como dato semilla al tablero, para que aparezca solo la próxima vez
    que lo abras.
 
+## Herramientas del día a día
+
+- **Paddock** — sistema de facturación/cuenta; ahí se aplican los
+  créditos. Aplicar un crédito regularmente arregla el desbalance en
+  Paddock (o sea, es la solución "de sistema", no solo un gesto al
+  cliente).
+- **Scout** — otra herramienta que usas en el flujo de la llamada
+  (pendiente detallar para qué exactamente).
+- **Relegar a Case Manager = crear un ticket**, no transferir la
+  llamada en vivo. Cuenta como el "transfer" que afecta el FCR aunque
+  el cliente no sea puesto en espera con otro agente.
+- **Excepción confirmada:** cliente sin servicio siempre se relega a
+  Case Manager — ahí Diego no tiene el acceso para restaurarlo, no es
+  un caso que deba evitarse. El plan de "evitar transfers" aplica a lo
+  demás (disputas de pago, crédito, etc.), no a este caso.
+
 ## Notas
 
 - El 15/08/2026 me mandaste una captura de tu dashboard (STAR 108.8%,
