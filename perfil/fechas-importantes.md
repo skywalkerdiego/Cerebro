@@ -2,7 +2,8 @@
 
 ## Ya registradas en `metas/`
 
-- **29/08/2026** — Vence el pago de la ficha de titulación ($620.00) —
+- **05/09/2026** — Sacar y pagar la ficha nueva de titulación ($620.00);
+  la original vencía 29/08 pero se dejó pasar a propósito —
   [../metas/titulacion.md](../metas/titulacion.md)
 - **Antes de Navidad 2026** (idealmente mediados de diciembre) — meta
   límite de la mudanza — [../metas/ahorro.md](../metas/ahorro.md)

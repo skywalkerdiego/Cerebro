@@ -111,10 +111,9 @@ pagó.
 **Ya pagaste casi todo (21/08):** ahorro $2,400 a Fanny (confirmado —
 no eran $3,000), la primera deuda de $200, tu abuela ($500, entregado)
 y un apoyo nuevo de $800 a tu mamá para gas y despensa. La ficha de
-titulación se movió a la próxima quincena: la actual vence 29/08,
-antes de tu próximo pago (05/09), así que vas a sacar una ficha nueva
-con fecha límite nueva en vez de forzarla ahora — no se pierde el
-trámite, solo se regenera la referencia de pago (ver
+titulación se movió al **05/09/2026**, tu próximo pago quincenal:
+sacas la ficha nueva y la pagas ese mismo día en vez de forzarla ahora
+— no se pierde el trámite, solo se regenera la referencia de pago (ver
 [metas/titulacion.md](../metas/titulacion.md)).
 
 | Destino | Monto | Prioridad |

@@ -25,24 +25,24 @@ esos). La terapia ($350) ya se pagó, no sigue pendiente.
 **Ya hiciste varios pagos más (21/08):** ahorro ($2,400 a Fanny —
 confirmado, no eran $3,000), la primera deuda de $200, tu abuela ($500,
 entregado), y un apoyo nuevo de $800 a tu mamá para gas y despensa.
-Sobre la ficha: decidiste esperar al 05/09 y sacar una ficha nueva con
-fecha de vencimiento nueva — no se pierde el trámite, solo se
-regenera la referencia de pago (ya actualizado en
+Sobre la ficha: decidiste esperar y sacar/pagar una ficha nueva el
+**05/09/2026**, día de tu próximo pago — no se pierde el trámite,
+solo se regenera la referencia de pago (ya actualizado en
 [metas/titulacion.md](../metas/titulacion.md)).
 
 | | Monto |
 |---|---|
-| Santander | $937.68 |
-| Efectivo (ya sin los $500 de la abuela, solo sueltos) | $66.50 |
-| **Total que tienes ahorita** | **$1,004.18** |
+| Santander (después de los boletos de cine, −$82) | $855.68 |
+| Efectivo (después del tianguis, −$7) | $59.50 |
+| **Total que tienes ahorita** | **$915.18** |
 | Reservado (otra deuda #2 + transporte — la ficha se mueve a la próxima quincena) | −$410.00 |
-| **Libre real / colchón** | **$594.18** |
+| **Libre real / colchón** | **$505.18** |
 
 | Destino | Monto | Estatus |
 |---|---|---|
 | Otra deuda (la segunda, distinta a la que ya pagaste) | $200 | Pendiente |
 | Transporte del resto de la quincena | ~$210 | Estimado |
-| Ficha de titulación (ficha nueva, después del 05/09) | $620 | Movida a la próxima quincena |
+| Ficha de titulación (ficha nueva) | $620 | Objetivo: sacarla y pagarla el 05/09 |
 
 **Cómo lo trackeamos:** en cuanto pagues algo, dímelo aquí en la
 conversación ("ya pagué el hotel, $600" o "gasté $15 en combi") y lo
@@ -77,6 +77,8 @@ Reconstruido a partir de tu estado de cuenta real de Santander
 | 21/08/2026 | Gasto | Otros | Deuda (la primera de las dos) | −$200.00 |
 | 21/08/2026 | Gasto | Otros | Efectivo → tu abuela (entregado) | −$500.00 |
 | 21/08/2026 | Gasto | Otros | Apoyo a tu mamá (gas + despensa) | −$800.00 |
+| 21/08/2026 | Gasto | Salidas/citas | Boletos de cine (2, Harry Potter y la Piedra Filosofal 25 años de magia, Cinepolis Sentura Tlalnepantla, sala 6, viernes 28/08 9:20pm) — Santander | −$82.00 |
+| 21/08/2026 | Gasto | Comida | Tianguis (efectivo, sueltos) | −$7.00 |
 
 ## Compromisos pendientes de esta quincena (20/08/2026)
 
@@ -92,7 +94,7 @@ salga cada uno y lo paso a Movimientos.
 
 | Concepto | Categoría | Monto | Nota |
 |----------|-----------|-------|------|
-| Ficha de titulación (ficha nueva) | Otros | $620 | La actual vence 29/08; se saca una nueva con fecha nueva cuando haya flujo. Ver [metas/titulacion.md](../metas/titulacion.md). |
+| Ficha de titulación (ficha nueva) | Otros | $620 | La original vencía 29/08; se saca y paga la nueva el **05/09/2026**, día de pago. Ver [metas/titulacion.md](../metas/titulacion.md). |
 
 **Nota sobre el préstamo:** el crédito nómina ($307.89 esta quincena)
 probablemente se descuenta solo cada quincena, no es un pago único —

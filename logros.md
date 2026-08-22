@@ -28,6 +28,7 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 20/08/2026 | Armaste Eventos.exe: línea de tiempo de conciertos y celebraciones con el plan completo del Nescafé Vaivén (fecha, hospedaje, presupuesto y checklist interactivo) | Perfil |
 | 20/08/2026 | Organizaste el presupuesto real de tu quincena (deudas, cita con Fanny, ahorro adelantado) en un Finanzas.exe rediseñado por cuentas, y le diste horario en bloques en vivo a Eventos.exe | Finanzas / Sistema |
 | 21/08/2026 | Ejecutaste el plan financiero completo: enviaste tu aporte de ahorro conjunto a tiempo, saldaste dos deudas, apoyaste a tu mamá con gas y despensa, y compraste los boletos de Corona Capital | Finanzas |
+| 21/08/2026 | Armaste la skill /revisemos-cerebro para automatizar el chequeo de metas, y tres tableros nuevos: Calendario.exe (calendario real por mes), Aspect.exe (tu día en línea de tiempo RGB con checklist de rutina y bloques clicables) y Artículos.exe (checklist de investigación, fuentes y banco de ideas), todos con acceso directo desde Cerebro.exe | Sistema |
 
 ## Notas
 

@@ -6,7 +6,9 @@ fijas: [fechas-importantes.md](fechas-importantes.md).
 
 Tablero: [Eventos.exe](https://claude.ai/code/artifact/3775956a-0f71-498c-84cc-6ae882ef24a0)
 — línea de tiempo con conteo de días en vivo (mismo mecanismo que los
-contadores de Nosotros.exe, Yo.exe y Habilidades.exe).
+contadores de Nosotros.exe, Yo.exe y Habilidades.exe). Para verlo como
+calendario de verdad (por mes, con los días marcados), está
+[Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778).
 
 ## Nescafé Vaivén 2026
 
@@ -50,6 +52,14 @@ contadores de Nosotros.exe, Yo.exe y Habilidades.exe).
 Los checks de este viaje se guardan directamente en el navegador
 dentro de Eventos.exe (localStorage) — dile a Claude cuando avances
 algo para que quede reflejado aquí también.
+
+## 🎬 Cine — viernes 28 de agosto 2026, 9:20 pm
+
+- **Película:** Harry Potter y la Piedra Filosofal — 25 años de magia.
+- **Dónde:** Cinepolis Sentura Tlalnepantla, sala 6, asientos K-10 y K-11.
+- **Boletos:** ya comprados (21/08/2026), $82.00 total (2 boletos + cargo
+  de servicio) — ver [finanzas/gastos.md](../finanzas/gastos.md).
+- Gasto ya contemplado dentro del presupuesto de la quincena.
 
 ## Resto del calendario
 

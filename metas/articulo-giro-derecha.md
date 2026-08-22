@@ -4,6 +4,12 @@ Desglose de investigación para el primer artículo (ver
 [trabajo.md](trabajo.md), sección "Camino alterno: academia /
 investigación"). La investigación la haces tú — esto es la ruta.
 
+Tablero: [Artículos.exe](https://claude.ai/code/artifact/25b45539-b542-44ea-9085-a19aeb4edca8)
+— checklist interactivo por caso (I-IX), fuentes, el prompt de
+redacción y el banco de ideas para los siguientes artículos. El
+progreso que marques ahí vive en el navegador; cuéntame cuando avances
+algo para reflejarlo también aquí.
+
 ## 1. Pregunta a responder
 
 No arrancar asumiendo que "la derecha está ganando en toda la región" —
