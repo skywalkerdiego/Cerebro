@@ -20,6 +20,12 @@ y un ahorro conjunto en marcha.
 | 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️📚 Idioma y cultura general | Media | Italiano con Duolingo, meta conversacional simple — falta arrancar | [metas/aprendizaje.md](metas/aprendizaje.md) |
 
+## 📋 Trámites
+
+| Archivo | Contenido |
+|---------|-----------|
+| [metas/tramites.md](metas/tramites.md) | Trámites y gestiones puntuales (ej. licencia de conducir permanente CDMX) |
+
 ## 👤 Perfil
 
 | Archivo | Contenido |
