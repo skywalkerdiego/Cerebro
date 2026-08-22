@@ -48,3 +48,10 @@ Mismo patrón que `finanzas/`:
   que sigue siendo el foco correcto, y la brecha es chica (3 puntos).
 - Foco actual: subir el First Call Resolution — plan concreto hablado
   el 16/08/2026, ver conversación.
+- **22/08/2026 — confirmado que las transferencias sí cuentan en contra
+  del FCR** (antes no estaba claro si "evitar callbacks" incluía
+  transferir en la misma llamada). Ajuste al plan: resolver tú mismo
+  todo lo que esté dentro de tu autoridad antes de transferir, y
+  transferir solo cuando de verdad no tengas el acceso/autoridad — no
+  como atajo cuando la llamada se complica. Plan detallado y flujo
+  actualizado en [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5).
