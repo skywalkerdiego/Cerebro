@@ -70,6 +70,7 @@ check mensual — no compite con el resto de la rutina.
 | **Vie 21 (Off)** | — | — | Mañana: 💼 bloque largo — más vacantes y perfil en agencias · Tarde: ✍️ escribir el primer artículo |
 | Sáb 22 | 6 am - 4 pm | ~5:20 pm | 🎨 Hobby — dibujar |
 | **Dom 23** | 6 am - 4 pm | **~9-9:30 pm** (no 5:20pm — hay desvío) | 💜 Después del turno: Satélite a ver a Fanny (helado), luego trayecto largo de regreso — ver desglose en [../finanzas/gastos.md](../finanzas/gastos.md#compromisos-pendientes-de-esta-quincena-20082026) |
+| **Lun 24** | (turno con salida más temprana) | — | ⏰ Despertar ~4-4:30 am, Uber pasa a las 5:20 am. 🛒 Pendiente: comprar lo que no se compró hoy 23/08 (ver [compras.md](compras.md)) |
 
 *Adelantaste LinkedIn + CV a hoy (16/08) en vez de dejarlo para el
 viernes — por eso ya no aparece en el bloque del viernes 21.*
