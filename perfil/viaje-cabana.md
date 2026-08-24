@@ -24,11 +24,15 @@ toca de cualquier forma.
 Diego ya encontró la cabaña — se reorienta el plan a este lugar en vez
 de las opciones genéricas de Mineral del Chico / Valle de Bravo.
 
-- **Zona:** Villa del Carbón / Nicolás Romero, Edomex — el anfitrión
-  la describe "cerquísima de Zona Esmeralda" (Huixquilucan). Airbnb no
-  muestra la dirección exacta hasta reservar.
-- **Desde Satélite:** ~40-60 min, la opción más cercana de todas las
-  que se compararon.
+- **Zona:** Doditay, cerca de Dangú, municipio de **Cardonal, Hidalgo**
+  (Valle del Mezquital) — confirmado por la ubicación real en Google
+  Maps. Corrige la zona genérica que se había asumido antes.
+- **Desde Satélite:** ~2.5-3 h (ruta México-Pachuca-Actopan-Ixmiquilpan).
+  El último tramo hacia esa zona tiene curvas y en ocasiones niebla —
+  mejor llegar de día, no de noche.
+- ⚠️ Esto es mucho más lejos de lo que se había planeado (se pensaba
+  ~45 min). Para 1 sola noche implica ~5-6 h de manejo total el fin de
+  semana — vale la pena confirmarlo con Fanny antes de reservar.
 - **Anfitrión:** Diego, Superanfitrión (3 años) · cuidador en sitio
   (Jesús) · llegada autónoma.
 - **Calificación:** 4.69★, 26 reseñas — la gran mayoría 5★. Reseñas
@@ -110,10 +114,10 @@ sobra margen para comer bien o para un detalle extra.
 | Concepto | Estimado |
 |----------|----------|
 | Cabaña (1 noche, con impuestos) | **$820** (precio real de Airbnb) |
-| Gasolina + casetas (ida y vuelta, Satélite-Villa del Carbón/Nicolás Romero) | $250 - $400 |
+| Gasolina + casetas (ida y vuelta, Satélite-Cardonal, Hidalgo, ~380-420 km) | $650 - $900 |
 | Comida (sin cocina en la cabaña — parrillada + lo que lleven) | $600 - $800 |
 | Colchón / imprevistos | $200 - $300 |
-| **Total** | **~$1,900 - $2,300** |
+| **Total** | **~$2,300 - $2,800** |
 
 No hay cocina, así que la comida se resuelve con la parrilla del lugar
 (llevar carne/verduras para asar) o comprando algo en el camino.
@@ -145,6 +149,10 @@ barata. Se dejan documentadas por si esta reserva no cuaja.
       Carbón, $820/noche, 4.69★)
 - [ ] Confirmar con Fanny y hacer la reservación (no es reembolsable —
       confirmar fecha antes de pagar)
+- [ ] Decidir hora de salida el viernes considerando que son ~2.5-3 h
+      de camino y el último tramo es mejor de día
+- [ ] Con el radiador recién reparado, salir con tiempo de sobra para
+      un viaje largo de carretera — no es solo una vuelta corta
 - [ ] Llevar comida para la parrilla (no hay cocina en el lugar)
 - [ ] Revisar clima del 28-29/08 unos días antes
 - [ ] Cargar gasolina y salir con el carro ya revisado
