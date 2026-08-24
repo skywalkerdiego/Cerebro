@@ -19,6 +19,36 @@ toca de cualquier forma.
   real. Se republica cuando algo avance (radiador cotizado, cabaña
   reservada, respuesta de Fanny).
 
+## 🏡 Alojamiento elegido (Airbnb)
+
+Diego ya encontró la cabaña — se reorienta el plan a este lugar en vez
+de las opciones genéricas de Mineral del Chico / Valle de Bravo.
+
+- **Zona:** Villa del Carbón / Nicolás Romero, Edomex — el anfitrión
+  la describe "cerquísima de Zona Esmeralda" (Huixquilucan). Airbnb no
+  muestra la dirección exacta hasta reservar.
+- **Desde Satélite:** ~40-60 min, la opción más cercana de todas las
+  que se compararon.
+- **Anfitrión:** Diego, Superanfitrión (3 años) · cuidador en sitio
+  (Jesús) · llegada autónoma.
+- **Calificación:** 4.69★, 26 reseñas — la gran mayoría 5★. Reseñas
+  destacan que es muy tranquila y buena para desconectar (casi no hay
+  señal de celular), estacionamiento seguro, agua caliente. Algunas
+  quejas puntuales (colchón tipo colchoneta, faltó shampoo una vez) —
+  nada grave para 1 noche.
+- **Capacidad:** 3 huéspedes, 1 habitación, 2 camas, 1 baño.
+- **Amenidades:** fogata/brasero, zona de comida al aire libre,
+  parrilla, estacionamiento gratuito y seguro. **No tiene** wifi, TV,
+  cocina ni aire acondicionado — hay que llevar comida (parrillada es
+  buena opción) y aceptar que va a ser un fin de semana desconectados
+  de verdad.
+- **Pet-friendly:** aceptan mascotas — se podría llevar a Tris si
+  quieren.
+- **Precio (1 noche, viernes 28 a sábado 29):** $684 + impuestos ≈
+  **$820 MXN** — mucho más barato que cualquiera de las opciones que
+  se habían comparado antes.
+- Link: el que compartió Diego en la conversación (Airbnb).
+
 ## ⚠️ Lo urgente primero: el radiador
 
 - El taller/mecánico necesita el carro **antes del jueves 27** para
@@ -72,19 +102,29 @@ vs. 7), lo que deja mucho más margen para la cabaña y la comida sin
 salirse del presupuesto. Valle de Bravo queda como alternativa si en
 algún momento deciden estirar el presupuesto.
 
-## 💰 Desglose del presupuesto ($3,000, ruta Mineral del Chico)
+## 💰 Desglose del presupuesto (con la cabaña ya elegida)
+
+Con esta cabaña el viaje queda muy por debajo del techo de $3,000 —
+sobra margen para comer bien o para un detalle extra.
 
 | Concepto | Estimado |
 |----------|----------|
-| Cabaña con chimenea (1 noche) | $1,300 - $1,600 |
-| Gasolina + casetas (ida y vuelta, México-Pachuca) | $750 - $950 |
-| Comida (incluye las truchas) | $500 - $700 |
+| Cabaña (1 noche, con impuestos) | **$820** (precio real de Airbnb) |
+| Gasolina + casetas (ida y vuelta, Satélite-Villa del Carbón/Nicolás Romero) | $250 - $400 |
+| Comida (sin cocina en la cabaña — parrillada + lo que lleven) | $600 - $800 |
 | Colchón / imprevistos | $200 - $300 |
-| **Total** | **~$2,900 - $3,200** |
+| **Total** | **~$1,900 - $2,300** |
 
-Cocinar aunque sea el desayuno en la cabaña (muchas incluyen
-cocina/asador) da más margen para comer las truchas sin apretar el
-resto.
+No hay cocina, así que la comida se resuelve con la parrilla del lugar
+(llevar carne/verduras para asar) o comprando algo en el camino.
+Tiendas cerca cierran temprano según las reseñas — mejor ir
+preparados.
+
+### Nota sobre las opciones anteriores
+
+Mineral del Chico y Valle de Bravo (comparación de arriba) quedan
+descartadas ahora que hay una cabaña concreta, más cercana y más
+barata. Se dejan documentadas por si esta reserva no cuaja.
 
 ## 🎒 Qué llevar
 
@@ -99,10 +139,13 @@ resto.
 
 - [ ] Llamar al mecánico y agendar el radiador (hoy/mañana)
 - [ ] Confirmar costo del radiador y avisar si aprieta el presupuesto
-- [ ] Elegir y reservar cabaña específica en Mineral del Chico
 - [x] Armar y mandarle a Fanny la propuesta del viaje (24/08) — ver
       [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
-- [ ] Esperar respuesta de Fanny y confirmar fecha/destino
+- [x] Encontrar cabaña (Airbnb cerca de Zona Esmeralda/Villa del
+      Carbón, $820/noche, 4.69★)
+- [ ] Confirmar con Fanny y hacer la reservación (no es reembolsable —
+      confirmar fecha antes de pagar)
+- [ ] Llevar comida para la parrilla (no hay cocina en el lugar)
 - [ ] Revisar clima del 28-29/08 unos días antes
 - [ ] Cargar gasolina y salir con el carro ya revisado
 
