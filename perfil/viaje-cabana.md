@@ -9,6 +9,16 @@ urgente.
 radiador — no cuenta contra este techo, es mantenimiento del carro que
 toca de cualquier forma.
 
+## 🖥️ Tableros
+
+- [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
+  — la propuesta armada para mandarle a Fanny: opciones, itinerario
+  hora por hora y presupuesto.
+- [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb)
+  — seguimiento privado: estado del radiador, reserva y presupuesto
+  real. Se republica cuando algo avance (radiador cotizado, cabaña
+  reservada, respuesta de Fanny).
+
 ## ⚠️ Lo urgente primero: el radiador
 
 - El taller/mecánico necesita el carro **antes del jueves 27** para
@@ -33,44 +43,48 @@ toca de cualquier forma.
 ## 🚗 Traslado
 
 - Carro propio (Chevy), una vez resuelto el radiador.
-- Salir desde Nezahualcóyotl idealmente **viernes muy temprano** (o
-  desde que salgas del trabajo si el turno lo permite — checa
-  [rutina.md](rutina.md)) para aprovechar más el sábado antes de
-  regresar.
-- Regla de oro para 1 sola noche: la cabaña no debería estar a más de
-  ~2-2.5 h de camino, si no, la mayor parte del tiempo se va en
-  carretera.
+- **Fanny vive en Satélite** (Naucalpan) — el plan es que Diego salga
+  de Neza, pase por ella a Satélite, y de ahí sigan juntos. La ruta y
+  los tiempos de abajo están calculados **desde Satélite**, no desde
+  Neza.
+- Salir el viernes en la tarde/al salir del trabajo (checa
+  [rutina.md](rutina.md) para el horario del turno).
 
-## 🏡 A dónde ir (opciones cerca de CDMX/Edomex, dentro de presupuesto)
+## 🏡 A dónde ir — comparado desde Satélite
 
-No tengo acceso a disponibilidad/precios en vivo, así que estas son
-zonas conocidas por tener cabañas económicas — reviso contigo en
-Airbnb/Booking cuando elijan una para confirmar precio y
-disponibilidad exacta del 28-29/08:
+Investigué precios y rutas reales (24/08/2026); no tengo acceso a
+disponibilidad en vivo, así que hay que confirmar en Airbnb/Booking al
+reservar.
 
-| Zona | Distancia aprox. desde Neza | Por qué |
-|------|------------------------------|---------|
-| **Valle de Bravo / Avándaro**, Edomex | ~2-2.5 h | Clásico de escapada romántica, lago, buena vista, variedad de cabañas económicas |
-| **Mineral del Chico**, Hidalgo | ~2 h | Bosque de pinos, ambiente de cabaña "de verdad", más barato que Valle de Bravo |
-| **Amecameca / Izta-Popo**, Edomex | ~1-1.5 h | La opción más cerca y barata en gas — buena si el presupuesto del radiador se comió el resto |
-| **Tepoztlán**, Morelos | ~1.5-2 h | Más pueblo mágico que "cabaña en el bosque", pero con opciones de hospedaje romántico y buena oferta de comida |
+| | **Mineral del Chico, Hidalgo** ✅ recomendado | Valle de Bravo, Edomex |
+|---|---|---|
+| Distancia desde Satélite | ~120-130 km, ~1h40 (autopista México-Pachuca, 85D) | ~130-145 km, ~1h45-2h (ruta Toluca-Zitácuaro) |
+| Casetas (ida y vuelta) | **~$250-300** (4 casetas) | **~$1,100-1,200** (7 casetas) — mucho más caro |
+| Gasolina (ida y vuelta) | ~$500-650 | ~$600-900 |
+| Cabaña con chimenea (1 noche, 2 personas) | $650-1,900, según el lugar — hay buenas opciones en $1,300-1,600 | $1,200-2,600 |
+| Qué se puede hacer | Parque Nacional El Chico (senderos, miradores como Peña del Cuervo y Las Ventanas), truchas frescas (especialidad del pueblo), pueblo mágico, buen cielo para estrellas | Lago, malecón, paseo en lancha, mercado de artesanías |
+| Total estimado del viaje | **~$2,900-3,200** — cabe en el techo de $3,000 | **~$3,500-4,500+** — se sale del presupuesto, sobre todo por las casetas |
 
-**Recomendación:** con presupuesto de $3,000, Mineral del Chico o
-Amecameca dan más margen para hospedaje + comida que Valle de Bravo
-(que tiende a ser más caro por ser destino más buscado).
+**Recomendación: Mineral del Chico.** Se ve igual de romántico (bosque
+de pinos, chimenea, pueblo mágico) y las casetas de la ruta
+México-Pachuca son una fracción de las de Valle de Bravo (4 casetas
+vs. 7), lo que deja mucho más margen para la cabaña y la comida sin
+salirse del presupuesto. Valle de Bravo queda como alternativa si en
+algún momento deciden estirar el presupuesto.
 
-## 💰 Desglose sugerido del presupuesto ($3,000)
+## 💰 Desglose del presupuesto ($3,000, ruta Mineral del Chico)
 
 | Concepto | Estimado |
 |----------|----------|
-| Cabaña (1 noche) | $1,400 - $1,800 |
-| Gasolina (ida y vuelta) | $400 - $600 |
-| Comida (cocinar 1-2 comidas + comer fuera 1 vez) | $500 - $700 |
+| Cabaña con chimenea (1 noche) | $1,300 - $1,600 |
+| Gasolina + casetas (ida y vuelta, México-Pachuca) | $750 - $950 |
+| Comida (incluye las truchas) | $500 - $700 |
 | Colchón / imprevistos | $200 - $300 |
+| **Total** | **~$2,900 - $3,200** |
 
-Cocinar aunque sea el desayuno o la cena en la cabaña (muchas incluyen
-cocina/asador) estira bastante el presupuesto vs. comer fuera las 3
-veces.
+Cocinar aunque sea el desayuno en la cabaña (muchas incluyen
+cocina/asador) da más margen para comer las truchas sin apretar el
+resto.
 
 ## 🎒 Qué llevar
 
@@ -85,9 +99,10 @@ veces.
 
 - [ ] Llamar al mecánico y agendar el radiador (hoy/mañana)
 - [ ] Confirmar costo del radiador y avisar si aprieta el presupuesto
-- [ ] Elegir cabaña específica (Valle de Bravo / Mineral del Chico /
-      Amecameca / Tepoztlán) y reservar
-- [ ] Confirmar con Fanny la fecha (28-29/08) y qué le gustaría llevar
+- [ ] Elegir y reservar cabaña específica en Mineral del Chico
+- [x] Armar y mandarle a Fanny la propuesta del viaje (24/08) — ver
+      [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
+- [ ] Esperar respuesta de Fanny y confirmar fecha/destino
 - [ ] Revisar clima del 28-29/08 unos días antes
 - [ ] Cargar gasolina y salir con el carro ya revisado
 
