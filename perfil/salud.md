@@ -30,9 +30,11 @@ día le pegan directo al sueño y al tiempo para cuidarte.
   eso. Es un problema real, no solo molestia.
 - **Nada médico pendiente** ahorita (confirmado 18/08/2026) — al día
   en chequeos/dentista/etc.
-- **Agua:** quieres tomar más (22/08/2026) — dilo si quieres que te lo
-  recuerde de vez en cuando en los check-ins (5am/5:30pm/8pm), al
-  mismo ritmo ligero que la pregunta de sueño.
+- **Agua:** quieres tomar más (22/08/2026) — desde hoy va integrado
+  directo en los 3 breaks del turno (rellenar botella + tomar agua en
+  Break 1, Meal y Break 2, ver [rutina.md](rutina.md#durante-el-turno-qué-hacer-en-los-breaks)
+  y Aspect.exe), en vez de solo un recordatorio suelto en los
+  check-ins.
 
 ## Registro de sueño
 
