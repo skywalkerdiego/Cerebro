@@ -29,19 +29,31 @@ meter todo todos los días.
 ## Durante el turno: qué hacer en los breaks
 
 Cada turno trae 2 breaks cortos (~10-15 min) y un meal sin pago (~30-60
-min). Ahora mismo se van sin rumbo — aquí un menú simple para no tener
-que decidir en el momento:
+min), más o menos a la misma distancia del inicio/fin del turno sin
+importar si es 6am-4pm o 7am-5pm:
+
+- **Break 1** ~2h después de entrar (6am→~8:00-8:15am · 7am→~9:00-9:15am)
+- **Meal** a la mitad del turno (6am→~11:00-11:45am · 7am→~12:00-12:45pm)
+- **Break 2** ~2h antes de salir (6am→~1:45-2:00pm · 7am→~2:45-3:00pm)
+
+Ahora mismo se van sin rumbo — aquí un menú simple para no tener que
+decidir en el momento. **Tomar agua/rellenar la botella va en los tres,
+siempre** — no es opcional, es lo primero al llegar al break, luego lo
+demás:
 
 | Bloque | Para qué alcanza | Opciones |
 |--------|-------------------|----------|
-| **Break 1** (~9:00am) | Una cosa rápida | 🗣️ Duolingo del día (mejor aquí que competir con las 2.5h de la noche) · o simplemente desconectar — no hay obligación de llenarlo siempre |
-| **Meal** (sin pago, el más largo, ~1:00pm) | Algo con más sustancia | 💼 Revisar/aplicar a 1-2 vacantes (checklist en [metas/trabajo.md](../metas/trabajo.md)) · 🎓 checar el sistema de seguimiento de titulación si hay algo pendiente de estatus · 📖 leer unos minutos |
-| **Break 2** (~2:30pm) | Otra cosa rápida | 🗣️ Duolingo si no lo hiciste en el Break 1 · LinkedIn — 1 conexión o revisar notificaciones · o descansar |
+| **Break 1** (~9:00am) | Una cosa rápida | 💧 Rellenar botella + tomar agua · 🗣️ Duolingo del día (mejor aquí que competir con las 2.5h de la noche) · o simplemente desconectar — no hay obligación de llenarlo siempre |
+| **Meal** (sin pago, el más largo, ~1:00pm) | Algo con más sustancia | 💧 Agua otra vez (con la comida) · 💼 Revisar/aplicar a 1-2 vacantes (checklist en [metas/trabajo.md](../metas/trabajo.md)) · 🎓 checar el sistema de seguimiento de titulación si hay algo pendiente de estatus · 📖 leer unos minutos |
+| **Break 2** (~2:30pm) | Otra cosa rápida | 💧 Agua + estirar un poco (llevas horas sentado) · 🗣️ Duolingo si no lo hiciste en el Break 1 · LinkedIn — 1 conexión o revisar notificaciones · o descansar |
 
 Confirmado 22/08/2026: la comida cae ~1:00pm (no 11:30am como se asumía antes).
 
 Moviendo el Duolingo diario a un break (en vez de la noche), las 2.5h
-libres después del turno quedan enteras para el foco de esa noche.
+libres después del turno quedan enteras para el foco de esa noche. La
+transición entre bloques es simple: agua primero (10 segundos, no
+requiere decidir nada), y solo si sobra tiempo entra lo demás del
+menú — así nunca se siente que "no dio tiempo para nada".
 
 ## Días off: aquí va lo que pide bloque largo
 
