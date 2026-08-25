@@ -9,6 +9,36 @@ conjunto de $4,800/mes ni la venta del Chevy — esos ya están
 comprometidos con la mudanza y el próximo coche. Todo lo de aquí sale
 del **Fondo cosillas** (ver abajo) o de dinero suelto de la quincena.
 
+- [ ] Mochila **The North Face Borealis** — para reemplazar la que
+      usas ahorita (22/08/2026)
+- [ ] Artículos de TikTok Shop y Temu — pendiente que le digas a
+      Claude cuáles son para detallarlos aquí
+- [ ] Chicles, body mist y cable **USB-C a USB-C**
+- [ ] Grooming kit y EDC — ver [edc.md](edc.md) para el plan completo
+      de qué llevar y qué sacar de la mochila
+
+## Dónde comprar barato
+
+- **Camino al metro desde el trabajo** hay puestos de artículos de
+  aseo (chicles, body mist, etc.) y varios negocios de tecnología con
+  cables — no son oficiales, pero pueden salir bien de precio. Vale
+  la pena revisar ahí antes de comprar en tienda de marca, sobre todo
+  para chicles, body mist y el cable USB-C.
+- **Ojo con el cable USB-C:** uno genérico barato puede cargar más
+  lento o incluso dañar el equipo a la larga si es de mala calidad —
+  si el precio es sospechosamente bajo, mejor no arriesgar el
+  celular/laptop por ahorrarte unos pesos.
+
+**Aproximado de precio en puesto/tianguis** (referencia, no es precio
+exacto — confírmalo ahí mismo):
+
+| Artículo | Estimado |
+|----------|----------|
+| Chicles | ~$10-20 |
+| Body mist | ~$40-80 |
+| Cable USB-C a USB-C | ~$40-90 |
+| **Total aprox.** | **~$90-190** |
+
 ## 💧 Próximo pago (05/09/2026) — lo rápido, no compite con nada
 
 - [ ] Gel / producto para el cabello — se te está acabando (~$150 est.)

@@ -11,6 +11,22 @@ Próxima fecha: **aniversario, 20 de octubre** (2 años).
 le guste. Idea que ya tienes en mente para el aniversario: una comida
 + unos zapatos o algo de maquillaje.
 
+## Regalos en puerta (22/08/2026)
+
+Ya decidido, faltan detalles de dónde/cuándo comprar:
+
+- **Kindle** — para lo mucho que lee/le gustan los fanfics y los
+  libros.
+- **Edición especial de un fanfic de Harry Potter que le gusta** —
+  falta confirmar cuál exactamente y buscar la edición.
+- **Battle Royale** — reponer su copia, que se maltrató por accidente
+  tuyo.
+- Le laten mucho **Los juegos del hambre**, así que una edición
+  especial o algo temático de esa saga también es buena opción.
+- ***Daisy Jones & the Six* (Taylor Jenkins Reid)** — conecta con que
+  es amante de la música, las series y las películas (hay
+  adaptación en serie).
+
 ## Ideas actuales (borrador, 15/08/2026)
 
 Ideas de arranque según sus gustos — dime cuáles te laten para

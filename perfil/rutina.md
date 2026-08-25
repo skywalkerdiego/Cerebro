@@ -43,9 +43,11 @@ demás:
 
 | Bloque | Para qué alcanza | Opciones |
 |--------|-------------------|----------|
-| **Break 1** (mañana) | Una cosa rápida | 💧 Rellenar botella + tomar agua · 🗣️ Duolingo del día (mejor aquí que competir con las 2.5h de la noche) · o simplemente desconectar — no hay obligación de llenarlo siempre |
-| **Meal** (sin pago, el más largo) | Algo con más sustancia | 💧 Agua otra vez (con la comida) · 💼 Revisar/aplicar a 1-2 vacantes (checklist en [metas/trabajo.md](../metas/trabajo.md)) · 🎓 checar el sistema de seguimiento de titulación si hay algo pendiente de estatus · 📖 leer unos minutos |
-| **Break 2** (tarde) | Otra cosa rápida | 💧 Agua + estirar un poco (llevas horas sentado) · 🗣️ Duolingo si no lo hiciste en el Break 1 · LinkedIn — 1 conexión o revisar notificaciones · o descansar |
+| **Break 1** (~9:00am) | Una cosa rápida | 💧 Rellenar botella + tomar agua · 🗣️ Duolingo del día (mejor aquí que competir con las 2.5h de la noche) · o simplemente desconectar — no hay obligación de llenarlo siempre |
+| **Meal** (sin pago, el más largo, ~1:00pm) | Algo con más sustancia | 💧 Agua otra vez (con la comida) · 💼 Revisar/aplicar a 1-2 vacantes (checklist en [metas/trabajo.md](../metas/trabajo.md)) · 🎓 checar el sistema de seguimiento de titulación si hay algo pendiente de estatus · 📖 leer unos minutos |
+| **Break 2** (~2:30pm) | Otra cosa rápida | 💧 Agua + estirar un poco (llevas horas sentado) · 🗣️ Duolingo si no lo hiciste en el Break 1 · LinkedIn — 1 conexión o revisar notificaciones · o descansar |
+
+Confirmado 22/08/2026: la comida cae ~1:00pm (no 11:30am como se asumía antes).
 
 Moviendo el Duolingo diario a un break (en vez de la noche), las 2.5h
 libres después del turno quedan enteras para el foco de esa noche. La
@@ -61,6 +63,15 @@ menú — así nunca se siente que "no dio tiempo para nada".
   — ver [metas/trabajo.md](../metas/trabajo.md)
 - Artículos de investigación (escribir, no solo definir tema)
 - Hobby con más espacio (dibujar, guitarra)
+
+## Checada y actualización semanal del sistema
+
+Un ancla más, corta y de bajo esfuerzo: en tu primer día off de la
+semana, corre `/revisemos-cerebro` (~5 min) para ver qué metas están
+urgentes o vencidas y qué tableros necesitan actualizarse. No es un
+bloque largo — es mantenimiento, no trabajo nuevo. Si esa semana no
+tienes día off o se te pasa, no se acumula ni se vuelve pendiente
+atrasado, simplemente se retoma la siguiente vez que quieras.
 
 ## El ahorro no necesita un bloque semanal
 
@@ -89,6 +100,40 @@ viernes — por eso ya no aparece en el bloque del viernes 21.*
 **Todos los días, sin excepción de turno:** 🗣️ Duolingo (ahora en un
 break, ver arriba) y 💜 tiempo protegido con Fanny — estas dos no
 compiten con el foco de la noche, van aparte.
+
+### Rutina de alistamiento — mañana domingo 23/08 (Uber pasa 5:20am)
+
+Día largo: turno 6am-4pm y luego vas directo a Satélite a ver a Fanny
+sin pasar por casa — no vuelves hasta ~9-9:30pm. Mejor dejarlo
+armado desde hoy en la noche que confiar en la memoria a las 4:30am.
+
+**Hoy en la noche (déjalo listo, no mañana con prisa):**
+- [ ] Cargar el celular al 100% y meter el cargador/power bank a la
+      mochila — día largo, incluye la salida con Fanny
+- [ ] Llenar tu botella de agua (para el medidor nuevo del HUD)
+- [ ] Preparar lunch/snack para el meal sin pago — no vuelves a comer
+      en casa hasta la noche
+- [ ] Efectivo/saldo listo: Uber, transporte de regreso (~$31-41, ver
+      abajo) y el helado o café con Fanny
+- [ ] Confirmar el Uber programado y el método de pago en la app
+- [ ] Ropa lista — algo con lo que también te sientas bien para ver a
+      Fanny después, porque no hay tiempo de cambiarte
+- [ ] Gafete/credencial de trabajo en la mochila
+
+**Al levantarte (~4:35am, para estar listo a las 5:20am):**
+- [ ] Lentes 👓
+- [ ] Llaves de casa
+- [ ] Cartera (identificación, tarjetas, efectivo)
+- [ ] Celular + cargador
+- [ ] Botella de agua llena
+- [ ] Lunch/snack
+- [ ] Perfume/desodorante — es tu única oportunidad del día antes de
+      ver a Fanny
+- [ ] Audífonos (Duolingo/música en el traslado y en los breaks)
+- [ ] Gafete/credencial de trabajo
+
+**Justo antes de salir:** confirma que el Uber va en camino y avísale
+a Fanny más o menos a qué hora calculas llegar después del turno.
 
 ### Domingo 23/08 — ruta a Satélite y de regreso
 

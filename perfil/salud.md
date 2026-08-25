@@ -30,11 +30,18 @@ día le pegan directo al sueño y al tiempo para cuidarte.
   eso. Es un problema real, no solo molestia.
 - **Nada médico pendiente** ahorita (confirmado 18/08/2026) — al día
   en chequeos/dentista/etc.
-- **Agua:** quieres tomar más (22/08/2026) — desde hoy va integrado
-  directo en los 3 breaks del turno (rellenar botella + tomar agua en
-  Break 1, Meal y Break 2, ver [rutina.md](rutina.md#durante-el-turno-qué-hacer-en-los-breaks)
+- **Agua:** quieres tomar más (22/08/2026) — va integrado directo en
+  los 3 breaks del turno (rellenar botella + tomar agua en Break 1,
+  Meal y Break 2, ver [rutina.md](rutina.md#durante-el-turno-qué-hacer-en-los-breaks)
   y Aspect.exe), en vez de solo un recordatorio suelto en los
-  check-ins.
+  check-ins. Meta diaria calculada con tus datos (abajo): **~2,200 ml**.
+  El medidor de agua en vivo del HUD principal (Cerebro.exe) ya cuenta
+  en ml usando esta meta y la capacidad de tu botella (editable ahí
+  mismo).
+- **Estatura y peso (22/08/2026):** 1.78 m, 63 kg. Uso esto para
+  calcular tu meta de agua (~35 ml por kg) y, a futuro, un medidor de
+  calorías/planeador de comidas — todavía sin construir, queda como
+  plan.
 
 ## Registro de sueño
 

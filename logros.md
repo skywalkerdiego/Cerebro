@@ -30,6 +30,8 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 21/08/2026 | Ejecutaste el plan financiero completo: enviaste tu aporte de ahorro conjunto a tiempo, saldaste dos deudas, apoyaste a tu mamá con gas y despensa, y compraste los boletos de Corona Capital | Finanzas |
 | 21/08/2026 | Armaste la skill /revisemos-cerebro para automatizar el chequeo de metas, y tres tableros nuevos: Calendario.exe (calendario real por mes), Aspect.exe (tu día en línea de tiempo RGB con checklist de rutina y bloques clicables) y Artículos.exe (checklist de investigación, fuentes y banco de ideas), todos con acceso directo desde Cerebro.exe | Sistema |
 | 22/08/2026 | Unificaste las ramas sueltas del repo a main, le diste a Cerebro.exe una segunda pasada cyberpunk (paneles angulares, glitch más agresivo, franja de peligro) y agregaste un medidor de agua en vivo al HUD principal | Sistema |
+| 22/08/2026 | Le diste a Cerebro.exe un panel de Recordatorios en vivo (lo más próximo con hora, del calendario/Aspect) en el lugar de la tarjeta "Empieza aquí", y colapsaste todas las categorías por default para que la página principal no abrume | Sistema |
+| 22/08/2026 | Encontraste y corregiste un bug real: el "Horario" del HUD tenía pegado un itinerario del 20/08 ya vencido y por eso siempre decía "Libre" — ahora se calcula en vivo con JavaScript (hoy + mañana) y no se puede volver a quedar viejo. De paso corregiste el contador de Tableros (21→22) y le agregaste más RGB/espacio eficiente a todo Cerebro.exe | Sistema |
 
 ## Notas
 

@@ -17,7 +17,7 @@ y un ahorro conjunto en marcha.
 |---|------|-----------|--------|---------|
 | 1 | 🎓 Titulación | Alta | ATI y solicitud llenados; pago aplazado al 05/09/2026 (día de pago; FES Aragón sigue en vacaciones administrativas) | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
 | 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
-| 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
+| 3 | 💰 Ahorro de Diego y Fanny | Alta | En marcha: $2,400 depositados de $47,000 (5.1%), meta de $12,000/mes en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️📚 Idioma y cultura general | Media | Italiano con Duolingo, meta conversacional simple — falta arrancar | [metas/aprendizaje.md](metas/aprendizaje.md) |
 
 ## 📋 Trámites
@@ -43,6 +43,10 @@ y un ahorro conjunto en marcha.
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar, con Fondo cosillas aparte del ahorro de la mudanza |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
+| [perfil/regalos-familia.md](perfil/regalos-familia.md) | Ideas de regalos para papás y hermana |
+| [perfil/relaciones.md](perfil/relaciones.md) | Mapa simple de tu red de relaciones |
+| [perfil/edc.md](perfil/edc.md) | EDC diario y grooming kit — aligerar la mochila |
+| [perfil/cuarto.md](perfil/cuarto.md) | Plan para organizar el cuarto |
 | [perfil/servicios.md](perfil/servicios.md) | Internet/streaming (Totalplay) y telefonía (AT&T vs. alternativas) — comparativas para bajar el gasto fijo |
 | [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Plan de la escapada de fin de semana a cabaña con Fanny (28-30 ago 2026) — tableros: [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) (propuesta para Fanny) y [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) (seguimiento privado) |
 
@@ -94,6 +98,9 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🏕️ [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) — la propuesta de la escapada a Mineral del Chico (28-30 ago 2026) lista para mandarle a Fanny: opciones, itinerario y presupuesto.
 - 🧭 [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) — seguimiento privado de esa misma escapada: radiador, reserva y presupuesto real. Se republica cuando algo avance.
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
+- 🌳 [Árbol.exe](https://claude.ai/code/artifact/d0c4a5cf-e170-4c8b-a29e-df6f7f8ca699) — árbol genealógico visual: pareja, familia y amigos de un vistazo. Se actualiza a mano cuando cuentes algo nuevo.
+- 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — lista visual de pendientes de compra, calcada de `perfil/compras.md`.
+- ✅ [Pendientes.exe](https://claude.ai/code/artifact/63d7f21a-ee1d-4176-9147-d6d5739e70b8) — checklist en vivo de lo más urgente ahora mismo, junto de `metas/`, `perfil/` y `eventos.md`. Se regenera a mano después de una sesión larga.
 
 ## Cómo usar esto
 
