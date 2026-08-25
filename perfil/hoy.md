@@ -43,19 +43,21 @@ fresca y la vuelvo a consultar y a publicar.
 
 ## Brief diario automático (18/08/2026, ajustado 25/08/2026)
 
-Tres check-ins al día, todos los días, vía Routines:
+Tres check-ins al día, todos los días, vía Routines. Cada uno dispara
+una sesión de chat aparte (con notificación a tu teléfono) que **no
+aparece en el listado normal de sesiones de Claude** — por eso los
+tres, además de mandar el mensaje de chat, republican
+[Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614)
+como edición del momento, para que siempre tengas un link fijo al que
+volver:
 
-- **5:00 am** — arranque del día: fecha, clima real de casa y trabajo,
+- **5:00 am** — edición matutina: fecha, clima real de casa y trabajo,
   el evento más próximo, lo más urgente pendiente, y el foco de esta
-  noche. Además de mandarlo por chat (a una sesión aparte, con
-  notificación a tu teléfono), **republica [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614)**
-  con el mismo contenido — así queda en un link fijo que puedes abrir
-  cuando quieras, en vez de tener que encontrar esa sesión de chat.
-- **5:30 pm** — llegada a casa: cómo te fue en el trabajo, el foco de
-  la noche, y un aviso si algo está por vencer.
-- **8:00 pm** — cierre del día: qué avanzaste (se registra en
+  noche.
+- **5:30 pm** — edición vespertina: cómo te fue en el trabajo, el foco
+  de la noche, y un aviso si algo está por vencer.
+- **8:00 pm** — edición nocturna: qué avanzaste (se registra en
   [logros.md](../logros.md) si aplica), y un vistazo breve a mañana.
 
-Si el ritmo se siente pesado, quieres cambiar horarios/contenido, o
-quieres que los otros dos briefs (5:30pm, 8pm) también se publiquen
-como tablero en vez de solo chat, dime y lo ajusto.
+Si el ritmo se siente pesado o quieres cambiar horarios/contenido,
+dime y lo ajusto.
