@@ -20,6 +20,13 @@ y un ahorro conjunto en marcha.
 | 3 | 💰 Ahorro en conjunto | Alta | Plan confirmado: $12,000/mes combinados en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
 | 4 | 🗣️📚 Idioma y cultura general | Media | Italiano con Duolingo, meta conversacional simple — falta arrancar | [metas/aprendizaje.md](metas/aprendizaje.md) |
 
+## 📋 Trámites
+
+| Archivo | Contenido |
+|---------|-----------|
+| [metas/titulacion.md](metas/titulacion.md) | Trámite de titulación (FES Aragón) — también listado como meta prioritaria arriba |
+| [metas/tramites.md](metas/tramites.md) | Trámites y gestiones puntuales (ej. licencia de conducir permanente CDMX) |
+
 ## 👤 Perfil
 
 | Archivo | Contenido |
@@ -36,6 +43,7 @@ y un ahorro conjunto en marcha.
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar, con Fondo cosillas aparte del ahorro de la mudanza |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
+| [perfil/servicios.md](perfil/servicios.md) | Internet/streaming (Totalplay) y telefonía (AT&T vs. alternativas) — comparativas para bajar el gasto fijo |
 | [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Plan de la escapada de fin de semana a cabaña con Fanny (28-30 ago 2026) — tableros: [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) (propuesta para Fanny) y [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) (seguimiento privado) |
 
 ## 💵 Finanzas
