@@ -64,17 +64,11 @@ algo para que quede reflejado aquí también.
 
 ## 🏡 Escapada a cabaña con Fanny — viernes 28 a domingo 30 de agosto 2026
 
-- Plan original: salida viernes en la tarde/noche, regreso domingo.
-- **Destino:** aún sin definir.
-- **Reserva:** pendiente.
-
-### Pendientes
-
-- [ ] Elegir destino/cabaña
-- [ ] Reservar con fechas viernes 28 → domingo 30 de agosto
-- [ ] Definir transporte y hora de salida el viernes
-- [ ] Meter el gasto a [finanzas/gastos.md](../finanzas/gastos.md) en
-      cuanto esté definido
+Plan real (destino, presupuesto, radiador del carro, pendientes) vive
+en [viaje-cabana.md](viaje-cabana.md) — no se duplica aquí para no
+desincronizarse. Resumen: Airbnb en Jilotzingo, Edomex, ya casi
+confirmado con Fanny; falta reservar la segunda noche y resolver el
+radiador antes del jueves 27.
 
 ## Resto del calendario
 
