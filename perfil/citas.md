@@ -12,7 +12,8 @@ laten, cuáles ya hicieron, y las voy marcando.
 - [ ] Día de spa / masaje para los dos — ella dijo que le relaja que le
       den masaje y cariño, así que es casi un regalo seguro
 - [ ] Escapada corta de fin de semana fuera de la ciudad — aprovechas
-      que te encanta manejar
+      que te encanta manejar (en planeación: sábado 29 a domingo 30 de
+      agosto 2026, ver [eventos.md](eventos.md))
 
 ## Casuales / frecuentes
 

@@ -61,6 +61,24 @@ algo para que quede reflejado aquí también.
   de servicio) — ver [finanzas/gastos.md](../finanzas/gastos.md).
 - Gasto ya contemplado dentro del presupuesto de la quincena.
 
+## 🏡 Escapada a cabaña con Fanny — sábado 29 a domingo 30 de agosto 2026
+
+- **Por qué se movió:** el plan original era salir el viernes en la
+  tarde/noche, pero ese viernes 28 ya está el cine (Harry Potter,
+  9:20 pm, ver arriba). Se recorrió la salida a sábado por la mañana
+  para no chocar con el cine — se pierde la primera noche del plan
+  original y quedan sábado-domingo en vez de viernes-domingo.
+- **Destino:** aún sin definir.
+- **Reserva:** pendiente.
+
+### Pendientes
+
+- [ ] Elegir destino/cabaña
+- [ ] Reservar con fechas sábado 29 → domingo 30 de agosto
+- [ ] Definir transporte y hora de salida el sábado
+- [ ] Meter el gasto a [finanzas/gastos.md](../finanzas/gastos.md) en
+      cuanto esté definido
+
 ## Resto del calendario
 
 Fechas ya cubiertas en [fechas-importantes.md](fechas-importantes.md):
