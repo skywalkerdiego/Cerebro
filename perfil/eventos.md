@@ -53,29 +53,26 @@ Los checks de este viaje se guardan directamente en el navegador
 dentro de Eventos.exe (localStorage) — dile a Claude cuando avances
 algo para que quede reflejado aquí también.
 
-## 🎬 Cine — viernes 28 de agosto 2026, 9:20 pm
+## 🎬 Cine — CANCELADO (era viernes 28 de agosto 2026, 9:20 pm)
 
 - **Película:** Harry Potter y la Piedra Filosofal — 25 años de magia.
 - **Dónde:** Cinepolis Sentura Tlalnepantla, sala 6, asientos K-10 y K-11.
 - **Boletos:** ya comprados (21/08/2026), $82.00 total (2 boletos + cargo
-  de servicio) — ver [finanzas/gastos.md](../finanzas/gastos.md).
-- Gasto ya contemplado dentro del presupuesto de la quincena.
+  de servicio) — ver [finanzas/gastos.md](../finanzas/gastos.md). Plan
+  cancelado (25/08/2026); pendiente confirmar si hay reembolso o el
+  gasto se queda como está.
 
-## 🏡 Escapada a cabaña con Fanny — sábado 29 a domingo 30 de agosto 2026
+## 🏡 Escapada a cabaña con Fanny — viernes 28 a domingo 30 de agosto 2026
 
-- **Por qué se movió:** el plan original era salir el viernes en la
-  tarde/noche, pero ese viernes 28 ya está el cine (Harry Potter,
-  9:20 pm, ver arriba). Se recorrió la salida a sábado por la mañana
-  para no chocar con el cine — se pierde la primera noche del plan
-  original y quedan sábado-domingo en vez de viernes-domingo.
+- Plan original: salida viernes en la tarde/noche, regreso domingo.
 - **Destino:** aún sin definir.
 - **Reserva:** pendiente.
 
 ### Pendientes
 
 - [ ] Elegir destino/cabaña
-- [ ] Reservar con fechas sábado 29 → domingo 30 de agosto
-- [ ] Definir transporte y hora de salida el sábado
+- [ ] Reservar con fechas viernes 28 → domingo 30 de agosto
+- [ ] Definir transporte y hora de salida el viernes
 - [ ] Meter el gasto a [finanzas/gastos.md](../finanzas/gastos.md) en
       cuanto esté definido
 
