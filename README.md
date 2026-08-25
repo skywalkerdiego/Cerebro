@@ -36,7 +36,7 @@ y un ahorro conjunto en marcha.
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
-| [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Plan de la escapada de fin de semana a cabaña con Fanny (28-29 ago 2026) — tableros: [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) (propuesta para Fanny) y [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) (seguimiento privado) |
+| [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Plan de la escapada de fin de semana a cabaña con Fanny (28-30 ago 2026) — tableros: [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) (propuesta para Fanny) y [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) (seguimiento privado) |
 
 ## 💵 Finanzas
 
@@ -81,7 +81,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🌳 [Habilidades.exe](https://claude.ai/code/artifact/3a0ddef9-d6a7-493d-a512-387301f153fa) — árbol de habilidades: tus metas, vínculo con Fanny, finanzas y desempeño como sendas de nodos completados, disponibles y bloqueados. Se regenera cuando avances algo.
 - 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — tablero semanal: un foco distinto cada noche según tu horario real de turnos y traslado, con Duolingo y Fanny como anclas diarias. Se remapea cuando cambie tu horario.
 - 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
-- 🏕️ [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) — la propuesta de la escapada a Mineral del Chico (28-29 ago 2026) lista para mandarle a Fanny: opciones, itinerario y presupuesto.
+- 🏕️ [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) — la propuesta de la escapada a Mineral del Chico (28-30 ago 2026) lista para mandarle a Fanny: opciones, itinerario y presupuesto.
 - 🧭 [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) — seguimiento privado de esa misma escapada: radiador, reserva y presupuesto real. Se republica cuando algo avance.
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 

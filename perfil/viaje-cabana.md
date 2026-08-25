@@ -1,13 +1,20 @@
-# 🏕️ Escapada de fin de semana a cabaña — 28-29 agosto 2026
+# 🏕️ Escapada de fin de semana a cabaña — 28-30 agosto 2026
 
-Plan para la escapada corta con Fanny (viernes a sábado, 1 noche) —
-viene de la idea ya anotada en [citas.md](citas.md#al-aire-libre--para-el-aniversario).
-Salen en **4 días** (hoy es 24/08), así que la parte del carro es
-urgente.
+Plan para la escapada con Fanny (viernes a domingo, **2 noches** — se
+estiró después de la propuesta inicial de 1 noche) — viene de la idea
+ya anotada en [citas.md](citas.md#al-aire-libre--para-el-aniversario).
+La parte del carro sigue siendo urgente (ver radiador abajo).
 
-**Presupuesto techo: $3,000** (caba/gas/comida). Ojo abajo con el
-radiador — no cuenta contra este techo, es mantenimiento del carro que
-toca de cualquier forma.
+**Actualización (25/08):** el cine que originalmente competía con la
+salida del viernes se canceló, así que no hay conflicto de horario —
+pero de cualquier forma decidiste estirar el viaje a 2 noches en vez
+de 1.
+
+**Presupuesto techo: $3,000** (caba/gas/comida) — pensado originalmente
+para 1 noche; con 2 noches probablemente se acerque o pase un poco ese
+techo (ver desglose actualizado abajo). Ojo abajo con el radiador — no
+cuenta contra este techo, es mantenimiento del carro que toca de
+cualquier forma.
 
 ## 🖥️ Tableros
 
@@ -47,9 +54,14 @@ de las opciones genéricas de Mineral del Chico / Valle de Bravo.
   de verdad.
 - **Pet-friendly:** aceptan mascotas — se podría llevar a Tris si
   quieren.
-- **Precio (1 noche, viernes 28 a sábado 29):** $684 + impuestos ≈
+- **Precio (1 noche, cotizado originalmente):** $684 + impuestos ≈
   **$820 MXN** — mucho más barato que cualquiera de las opciones que
   se habían comparado antes.
+- **Con 2 noches (viernes 28 a domingo 30):** falta confirmar en
+  Airbnb si hay disponibilidad para la noche extra (sábado 29) y el
+  precio exacto — como referencia, al doble sería ≈$1,640 MXN, pero
+  puede variar. **Pendiente confirmar con el anfitrión antes de
+  reservar.**
 - Link: el que compartió Diego en la conversación (Airbnb).
 
 ## ⚠️ Lo urgente primero: el radiador
@@ -112,11 +124,15 @@ sobra margen para comer bien o para un detalle extra.
 
 | Concepto | Estimado |
 |----------|----------|
-| Cabaña (1 noche, con impuestos) | **$820** (precio real de Airbnb) |
+| Cabaña (2 noches, con impuestos — por confirmar con el anfitrión) | **~$1,640** (doble del precio real de 1 noche, sin confirmar) |
 | Gasolina + casetas (ida y vuelta, Satélite-Jilotzingo, ~90 km) | $200 - $350 |
-| Comida (sin cocina en la cabaña — parrillada + lo que lleven) | $600 - $800 |
+| Comida (sin cocina en la cabaña — parrillada + lo que lleven, 2 días) | $900 - $1,200 |
 | Colchón / imprevistos | $200 - $300 |
-| **Total** | **~$1,800 - $2,300** |
+| **Total** | **~$2,900 - $3,500** |
+
+Con 2 noches el viaje se acerca o rebasa un poco el techo de $3,000 —
+avísame si quieres que ajustemos algo (comida más sencilla, etc.) en
+cuanto tengas el precio real de la segunda noche.
 
 No hay cocina, así que la comida se resuelve con la parrilla del lugar
 (llevar carne/verduras para asar) o comprando algo en el camino.
@@ -146,11 +162,13 @@ barata. Se dejan documentadas por si esta reserva no cuaja.
       [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
 - [x] Encontrar cabaña (Airbnb cerca de Zona Esmeralda/Villa del
       Carbón, $820/noche, 4.69★)
+- [ ] Confirmar con el anfitrión disponibilidad y precio de la segunda
+      noche (sábado 29)
 - [ ] Confirmar con Fanny y hacer la reservación (no es reembolsable —
-      confirmar fecha antes de pagar)
+      confirmar fechas completas antes de pagar)
 - [ ] Salir de día (~45-55 min de camino de montaña desde Satélite)
 - [ ] Llevar comida para la parrilla (no hay cocina en el lugar)
-- [ ] Revisar clima del 28-29/08 unos días antes
+- [ ] Revisar clima del 28-30/08 unos días antes
 - [ ] Cargar gasolina y salir con el carro ya revisado
 
 ## Notas
