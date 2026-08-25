@@ -137,6 +137,13 @@ para trabajarla: [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-40
   sin cambios.
 - Reinforce Brand Closing y Summarize the Issue son las dos categorías
   más débiles del IS Evaluation — plan de ataque en Llamadas.exe.
+- **22/08/2026:** confirmado que las transferencias (a Case Manager u
+  otro equipo dentro de la misma llamada) cuentan como falla de FCR,
+  no solo los callbacks del cliente. Plan: intentar resolver dentro de
+  la propia autoridad primero (crédito, reset, verificación de pago,
+  etc.) y reservar la transferencia para lo que de plano requiere
+  acceso o autorización que Diego no tiene. Detalle del plan y flujo
+  de llamada ajustado en Llamadas.exe.
 - **Captura del 22/08/2026** ("Performance for August", actualizada
   5:13am ese día): FCR 3 absoluto vs meta de 74% (esta parece ser la
   meta "oficial" del dashboard de performance, distinta de la meta

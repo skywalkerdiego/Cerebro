@@ -34,6 +34,22 @@ Mismo patrón que `finanzas/`:
    como dato semilla al tablero, para que aparezca solo la próxima vez
    que lo abras.
 
+## Herramientas del día a día
+
+- **Paddock** — sistema de facturación/cuenta; ahí se aplican los
+  créditos. Aplicar un crédito regularmente arregla el desbalance en
+  Paddock (o sea, es la solución "de sistema", no solo un gesto al
+  cliente).
+- **Scout** — otra herramienta que usas en el flujo de la llamada
+  (pendiente detallar para qué exactamente).
+- **Relegar a Case Manager = crear un ticket**, no transferir la
+  llamada en vivo. Cuenta como el "transfer" que afecta el FCR aunque
+  el cliente no sea puesto en espera con otro agente.
+- **Excepción confirmada:** cliente sin servicio siempre se relega a
+  Case Manager — ahí Diego no tiene el acceso para restaurarlo, no es
+  un caso que deba evitarse. El plan de "evitar transfers" aplica a lo
+  demás (disputas de pago, crédito, etc.), no a este caso.
+
 ## Notas
 
 - El 15/08/2026 me mandaste una captura de tu dashboard (STAR 108.8%,
@@ -48,6 +64,13 @@ Mismo patrón que `finanzas/`:
   que sigue siendo el foco correcto, y la brecha es chica (3 puntos).
 - Foco actual: subir el First Call Resolution — plan concreto hablado
   el 16/08/2026, ver conversación.
+- **22/08/2026 — confirmado que las transferencias sí cuentan en contra
+  del FCR** (antes no estaba claro si "evitar callbacks" incluía
+  transferir en la misma llamada). Ajuste al plan: resolver tú mismo
+  todo lo que esté dentro de tu autoridad antes de transferir, y
+  transferir solo cuando de verdad no tengas el acceso/autoridad — no
+  como atajo cuando la llamada se complica. Plan detallado y flujo
+  actualizado en [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5).
 - **22/08/2026:** tu supervisor Armando Cortes te ha mandado 4
   observaciones de coaching enfocadas en FCR (11/08 y 21/08). La meta
   de FCR ya subió de 73.74% a **78.13%** (+10% relativo). Causa raíz
