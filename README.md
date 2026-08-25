@@ -67,6 +67,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 
 - 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 19 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
+- 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes y foco de la noche. Se republica sola cada 5am.
 - 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes: cine, conciertos, cumpleaños y aniversario, con los días marcados.
 - 🧭 [Aspect.exe](https://claude.ai/code/artifact/9f1cc5e9-30b4-46d9-b540-6f2a3a3f938c) — tu día en bloques: turno, traslado, breaks, rutina de higiene y lo que vale la pena hoy.
 - ✍️ [Artículos.exe](https://claude.ai/code/artifact/25b45539-b542-44ea-9085-a19aeb4edca8) — checklist de investigación por caso, fuentes, prompt de redacción y banco de ideas para los siguientes artículos.
