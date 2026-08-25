@@ -10,6 +10,7 @@ los valores son "% to goal" — 100% es la meta.
 |-------|-----------|
 | Periodo anterior (compartida 17/08/2026) | 110% |
 | 16/08/2026 (agosto 2026 a la fecha) | 100.6% |
+| 22/08/2026 (agosto 2026 a la fecha) | 99.11% |
 
 ## Chat Survey
 
@@ -17,6 +18,7 @@ los valores son "% to goal" — 100% es la meta.
 |-------|-----------|
 | Periodo anterior (compartida 17/08/2026) | 103% |
 | 16/08/2026 (agosto 2026 a la fecha) | 100.5% |
+| 22/08/2026 (agosto 2026 a la fecha) | 100.61% |
 
 ## ACT · Voice / Escalations
 
@@ -24,6 +26,7 @@ los valores son "% to goal" — 100% es la meta.
 |-------|-----------|
 | Periodo anterior (compartida 17/08/2026) | 105.2% |
 | 16/08/2026 (agosto 2026 a la fecha) | 104.2% |
+| 22/08/2026 (agosto 2026 a la fecha) | 99.82% |
 
 ## First Call Resolution
 
@@ -31,6 +34,7 @@ los valores son "% to goal" — 100% es la meta.
 |-------|-----------|
 | Periodo anterior (compartida 17/08/2026) | 110% |
 | 16/08/2026 (agosto 2026 a la fecha) | 95.9% |
+| 22/08/2026 (agosto 2026 a la fecha) | 95.44% |
 
 ## Performance Total
 
@@ -38,6 +42,54 @@ los valores son "% to goal" — 100% es la meta.
 |-------|-----------|
 | Periodo anterior (compartida 17/08/2026) | 108.8% |
 | 16/08/2026 (agosto 2026 a la fecha) | 98.9% |
+| 22/08/2026 (agosto 2026 a la fecha) | 97.53% |
+
+## Coaching de Armando Cortes (tu supervisor) — foco: subir FCR
+
+Tu meta de FCR ha ido subiendo conforme mejoras: 73.74% (11/08) →
+77.43% (meta de esa semana) → 71.03% actual → **78.13%** (meta nueva,
+21/08, +10% relativo). El patrón que se repite en las 4
+observaciones que te ha mandado:
+
+| Fecha | Tipo | Causa raíz identificada |
+|-------|------|--------------------------|
+| 11/08/2026 8:56am | Coaching Plan | Apoyarte en respuestas rígidas de política ("no hay registro de llamada desde marzo", "no hay forma de dar reembolso") sin investigar el historial real — el cliente siente que lo ignoran y escala/cancela |
+| 11/08/2026 12:44pm | Llamada grabada | Transferir sin confirmar que quedó resuelto, y repetir negativas de pago sin explorar alternativas (caso: rechazaste una extensión de pago 5 veces a un cliente sin hogar, en situación vulnerable, sin ofrecer recursos locales) |
+| 21/08/2026 4:01pm | Llamada grabada | Loops técnicos sin guía (ej. reintentos manuales de PIN de portabilidad) y comunicación rígida en disputas — dejas temas sin cerrar, lo que fuerza al cliente a volver a llamar |
+| 21/08/2026 4:06pm | Hands on | Los dos drivers principales de tu FCR bajo: (1) loops técnicos repetitivos — reintentar manual en vez de escalar rápido a soporte especializado (te tomó 16 min una llamada de portabilidad sin resolver), (2) dejar preocupaciones secundarias sin resolver (temas financieros cuando no hay acuerdo, otras dudas abiertas) |
+
+### Qué SÍ estás haciendo bien (CONTINUE)
+
+- Tono cálido y de bienvenida, escucha paciente
+- Tomar propiedad de errores de otros representantes — ofreces
+  escuchar grabaciones previas cuando el cliente fue mal informado
+- Aplicar créditos de cortesía válidos (ej. $30 por errores de upgrade)
+- Localizar con precisión info financiera (ej. desglosaste un
+  financiamiento de S24 Ultra en sus 10 pagos restantes, $361.13)
+- Verificar cobertura de garantía antes de transferir
+
+### Qué cambiar (START) — banco de frases y flujo en Llamadas.exe
+
+Plan de ataque completo con el guion armado por categoría:
+[Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5).
+Resumen de las 5 conductas que más te van a subir el FCR:
+
+1. **Escala rápido, no reintentes solo** — en errores técnicos (ej.
+   glitch de PIN de portabilidad), escala al equipo especializado
+   (Porting Center) en el primer o segundo intento fallido, no sigas
+   reintentando manualmente.
+2. **Reconoce TODOS los temas al inicio de la llamada** — si el
+   cliente trae más de un problema, no cierres el primero y dejes el
+   segundo suelto; nómbralos todos antes de empezar a resolver.
+3. **Investiga antes de decir "no hay registro" o "no se puede"** —
+   revisa el historial de llamadas/representante antes de dar una
+   respuesta rígida de política.
+4. **Explica disputas de facturación paso a paso** — parafrasea la
+   confusión ("entiendo que esperabas $25 y viste $60 — déjame ver qué
+   pasó en tu última llamada") antes de ofrecer solución.
+5. **No repitas una negativa sin explorar alternativas** — sobre todo
+   con clientes en situación vulnerable: créditos de cortesía,
+   ajustes de plan, recursos externos.
 
 ## IS Evaluation (calidad de llamada, playbook)
 
@@ -92,3 +144,11 @@ para trabajarla: [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-40
   etc.) y reservar la transferencia para lo que de plano requiere
   acceso o autorización que Diego no tiene. Detalle del plan y flujo
   de llamada ajustado en Llamadas.exe.
+- **Captura del 22/08/2026** ("Performance for August", actualizada
+  5:13am ese día): FCR 3 absoluto vs meta de 74% (esta parece ser la
+  meta "oficial" del dashboard de performance, distinta de la meta
+  personalizada de coaching de 78.13% que te dio Armando el 21/08 —
+  probablemente el dashboard de performance aún no se actualiza con tu
+  meta de coaching subida; vale la pena confirmarlo con él si te
+  genera duda). Volumen: 446 contactos de voz (Escalations), 289 de
+  chat.

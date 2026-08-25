@@ -53,13 +53,22 @@ Los checks de este viaje se guardan directamente en el navegador
 dentro de Eventos.exe (localStorage) — dile a Claude cuando avances
 algo para que quede reflejado aquí también.
 
-## 🎬 Cine — viernes 28 de agosto 2026, 9:20 pm
+## 🎬 Cine — CANCELADO (era viernes 28 de agosto 2026, 9:20 pm)
 
 - **Película:** Harry Potter y la Piedra Filosofal — 25 años de magia.
 - **Dónde:** Cinepolis Sentura Tlalnepantla, sala 6, asientos K-10 y K-11.
 - **Boletos:** ya comprados (21/08/2026), $82.00 total (2 boletos + cargo
-  de servicio) — ver [finanzas/gastos.md](../finanzas/gastos.md).
-- Gasto ya contemplado dentro del presupuesto de la quincena.
+  de servicio) — ver [finanzas/gastos.md](../finanzas/gastos.md). Plan
+  cancelado (25/08/2026); pendiente confirmar si hay reembolso o el
+  gasto se queda como está.
+
+## 🏡 Escapada a cabaña con Fanny — viernes 28 a domingo 30 de agosto 2026
+
+Plan real (destino, presupuesto, radiador del carro, pendientes) vive
+en [viaje-cabana.md](viaje-cabana.md) — no se duplica aquí para no
+desincronizarse. Resumen: Airbnb en Jilotzingo, Edomex, ya casi
+confirmado con Fanny; falta reservar la segunda noche y resolver el
+radiador antes del jueves 27.
 
 ## Resto del calendario
 

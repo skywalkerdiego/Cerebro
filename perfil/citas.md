@@ -4,6 +4,14 @@ Lista armada con lo que sabemos de los dos — ver
 [intereses.md](intereses.md) y [novia.md](novia.md). Dime cuáles te
 laten, cuáles ya hicieron, y las voy marcando.
 
+## Próxima salida planeada
+
+- **Domingo 23/08/2026, ~5:30 pm** (sales del trabajo a las 4, hora
+  aproximada según el traslado) — vas a verla saliendo de trabajar,
+  por el McDonald's de Circuito Dramaturgos, en Satélite. Plan
+  actualizado (22/08/2026): hamburguesa y helado en McDonald's, y
+  regresar a casa. Ya está en tu calendario.
+
 ## Para el aniversario (20 de octubre)
 
 - [ ] Cena en un restaurante italiano + zapatos o maquillaje después —
@@ -11,8 +19,9 @@ laten, cuáles ya hicieron, y las voy marcando.
       italiano
 - [ ] Día de spa / masaje para los dos — ella dijo que le relaja que le
       den masaje y cariño, así que es casi un regalo seguro
-- [ ] Escapada corta de fin de semana fuera de la ciudad — aprovechas
-      que te encanta manejar
+- [x] Escapada corta de fin de semana fuera de la ciudad — aprovechas
+      que te encanta manejar. **Ya en plan concreto: 28-30 de agosto
+      2026** — ver [viaje-cabana.md](viaje-cabana.md)
 
 ## Casuales / frecuentes
 
