@@ -47,9 +47,33 @@ apliques a algo, sea comercio exterior o la ruta rápida remota/USD.
 | Fecha | Empresa / vacante | Plataforma | Estatus | Notas |
 |-------|--------------------|-----------|---------|-------|
 | 17/08/2026 | SMJ Consulting (headhunter) — Customer Service Representative, Freight Forwarder ($25-28K MXN, presencial CDMX) | Indeed | **Aplicado** | Match fuerte con el perfil (RI + atención al cliente bilingüe). El requisito de "1 año en customer service o importación marítima" **sí lo cumple** — 2+ años en Boost Mobile es la vía de customer service, no hace falta el sector marítimo específico. CV (con métricas actualizadas) y carta enviados. Precaución: SMJ Consulting sin presencia sólida verificable en LinkedIn — no dar CURP/INE/datos bancarios ni aceptar entrevistas solo por WhatsApp antes de una oferta formal por escrito. |
-| 17/08/2026 | NC Recruitment Agency (headhunter) — Travel Reservation Specialist Agent, Mexico City ($34,000 MXN/mes: $21,700 base + bonos, híbrido, Escandón CDMX) | Indeed | **Aplicado** | Atención al cliente bilingüe / call center — cumple el requisito de 1 año de experiencia con Boost Mobile. Horario: turno fijo entre 7am-8pm. |
+| 17/08/2026 | NC Recruitment Agency (reclutador Jesse Lopez) — mismo proceso, dos vacantes ofrecidas: primero Travel Reservation Specialist Agent ($34,000 MXN/mes: $21,700 base + bonos, híbrido, Escandón CDMX, aplicado por Indeed) y ahora, 23/08, Customer Service Representative para **American Express** (híbrido, 3 días oficina/2 home, oficinas Av. Patriotismo CDMX) | Indeed → WhatsApp | **En proceso — llamada agendada** | Es el mismo reclutador/agencia, no dos aplicaciones separadas. Oferta vigente (AmEx CSR): hasta $27,200 MXN/mes ($18,100 base + $3,300 vales + $2,300 fondo de ahorro + $1,500 bono inglés + hasta $2,000 bono desempeño). Turnos de 8h entre 6am-12am, lunes a domingo con 2 días de descanso. Capacitación: 3 meses pagados, disponibilidad 5am-12am durante ese periodo. Proceso de contratación ~30 días. Prestaciones: seguro de gastos médicos mayores/menores (incluye cónyuge y dependientes <25), reembolso de medicamentos, médico/nutriólogo/psicólogo en sitio, seguro de vida, plan de pensión, 12 días de vacaciones tras el primer año. Ya se envió nombre completo y correo (druizelizondo@gmail.com); llamada propuesta para 24/08/2026 7PM, pendiente de confirmación del reclutador. Misma precaución que con otros headhunters por WhatsApp: no dar CURP/INE/datos bancarios antes de una oferta formal por escrito. |
 
 Estatus sugeridos: Por aplicar → Aplicado → Entrevista → Oferta / Rechazado.
+
+## Preparación de entrevista — NC Recruitment / American Express (agregado 23/08/2026)
+
+Llamada con el reclutador Jesse Lopez propuesta para 24/08/2026 7PM
+(pendiente que él confirme el horario). Checklist antes de la llamada:
+
+- [ ] Confirmar con Jesse el horario final de la llamada
+- [ ] Repasar el puesto: Customer Service Representative para American
+      Express, híbrido (3 oficina / 2 home), turnos de 8h entre
+      6am-12am, capacitación de 3 meses con disponibilidad 5am-12am
+- [ ] Preparar 2-3 anécdotas estilo STAR usando las métricas reales de
+      Boost Mobile (Performance Total 98.9%, FCR 95.9%, ACT 104.2%) —
+      ver [../desempeno/metricas.md](../desempeno/metricas.md)
+- [ ] Preparar respuesta corta de "por qué buscas cambio" (más
+      sueldo/crecimiento, sin quemar puentes con el trabajo actual)
+- [ ] Preguntas para el reclutador: qué parte de los $27,200 MXN es
+      garantizada vs. variable (bonos), fecha estimada de inicio de
+      capacitación, y cómo rotan los turnos entre 6am-12am
+- [ ] Recordatorio: es una llamada con un headhunter, no con RH directo
+      de American Express — no compartir CURP/INE/datos bancarios en
+      esta llamada
+- [ ] Tener a la mano el CV (versión enfocada en soporte/remoto o la
+      genérica actualizada) y anotar la llamada después para actualizar
+      esta tabla
 
 ## Fase 2 (proyecto paralelo, no urgente): idea de automatización
 

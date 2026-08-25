@@ -9,6 +9,10 @@ conjunto de $4,800/mes ni la venta del Chevy — esos ya están
 comprometidos con la mudanza y el próximo coche. Todo lo de aquí sale
 del **Fondo cosillas** (ver abajo) o de dinero suelto de la quincena.
 
+- [ ] Revisar y comprar productos de higiene que se te estén acabando
+      (22/08/2026 — dime cuáles en cuanto los revises y los detallo aquí)
+      — **23/08/2026: no se compraron hoy, se pasa para mañana 24/08**
+      (falta que Diego diga cuáles son exactamente)
 - [ ] Mochila **The North Face Borealis** — para reemplazar la que
       usas ahorita (22/08/2026)
 - [ ] Artículos de TikTok Shop y Temu — pendiente que le digas a
