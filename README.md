@@ -2,7 +2,7 @@
 
 Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
-Última actualización: 2026-08-22 · **125 días para Navidad 2026** — la fecha límite del plan de mudanza.
+Última actualización: 2026-08-26 · **121 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
 `perfil/`, `finanzas/`, `desempeno/` y [logros.md](logros.md) con lo

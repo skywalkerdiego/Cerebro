@@ -68,10 +68,11 @@ de las opciones genéricas de Mineral del Chico / Valle de Bravo.
 
 - El taller/mecánico necesita el carro **antes del jueves 27** para
   que quede listo con tiempo de sobra el viernes 28.
-- Llama al mecánico **hoy o mañana (24-25/08)** para agendar y
-  preguntar costo aproximado de la reparación/cambio de radiador —
-  varía mucho según el modelo del Chevy, pero conviene que lo sepas
-  antes de comprometer el resto del presupuesto del viaje.
+- Llama al mecánico **hoy mismo (26/08)** para agendar y preguntar
+  costo aproximado de la reparación/cambio de radiador — la ventana
+  original (24-25/08) ya pasó sin que quedara marcada como hecha, y el
+  taller necesita el carro antes de mañana jueves 27. Es el pendiente
+  más urgente de todo Cerebro ahora mismo.
 - Trátalo como gasto de mantenimiento del carro, **aparte** de los
   $3,000 del viaje (igual que el fondo del Chevy en
   [../metas/ahorro.md](../metas/ahorro.md) se trata aparte del ahorro
@@ -156,7 +157,8 @@ barata. Se dejan documentadas por si esta reserva no cuaja.
 
 ## 📝 Pendientes
 
-- [ ] Llamar al mecánico y agendar el radiador (hoy/mañana)
+- [ ] Llamar al mecánico y agendar el radiador — **atrasado, urgente
+      (hoy 26/08, antes de mañana jueves 27)**
 - [ ] Confirmar costo del radiador y avisar si aprieta el presupuesto
 - [x] Armar y mandarle a Fanny la propuesta del viaje (24/08) — ver
       [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
@@ -165,7 +167,9 @@ barata. Se dejan documentadas por si esta reserva no cuaja.
 - [ ] Confirmar con el anfitrión disponibilidad y precio de la segunda
       noche (sábado 29)
 - [ ] Confirmar con Fanny y hacer la reservación (no es reembolsable —
-      confirmar fechas completas antes de pagar)
+      confirmar fechas completas antes de pagar) — **recordatorio hoy
+      6:30 pm** para cerrar esto y dejar armada la lista de qué llevar
+      y el presupuesto real
 - [ ] Salir de día (~45-55 min de camino de montaña desde Satélite)
 - [ ] Llevar comida para la parrilla (no hay cocina en el lugar)
 - [ ] Revisar clima del 28-30/08 unos días antes
