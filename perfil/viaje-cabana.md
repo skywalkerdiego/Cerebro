@@ -3,7 +3,12 @@
 Plan para la escapada con Fanny (viernes a domingo, **2 noches** — se
 estiró después de la propuesta inicial de 1 noche) — viene de la idea
 ya anotada en [citas.md](citas.md#al-aire-libre--para-el-aniversario).
-La parte del carro sigue siendo urgente (ver radiador abajo).
+
+**Actualización (27/08):** Diego se va a llevar el **carro de su mamá**
+en vez del Chevy — el radiador deja de ser un bloqueo para el viaje
+(sigue pendiente como mantenimiento del Chevy, pero ya no es urgente
+para salir mañana). También cambió el destino final — ver dirección
+abajo.
 
 **Actualización (25/08):** el cine que originalmente competía con la
 salida del viernes se canceló, así que no hay conflicto de horario —
@@ -25,76 +30,66 @@ cualquier forma.
   — seguimiento privado: estado del radiador, reserva y presupuesto
   real. Se republica cuando algo avance (radiador cotizado, cabaña
   reservada, respuesta de Fanny).
+- [Alerta de Sistema](https://claude.ai/code/artifact/74510b0d-37ac-4714-a1e1-1b5ff6e3c5c1)
+  — checklist disfrazado de alerta urgente para no perdértelo entre
+  las demás apps: qué hacer ahora, qué armar en la mochila esta noche,
+  y qué falta antes de salir mañana. Guárdalo como acceso directo en
+  la pantalla de inicio.
 
 ## 🏡 Alojamiento elegido (Airbnb)
 
 Diego ya encontró la cabaña — se reorienta el plan a este lugar en vez
 de las opciones genéricas de Mineral del Chico / Valle de Bravo.
 
-- **Dirección real (confirmada por Diego):** Doditaj s/n, 54575 Santa
-  Ana Jilotzingo, Méx. — plus code `GH8Q+4M Santa Ana Jilotzingo`.
-  Corrige la corrección anterior (Cardonal, Hidalgo era un error de
-  lectura del mapa) — la zona real es **Jilotzingo, Estado de México**,
-  cerca de Villa del Carbón.
-- **Desde Satélite:** ~45-55 min (vía Naucalpan) — mucho más cerca de
-  lo que se pensó en la corrección anterior. Es camino de montaña, así
-  que sigue siendo buena idea no manejarlo de noche la primera vez.
-- **Anfitrión:** Diego, Superanfitrión (3 años) · cuidador en sitio
-  (Jesús) · llegada autónoma.
-- **Calificación:** 4.69★, 26 reseñas — la gran mayoría 5★. Reseñas
-  destacan que es muy tranquila y buena para desconectar (casi no hay
-  señal de celular), estacionamiento seguro, agua caliente. Algunas
-  quejas puntuales (colchón tipo colchoneta, faltó shampoo una vez) —
-  nada grave para 1 noche.
-- **Capacidad:** 3 huéspedes, 1 habitación, 2 camas, 1 baño.
-- **Amenidades:** fogata/brasero, zona de comida al aire libre,
-  parrilla, estacionamiento gratuito y seguro. **No tiene** wifi, TV,
-  cocina ni aire acondicionado — hay que llevar comida (parrillada es
-  buena opción) y aceptar que va a ser un fin de semana desconectados
-  de verdad.
-- **Pet-friendly:** aceptan mascotas — se podría llevar a Tris si
-  quieren.
-- **Precio (1 noche, cotizado originalmente):** $684 + impuestos ≈
-  **$820 MXN** — mucho más barato que cualquiera de las opciones que
-  se habían comparado antes.
-- **Con 2 noches (viernes 28 a domingo 30):** falta confirmar en
-  Airbnb si hay disponibilidad para la noche extra (sábado 29) y el
-  precio exacto — como referencia, al doble sería ≈$1,640 MXN, pero
-  puede variar. **Pendiente confirmar con el anfitrión antes de
-  reservar.**
-- Link: el que compartió Diego en la conversación (Airbnb).
+- **Dirección real (actualizada 27/08, reemplaza la anterior):**
+  Martín Cachihuapan, 54333, San Martín Cachihuapan, Villa del Carbón,
+  México, México. (La dirección anterior, Doditaj s/n, Santa Ana
+  Jilotzingo, queda descartada — cambiaron de cabaña/destino.)
+- **Desde Satélite:** zona de Villa del Carbón — mismo rumbo general
+  que la opción anterior (Naucalpan → Villa del Carbón), así que el
+  tiempo estimado sigue siendo del orden de 45-60 min, pero **falta
+  confirmar la ruta y el tiempo exactos a esta dirección nueva** antes
+  de salir. Es camino de montaña — mejor no manejarlo de noche la
+  primera vez.
+- **⚠️ Pendiente de confirmar con el nuevo destino:** anfitrión,
+  calificación, capacidad, amenidades y precio de abajo correspondían
+  a la cabaña anterior (Santa Ana Jilotzingo). Con el cambio de
+  dirección a San Martín Cachihuapan, Villa del Carbón, **hay que
+  verificar si es la misma reservación/anfitrión de Airbnb (solo
+  cambió la dirección que tenías anotada) o si de verdad es un lugar
+  distinto** — avísame para actualizar estos datos con la info real.
+- **Precio de referencia (de la cabaña anterior, sin confirmar para
+  ésta):** $684 + impuestos ≈ $820 MXN por noche.
+- **Con 2 noches (viernes 28 a domingo 30):** sigue pendiente
+  confirmar disponibilidad de la 2ª noche (sábado 29) y precio exacto
+  con el anfitrión antes de reservar.
 
-## ⚠️ Lo urgente primero: el radiador
+## 🔧 El radiador (ya no bloquea el viaje, pero sigue pendiente)
 
-- El taller/mecánico necesita el carro **antes del jueves 27** para
-  que quede listo con tiempo de sobra el viernes 28.
-- Llama al mecánico **hoy mismo (26/08)** para agendar y preguntar
-  costo aproximado de la reparación/cambio de radiador — la ventana
-  original (24-25/08) ya pasó sin que quedara marcada como hecha, y el
-  taller necesita el carro antes de mañana jueves 27. Es el pendiente
-  más urgente de todo Cerebro ahora mismo.
-- Trátalo como gasto de mantenimiento del carro, **aparte** de los
-  $3,000 del viaje (igual que el fondo del Chevy en
-  [../metas/ahorro.md](../metas/ahorro.md) se trata aparte del ahorro
-  de la mudanza) — el carro lo necesitas de cualquier forma, no solo
-  para este viaje.
-- Antes de salir, de una vez pide que revisen: nivel de anticongelante,
-  presión de llantas (incluida la de refacción), aceite y frenos —
-  ya que está en el taller, mejor cubrir todo lo básico para un viaje
-  de carretera.
-- Si el costo del radiador resulta alto y aprieta el presupuesto,
-  dime y ajustamos la caba/comida para compensar, o movemos la fecha
-  una semana.
+- **27/08:** Diego decidió llevarse el carro de su mamá para el viaje,
+  así que el radiador del Chevy **ya no es un pendiente urgente para
+  salir mañana**. Sigue siendo mantenimiento real que hay que resolver
+  después — solo se quita la presión de tenerlo listo para el viernes.
+- Cuando se retome: llamar al mecánico, cotizar, y de paso revisar
+  anticongelante, llantas (incluida la de refacción), aceite y frenos.
+  Trátalo aparte del presupuesto de $3,000 del viaje.
 
 ## 🚗 Traslado
 
-- Carro propio (Chevy), una vez resuelto el radiador.
+- **Carro de la mamá de Diego** (no el Chevy) — cambio del 27/08.
+  Pendiente: confirmar con ella el préstamo (fechas, gasolina que le
+  toca reponer) y llevar la tarjeta de circulación **de su carro**, no
+  la del Chevy.
 - **Fanny vive en Satélite** (Naucalpan) — el plan es que Diego salga
   de Neza, pase por ella a Satélite, y de ahí sigan juntos. La ruta y
   los tiempos de abajo están calculados **desde Satélite**, no desde
-  Neza.
-- Salir el viernes en la tarde/al salir del trabajo (checa
-  [rutina.md](rutina.md) para el horario del turno).
+  Neza — y siguen sin confirmar para la dirección nueva (ver arriba).
+- **Horario real de hoy jueves 27 (turno especial, distinto al
+  habitual):** entra a las 12:00 pm, sale a las 10:00 pm.
+- **Salida del viaje — viernes 28:** aún no confirmas la hora de tu
+  turno de mañana viernes; en cuanto la tengas, avísame para calcular
+  a qué hora realista pueden salir de Satélite y si conviene manejar
+  de día.
 
 ## 🏡 A dónde ir — comparado desde Satélite
 
@@ -126,7 +121,7 @@ sobra margen para comer bien o para un detalle extra.
 | Concepto | Estimado |
 |----------|----------|
 | Cabaña (2 noches, con impuestos — por confirmar con el anfitrión) | **~$1,640** (doble del precio real de 1 noche, sin confirmar) |
-| Gasolina + casetas (ida y vuelta, Satélite-Jilotzingo, ~90 km) | $200 - $350 |
+| Gasolina + casetas (ida y vuelta — distancia por confirmar con la dirección nueva) | $200 - $350 |
 | Comida (sin cocina en la cabaña — parrillada + lo que lleven, 2 días) | $900 - $1,200 |
 | Colchón / imprevistos | $200 - $300 |
 | **Total** | **~$2,900 - $3,500** |
@@ -146,34 +141,48 @@ Mineral del Chico y Valle de Bravo (comparación de arriba) quedan
 descartadas ahora que hay una cabaña concreta, más cercana y más
 barata. Se dejan documentadas por si esta reserva no cuaja.
 
-## 🎒 Qué llevar
+## 🎒 Armar la mochila — esta noche (jueves 27, al llegar de trabajar ~10pm+traslado)
 
-- Documentos del carro (tarjeta de circulación, verificación) y
-  licencia — por si hay retén en carretera.
-- Efectivo (varias cabañas y casetas no siempre tienen terminal).
-- Ropa por capas — de noche baja la temperatura en zona de bosque/lago.
-- Bocinita, cartas o algún juego para la noche.
-- Bloqueador, repelente si es zona boscosa.
+Diego sale del turno a las 10pm hoy — mejor dejar la mochila armada
+esta noche que confiar en hacerlo con prisa mañana antes de salir.
+Lista completa (documentos + lo nuevo que mencionaste):
+
+- [ ] Documentos del **carro de mamá** (tarjeta de circulación,
+      verificación) — no los del Chevy — y tu licencia, por si hay
+      retén en carretera.
+- [ ] Efectivo (varias cabañas y casetas no siempre tienen terminal).
+- [ ] Ropa por capas — de noche baja la temperatura en zona de
+      bosque/montaña.
+- [ ] Linterna 🔦
+- [ ] Cobija 🛏️
+- [ ] Toallitas húmedas
+- [ ] Cargador + cable (celular)
+- [ ] Bocinita, cartas o algún juego para la noche.
+- [ ] Bloqueador, repelente — es zona boscosa.
 
 ## 📝 Pendientes
 
-- [ ] Llamar al mecánico y agendar el radiador — **atrasado, urgente
-      (hoy 26/08, antes de mañana jueves 27)**
-- [ ] Confirmar costo del radiador y avisar si aprieta el presupuesto
 - [x] Armar y mandarle a Fanny la propuesta del viaje (24/08) — ver
       [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
-- [x] Encontrar cabaña (Airbnb cerca de Zona Esmeralda/Villa del
-      Carbón, $820/noche, 4.69★)
+- [x] Encontrar cabaña (Airbnb, $820/noche de referencia)
+- [ ] **Confirmar si la dirección nueva (San Martín Cachihuapan, Villa
+      del Carbón) es la misma reservación de antes o un lugar distinto**
+      — actualiza anfitrión/precio/amenidades según corresponda
 - [ ] Confirmar con el anfitrión disponibilidad y precio de la segunda
       noche (sábado 29)
 - [ ] Confirmar con Fanny y hacer la reservación (no es reembolsable —
-      confirmar fechas completas antes de pagar) — **recordatorio hoy
-      6:30 pm** para cerrar esto y dejar armada la lista de qué llevar
-      y el presupuesto real
-- [ ] Salir de día (~45-55 min de camino de montaña desde Satélite)
+      confirmar fechas completas antes de pagar)
+- [ ] Confirmar con mamá el préstamo del carro (fechas, gasolina) y
+      ubicar su tarjeta de circulación
+- [ ] **Esta noche (jueves, al llegar ~10pm+traslado):** armar la
+      mochila completa (ver checklist arriba)
+- [ ] Decirme la hora de tu turno de mañana viernes para calcular la
+      hora real de salida
+- [ ] Confirmar ruta y tiempo de traslado a la dirección nueva antes
+      de salir
 - [ ] Llevar comida para la parrilla (no hay cocina en el lugar)
-- [ ] Revisar clima del 28-30/08 unos días antes
-- [ ] Cargar gasolina y salir con el carro ya revisado
+- [ ] Revisar clima del 28-30/08 antes de salir
+- [ ] Cargar gasolina antes de salir
 
 ## Notas
 
