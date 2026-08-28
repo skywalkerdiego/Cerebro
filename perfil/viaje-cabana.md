@@ -158,20 +158,63 @@ barata. Se dejan documentadas por si esta reserva no cuaja.
 
 Diego sale del turno a las 10pm hoy — mejor dejar la mochila armada
 esta noche que confiar en hacerlo con prisa mañana antes de salir.
-Lista completa (documentos + lo nuevo que mencionaste):
+Lista completa por categoría, incluyendo cosas por si acaso (Vista del
+Bosque no tiene cocina y las reseñas dicen que casi no hay señal):
 
-- [ ] Documentos del **carro de mamá** (tarjeta de circulación,
-      verificación) — no los del Chevy — y tu licencia, por si hay
-      retén en carretera.
-- [ ] Efectivo (varias cabañas y casetas no siempre tienen terminal).
-- [ ] Ropa por capas — de noche baja la temperatura en zona de
+**Documentos y dinero**
+- [ ] Identificación oficial (INE, licencia o pasaporte) — piden esto
+      en el check-in.
+- [ ] Confirmación de la reserva (impresa o en el celular).
+- [ ] Tarjeta de circulación **del carro de mamá** — no la del Chevy.
+- [ ] Efectivo (casetas y tiendas del pueblo no siempre tienen
+      terminal).
+- [ ] La tarjeta con la que se garantizó la reserva, por si el hotel
+      la pide al llegar.
+
+**Ropa**
+- [ ] Ropa por capas — de noche baja mucho la temperatura en zona de
       bosque/montaña.
-- [ ] Linterna 🔦
-- [ ] Cobija 🛏️
-- [ ] Toallitas húmedas
-- [ ] Cargador + cable (celular)
-- [ ] Bocinita, cartas o algún juego para la noche.
-- [ ] Bloqueador, repelente — es zona boscosa.
+- [ ] Pijama/ropa cómoda para dormir.
+- [ ] Calzado cerrado y cómodo para caminar (terreno de montaña).
+- [ ] Chamarra o rompevientos.
+- [ ] Ropa extra por si se moja o ensucia.
+
+**Aseo personal**
+- [ ] Cepillo y pasta de dientes.
+- [ ] Toallitas húmedas.
+- [ ] Toalla de baño — cabañas rurales a veces no la dan.
+- [ ] Jabón/shampoo de viaje.
+- [ ] Desodorante.
+
+**Salud — por si acaso**
+- [ ] Medicinas personales que tomes normalmente.
+- [ ] Botiquín básico: curitas, alcohol/antiséptico, algo para dolor
+      de cabeza/estómago.
+- [ ] Bloqueador solar y repelente de mosquitos — es zona boscosa.
+- [ ] Algo para el mareo si el camino de montaña te afecta.
+
+**Comida y cabaña (no hay cocina)**
+- [ ] Carne/verduras para la parrilla.
+- [ ] Carbón o leña + cerillos/encendedor.
+- [ ] Platos, vasos y cubiertos desechables, servilletas.
+- [ ] Agua embotellada extra — por si el rumbo no tiene tiendas cerca.
+- [ ] Bolsas de basura (para no dejar tiradero y para ropa sucia).
+
+**Tecnología**
+- [ ] Cargador + cable del celular.
+- [ ] Power bank/batería portátil — con poca señal el celular gasta
+      más batería buscándola.
+- [ ] Descargar la ruta en Google Maps offline antes de salir de
+      Neza/Satélite, por si se pierde la señal en el camino.
+- [ ] Bocinita para música.
+
+**Por si acaso / extras**
+- [ ] Linterna 🔦 + pilas de repuesto.
+- [ ] Cobija 🛏️.
+- [ ] Navaja o herramienta multiusos.
+- [ ] Cartas o algún juego para la noche.
+- [ ] Un impermeable ligero o paraguas — el clima de montaña cambia
+      rápido.
 
 ## 📝 Pendientes
 
