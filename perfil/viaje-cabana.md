@@ -12,11 +12,11 @@ abajo.
 
 **Actualización (27/08, tarde):** Diego confirmó que la cabaña de San
 Martín Cachihuapan **es una reservación distinta** a la anterior
-(Santa Ana Jilotzingo) — pendiente de que mande anfitrión, precio y
-link reales para reemplazar los datos viejos abajo. También confirmó:
-mañana viernes sale del turno **a las 4:00 pm**, con su mamá **aún
-sin hablar** sobre el préstamo del carro, y que el gasto del viaje va
-**a mitades con Fanny**.
+(Santa Ana Jilotzingo) y mandó la confirmación real — **ya está
+reservada y pagada por reservar**, ver detalles abajo. También
+confirmó: mañana viernes sale del turno **a las 4:00 pm**, con su
+mamá **aún sin hablar** sobre el préstamo del carro, y que el gasto
+del viaje va **a mitades con Fanny**.
 
 **Actualización (25/08):** el cine que originalmente competía con la
 salida del viernes se canceló, así que no hay conflicto de horario —
@@ -44,33 +44,32 @@ cualquier forma.
   y qué falta antes de salir mañana. Guárdalo como acceso directo en
   la pantalla de inicio.
 
-## 🏡 Alojamiento elegido (Airbnb)
+## 🏡 Alojamiento — reservado ✅ (27/08)
 
-Diego ya encontró la cabaña — se reorienta el plan a este lugar en vez
-de las opciones genéricas de Mineral del Chico / Valle de Bravo.
+**Vista del Bosque** — reservación confirmada por Expedia, hecha por
+Fanny.
 
-- **Dirección real (actualizada 27/08, reemplaza la anterior):**
-  Martín Cachihuapan, 54333, San Martín Cachihuapan, Villa del Carbón,
-  México, México. (La dirección anterior, Doditaj s/n, Santa Ana
-  Jilotzingo, queda descartada — cambiaron de cabaña/destino.)
-- **Desde Satélite:** zona de Villa del Carbón — mismo rumbo general
-  que la opción anterior (Naucalpan → Villa del Carbón), así que el
-  tiempo estimado sigue siendo del orden de 45-60 min, pero **falta
-  confirmar la ruta y el tiempo exactos a esta dirección nueva** antes
-  de salir. Es camino de montaña — mejor no manejarlo de noche la
-  primera vez.
-- **✅ Confirmado (27/08):** es una cabaña **distinta** a la anterior
-  (Santa Ana Jilotzingo) — Diego va a mandar anfitrión, precio y link
-  reales de Airbnb. Hasta que llegue esa info, los datos de abajo
-  (anfitrión, calificación, precio, amenidades) siguen siendo los de
-  la cabaña vieja y **no aplican a esta reservación** — no los tomes
-  como reales todavía.
-- **Precio de referencia (de la cabaña anterior, ya no aplica a
-  ésta):** $684 + impuestos ≈ $820 MXN por noche — pendiente de
-  reemplazar con el precio real.
-- **Con 2 noches (viernes 28 a domingo 30):** sigue pendiente
-  confirmar disponibilidad de la 2ª noche (sábado 29) y precio exacto
-  con el anfitrión antes de reservar.
+- **Dirección:** San Martín Cachihuapan, 54333, San Martín
+  Cachihuapan, Villa del Carbón, México, México. (Coincide con la
+  dirección que ya tenían anotada — era una cabaña distinta a la
+  anterior de Santa Ana Jilotzingo, esa queda descartada.)
+- **Fechas:** check-in viernes 28/08, check-out domingo 30/08 — **2
+  noches, ya confirmadas.**
+- **Habitación:** Estándar 2 camas (tarifa Summer Sale), 2 adultos, 0
+  niños.
+- **Precio:** **$1,805 MXN totales, impuestos incluidos** — **pago en
+  el hotel** (no se cobró por adelantado). **No reembolsable** — ojo,
+  no hay margen para cambiar fechas o cancelar.
+- **A nombre de:** Estefanya (Fanny) Naranjo González — folio de
+  habitación 135-251-1, reserva booking_135-251.
+- **Para el check-in llevar:** identificación oficial (INE/pasaporte/
+  licencia), la confirmación de la reserva (impresa o en el celular)
+  y la tarjeta con la que se garantizó la reserva (probablemente la
+  de Fanny, ya que ella hizo la reserva).
+- **Desde Satélite:** zona de Villa del Carbón, camino de montaña —
+  tiempo estimado del orden de 45-60 min, pero **falta confirmar la
+  ruta y el tiempo exactos** antes de salir. Mejor no manejarlo de
+  noche la primera vez.
 
 ## 🔧 El radiador (ya no bloquea el viaje, pero sigue pendiente)
 
@@ -131,17 +130,18 @@ sobra margen para comer bien o para un detalle extra.
 
 | Concepto | Estimado |
 |----------|----------|
-| Cabaña (2 noches, con impuestos — pendiente precio real de la cabaña nueva) | **~$1,640** (referencia de la cabaña anterior, no confirmado) |
+| Cabaña (2 noches, con impuestos — **confirmado, pago en el hotel**) | **$1,805** |
 | Gasolina + casetas (ida y vuelta — distancia por confirmar con la dirección nueva) | $200 - $350 |
 | Comida (sin cocina en la cabaña — parrillada + lo que lleven, 2 días) | $900 - $1,200 |
 | Colchón / imprevistos | $200 - $300 |
-| **Total (referencia, con datos de la cabaña anterior)** | **~$2,900 - $3,500** |
-| **Mitad de Diego (van a mitades con Fanny, confirmado 27/08)** | **~$1,450 - $1,750** |
+| **Total** | **~$3,105 - $3,655** |
+| **Mitad de Diego (van a mitades con Fanny, confirmado 27/08)** | **~$1,550 - $1,825** |
 
-Con 2 noches el viaje se acerca o rebasa un poco el techo de $3,000 —
-esto baja de presión ahora que Fanny cubre la mitad. Actualizo estos
-números en cuanto tengas el precio real de la cabaña nueva y de la
-segunda noche.
+Con la cabaña confirmada en $1,805 el total sube un poco del techo de
+$3,000, pero al ir a mitades con Fanny la parte de Diego queda en
+~$1,550-1,825 — cómodo. La cabaña se paga en el hotel (no por
+adelantado), así que hay que llevar cómo cubrirla ahí — tarjeta o
+efectivo, ver quién paga qué con Fanny.
 
 No hay cocina, así que la comida se resuelve con la parrilla del lugar
 (llevar carne/verduras para asar) o comprando algo en el camino.
@@ -177,17 +177,17 @@ Lista completa (documentos + lo nuevo que mencionaste):
 
 - [x] Armar y mandarle a Fanny la propuesta del viaje (24/08) — ver
       [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
-- [x] Encontrar cabaña (Airbnb, $820/noche de referencia)
+- [x] Encontrar cabaña — **Vista del Bosque, $1,805 por 2 noches**
 - [x] Confirmar si la dirección nueva es la misma reservación o
       distinta — **es distinta**
-- [ ] **Mandar a Claude los datos reales de la cabaña nueva**
-      (anfitrión, precio/noche, amenidades, link de Airbnb)
-- [ ] Confirmar con el anfitrión disponibilidad y precio de la segunda
-      noche (sábado 29)
-- [ ] Confirmar con Fanny y hacer la reservación (no es reembolsable —
-      confirmar fechas completas antes de pagar)
+- [x] Reserva hecha por Fanny (Expedia, no reembolsable) — **2 noches
+      confirmadas, check-in 28/08, check-out 30/08**
 - [ ] **Urgente — hoy:** hablar con mamá sobre el préstamo del carro
       (fechas, gasolina) y ubicar su tarjeta de circulación
+- [ ] Llevar identificación oficial y la confirmación de la reserva
+      para el check-in (ver detalles arriba)
+- [ ] Definir con Fanny cómo se paga la cabaña en el hotel ($1,805,
+      va a mitades) y quién trae la tarjeta con la que se garantizó
 - [ ] **Esta noche (jueves, al llegar ~10pm+traslado):** armar la
       mochila completa (ver checklist arriba)
 - [x] Decirme la hora de tu turno de mañana viernes — **sale a las
