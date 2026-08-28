@@ -10,6 +10,14 @@ en vez del Chevy — el radiador deja de ser un bloqueo para el viaje
 para salir mañana). También cambió el destino final — ver dirección
 abajo.
 
+**Actualización (27/08, tarde):** Diego confirmó que la cabaña de San
+Martín Cachihuapan **es una reservación distinta** a la anterior
+(Santa Ana Jilotzingo) — pendiente de que mande anfitrión, precio y
+link reales para reemplazar los datos viejos abajo. También confirmó:
+mañana viernes sale del turno **a las 4:00 pm**, con su mamá **aún
+sin hablar** sobre el préstamo del carro, y que el gasto del viaje va
+**a mitades con Fanny**.
+
 **Actualización (25/08):** el cine que originalmente competía con la
 salida del viernes se canceló, así que no hay conflicto de horario —
 pero de cualquier forma decidiste estirar el viaje a 2 noches en vez
@@ -51,15 +59,15 @@ de las opciones genéricas de Mineral del Chico / Valle de Bravo.
   confirmar la ruta y el tiempo exactos a esta dirección nueva** antes
   de salir. Es camino de montaña — mejor no manejarlo de noche la
   primera vez.
-- **⚠️ Pendiente de confirmar con el nuevo destino:** anfitrión,
-  calificación, capacidad, amenidades y precio de abajo correspondían
-  a la cabaña anterior (Santa Ana Jilotzingo). Con el cambio de
-  dirección a San Martín Cachihuapan, Villa del Carbón, **hay que
-  verificar si es la misma reservación/anfitrión de Airbnb (solo
-  cambió la dirección que tenías anotada) o si de verdad es un lugar
-  distinto** — avísame para actualizar estos datos con la info real.
-- **Precio de referencia (de la cabaña anterior, sin confirmar para
-  ésta):** $684 + impuestos ≈ $820 MXN por noche.
+- **✅ Confirmado (27/08):** es una cabaña **distinta** a la anterior
+  (Santa Ana Jilotzingo) — Diego va a mandar anfitrión, precio y link
+  reales de Airbnb. Hasta que llegue esa info, los datos de abajo
+  (anfitrión, calificación, precio, amenidades) siguen siendo los de
+  la cabaña vieja y **no aplican a esta reservación** — no los tomes
+  como reales todavía.
+- **Precio de referencia (de la cabaña anterior, ya no aplica a
+  ésta):** $684 + impuestos ≈ $820 MXN por noche — pendiente de
+  reemplazar con el precio real.
 - **Con 2 noches (viernes 28 a domingo 30):** sigue pendiente
   confirmar disponibilidad de la 2ª noche (sábado 29) y precio exacto
   con el anfitrión antes de reservar.
@@ -77,19 +85,22 @@ de las opciones genéricas de Mineral del Chico / Valle de Bravo.
 ## 🚗 Traslado
 
 - **Carro de la mamá de Diego** (no el Chevy) — cambio del 27/08.
-  Pendiente: confirmar con ella el préstamo (fechas, gasolina que le
-  toca reponer) y llevar la tarjeta de circulación **de su carro**, no
-  la del Chevy.
+  **⚠️ Pendiente urgente (27/08):** Diego todavía no ha hablado con
+  ella sobre el préstamo (fechas, gasolina que le toca reponer) ni ha
+  ubicado la tarjeta de circulación **de su carro** — hay que resolver
+  esto hoy mismo, es lo único que puede bloquear la salida de mañana.
 - **Fanny vive en Satélite** (Naucalpan) — el plan es que Diego salga
   de Neza, pase por ella a Satélite, y de ahí sigan juntos. La ruta y
   los tiempos de abajo están calculados **desde Satélite**, no desde
   Neza — y siguen sin confirmar para la dirección nueva (ver arriba).
 - **Horario real de hoy jueves 27 (turno especial, distinto al
   habitual):** entra a las 12:00 pm, sale a las 10:00 pm.
-- **Salida del viaje — viernes 28:** aún no confirmas la hora de tu
-  turno de mañana viernes; en cuanto la tengas, avísame para calcular
-  a qué hora realista pueden salir de Satélite y si conviene manejar
-  de día.
+- **✅ Salida del viaje — viernes 28 (confirmado 27/08):** Diego sale
+  del turno **a las 4:00 pm**. Saliendo de ahí hacia Satélite por
+  Fanny y luego a la cabaña, la salida real hacia la carretera
+  probablemente sea a media tarde/tarde-noche — sigue pendiente
+  confirmar el tiempo exacto de traslado a la dirección nueva (ver
+  arriba) para calcular la hora de llegada.
 
 ## 🏡 A dónde ir — comparado desde Satélite
 
@@ -120,15 +131,17 @@ sobra margen para comer bien o para un detalle extra.
 
 | Concepto | Estimado |
 |----------|----------|
-| Cabaña (2 noches, con impuestos — por confirmar con el anfitrión) | **~$1,640** (doble del precio real de 1 noche, sin confirmar) |
+| Cabaña (2 noches, con impuestos — pendiente precio real de la cabaña nueva) | **~$1,640** (referencia de la cabaña anterior, no confirmado) |
 | Gasolina + casetas (ida y vuelta — distancia por confirmar con la dirección nueva) | $200 - $350 |
 | Comida (sin cocina en la cabaña — parrillada + lo que lleven, 2 días) | $900 - $1,200 |
 | Colchón / imprevistos | $200 - $300 |
-| **Total** | **~$2,900 - $3,500** |
+| **Total (referencia, con datos de la cabaña anterior)** | **~$2,900 - $3,500** |
+| **Mitad de Diego (van a mitades con Fanny, confirmado 27/08)** | **~$1,450 - $1,750** |
 
 Con 2 noches el viaje se acerca o rebasa un poco el techo de $3,000 —
-avísame si quieres que ajustemos algo (comida más sencilla, etc.) en
-cuanto tengas el precio real de la segunda noche.
+esto baja de presión ahora que Fanny cubre la mitad. Actualizo estos
+números en cuanto tengas el precio real de la cabaña nueva y de la
+segunda noche.
 
 No hay cocina, así que la comida se resuelve con la parrilla del lugar
 (llevar carne/verduras para asar) o comprando algo en el camino.
@@ -165,19 +178,20 @@ Lista completa (documentos + lo nuevo que mencionaste):
 - [x] Armar y mandarle a Fanny la propuesta del viaje (24/08) — ver
       [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
 - [x] Encontrar cabaña (Airbnb, $820/noche de referencia)
-- [ ] **Confirmar si la dirección nueva (San Martín Cachihuapan, Villa
-      del Carbón) es la misma reservación de antes o un lugar distinto**
-      — actualiza anfitrión/precio/amenidades según corresponda
+- [x] Confirmar si la dirección nueva es la misma reservación o
+      distinta — **es distinta**
+- [ ] **Mandar a Claude los datos reales de la cabaña nueva**
+      (anfitrión, precio/noche, amenidades, link de Airbnb)
 - [ ] Confirmar con el anfitrión disponibilidad y precio de la segunda
       noche (sábado 29)
 - [ ] Confirmar con Fanny y hacer la reservación (no es reembolsable —
       confirmar fechas completas antes de pagar)
-- [ ] Confirmar con mamá el préstamo del carro (fechas, gasolina) y
-      ubicar su tarjeta de circulación
+- [ ] **Urgente — hoy:** hablar con mamá sobre el préstamo del carro
+      (fechas, gasolina) y ubicar su tarjeta de circulación
 - [ ] **Esta noche (jueves, al llegar ~10pm+traslado):** armar la
       mochila completa (ver checklist arriba)
-- [ ] Decirme la hora de tu turno de mañana viernes para calcular la
-      hora real de salida
+- [x] Decirme la hora de tu turno de mañana viernes — **sale a las
+      4:00 pm**
 - [ ] Confirmar ruta y tiempo de traslado a la dirección nueva antes
       de salir
 - [ ] Llevar comida para la parrilla (no hay cocina en el lugar)
