@@ -42,6 +42,7 @@ y un ahorro conjunto en marcha.
 | [perfil/rutina.md](perfil/rutina.md) | Plantilla de rutina personal según tu horario rotativo de trabajo |
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar, con Fondo cosillas aparte del ahorro de la mudanza |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias relevantes (bajo pedido) |
+| [perfil/eventos-cercanos.md](perfil/eventos-cercanos.md) | Descubrimiento de eventos/conciertos/museos cerca de Neza-CDMX (bajo pedido) |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
 | [perfil/regalos-familia.md](perfil/regalos-familia.md) | Ideas de regalos para papás y hermana |
 | [perfil/relaciones.md](perfil/relaciones.md) | Mapa simple de tu red de relaciones |
@@ -81,6 +82,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 19 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes y foco de la noche. Se republica sola cada 5am.
+- 🗺️ [Descubre.exe](https://claude.ai/code/artifact/776e9c82-74b6-4efc-9698-866474be9271) — noticias de tus temas fijos (tipo de cambio, economía, comercio exterior, internacional) y eventos/conciertos/museos cerca de Neza-CDMX que aún no están en tu radar. Pide "qué hay cerca" o "dame las noticias" para una pasada nueva.
 - 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes: cine, conciertos, cumpleaños y aniversario, con los días marcados.
 - 🧭 [Aspect.exe](https://claude.ai/code/artifact/9f1cc5e9-30b4-46d9-b540-6f2a3a3f938c) — tu día en bloques: turno, traslado, breaks, rutina de higiene y lo que vale la pena hoy.
 - ✍️ [Artículos.exe](https://claude.ai/code/artifact/25b45539-b542-44ea-9085-a19aeb4edca8) — checklist de investigación por caso, fuentes, prompt de redacción y banco de ideas para los siguientes artículos.
