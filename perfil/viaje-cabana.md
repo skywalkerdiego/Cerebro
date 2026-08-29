@@ -1,9 +1,28 @@
-# 🏕️ Escapada de fin de semana a cabaña — 28-30 agosto 2026
+# 🏕️ Escapada de fin de semana a cabaña — 28-30 agosto 2026 (CANCELADA)
 
-Plan para la escapada con Fanny (viernes a domingo, **2 noches** — se
-estiró después de la propuesta inicial de 1 noche) — viene de la idea
-ya anotada en [citas.md](citas.md#al-aire-libre--para-el-aniversario).
-La parte del carro sigue siendo urgente (ver radiador abajo).
+## ❌ Actualización (29/08): viaje cancelado
+
+El viaje se cancela definitivamente — **no fue por el Chevy ni el
+radiador**, sino porque el carro de la mamá de Diego (un Aveo, aparte
+del Chevy) falló. No se llegó a pagar el Airbnb (no reembolsable), así
+que no hubo pérdida de dinero.
+
+Dos cosas separadas para mañana (30/08):
+- El **Chevy** va con el mecánico para la revisión que ya estaba
+  planeada (radiador, llantas, aceite, frenos — ver abajo). Sigue en
+  pie independientemente del viaje.
+- El **Aveo de mamá** va aparte, a un taller eléctrico, por la falla
+  que canceló el viaje.
+
+Queda pendiente decidir con Fanny si se reagenda la escapada más
+adelante (no hay fecha nueva todavía).
+
+---
+
+Plan original (se conserva como referencia) para la escapada con
+Fanny (viernes a domingo, **2 noches** — se estiró después de la
+propuesta inicial de 1 noche) — venía de la idea ya anotada en
+[citas.md](citas.md#al-aire-libre--para-el-aniversario).
 
 **Actualización (25/08):** el cine que originalmente competía con la
 salida del viernes se canceló, así que no hay conflicto de horario —
@@ -156,20 +175,17 @@ barata. Se dejan documentadas por si esta reserva no cuaja.
 
 ## 📝 Pendientes
 
-- [ ] Llamar al mecánico y agendar el radiador (hoy/mañana)
-- [ ] Confirmar costo del radiador y avisar si aprieta el presupuesto
 - [x] Armar y mandarle a Fanny la propuesta del viaje (24/08) — ver
       [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6)
 - [x] Encontrar cabaña (Airbnb cerca de Zona Esmeralda/Villa del
       Carbón, $820/noche, 4.69★)
-- [ ] Confirmar con el anfitrión disponibilidad y precio de la segunda
-      noche (sábado 29)
-- [ ] Confirmar con Fanny y hacer la reservación (no es reembolsable —
-      confirmar fechas completas antes de pagar)
-- [ ] Salir de día (~45-55 min de camino de montaña desde Satélite)
-- [ ] Llevar comida para la parrilla (no hay cocina en el lugar)
-- [ ] Revisar clima del 28-30/08 unos días antes
-- [ ] Cargar gasolina y salir con el carro ya revisado
+- [x] Viaje cancelado (29/08) — falló el Aveo de mamá, no el Chevy.
+      Airbnb nunca se pagó, sin pérdida de dinero.
+- [ ] Mañana (30/08): Chevy con el mecánico (radiador, llantas,
+      aceite, frenos — revisión ya planeada, sigue en pie)
+- [ ] Mañana (30/08): Aveo de mamá al taller eléctrico (falla que
+      canceló el viaje)
+- [ ] Decidir con Fanny si se reagenda la escapada y para cuándo
 
 ## Notas
 
