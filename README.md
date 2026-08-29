@@ -79,7 +79,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 
 ## Enlaces rápidos
 
-- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 19 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
+- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 25 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes y foco de la noche. Se republica sola cada 5am.
 - 🗺️ [Descubre.exe](https://claude.ai/code/artifact/776e9c82-74b6-4efc-9698-866474be9271) — noticias de tus temas fijos (tipo de cambio, economía, comercio exterior, internacional) y eventos/conciertos/museos cerca de Neza-CDMX que aún no están en tu radar. Pide "qué hay cerca" o "dame las noticias" para una pasada nueva.

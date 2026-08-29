@@ -19,9 +19,11 @@ laten, cuáles ya hicieron, y las voy marcando.
       italiano
 - [ ] Día de spa / masaje para los dos — ella dijo que le relaja que le
       den masaje y cariño, así que es casi un regalo seguro
-- [x] Escapada corta de fin de semana fuera de la ciudad — aprovechas
-      que te encanta manejar. **Ya en plan concreto: 28-30 de agosto
-      2026** — ver [viaje-cabana.md](viaje-cabana.md)
+- [ ] Escapada corta de fin de semana fuera de la ciudad — aprovechas
+      que te encanta manejar. **Se intentó del 28-30 de agosto 2026,
+      pero se canceló** (falló el Aveo de mamá, sin pérdida de dinero)
+      — sigue como idea pendiente de reagendar, ver
+      [viaje-cabana.md](viaje-cabana.md)
 
 ## Casuales / frecuentes
 
