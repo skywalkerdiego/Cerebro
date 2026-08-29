@@ -2,7 +2,7 @@
 
 Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
-Última actualización: 2026-08-22 · **125 días para Navidad 2026** — la fecha límite del plan de mudanza.
+Última actualización: 2026-08-26 · **121 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
 `perfil/`, `finanzas/`, `desempeno/` y [logros.md](logros.md) con lo
@@ -49,7 +49,7 @@ y un ahorro conjunto en marcha.
 | [perfil/edc.md](perfil/edc.md) | EDC diario y grooming kit — aligerar la mochila |
 | [perfil/cuarto.md](perfil/cuarto.md) | Plan para organizar el cuarto |
 | [perfil/servicios.md](perfil/servicios.md) | Internet/streaming (Totalplay) y telefonía (AT&T vs. alternativas) — comparativas para bajar el gasto fijo |
-| [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Escapada a cabaña con Fanny (28-30 ago 2026) — **cancelada** (falló el Aveo de mamá). Tablero: [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) |
+| [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Escapada a cabaña con Fanny (28-30 ago 2026) — **cancelada** (falló el Aveo de mamá, sin pérdida de dinero). Tableros: [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) y [Alerta de Sistema](https://claude.ai/code/artifact/74510b0d-37ac-4714-a1e1-1b5ff6e3c5c1) |
 | [perfil/carros.md](perfil/carros.md) | Bitácora de mantenimiento del Chevy y el Aveo de mamá — tablero: [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) |
 
 ## 💵 Finanzas
@@ -99,6 +99,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, calcada de `perfil/compras.md`.
 - 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
 - 🧭 [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) — qué pasó con la escapada cancelada del 28-30 ago (falló el Aveo de mamá, sin pérdida de dinero).
+- 🚨 [Alerta de Sistema](https://claude.ai/code/artifact/74510b0d-37ac-4714-a1e1-1b5ff6e3c5c1) — era el checklist de preparación del viaje disfrazado de alerta urgente; ahora avisa que se canceló.
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 - 🌳 [Árbol.exe](https://claude.ai/code/artifact/d0c4a5cf-e170-4c8b-a29e-df6f7f8ca699) — árbol genealógico visual: pareja, familia y amigos de un vistazo. Se actualiza a mano cuando cuentes algo nuevo.
 - 🚗 [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) — garage estilo videojuego: stats del Chevy y del Aveo de mamá (motor, frenos, llantas) y bitácora de mantenimiento, con el carro girando.
