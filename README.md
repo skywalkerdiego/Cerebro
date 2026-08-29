@@ -48,7 +48,8 @@ y un ahorro conjunto en marcha.
 | [perfil/edc.md](perfil/edc.md) | EDC diario y grooming kit — aligerar la mochila |
 | [perfil/cuarto.md](perfil/cuarto.md) | Plan para organizar el cuarto |
 | [perfil/servicios.md](perfil/servicios.md) | Internet/streaming (Totalplay) y telefonía (AT&T vs. alternativas) — comparativas para bajar el gasto fijo |
-| [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Plan de la escapada de fin de semana a cabaña con Fanny (28-30 ago 2026) — tableros: [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) (propuesta para Fanny) y [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) (seguimiento privado) |
+| [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Escapada a cabaña con Fanny (28-30 ago 2026) — **cancelada** (falló el Aveo de mamá). Tablero: [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) |
+| [perfil/carros.md](perfil/carros.md) | Bitácora de mantenimiento del Chevy y el Aveo de mamá — tablero: [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) |
 
 ## 💵 Finanzas
 
@@ -93,13 +94,12 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
 - 🌳 [Habilidades.exe](https://claude.ai/code/artifact/3a0ddef9-d6a7-493d-a512-387301f153fa) — árbol de habilidades: tus metas, vínculo con Fanny, finanzas y desempeño como sendas de nodos completados, disponibles y bloqueados. Se regenera cuando avances algo.
 - 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — tablero semanal: un foco distinto cada noche según tu horario real de turnos y traslado, con Duolingo y Fanny como anclas diarias. Se remapea cuando cambie tu horario.
-- 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, para no competir con ese dinero.
+- 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, calcada de `perfil/compras.md`.
 - 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
-- 🏕️ [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) — la propuesta de la escapada a Mineral del Chico (28-30 ago 2026) lista para mandarle a Fanny: opciones, itinerario y presupuesto.
-- 🧭 [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) — seguimiento privado de esa misma escapada: radiador, reserva y presupuesto real. Se republica cuando algo avance.
+- 🧭 [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) — qué pasó con la escapada cancelada del 28-30 ago (falló el Aveo de mamá, sin pérdida de dinero).
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 - 🌳 [Árbol.exe](https://claude.ai/code/artifact/d0c4a5cf-e170-4c8b-a29e-df6f7f8ca699) — árbol genealógico visual: pareja, familia y amigos de un vistazo. Se actualiza a mano cuando cuentes algo nuevo.
-- 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — lista visual de pendientes de compra, calcada de `perfil/compras.md`.
+- 🚗 [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) — garage estilo videojuego: stats del Chevy y del Aveo de mamá (motor, frenos, llantas) y bitácora de mantenimiento, con el carro girando.
 - ✅ [Pendientes.exe](https://claude.ai/code/artifact/63d7f21a-ee1d-4176-9147-d6d5739e70b8) — checklist en vivo de lo más urgente ahora mismo, junto de `metas/`, `perfil/` y `eventos.md`. Se regenera a mano después de una sesión larga.
 
 ## Cómo usar esto
