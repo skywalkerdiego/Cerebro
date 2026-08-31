@@ -111,7 +111,6 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes y foco de la noche. Se republica sola cada 5am.
 - 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes: cine, conciertos, cumpleaños y aniversario, con los días marcados.
-- 🧭 [Aspect.exe](https://claude.ai/code/artifact/9f1cc5e9-30b4-46d9-b540-6f2a3a3f938c) — tu día en bloques: turno, traslado, breaks, rutina de higiene y lo que vale la pena hoy.
 - ✍️ [Artículos.exe](https://claude.ai/code/artifact/25b45539-b542-44ea-9085-a19aeb4edca8) — checklist de investigación por caso, fuentes, prompt de redacción y banco de ideas para los siguientes artículos.
 - 📞 [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5) — flujo de llamada (cuenta suspendida, escalación, crédito) con la frase exacta del playbook en cada paso, priorizado por tus categorías más débiles del IS Evaluation.
 - 🎓 [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) — estado del trámite, documentos y pasos pendientes.
@@ -122,7 +121,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 💵 [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e) — tablero para registrar ingresos y gastos, con resumen del mes y desglose por categoría. Guarda datos en tu navegador; exporta seguido para respaldar.
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
 - 🌳 [Habilidades.exe](https://claude.ai/code/artifact/3a0ddef9-d6a7-493d-a512-387301f153fa) — árbol de habilidades: tus metas, vínculo con Fanny, finanzas y desempeño como sendas de nodos completados, disponibles y bloqueados. Se regenera cuando avances algo.
-- 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — tablero semanal: un foco distinto cada noche según tu horario real de turnos y traslado, con Duolingo y Fanny como anclas diarias. Se remapea cuando cambie tu horario.
+- 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — las 3 reglas del sistema, el horario Kronos de la semana con breaks reales, y el checklist diario/semanal (Aspect.exe se fusionó aquí el 31/08/2026). Se remapea cuando cambie tu horario.
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, para no competir con ese dinero.
 - 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
 - 🏕️ [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) — la propuesta de la escapada a Mineral del Chico (28-30 ago 2026) lista para mandarle a Fanny: opciones, itinerario y presupuesto.
@@ -131,6 +130,24 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🌳 [Árbol.exe](https://claude.ai/code/artifact/d0c4a5cf-e170-4c8b-a29e-df6f7f8ca699) — árbol genealógico visual: pareja, familia y amigos de un vistazo. Se actualiza a mano cuando cuentes algo nuevo.
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — lista visual de pendientes de compra, calcada de `perfil/compras.md`.
 - ✅ [Pendientes.exe](https://claude.ai/code/artifact/63d7f21a-ee1d-4176-9147-d6d5739e70b8) — checklist en vivo de lo más urgente ahora mismo, junto de `metas/`, `perfil/` y `eventos.md`. Se regenera a mano después de una sesión larga.
+
+## 🧹 Consolidación de tableros (en curso, 31/08/2026)
+
+Diego pidió reducir el ruido: 25 tableros era demasiado, con datos que se
+desincronizaban entre sí. Primera tanda ya hecha:
+
+- **Aspect.exe → fusionado en Rutina.exe.** Su checklist diario/semanal
+  vive ahora ahí; la línea de tiempo del día la cubre el panel "Ahora"
+  de Cerebro.exe.
+
+**Pendiente, mismo criterio (misma data, distinto empaque = fusionar):**
+
+| Fusionar | En | Por qué |
+|----------|-----|---------|
+| Tiempo.exe | Rutina.exe | Presupuesto semanal de horas — ya lo cubre la sección "Cuánto tiempo real tienes" |
+| Habilidades.exe | Yo.exe | Mismo dato (metas/logros) en dos visualizaciones — árbol de nodos vs. stats |
+| Eventos.exe | Calendario.exe | Ambos son "qué viene" — timeline vs. mes en grid |
+| Descubre.exe | — | Se vuelve el hub dedicado de noticias/política (ver abajo), en vez de competir con la sección de Periódico.exe |
 
 ## 🤖 Automatizaciones (Routines)
 
