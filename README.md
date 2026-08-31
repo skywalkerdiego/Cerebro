@@ -2,23 +2,52 @@
 
 Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
-Última actualización: 2026-08-22 · **125 días para Navidad 2026** — la fecha límite del plan de mudanza.
+Última actualización: 2026-08-31 · **115 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
 `perfil/`, `finanzas/`, `desempeno/` y [logros.md](logros.md) con lo
 que avance.
 
-## Proyecto: Diciembre 2026
+## 🚦 Cómo está organizado (reajuste del 31/08/2026)
 
-Meta general: cerrar el año con la titulación resuelta, un mejor trabajo,
-y un ahorro conjunto en marcha.
+Todo se ordena en tres horizontes. La regla que los mantiene sanos:
+**nada de mediano o largo plazo puede tocar el dinero ni las horas del
+corto plazo.** Detalle completo en [metas/patrimonio.md](metas/patrimonio.md).
+
+| Horizonte | Cuándo | Qué vive aquí |
+|-----------|--------|----------------|
+| 🔴 **Corto** | Ago – Dic 2026 | Titulación · Desempeño en Boost · Italiano · Ahorro de mudanza · Chevy funcionando |
+| 🟡 **Mediano** | 2027 | Cambio de coche · Cambio de trabajo con mejor sueldo · Fondo de emergencia |
+| 🟢 **Largo** | 2028+ | Propiedad con Fanny · maestría / academia |
+
+**Máximo 3 pistas activas a la vez.** Hoy son: 🎓 Titulación, 📊
+Desempeño, 🗣️ Italiano. Todo lo demás está en standby explícito — no
+cancelado, dormido. Las 3 reglas completas están en
+[perfil/rutina.md](perfil/rutina.md).
+
+## 🔴 Corto plazo — Proyecto Diciembre 2026
+
+Meta general: cerrar el año con la titulación resuelta, el ahorro
+conjunto en marcha y el desempeño de vuelta arriba de meta.
 
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
-| 1 | 🎓 Titulación | Alta | ATI y solicitud llenados; pago aplazado al 05/09/2026 (día de pago; FES Aragón sigue en vacaciones administrativas) | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
-| 2 | 💼 Cambio de trabajo (comercio exterior / aduanas) | Alta | Por arrancar | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
-| 3 | 💰 Ahorro de Diego y Fanny | Alta | En marcha: $2,400 depositados de $47,000 (5.1%), meta de $12,000/mes en MercadoPago, Chevy como fondo aparte | [metas/ahorro.md](metas/ahorro.md) |
-| 4 | 🗣️📚 Idioma y cultura general | Media | Italiano con Duolingo, meta conversacional simple — falta arrancar | [metas/aprendizaje.md](metas/aprendizaje.md) |
+| 1 | 🎓 Titulación | 🔥 Activa | ATI y solicitud listos; plan partido: firmar/escanear esta semana, pagar por SPEI el sáb 05/09, subir el dom 06/09 | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
+| 2 | 📊 Desempeño en Boost | 🔥 Activa | Performance Total bajó a 97.53% (venía de 108.8%); FCR es el driver — plan en Llamadas.exe | [desempeno/metricas.md](desempeno/metricas.md) · [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) |
+| 3 | 🗣️ Italiano | 🔥 Activa | Arranca 01/09/2026 — 1 lección diaria en el Break 1 | [metas/aprendizaje.md](metas/aprendizaje.md) |
+| 4 | 💰 Ahorro de Diego y Fanny | ⚙️ Automática | $2,400 de $47,000 (5.1%); meta $12,000/mes en MercadoPago | [metas/ahorro.md](metas/ahorro.md) |
+| 5 | 🚗 Chevy funcionando | ⚠️ Atención | Radiador ✅ listo; **ventilador falla — no dejar que caliente**. Cotizar vie 04/09 | [metas/patrimonio.md](metas/patrimonio.md) |
+| 6 | 💼 Cambio de trabajo | ⏸️ Standby | Modo mantenimiento: 1-2 vacantes en la comida, sin bloques largos | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
+| 7 | ✍️ Artículos · 🎓 Maestría · 📚 Lectura | ⏸️ Standby | Se retoman cuando la titulación esté entregada | [metas/trabajo.md](metas/trabajo.md) |
+
+## 🟡🟢 Mediano y largo plazo — Patrimonio
+
+| Meta | Horizonte | Estado |
+|------|-----------|--------|
+| 🚗 Cambiar el Chevy (coche o moto) | 2027 | Pospuesto a después de la mudanza — ver [metas/patrimonio.md](metas/patrimonio.md) |
+| 🚕 Trabajar un coche en Uber | ⏸️ Descartado por ahora | El Chevy no califica por año-modelo, y no hay horas libres reales |
+| 💳 Préstamo Fonacot / ISSEMyM | ⏸️ No por ahora | Un crédito de nómina estorba si cambias de trabajo — ver el análisis |
+| 🏠 **Propiedad con Fanny** | 2028+ | 🟢 **Arranca ya, y es gratis:** revisar puntos INFONAVIT (tú) e ISSEMyM (ella) |
 
 ## 📋 Trámites
 
@@ -26,6 +55,7 @@ y un ahorro conjunto en marcha.
 |---------|-----------|
 | [metas/titulacion.md](metas/titulacion.md) | Trámite de titulación (FES Aragón) — también listado como meta prioritaria arriba |
 | [metas/tramites.md](metas/tramites.md) | Trámites y gestiones puntuales (ej. licencia de conducir permanente CDMX) |
+| [metas/patrimonio.md](metas/patrimonio.md) | Coche (Chevy), préstamos (Fonacot/ISSEMyM), Uber y la meta de propiedad con Fanny — con el marco de corto/mediano/largo plazo |
 
 ## 👤 Perfil
 
@@ -113,7 +143,13 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 
 ## Próximas 2 semanas (lo más inmediato)
 
-- [ ] Sacar y pagar la ficha nueva de titulación ($620.00) — objetivo: 05/09/2026, día de pago
-- [ ] Armar el comprobante de pago e imprimir/firmar/escanear ATI y solicitud
-- [ ] Subir los 3 documentos corregidos al sistema de seguimiento
+Ordenado por el día en que toca, según tu horario real de esta semana
+(ver [perfil/rutina.md](perfil/rutina.md)):
+
+- [ ] **Lun 31/08 + Mar 01/09 (noches)** — Imprimir, firmar con tinta negra y escanear el ATI y el formato de solicitud (no dependen del pago, adelantarlos deja un solo bloqueo)
+- [ ] **Mar 01/09 (Break 1)** — Arrancar Duolingo italiano, 1 lección
+- [ ] **Vie 04/09 (tarde)** — Cotizar el arreglo del ventilador del Chevy
+- [ ] **Sáb 05/09 (día de pago)** — Generar la ficha nueva en SIGEREL y pagar los $620 **por SPEI** (funciona en sábado; concepto exacto: "Pago de título")
+- [ ] **Dom 06/09 (noche)** — Armar el PDF del comprobante (ficha + CEP, sin empalmar) y subir los 3 documentos al sistema de seguimiento
+- [ ] **Cuando caiga (~30 min, gratis)** — Revisar tus puntos en Mi Cuenta INFONAVIT, y que Fanny revise su antigüedad en ISSEMyM
 - [x] Platicar con tu novia el monto/mecánica de la cuenta conjunta de ahorro — plan listo para revisar juntos
