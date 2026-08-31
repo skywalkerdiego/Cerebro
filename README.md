@@ -132,6 +132,29 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — lista visual de pendientes de compra, calcada de `perfil/compras.md`.
 - ✅ [Pendientes.exe](https://claude.ai/code/artifact/63d7f21a-ee1d-4176-9147-d6d5739e70b8) — checklist en vivo de lo más urgente ahora mismo, junto de `metas/`, `perfil/` y `eventos.md`. Se regenera a mano después de una sesión larga.
 
+## 🤖 Automatizaciones (Routines)
+
+Cinco avisos automáticos al día, ajustados a tus breaks reales. Los tres
+briefs republican [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614);
+los dos pings de break son solo un empujón, no republican nada.
+
+| Hora | Qué es | Qué hace |
+|------|--------|----------|
+| **5:05 am** | Arranque | Clima en vivo, tu turno y breaks de hoy, lo urgente, foco de la noche |
+| **8:10 am** | 💧 Break 1 | Agua + la lección de italiano. Dos líneas, nada más |
+| **1:50 pm** | 🌿 Break 2 | Respiro: agua, estirar, cero pantalla de trabajo |
+| **6:05 pm** | Llegada a casa | Cómo estuvo el día y el foco de la noche |
+| **8:10 pm** | Cierre | Logros del día, racha de Duolingo, vistazo a mañana |
+
+Los dos pings de break **se saltan solos los días off** (leen
+`perfil/rutina.md` antes de escribir). Además hay una auditoría semanal
+de tableros los lunes y un recordatorio mensual del aporte al ahorro.
+
+**Periódico.exe tiene tres secciones obligatorias** que cada brief debe
+rellenar con búsqueda en vivo, marcadas con `data-slot` en el HTML:
+📰 Noticias · 💼 Vacantes · 🎪 Qué hay cerca. Si alguna aparece con texto
+de placeholder, es señal de que ese brief no corrió.
+
 ## Cómo usar esto
 
 - Cuando tengas algo en la cabeza (una idea, un pendiente, una preocupación),
