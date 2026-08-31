@@ -40,10 +40,30 @@ El sistema no da el motivo específico del rechazo. Usa el checklist de abajo
 
 - [x] Llenar el ATI (versión "Expediente DGAE") con los datos personales
 - [x] Llenar el formato de solicitud y elección de título (Licenciado en Relaciones Internacionales, cuenta 318117676, cartulina imitación pergamino)
-- [ ] Hacer el pago de la ficha ($620.00). La ficha original vencía el 29/08/2026, pero **decidiste esperar y sacar una ficha nueva** en vez de forzar el pago con esa — no se pierde el trámite, solo se regenera la referencia de pago. Motivos: sin flujo hasta el próximo pago, y FES Aragón sigue en vacaciones administrativas, así que tampoco hay prisa por el lado del trámite mismo. **Fecha objetivo (confirmada 21/08): sacar y pagar la ficha nueva el 05/09/2026**, día de tu próximo pago quincenal. Cuando la saques, actualiza aquí el convenio/referencia/CLABE reales de esa ficha.
-- [ ] Armar el comprobante de pago (ficha + recibo/CEP en un solo PDF)
-- [ ] Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud
-- [ ] Subir los 3 documentos corregidos al sistema de seguimiento
+- [ ] **Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud.** ⬅️ **Hazlo PRIMERO** (noches del lun 31/08 y mar 01/09). Estos dos **no dependen del pago** — adelantarlos deja un solo bloqueo real en el trámite.
+- [ ] Hacer el pago de la ficha ($620.00). La ficha original vencía el 29/08/2026, pero **decidiste esperar y sacar una ficha nueva** en vez de forzar el pago con esa — no se pierde el trámite, solo se regenera la referencia de pago. **Fecha objetivo: sábado 05/09/2026**, día de tu pago quincenal. Cuando la saques, actualiza aquí el convenio/referencia/CLABE reales de esa ficha.
+- [ ] Armar el comprobante de pago (ficha + recibo/CEP en un solo PDF) — noche del dom 06/09
+- [ ] Subir los 3 documentos corregidos al sistema de seguimiento — noche del dom 06/09
+
+### ⏰ Ojo: el 05/09 cae en sábado y trabajas 6am-4pm
+
+El plan decía "pagar el día de pago", pero ese día no hay banco ni
+oficinas de FES Aragón abiertas, y tú estás en turno. **La solución es
+pagar por transferencia SPEI**, que funciona 24/7 incluido el sábado:
+
+1. Entra a [SIGEREL](https://sigerel.dgae.unam.mx/alumnos/login) desde
+   el celular (en el Break 2 o en la noche) y **genera la ficha nueva**.
+2. Haz la transferencia SPEI a la CLABE de la ficha. **El concepto debe
+   decir exactamente "Pago de título"** — si dice otra cosa, el
+   comprobante se rechaza.
+3. Descarga el **CEP de BANXICO** de esa transferencia (es el
+   comprobante oficial que pide el trámite; solo los pagos hechos en
+   ventanilla BBVA Bancomer se salvan de este paso).
+4. Al día siguiente (dom 06/09) armas el PDF: ficha en una hoja, CEP en
+   otra, **sin empalmarlos**.
+
+Con esto la titulación queda entregada el domingo 06/09 sin necesitar
+un solo día hábil de oficina.
 - [ ] Confirmar que fueron aceptados / dar seguimiento a la respuesta
 - [ ] Una vez los 4 documentos estén "Aceptado", avanzar con la entrega física de la documentación (ver checklist de la carpeta física abajo)
 

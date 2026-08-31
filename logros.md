@@ -32,6 +32,12 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 22/08/2026 | Unificaste las ramas sueltas del repo a main, le diste a Cerebro.exe una segunda pasada cyberpunk (paneles angulares, glitch más agresivo, franja de peligro) y agregaste un medidor de agua en vivo al HUD principal | Sistema |
 | 22/08/2026 | Le diste a Cerebro.exe un panel de Recordatorios en vivo (lo más próximo con hora, del calendario/Aspect) en el lugar de la tarjeta "Empieza aquí", y colapsaste todas las categorías por default para que la página principal no abrume | Sistema |
 | 22/08/2026 | Encontraste y corregiste un bug real: el "Horario" del HUD tenía pegado un itinerario del 20/08 ya vencido y por eso siempre decía "Libre" — ahora se calcula en vivo con JavaScript (hoy + mañana) y no se puede volver a quedar viejo. De paso corregiste el contador de Tableros (21→22) y le agregaste más RGB/espacio eficiente a todo Cerebro.exe | Sistema |
+| 31/08/2026 | Reajuste completo del sistema tras notar la caída de productividad: 3 reglas nuevas (máximo 3 pistas activas, lo urgente desplaza sin apilarse, una noche libre/semana), horario Kronos remapeado con breaks reales, y `metas/patrimonio.md` nuevo con el marco corto/mediano/largo plazo (Chevy, préstamos, propiedad con Fanny) | Sistema |
+| 31/08/2026 | Rediseño completo de Cerebro.exe para iPhone (una sola pantalla, panel "Ahora" en vivo, 3 pistas activas, horizontes, buscador) y de Periódico.exe (secciones de noticias/vacantes/eventos, breaks del día) | Sistema |
+| 31/08/2026 | Fusionaste Aspect.exe en Rutina.exe (checklist diario/semanal) y reescribiste el sonido falso de Cerebro.exe por un generador de ruido marrón con glitches sincronizados | Sistema |
+| 31/08/2026 | Fusionaste Eventos.exe en Calendario.exe — grilla mensual y línea de tiempo completa (Vaivén, Corona Capital, aniversario, Navidad) en un solo tablero | Sistema |
+| 31/08/2026 | Armaste el sistema de noticias con etiquetas de perspectiva (izquierda/alternativa incl. RT, generalista, oposición, experto) y convertiste Descubre.exe en el hub dedicado de noticias/política con links "seguir leyendo →" | Sistema |
+| 31/08/2026 | Arrancaste el plan de italiano: definiste Duolingo + 1 lección diaria en el Break 1 como única métrica (la racha), con podcast de refuerzo en el traslado más adelante | Aprendizaje |
 
 ## Notas
 

@@ -3,9 +3,38 @@
 **Objetivo:** Salir del trabajo actual hacia uno mejor pagado, idealmente
 relacionado con Relaciones Internacionales, con foco en comercio exterior
 y aduanas.
-**Estado:** 2 vacantes aplicadas (SMJ Consulting, NC Recruitment Agency) — esperando respuesta, mientras sigue la búsqueda de más puertas de entrada.
+**Estado:** ⏸️ **Modo mantenimiento** desde el 31/08/2026 — 2 vacantes aplicadas (SMJ Consulting, NC Recruitment Agency), sin búsqueda activa por ahora.
 
 Tablero: [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136)
+
+## ⏸️ Modo mantenimiento (decisión del 31/08/2026)
+
+Diego decidió **bajar la prioridad** de esta meta para liberar espacio a
+titulación y desempeño (ver las 3 reglas en
+[../perfil/rutina.md](../perfil/rutina.md)). No se cancela — se pone en
+un ritmo mínimo sostenible.
+
+**Qué significa en la práctica:**
+
+| Sí | No |
+|----|-----|
+| Revisar **1-2 vacantes en la hora de comida**, un par de veces por semana | Bloques largos de búsqueda en los días off |
+| Contestar a reclutadores que ya escribieron | Salir a buscar reclutadores nuevos |
+| Aplicar si aparece algo **claramente mejor** (sueldo, remoto, o menos traslado) | Aplicar a todo lo que suene decente |
+| Mantener LinkedIn con #OpenToWork prendido | Rehacer perfiles y CVs otra vez |
+
+**El criterio para romper el modo mantenimiento:** que una vacante
+cumpla al menos dos de estas tres — (1) sube el sueldo de forma clara,
+(2) es remota o recorta el traslado de 2h40, (3) el **salario
+registrado ante el IMSS** es bueno, no solo el paquete con bonos y
+vales. Ese último punto ya no es un detalle: los puntos INFONAVIT para
+la meta de propiedad dependen del salario cotizado — ver
+[patrimonio.md](patrimonio.md).
+
+**Bonus inesperado de este modo:** la continuidad laboral suma puntos
+INFONAVIT. Quedarte en Boost unos meses más mientras se cierra la
+titulación y arranca el ahorro **no es tiempo perdido** para la meta de
+la casa — es exactamente lo que esa meta necesita.
 
 **Actualización 15/08/2026 — prioridad real:** estás cansado del trabajo
 actual y lo urgente es **más dinero y/o remoto**, no necesariamente
