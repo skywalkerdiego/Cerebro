@@ -110,7 +110,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 19 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes y foco de la noche. Se republica sola cada 5am.
-- 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes: cine, conciertos, cumpleaños y aniversario, con los días marcados.
+- 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes con la línea de tiempo completa de cada evento (cine, conciertos, cumpleaños, aniversario), incluido el plan de Nescafé Vaivén (Eventos.exe se fusionó aquí el 31/08/2026).
 - ✍️ [Artículos.exe](https://claude.ai/code/artifact/25b45539-b542-44ea-9085-a19aeb4edca8) — checklist de investigación por caso, fuentes, prompt de redacción y banco de ideas para los siguientes artículos.
 - 📞 [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5) — flujo de llamada (cuenta suspendida, escalación, crédito) con la frase exacta del playbook en cada paso, priorizado por tus categorías más débiles del IS Evaluation.
 - 🎓 [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) — estado del trámite, documentos y pasos pendientes.
@@ -139,6 +139,10 @@ desincronizaban entre sí. Primera tanda ya hecha:
 - **Aspect.exe → fusionado en Rutina.exe.** Su checklist diario/semanal
   vive ahora ahí; la línea de tiempo del día la cubre el panel "Ahora"
   de Cerebro.exe.
+- **Eventos.exe → fusionado en Calendario.exe.** La grilla mensual y la
+  línea de tiempo completa (Satélite, Corona Capital, Vaivén con su plan
+  de hospedaje/presupuesto/checklist, cumpleaños, aniversario, Navidad)
+  ahora viven juntas en un solo tablero.
 
 **Pendiente, mismo criterio (misma data, distinto empaque = fusionar):**
 
@@ -146,7 +150,6 @@ desincronizaban entre sí. Primera tanda ya hecha:
 |----------|-----|---------|
 | Tiempo.exe | Rutina.exe | Presupuesto semanal de horas — ya lo cubre la sección "Cuánto tiempo real tienes" |
 | Habilidades.exe | Yo.exe | Mismo dato (metas/logros) en dos visualizaciones — árbol de nodos vs. stats |
-| Eventos.exe | Calendario.exe | Ambos son "qué viene" — timeline vs. mes en grid |
 | Descubre.exe | — | Se vuelve el hub dedicado de noticias/política (ver abajo), en vez de competir con la sección de Periódico.exe |
 
 ## 🤖 Automatizaciones (Routines)
