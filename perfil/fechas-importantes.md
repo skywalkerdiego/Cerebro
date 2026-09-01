@@ -13,22 +13,22 @@
 ## Personales
 
 - **20 de octubre** — Aniversario como pareja. Cumplen **2 años** en
-  2026. Faltan ~66 días (al 15/08/2026). Ver
+  2026. Faltan ~55 días (al 26/08/2026). Ver
   [novia.md](novia.md) / [regalos-novia.md](regalos-novia.md).
 - **20 de enero** — Cumpleaños de Fanny. Próximo: 20/01/2027, faltan
-  ~158 días (al 15/08/2026).
-- **1 de diciembre** — Tu cumpleaños (naciste en 2002). Faltan ~108 días
-  (al 15/08/2026).
-- **20 de septiembre** — Cumpleaños de tu mamá. Faltan ~36 días
-  (al 15/08/2026).
-- **21 de septiembre** — Cumpleaños de tu papá. Faltan ~37 días
-  (al 15/08/2026).
+  ~147 días (al 26/08/2026).
+- **1 de diciembre** — Tu cumpleaños (naciste en 2002). Faltan ~97 días
+  (al 26/08/2026).
+- **20 de septiembre** — Cumpleaños de tu mamá. Faltan ~25 días
+  (al 26/08/2026).
+- **21 de septiembre** — Cumpleaños de tu papá. Faltan ~26 días
+  (al 26/08/2026).
 - **4 de octubre** — Cumpleaños de tu hermana (nació en 2004). Faltan
-  ~50 días (al 15/08/2026).
+  ~39 días (al 26/08/2026).
 - **19 de junio** — Cumpleaños de las hermanas gemelas de Fanny.
-  Próximo: 19/06/2027, faltan ~308 días (al 15/08/2026).
+  Próximo: 19/06/2027, faltan ~297 días (al 26/08/2026).
 
-*(Los conteos de días se calcularon el 15/08/2026 — pídeme que los
+*(Los conteos de días se calcularon el 26/08/2026 — pídeme que los
 recalcule si ha pasado tiempo.)*
 
 ## Notas

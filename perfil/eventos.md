@@ -62,13 +62,13 @@ algo para que quede reflejado aquí también.
   cancelado (25/08/2026); pendiente confirmar si hay reembolso o el
   gasto se queda como está.
 
-## 🏡 Escapada a cabaña con Fanny — viernes 28 a domingo 30 de agosto 2026
+## 🏡 Escapada a cabaña con Fanny — CANCELADA (era viernes 28 a domingo 30 de agosto 2026)
 
-Plan real (destino, presupuesto, radiador del carro, pendientes) vive
-en [viaje-cabana.md](viaje-cabana.md) — no se duplica aquí para no
-desincronizarse. Resumen: Airbnb en Jilotzingo, Edomex, ya casi
-confirmado con Fanny; falta reservar la segunda noche y resolver el
-radiador antes del jueves 27.
+Plan completo y qué pasó vive en [viaje-cabana.md](viaje-cabana.md) —
+no se duplica aquí para no desincronizarse. Resumen: se canceló el
+29/08 porque falló el Aveo de mamá (el carro que iban a usar); la
+cabaña reservada (Vista del Bosque, Villa del Carbón) se pagaba en el
+hotel, así que no hubo pérdida de dinero.
 
 ## Resto del calendario
 

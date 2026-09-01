@@ -192,6 +192,22 @@ salga cada uno y lo paso a Movimientos.
 | Domingo 23/08: turno + desvío a Satélite (transporte público) + hamburguesa y helado con Fanny + regreso | Transporte + Salidas/citas | ~$280-390 estimado (~$31-41 transporte: metro + combi El Rosario-Satélite ida y vuelta + Metrobús L6 — su mamá lo recoge en la parada, sin combi final — + ~$250-350 hamburguesa y helado en McDonald's, actualizado 22/08) | Estimado — falta confirmar montos reales ese día. Ruta completa en [../perfil/rutina.md](../perfil/rutina.md#domingo-2308-ruta-a-satélite-y-de-regreso) |
 | Chicles, body mist y cable USB-C, en puestos camino al metro (hoy) | Compras | ~$90-190 estimado | Estimado de puesto/tianguis, ver [../perfil/compras.md](../perfil/compras.md#dónde-comprar-barato) |
 
+## 🚗 Carros (29/08/2026)
+
+Ver [carros.md](../perfil/carros.md) para el detalle completo (Chevy y
+Aveo de mamá) y [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7)
+para el tablero.
+
+| Concepto | Monto | Estatus |
+|---|---|---|
+| Radiador del Chevy — refacción | Por confirmar monto | ✅ Pagada |
+| Radiador del Chevy — mano de obra | Por confirmar monto | 🔶 Pendiente de pago |
+| Aveo de mamá — diagnóstico eléctrico (30/08) | Por cotizar | 🔶 Programado |
+
+Dime los montos reales en cuanto los tengas (el de la refacción que ya
+pagaste, y el de la mano de obra cuando lo confirmes) y los paso a
+Movimientos / Compromisos pendientes de la quincena que corresponda.
+
 ## Movido a la próxima quincena (05/09 en adelante)
 
 | Concepto | Categoría | Monto | Nota |

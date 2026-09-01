@@ -2,7 +2,7 @@
 
 Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
-Última actualización: 2026-08-31 · **115 días para Navidad 2026** — la fecha límite del plan de mudanza.
+Última actualización: 2026-09-01 · **114 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
 `perfil/`, `finanzas/`, `desempeno/` y [logros.md](logros.md) con lo
@@ -75,13 +75,15 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | [perfil/rutina.md](perfil/rutina.md) | Plantilla de rutina personal según tu horario rotativo de trabajo |
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar, con Fondo cosillas aparte del ahorro de la mudanza |
 | [perfil/noticias.md](perfil/noticias.md) | Noticias y política con etiqueta de perspectiva (izquierda/alt, generalista, oposición, experto) — se refresca en cada trigger, vía Descubre.exe |
+| [perfil/eventos-cercanos.md](perfil/eventos-cercanos.md) | Descubrimiento de eventos/conciertos/museos cerca de Neza-CDMX (bajo pedido), vía Descubre.exe |
 | [perfil/citas.md](perfil/citas.md) | Ideas de citas con Fanny |
 | [perfil/regalos-familia.md](perfil/regalos-familia.md) | Ideas de regalos para papás y hermana |
 | [perfil/relaciones.md](perfil/relaciones.md) | Mapa simple de tu red de relaciones |
 | [perfil/edc.md](perfil/edc.md) | EDC diario y grooming kit — aligerar la mochila |
 | [perfil/cuarto.md](perfil/cuarto.md) | Plan para organizar el cuarto |
 | [perfil/servicios.md](perfil/servicios.md) | Internet/streaming (Totalplay) y telefonía (AT&T vs. alternativas) — comparativas para bajar el gasto fijo |
-| [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Plan de la escapada de fin de semana a cabaña con Fanny (28-30 ago 2026) — tableros: [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) (propuesta para Fanny) y [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) (seguimiento privado) |
+| [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Escapada a cabaña con Fanny (28-30 ago 2026) — **cancelada** (falló el Aveo de mamá, sin pérdida de dinero). Tableros: [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) y [Alerta de Sistema](https://claude.ai/code/artifact/74510b0d-37ac-4714-a1e1-1b5ff6e3c5c1) |
+| [perfil/carros.md](perfil/carros.md) | Bitácora de mantenimiento del Chevy y el Aveo de mamá — tablero: [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) |
 
 ## 💵 Finanzas
 
@@ -110,10 +112,10 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 
 ## Enlaces rápidos
 
-- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 19 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
+- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 25 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes, noticias con perspectiva y foco de la noche. Se republica sola cada 5am.
-- 🗺️ [Descubre.exe](https://claude.ai/code/artifact/776e9c82-74b6-4efc-9698-866474be9271) — hub de noticias y política, con cada fuente etiquetada según de dónde habla (izquierda/alternativa incl. RT, generalista, oposición, experto) y links "seguir leyendo →"; también eventos cerca que aún no están agendados.
+- 🗺️ [Descubre.exe](https://claude.ai/code/artifact/776e9c82-74b6-4efc-9698-866474be9271) — hub de noticias y política, con cada fuente etiquetada según de dónde habla (izquierda/alternativa incl. RT, generalista, oposición, experto) y links "seguir leyendo →"; también eventos/conciertos/museos cerca de Neza-CDMX que aún no están en tu radar.
 - 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes con la línea de tiempo completa de cada evento (cine, conciertos, cumpleaños, aniversario), incluido el plan de Nescafé Vaivén (Eventos.exe se fusionó aquí el 31/08/2026).
 - ✍️ [Artículos.exe](https://claude.ai/code/artifact/25b45539-b542-44ea-9085-a19aeb4edca8) — checklist de investigación por caso, fuentes, prompt de redacción y banco de ideas para los siguientes artículos.
 - 📞 [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5) — flujo de llamada (cuenta suspendida, escalación, crédito) con la frase exacta del playbook en cada paso, priorizado por tus categorías más débiles del IS Evaluation.
@@ -127,11 +129,11 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — las 3 reglas del sistema, el horario Kronos de la semana con breaks reales, y el checklist diario/semanal (Aspect.exe se fusionó aquí el 31/08/2026). Se remapea cuando cambie tu horario.
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, para no competir con ese dinero.
 - 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
-- 🏕️ [Escapada al Bosque](https://claude.ai/code/artifact/f5bfdce6-6a8b-4637-aecc-4c357758cfa6) — la propuesta de la escapada a Mineral del Chico (28-30 ago 2026) lista para mandarle a Fanny: opciones, itinerario y presupuesto.
-- 🧭 [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) — seguimiento privado de esa misma escapada: radiador, reserva y presupuesto real. Se republica cuando algo avance.
+- 🧭 [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) — qué pasó con la escapada cancelada del 28-30 ago (falló el Aveo de mamá, sin pérdida de dinero).
+- 🚨 [Alerta de Sistema](https://claude.ai/code/artifact/74510b0d-37ac-4714-a1e1-1b5ff6e3c5c1) — era el checklist de preparación del viaje disfrazado de alerta urgente; ahora avisa que se canceló.
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 - 🌳 [Árbol.exe](https://claude.ai/code/artifact/d0c4a5cf-e170-4c8b-a29e-df6f7f8ca699) — árbol genealógico visual: pareja, familia y amigos de un vistazo. Se actualiza a mano cuando cuentes algo nuevo.
-- 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — lista visual de pendientes de compra, calcada de `perfil/compras.md`.
+- 🚗 [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) — garage estilo videojuego: stats del Chevy y del Aveo de mamá (motor, frenos, llantas) y bitácora de mantenimiento, con el carro girando.
 - ✅ [Pendientes.exe](https://claude.ai/code/artifact/63d7f21a-ee1d-4176-9147-d6d5739e70b8) — checklist en vivo de lo más urgente ahora mismo, junto de `metas/`, `perfil/` y `eventos.md`. Se regenera a mano después de una sesión larga.
 
 ## 🧹 Consolidación de tableros (en curso, 31/08/2026)
