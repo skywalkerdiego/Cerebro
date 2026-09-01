@@ -63,8 +63,8 @@ de salir.
 | Día | Turno | Break 1 | 🍽️ Comida | Break 2 | Llegas | Foco de la noche |
 |-----|-------|---------|-----------|---------|--------|-------------------|
 | **Lun 31/08** | 7am - 5pm | ~9:00 am | **12:45 pm** | ~3:00 pm | ~6:20 pm | 🎓 Titulación — imprimir ATI + solicitud |
-| **Mar 01/09** | 6am - 4pm | ~8:00 am | **10:30 am** ⚠️ | ~1:45 pm | ~5:20 pm | 🎓 Firmar en tinta negra + escanear los 2 documentos |
-| **Mié 02/09** | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 🌙 **Noche libre** (colchón de la semana) |
+| **Mar 01/09** | 6am - 4pm | ~8:00 am | **10:30 am** ⚠️ | ~1:45 pm | sales a las 5pm | 🎮 Sales con un amigo — comer, videojuegos, checar vacantes, bañarte y dormir |
+| **Mié 02/09** | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 🎓 Firmar en tinta negra + escanear los 2 documentos (se corrió del martes) |
 | **Jue 03/09 (Off)** | — | — | — | — | — | 💜 Fanny — te quedas en su casa |
 | **Vie 04/09 (Off)** | — | — | — | — | — | 💜 Fanny · 🚗 tarde: cotizar el ventilador del Chevy |
 | **Sáb 05/09** | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 💰 **Día de pago** — sacar ficha y pagar por SPEI (ver abajo) |
@@ -75,6 +75,14 @@ de entrar. Eso te deja **5.5 horas seguidas** de 10:30 am a 4:00 pm con
 un solo break. Lleva snack para el Break 2 de ese día, no es opcional —
 es justo el tipo de día donde el FCR se cae por cansancio, no por
 técnica.
+
+**Cambio del martes 01/09:** sales del trabajo a las 5pm (no 4pm) para
+irte con un amigo — comer, videojuegos, checar vacantes, bañarte y
+dormir, sin foco de titulación esta noche. El firmar + escanear del ATI
+y la solicitud se corre al miércoles en la noche, que pasa a ser el día
+de foco y deja de ser la noche libre de la semana (Regla 2: lo urgente
+desplaza, no se apila — aquí el desplazado es el foco planeado, no algo
+urgente nuevo, pero la mecánica es la misma).
 
 **Todos los días, sin excepción:** 🗣️ Duolingo (en el Break 1) y 💜
 tiempo con Fanny. Estas dos no compiten con el foco de la noche.

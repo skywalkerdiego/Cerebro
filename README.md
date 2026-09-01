@@ -214,8 +214,8 @@ de placeholder, es señal de que ese brief no corrió.
 Ordenado por el día en que toca, según tu horario real de esta semana
 (ver [perfil/rutina.md](perfil/rutina.md)):
 
-- [ ] **Lun 31/08 + Mar 01/09 (noches)** — Imprimir, firmar con tinta negra y escanear el ATI y el formato de solicitud (no dependen del pago, adelantarlos deja un solo bloqueo)
 - [ ] **Mar 01/09 (Break 1)** — Arrancar Duolingo italiano, 1 lección
+- [ ] **Mié 02/09 (noche)** — Imprimir, firmar con tinta negra y escanear el ATI y el formato de solicitud (se corrió del martes por la noche — sales a las 5pm con un amigo; no depende del pago, adelantarlo deja un solo bloqueo)
 - [ ] **Vie 04/09 (tarde)** — Cotizar el arreglo del ventilador del Chevy
 - [ ] **Sáb 05/09 (día de pago)** — Generar la ficha nueva en SIGEREL y pagar los $620 **por SPEI** (funciona en sábado; concepto exacto: "Pago de título")
 - [ ] **Dom 06/09 (noche)** — Armar el PDF del comprobante (ficha + CEP, sin empalmar) y subir los 3 documentos al sistema de seguimiento
