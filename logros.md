@@ -38,6 +38,7 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 31/08/2026 | Fusionaste Eventos.exe en Calendario.exe — grilla mensual y línea de tiempo completa (Vaivén, Corona Capital, aniversario, Navidad) en un solo tablero | Sistema |
 | 31/08/2026 | Armaste el sistema de noticias con etiquetas de perspectiva (izquierda/alternativa incl. RT, generalista, oposición, experto) y convertiste Descubre.exe en el hub dedicado de noticias/política con links "seguir leyendo →" | Sistema |
 | 31/08/2026 | Arrancaste el plan de italiano: definiste Duolingo + 1 lección diaria en el Break 1 como única métrica (la racha), con podcast de refuerzo en el traslado más adelante | Aprendizaje |
+| 01/09/2026 | Auditoría de tableros: la fusión de Aspect.exe del 31/08 había dejado solo un checklist genérico y perdido la línea de tiempo del día — la repusiste de verdad en Rutina.exe ("Hoy, en bloques", con casillas reales) y de paso fusionaste ahí Tiempo.exe (presupuesto de horas como barra por día) y retiraste Pendientes.exe, que se desactualizaba solo; Cerebro.exe quedó con menos tiles y sin URLs huérfanas | Sistema |
 
 ## Notas
 

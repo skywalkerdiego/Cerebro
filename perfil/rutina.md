@@ -6,12 +6,12 @@ tiempo libre real después de un turno es más corto de lo que parece.
 Por eso esto no es un horario fijo hora por hora, es una plantilla de
 anclas que puedes reaplicar cada vez que te llega el horario nuevo.
 Ver también [../desempeno/README.md](../desempeno/README.md) para las
-métricas del trabajo, [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433)
-para la versión visual de la semana, y
-[Aspect.exe](https://claude.ai/code/artifact/9f1cc5e9-30b4-46d9-b540-6f2a3a3f938c)
-para el día de hoy en bloques.
+métricas del trabajo y [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433)
+para la versión visual: la semana con su presupuesto de horas, el día de
+hoy en bloques accionables y el checklist de pendientes vivos — Aspect.exe
+y Tiempo.exe se fusionaron ahí el 01/09/2026 (ver [tiempo.md](tiempo.md)).
 
-Última actualización: 31/08/2026 (horario nuevo Kronos + reglas de foco).
+Última actualización: 01/09/2026 (fusión de Aspect.exe y Tiempo.exe en Rutina.exe).
 
 ## 🚦 Las 3 reglas del sistema (lo que cambió el 31/08/2026)
 
