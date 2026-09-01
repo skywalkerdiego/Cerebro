@@ -58,7 +58,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 |---------|-----------|
 | [metas/titulacion.md](metas/titulacion.md) | Trámite de titulación (FES Aragón) — también listado como meta prioritaria arriba |
 | [metas/tramites.md](metas/tramites.md) | Trámites y gestiones puntuales (ej. licencia de conducir permanente CDMX) |
-| [metas/patrimonio.md](metas/patrimonio.md) | Coche (Chevy), préstamos (Fonacot/ISSEMyM), Uber y la meta de propiedad con Fanny — con el marco de corto/mediano/largo plazo |
+| [metas/patrimonio.md](metas/patrimonio.md) | Coche (Chevy), préstamos (Fonacot/ISSEMyM), Uber y la meta de propiedad con Fanny — con el marco de corto/mediano/largo plazo. También como tablero: [Acta Patrimonial](https://claude.ai/code/artifact/4f25e5f2-4321-4051-bbec-044c67464a3e) |
 
 ## 👤 Perfil
 
@@ -123,6 +123,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 💼 [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) — rutas de búsqueda, ajustes de CV/LinkedIn y vacantes aplicadas.
 - 🧮 [Simulador interactivo del plan de ahorro](https://claude.ai/code/artifact/d66ad007-842c-4377-ac69-c9fdc8267002) — mueve los aportes de cada quien y la venta del Chevy para ver cómo cambia la fecha en que estarían listos.
 - 🎮 [Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tu hoja de personaje: nivel, XP y trofeos reales de `logros.md`, barras de las 3 pistas activas, y atributos de vida (patrimonio, relación, salud, familia). Habilidades.exe se fusionó aquí el 31/08/2026. Se regenera cuando avances algo.
+- 📜 [Acta Patrimonial](https://claude.ai/code/artifact/4f25e5f2-4321-4051-bbec-044c67464a3e) — el horizonte largo como registro/acta: mudanza → boda → casa → familia, el fondo único que va creciendo, y el checklist de mantenimiento del hogar. Estilo distinto a propósito (papel/sello, no cyberpunk) — primer tablero de una posible nueva línea visual.
 - 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
 - 💵 [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e) — tablero para registrar ingresos y gastos, con resumen del mes y desglose por categoría. Guarda datos en tu navegador; exporta seguido para respaldar.
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
