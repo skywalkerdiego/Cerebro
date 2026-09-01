@@ -139,3 +139,9 @@ reflejará en el mes que corresponda una vez que empiece septiembre.
   ahorro mensual — se guarda aparte como fondo de emergencia/próxima meta.
 - La tabla de seguimiento se actualiza cada vez que reporten cuánto
   lograron ahorrar ese mes.
+- **Decisión 01/09/2026:** al llegar a los $47,000 este fondo **no se
+  cierra** — sigue creciendo como un solo fondo patrimonial que se
+  reparte a la siguiente meta en turno (boda 2027, luego casa 2028+),
+  en vez de abrir/cerrar un fondo distinto por cada meta. Detalle del
+  horizonte completo en [patrimonio.md](patrimonio.md). Monto objetivo
+  de la boda: pendiente de definir con Fanny, no urgente todavía.

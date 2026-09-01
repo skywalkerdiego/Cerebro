@@ -3,9 +3,38 @@
 **Objetivo:** Salir del trabajo actual hacia uno mejor pagado, idealmente
 relacionado con Relaciones Internacionales, con foco en comercio exterior
 y aduanas.
-**Estado:** 2 vacantes aplicadas (SMJ Consulting, NC Recruitment Agency) — esperando respuesta, mientras sigue la búsqueda de más puertas de entrada.
+**Estado:** ⏸️ **Modo mantenimiento** desde el 31/08/2026 — 2 vacantes aplicadas (SMJ Consulting, NC Recruitment Agency), sin búsqueda activa por ahora.
 
 Tablero: [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136)
+
+## ⏸️ Modo mantenimiento (decisión del 31/08/2026)
+
+Diego decidió **bajar la prioridad** de esta meta para liberar espacio a
+titulación y desempeño (ver las 3 reglas en
+[../perfil/rutina.md](../perfil/rutina.md)). No se cancela — se pone en
+un ritmo mínimo sostenible.
+
+**Qué significa en la práctica:**
+
+| Sí | No |
+|----|-----|
+| Revisar **1-2 vacantes en la hora de comida**, un par de veces por semana | Bloques largos de búsqueda en los días off |
+| Contestar a reclutadores que ya escribieron | Salir a buscar reclutadores nuevos |
+| Aplicar si aparece algo **claramente mejor** (sueldo, remoto, o menos traslado) | Aplicar a todo lo que suene decente |
+| Mantener LinkedIn con #OpenToWork prendido | Rehacer perfiles y CVs otra vez |
+
+**El criterio para romper el modo mantenimiento:** que una vacante
+cumpla al menos dos de estas tres — (1) sube el sueldo de forma clara,
+(2) es remota o recorta el traslado de 2h40, (3) el **salario
+registrado ante el IMSS** es bueno, no solo el paquete con bonos y
+vales. Ese último punto ya no es un detalle: los puntos INFONAVIT para
+la meta de propiedad dependen del salario cotizado — ver
+[patrimonio.md](patrimonio.md).
+
+**Bonus inesperado de este modo:** la continuidad laboral suma puntos
+INFONAVIT. Quedarte en Boost unos meses más mientras se cierra la
+titulación y arranca el ahorro **no es tiempo perdido** para la meta de
+la casa — es exactamente lo que esa meta necesita.
 
 **Actualización 15/08/2026 — prioridad real:** estás cansado del trabajo
 actual y lo urgente es **más dinero y/o remoto**, no necesariamente
@@ -47,33 +76,9 @@ apliques a algo, sea comercio exterior o la ruta rápida remota/USD.
 | Fecha | Empresa / vacante | Plataforma | Estatus | Notas |
 |-------|--------------------|-----------|---------|-------|
 | 17/08/2026 | SMJ Consulting (headhunter) — Customer Service Representative, Freight Forwarder ($25-28K MXN, presencial CDMX) | Indeed | **Aplicado** | Match fuerte con el perfil (RI + atención al cliente bilingüe). El requisito de "1 año en customer service o importación marítima" **sí lo cumple** — 2+ años en Boost Mobile es la vía de customer service, no hace falta el sector marítimo específico. CV (con métricas actualizadas) y carta enviados. Precaución: SMJ Consulting sin presencia sólida verificable en LinkedIn — no dar CURP/INE/datos bancarios ni aceptar entrevistas solo por WhatsApp antes de una oferta formal por escrito. |
-| 17/08/2026 | NC Recruitment Agency (reclutador Jesse Lopez) — mismo proceso, dos vacantes ofrecidas: primero Travel Reservation Specialist Agent ($34,000 MXN/mes: $21,700 base + bonos, híbrido, Escandón CDMX, aplicado por Indeed) y ahora, 23/08, Customer Service Representative para **American Express** (híbrido, 3 días oficina/2 home, oficinas Av. Patriotismo CDMX) | Indeed → WhatsApp | **En proceso — llamada agendada** | Es el mismo reclutador/agencia, no dos aplicaciones separadas. Oferta vigente (AmEx CSR): hasta $27,200 MXN/mes ($18,100 base + $3,300 vales + $2,300 fondo de ahorro + $1,500 bono inglés + hasta $2,000 bono desempeño). Turnos de 8h entre 6am-12am, lunes a domingo con 2 días de descanso. Capacitación: 3 meses pagados, disponibilidad 5am-12am durante ese periodo. Proceso de contratación ~30 días. Prestaciones: seguro de gastos médicos mayores/menores (incluye cónyuge y dependientes <25), reembolso de medicamentos, médico/nutriólogo/psicólogo en sitio, seguro de vida, plan de pensión, 12 días de vacaciones tras el primer año. Ya se envió nombre completo y correo (druizelizondo@gmail.com); llamada propuesta para 24/08/2026 7PM, pendiente de confirmación del reclutador. Misma precaución que con otros headhunters por WhatsApp: no dar CURP/INE/datos bancarios antes de una oferta formal por escrito. |
+| 17/08/2026 | NC Recruitment Agency (reclutador Jesse Lopez) — mismo proceso, dos vacantes ofrecidas: primero Travel Reservation Specialist Agent ($34,000 MXN/mes: $21,700 base + bonos, híbrido, Escandón CDMX, aplicado por Indeed) y ahora, 23/08, Customer Service Representative para **American Express** (híbrido, 3 días oficina/2 home, oficinas Av. Patriotismo CDMX) | Indeed → WhatsApp | **Rechazado (por Diego)** | Es el mismo reclutador/agencia, no dos aplicaciones separadas. Oferta vigente (AmEx CSR): hasta $27,200 MXN/mes ($18,100 base + $3,300 vales + $2,300 fondo de ahorro + $1,500 bono inglés + hasta $2,000 bono desempeño). Turnos de 8h entre 6am-12am, lunes a domingo con 2 días de descanso, capacitación de 3 meses con disponibilidad 5am-12am. **31/08/2026: Diego decidió no seguir** — cierra el hilo de NC Recruitment/AmEx. Motivo no registrado; si quieres, dime por qué para dejarlo anotado (te sirve luego para calibrar qué sí buscar en modo mantenimiento). |
 
 Estatus sugeridos: Por aplicar → Aplicado → Entrevista → Oferta / Rechazado.
-
-## Preparación de entrevista — NC Recruitment / American Express (agregado 23/08/2026)
-
-Llamada con el reclutador Jesse Lopez propuesta para 24/08/2026 7PM
-(pendiente que él confirme el horario). Checklist antes de la llamada:
-
-- [ ] Confirmar con Jesse el horario final de la llamada
-- [ ] Repasar el puesto: Customer Service Representative para American
-      Express, híbrido (3 oficina / 2 home), turnos de 8h entre
-      6am-12am, capacitación de 3 meses con disponibilidad 5am-12am
-- [ ] Preparar 2-3 anécdotas estilo STAR usando las métricas reales de
-      Boost Mobile (Performance Total 98.9%, FCR 95.9%, ACT 104.2%) —
-      ver [../desempeno/metricas.md](../desempeno/metricas.md)
-- [ ] Preparar respuesta corta de "por qué buscas cambio" (más
-      sueldo/crecimiento, sin quemar puentes con el trabajo actual)
-- [ ] Preguntas para el reclutador: qué parte de los $27,200 MXN es
-      garantizada vs. variable (bonos), fecha estimada de inicio de
-      capacitación, y cómo rotan los turnos entre 6am-12am
-- [ ] Recordatorio: es una llamada con un headhunter, no con RH directo
-      de American Express — no compartir CURP/INE/datos bancarios en
-      esta llamada
-- [ ] Tener a la mano el CV (versión enfocada en soporte/remoto o la
-      genérica actualizada) y anotar la llamada después para actualizar
-      esta tabla
 
 ## Fase 2 (proyecto paralelo, no urgente): idea de automatización
 

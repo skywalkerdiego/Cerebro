@@ -1,30 +1,48 @@
-# 📰 Noticias relevantes
+# 📰 Noticias — sistema de perspectivas
 
-A diferencia de los demás archivos, este no es una lista fija — es un
-registro vivo. Cuando quieras que te traiga noticias de un tema
-(comercio exterior, tipo de cambio, algo de tu carrera, lo que sea), te
-las resumo aquí con fecha y fuente.
+Registro vivo de noticias y análisis político, con una etiqueta de
+perspectiva en cada fuente para que puedas leer sabiendo desde dónde
+habla cada quien. Se actualiza en automático en los triggers del día
+(vía Periódico.exe) y a fondo en Descubre.exe, el hub dedicado.
 
-## Tus temas fijos (15/08/2026)
+## Tus temas fijos (15/08/2026, confirmados 31/08/2026)
 
-- Ambiente internacional
-- Temas políticos y sociales
-- Temas importantes en México
+- Ambiente internacional / geopolítica
+- Temas políticos y sociales (México y América Latina)
+- Temas importantes en México — gobierno de Sheinbaum, oposición,
+  Congreso
 - Temas de tu área (RI / comercio exterior)
 
-## Registro
+## Sistema de perspectivas (etiquetas)
 
-| Fecha | Tema | Resumen | Fuente |
-|-------|------|---------|--------|
-| 25/08/2026 | Tipo de cambio | Peso en ~16.90–16.92 por dólar (21/08), por debajo de las 17 unidades. Consenso de analistas: cierre de 2026 en ~17.68. | [El Financiero](https://www.elfinanciero.com.mx/mercados/2026/08/21/peso-dolar-precio-hoy-21-de-agosto-de-2026/), [El Informador](https://www.informador.mx/economia/dolar-hoy-21-de-agosto-de-2026-viernes-positivo-para-el-peso-mexicano-el-billete-verde-cae-por-debajo-de-las-17-unidades-20260821-0049.html) |
-| 25/08/2026 | Economía / Banxico | Banxico mantiene tasa en 6.50%; 24 de 37 analistas no esperan cambios este año. Inflación general ~3.10% en julio, cierre de año esperado ~4.20%. Crecimiento 2026 revisado al alza a 1.2%. | [El Financiero](https://www.elfinanciero.com.mx/economia/2026/08/04/sube-prevision-de-crecimiento-economico-en-mexico-a-12-por-ciento-para-2026/), [Banxico](https://www.banxico.org.mx/publicaciones-y-prensa/anuncios-de-las-decisiones-de-politica-monetaria/%7B8DA3F519-341F-480E-1D4E-1AEE71DD08DA%7D.pdf) |
-| 25/08/2026 | Comercio exterior / aduanas (tu área) | Entra en vigor la reforma a la Ley Aduanera 2026: más fiscalización digital con IA, controles más estrictos sobre importadores y agentes aduanales. Enero-marzo 2026: 5.25 millones de operaciones de comercio exterior en las 50 aduanas del país; Manzanillo, Veracruz, Lázaro Cárdenas y Altamira concentran la mayor actividad. | [EY México](https://www.ey.com/es_mx/technical/tax/boletines-fiscales/reformas-ley-aduanera-para-2026), [Mexico Industry](https://mexicoindustry.com/noticia/aduanas-maritimas-de-mexico-impulsan-el-comercio-exterior-y-el-crecimiento-logistico-en-2026) |
-| 25/08/2026 | Ambiente internacional | Corea del Sur en alerta tras 10 misiles balísticos lanzados por Corea del Norte. Colombia autorizó operaciones militares conjuntas con EE.UU. contra grupos armados, uniéndose a la coalición A3C contra cárteles. Conflicto en Yemen se intensifica (hutíes vs. gobierno) y Líbano acusa a Israel de provocar incendios forestales deliberados. | [Havana Times](https://havanatimesenespanol.org/noticias/las-noticias-internacionales-en-breve-del-jueves-13-de-agosto-de-2026/), [Telemundo](https://www.telemundo.com/noticias/noticias-telemundo/internacional/video/esto-es-noticia-en-el-mundo-este-jueves-20-de-agosto-de-2026-tmvo13215574) |
+Cada nota trae una etiqueta de color que indica de dónde viene la voz,
+no si es "verdad" o "mentira" — cruza varias antes de sacar una
+conclusión:
 
-*(Pide "dame las noticias" cuando quieras una actualización — no se
-trae sola en automático.)*
+| Etiqueta | Qué significa | Ejemplos |
+|----------|----------------|----------|
+| 🟥 **Alternativa/Izquierda** | Medios con línea editorial de izquierda o alternativa al mainstream occidental. **RT es medio estatal ruso** — en varios países está restringido por desinformación; lo incluyo porque lo pediste, pero contrástalo siempre con otra fuente antes de tomarlo como hecho. | RT en Español, La Jornada |
+| ⬜ **Generalista/Agencia** | Cobertura de hechos con más pretensión de neutralidad — agencias y prensa de referencia. | Reuters, AP, Excélsior (nota informativa), Infobae |
+| 🟨 **Oposición/Análisis** | Voces críticas al gobierno en turno, columnas y consultoras de centro-derecha. | Electoralia, La Silla Rota, El Economista (opinión) |
+| 🟪 **Experto/Académico** | Análisis de especialistas, think tanks, papers — para el ángulo de fondo, no solo la coyuntura. | Integralia Consultores, El Colegio de México, Wilson Center |
+
+## Registro (31/08/2026)
+
+| Perspectiva | Nota | Resumen | Fuente |
+|---|---|---|---|
+| ⬜ | Gobernadora interina en Sinaloa | Graciela Domínguez fue elegida gobernadora interina de Sinaloa con respaldo de la presidenta Sheinbaum. | [Frentes Políticos 29/08 — Excélsior](https://www.excelsior.com.mx/opinion/frentes-politicos-29-agosto-2026) |
+| ⬜ | Recuperación de activos ligados a García Luna | El gobierno recuperó 5.8 millones de dólares de 12 propiedades en Florida vinculadas a García Luna y la familia Weinberg. | [Frentes Políticos 29/08 — Excélsior](https://www.excelsior.com.mx/opinion/frentes-politicos-29-agosto-2026) |
+| 🟥 | Reforma contra la doble nacionalidad en la presidencia | Sheinbaum impulsa cerrar la puerta a la doble nacionalidad para quien aspire a gobernar el país (y eventualmente las gubernaturas). | [La Jornada — Alerta temprana, 28/08](https://www.jornada.com.mx/2026/08/28/politica/014a1pol?partner=rss) |
+| 🟨 | La oposición sigue sin reaccionar | Tras las elecciones de junio, PAN/PRI/MC se ven estáticos y desestructurados; su ventana real es 2027, no una confrontación nacional inmediata. | [Electoralia — La Oposición Política en México](https://electoralia.com.mx/la-oposicion-politica-en-mexico/) |
+| 🟪 | 2027 como referendo sobre Sheinbaum | El próximo ciclo electoral se lee como plebiscito de los primeros 3 años de gobierno; a la oposición le basta recuperar algunas gubernaturas, no ganar la presidencia. | [Integralia Consultores — Diez riesgos políticos 2026 (PDF)](https://integralia.com.mx/web/wp-content/uploads/2026/01/Integralia-Consultores_Diez-riesgos-politicos-para-2026-08ENE26-VF-2.pdf) |
+| 🟥 | Cobertura internacional del día | Tensión EE.UU.–Irán, ataques rusos a infraestructura militar ucraniana y nueva escalada Israel–Líbano, cubiertos desde la óptica de RT. | [RT en Español — Actualidad internacional](https://actualidad.rt.com/actualidad) |
 
 ## Notas
 
-- Esto se actualiza solo cuando lo pidas explícitamente en la
-  conversación, no de forma automática en segundo plano.
+- El registro de arriba se refresca en cada corrida del trigger de
+  Periódico.exe (mañana) — trae 1-2 notas frescas de al menos dos
+  perspectivas distintas, nunca solo una.
+- Si quieres profundizar en un tema específico fuera del ciclo
+  automático, pide "dame las noticias de [tema]" y te las traigo aparte.
+- El detalle completo con más notas vive en **Descubre.exe** — este
+  archivo guarda solo el resumen más reciente para no duplicar de más.
