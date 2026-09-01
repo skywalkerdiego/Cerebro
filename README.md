@@ -17,8 +17,8 @@ corto plazo.** Detalle completo en [metas/patrimonio.md](metas/patrimonio.md).
 | Horizonte | Cuándo | Qué vive aquí |
 |-----------|--------|----------------|
 | 🔴 **Corto** | Ago – Dic 2026 | Titulación · Desempeño en Boost · Italiano · Ahorro de mudanza · Chevy funcionando |
-| 🟡 **Mediano** | 2027 | Cambio de coche · Cambio de trabajo con mejor sueldo · Fondo de emergencia |
-| 🟢 **Largo** | 2028+ | Propiedad con Fanny → boda → familia (en ese orden) · aprender a mantener una casa (esta sí arranca ya) · maestría / academia |
+| 🟡 **Mediano** | 2027 | 💍 **Boda con Fanny (prioridad #1 de 2027)** · Cambio de coche · Cambio de trabajo con mejor sueldo · Fondo de emergencia |
+| 🟢 **Largo** | 2028+ | Propiedad con Fanny → familia (en ese orden) · aprender a mantener una casa (esta sí arranca ya) · maestría / academia |
 
 **Máximo 3 pistas activas a la vez.** Hoy son: 🎓 Titulación, 📊
 Desempeño, 🗣️ Italiano. Todo lo demás está en standby explícito — no
@@ -47,10 +47,10 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | 🚗 Cambiar el Chevy (coche o moto) | 2027 | Pospuesto a después de la mudanza — ver [metas/patrimonio.md](metas/patrimonio.md) |
 | 🚕 Trabajar un coche en Uber | ⏸️ Descartado por ahora | El Chevy no califica por año-modelo, y no hay horas libres reales |
 | 💳 Préstamo Fonacot / ISSEMyM | ⏸️ No por ahora | Un crédito de nómina estorba si cambias de trabajo — ver el análisis |
-| 🏠 **Propiedad con Fanny** | 2028+ | 🟢 **Arranca ya, y es gratis:** revisar puntos INFONAVIT (tú) e ISSEMyM (ella) |
-| 💍 Boda con Fanny | 2028+ | Después de la propiedad — sin fecha ni monto todavía, ver [metas/patrimonio.md](metas/patrimonio.md) |
-| 👶 Formar familia | 2028+ | Después de boda/casa propia estable — la más lejana de las tres |
-| 🧰 Aprender a mantener una casa | Arranca ya | No compite con nada del ahorro — pendiente definir por dónde empezar |
+| 💍 **Boda con Fanny** | 2027 | 🔥 **Prioridad #1 de 2027** — antes que cambio de coche y fondo de emergencia. Sin monto todavía, ver [metas/patrimonio.md](metas/patrimonio.md) |
+| 🏠 Propiedad con Fanny | 2028+ | 🟢 **Arranca ya, y es gratis:** revisar puntos INFONAVIT (tú) e ISSEMyM (ella) |
+| 👶 Formar familia | 2028+ | Después de boda + casa propia estable — la más lejana de las cuatro |
+| 🧰 Aprender a mantener una casa | Arranca ya | Elegido: básico del hogar (plomería/electricidad ligera) — no compite con nada del ahorro, sin meta diaria |
 
 ## 📋 Trámites
 

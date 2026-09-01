@@ -215,45 +215,86 @@ es cómo la gente termina con una casa que no puede pagar.
 
 ---
 
-## 💍👨‍👩‍👧 Boda, familia y aprender a mantener una casa (agregado 01/09/2026)
+## 💍👨‍👩‍👧 Plan completo: boda, familia y aprender a mantener una casa (actualizado 01/09/2026)
 
-Diego confirmó que la propiedad no es la meta final por sí sola — el
-horizonte completo de largo plazo es: **casa → boda con Fanny →
-familia**, y de paso aprender lo que hace falta para sostener una casa
-(no solo comprarla). Se anota aquí, junto a la propiedad, porque las
-tres corren en la misma cancha de tiempo (2028+) y compiten por el
-mismo dinero que hoy protege el ahorro de la mudanza — no se planean
-por separado.
+Diego alineó el horizonte completo con Fanny: **mudanza (2026) → boda
+(2027) → casa propia (2028+) → familia**, más una pista aparte
+—aprender a mantener una casa— que no espera a ninguna de las otras
+tres. Este orden **corrigió una versión anterior** de este archivo que
+ponía la boda después de la propiedad; Diego ya tiene año en mente
+para la boda (**2027**), así que en realidad va *antes* que la casa,
+no después.
 
-| Meta | Depende de | Por qué va después, no antes |
-|------|------------|-------------------------------|
-| 🏠 Propiedad con Fanny | Puntos INFONAVIT/ISSEMyM, vivir juntos primero (ver regla de oro abajo) | Es la base física — sin domicilio propio, boda y familia se planean sobre terreno prestado |
-| 💍 Boda | Que la mudanza y la propiedad no se hayan comido el ahorro | Una boda es otro gasto grande — mejor después de que el patrimonio con Fanny ya tenga piso, no compitiendo con el enganche |
-| 👶 Familia | Boda (o al menos casa propia estable) + ingreso más sólido que el actual | Es la que más tiempo, dinero y estabilidad de vivienda necesita de las tres — la que se beneficia más de que las anteriores ya estén resueltas |
-| 🧰 Aprender a mantener una casa | No depende de nada — se puede empezar ya, gratis | A diferencia de las otras tres, esto no cuesta ni compite con el ahorro: se va aprendiendo de a poco mientras las otras avanzan |
+### La línea de tiempo real
 
-**Qué significa esto en la práctica:**
+| Horizonte | Meta | Qué necesita |
+|-----------|------|----------------|
+| 🔴 2026 (corto, en marcha) | Mudanza con Fanny | Los $12,000/mes ya en marcha — ver [ahorro.md](ahorro.md) |
+| 🟡 **2027 (mediano)** | **💍 Boda con Fanny** — prioridad #1 del año | Fondo patrimonial (ver abajo), venta del Chevy si se da a tiempo |
+| 🟡 2027 (mediano, después de boda) | Cambio de coche/moto, fondo de emergencia | Lo que sobre tras cubrir la boda |
+| 🟢 2028+ (largo) | 🏠 Propiedad con Fanny | Puntos INFONAVIT/ISSEMyM (arranca gratis desde hoy, ver sección de arriba) |
+| 🟢 2028+ (largo, después de casa) | 👶 Familia | Boda + casa propia + ingreso más sólido que el actual |
+| **Sin horizonte fijo — arranca ya** | 🧰 Aprender a mantener una casa | Nada — no cuesta ni compite con las demás |
 
-- El orden real es **casa → boda → familia**, no las tres en paralelo.
-  Intentar avanzar las tres a la vez sería repetir el mismo error que
-  ya causó la caída de productividad de agosto (demasiadas pistas
-  activas a la vez) — ver [../perfil/rutina.md](../perfil/rutina.md).
-- **Aprender a mantener una casa** es la única de las cuatro que puede
-  arrancar ya sin esperar nada ni gastar dinero — sirve además para
-  cuando llegue la propiedad, no solo para la renta de diciembre.
-  - [ ] Definir qué tipo de mantenimiento te interesa aprender primero
-        (básico del hogar: plomería, electricidad ligera, presupuesto
-        doméstico, o algo más específico) — dime y lo desglosamos
-- Boda y familia quedan anotadas como meta 2028+, sin fecha ni monto
-  todavía — se detallan cuando la propiedad esté más cerca de ser real.
+### Por qué la boda se adelantó a 2027 (antes que la casa)
 
-**Cómo se conecta con lo que ya hay armado:**
+Con año fijo (2027), la boda deja de ser "lo que sigue después de la
+casa" y pasa a competir de frente por el mismo dinero que ya estaba
+reservado para 2027: cambio de coche y fondo de emergencia. **Decisión
+de Diego (01/09/2026): la boda es la prioridad #1 de 2027** — el Chevy
+se sigue usando (con el ventilador arreglado, ver arriba) el tiempo
+que haga falta, y el fondo de emergencia espera a después de la boda,
+salvo que la venta del Chevy (~$40,000) alcance para destrabar los
+dos sin pelear entre sí.
 
-- Todo lo de la sección de Propiedad (arriba) sigue igual — sigue
-  siendo el primer paso concreto y gratis de este horizonte completo.
-- El ahorro de la mudanza ($47,000, ver
-  [ahorro.md](ahorro.md)) sigue intocable — nada de boda ni familia le
-  quita prioridad a eso.
+**Esto no toca el ahorro de la mudanza.** Los $47,000 / $12,000 mensual
+de 2026 siguen intocables — la boda se financia con lo que venga
+*después* de diciembre 2026, no antes.
+
+### El fondo: uno solo que va creciendo (no se cierra en diciembre)
+
+Diego decidió que, a diferencia del plan original (donde el fondo de
+MercadoPago se pensaba como algo que se "cierra" al llegar a los
+$47,000), **el mismo fondo patrimonial sigue creciendo después de la
+mudanza** y se va repartiendo a la siguiente meta en turno —primero
+boda 2027, luego casa 2028+— en vez de abrir y cerrar un fondo nuevo
+por cada meta. Implicaciones prácticas:
+
+- El fondo de MercadoPago (liquidez alta) sigue siendo la casa del
+  dinero de corto uso; cuando la ventana a la boda se acerque (~2027),
+  vale la pena revisar si mover una porción a CETES tiene sentido —
+  igual que ya se recomienda para el fondo del Chevy.
+- No hay que decidir un monto de boda todavía — cuando Diego y Fanny
+  tengan una cifra aproximada, se agrega aquí y en
+  [ahorro.md](ahorro.md) como su propia línea dentro del mismo fondo.
+- **Pendiente:** definir con Fanny un monto objetivo de boda una vez
+  que 2026 esté resuelto — no es urgente todavía, solo queda anotado
+  como el siguiente número que hace falta.
+
+### 🧰 Aprender a mantener una casa — arranca ya (elegido: básico del hogar)
+
+A diferencia de boda/casa/familia, esto no espera nada ni cuesta —
+Diego eligió empezar por lo **básico del hogar**: plomería ligera,
+electricidad segura, y las cosas que se rompen seguido (fugas,
+contactos, cerraduras). **No es una 4ª pista activa** — no tiene meta
+diaria como el italiano; se aprende cuando algo se rompe o cae un
+rato libre, para no repetir el error de meter demasiadas pistas a la
+vez (ver [../perfil/rutina.md](../perfil/rutina.md)).
+
+- [ ] Elegir una fuente confiable para lo básico (canal de YouTube o
+      guía de mantenimiento del hogar) — sin comprometerse a un curso
+      formal todavía
+- [ ] Priorizar lo aplicable a la renta de diciembre: qué sí se puede
+      resolver uno mismo en un depa rentado (cambiar un empaque, un
+      contacto, una cerradura) vs. qué le toca al dueño/administración
+- [ ] Sin meta de ritmo — se retoma solo, oportunista
+
+### Cómo se conecta con lo que ya hay armado
+
+- Todo lo de la sección de Propiedad (arriba) sigue igual como el
+  primer paso concreto y gratis del horizonte de largo plazo.
+- El ahorro de la mudanza ($47,000, ver [ahorro.md](ahorro.md)) sigue
+  intocable en 2026 — la boda se paga con dinero de 2027 en adelante.
 
 ---
 
