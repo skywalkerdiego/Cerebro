@@ -194,9 +194,9 @@ significa:
 
 ### Primeros pasos (gratis, ~30 min, sin compromiso)
 
-- [ ] Crear/entrar a **Mi Cuenta INFONAVIT** (micuenta.infonavit.org.mx)
+- [x] Crear/entrar a **Mi Cuenta INFONAVIT** (micuenta.infonavit.org.mx)
       y ver: saldo de tu subcuenta de vivienda y **cuántos puntos
-      llevas** — el sistema te dice cuántos faltan
+      llevas** — **hecho 01/09/2026, ver resultado abajo**
 - [ ] Que Fanny revise en el portal de **ISSEMyM** su antigüedad y si
       ya califica para crédito de vivienda
 - [ ] Con esos dos números en la mano, platicarlo juntos: **no para
@@ -204,6 +204,44 @@ significa:
       monto darían combinados
 - [ ] Confirmar con RH de Boost Mobile que tus aportaciones INFONAVIT
       se están haciendo (aparece en tu estado de cuenta)
+
+### 📌 Resultado — Mi Cuenta INFONAVIT (01/09/2026)
+
+Diego ya entró al portal. Resultado:
+
+- **Ya alcanza los puntos para ejercer crédito** — la app lo dice
+  directo: *"Ya puedes solicitar tu crédito Infonavit."*
+- **Saldo actual en la Subcuenta de Vivienda: $26,794.59 MXN.**
+
+Esto es una buena noticia, pero **no cambia el plan** — solo confirma
+que el "lado gratis" de la casa (puntos + antigüedad) ya está resuelto
+del lado de Diego, mucho antes de lo esperado. Lo que falta para
+decidir algo real sigue siendo lo mismo de siempre:
+
+1. **Que Fanny revise su antigüedad en ISSEMyM** — sin ese dato no se
+   puede saber cuánto sumarían combinando créditos con "Unamos
+   Créditos".
+2. **El monto de crédito que de verdad ofrecerían** — tener puntos
+   habilita *solicitar*, pero el monto depende del salario registrado,
+   no solo del saldo de la subcuenta. Eso se confirma en el simulador
+   de crédito dentro del mismo portal (Mi Cuenta INFONAVIT → simulador),
+   no hay que adivinarlo 🔎.
+3. **La regla de oro sigue de pie**: primero la mudanza y vivir juntos
+   (2026), después la boda (2027), y solo entonces evaluar ejercer el
+   crédito — elegibilidad no es lo mismo que "es momento de comprar".
+   Ejercer el crédito ahora, sin haber vivido juntos ni saber el gasto
+   real de pareja, es el riesgo que esta regla existe para evitar.
+
+**Por qué "se siente imposible" y por qué probablemente no lo es:**
+comprar una casa de contado con ahorro propio sí es casi imposible con
+un sueldo de call center — pero **ese nunca fue el plan**. El plan usa
+tres palancas que no dependen de juntar el precio completo en
+efectivo: (1) el 5% que tu patrón ya aporta solo, sin que tú metas un
+peso extra, (2) los puntos que suben por el simple hecho de seguir
+trabajando formal, y (3) sumar el crédito de Fanny al tuyo. Hoy se
+confirmó que la palanca 1 y 2 ya están dando resultado antes de lo
+previsto. Sigue sin ser "ya, ahorita" — pero el "imposible" de hace un
+rato ya no describe bien la situación real.
 
 ### Regla de oro para no atorarse
 
@@ -307,4 +345,4 @@ vez (ver [../perfil/rutina.md](../perfil/rutina.md)).
 | 🚕 Uber con préstamo | **No ahora** — el Chevy no califica y no hay horas |
 | 💳 Fonacot | **No** mientras el cambio de trabajo siga en el horizonte |
 | 💳 ISSEMyM (personal) | **No** — pero sí investigar su vía de **vivienda** |
-| 🏠 Propiedad | **Sí, como meta de largo plazo** — arrancar revisando puntos INFONAVIT + ISSEMyM este mes |
+| 🏠 Propiedad | **Sí, como meta de largo plazo** — puntos INFONAVIT de Diego ✅ ya alcanzan (01/09/2026, subcuenta $26,794.59 MXN); falta que Fanny revise ISSEMyM |
