@@ -215,6 +215,48 @@ es cómo la gente termina con una casa que no puede pagar.
 
 ---
 
+## 💍👨‍👩‍👧 Boda, familia y aprender a mantener una casa (agregado 01/09/2026)
+
+Diego confirmó que la propiedad no es la meta final por sí sola — el
+horizonte completo de largo plazo es: **casa → boda con Fanny →
+familia**, y de paso aprender lo que hace falta para sostener una casa
+(no solo comprarla). Se anota aquí, junto a la propiedad, porque las
+tres corren en la misma cancha de tiempo (2028+) y compiten por el
+mismo dinero que hoy protege el ahorro de la mudanza — no se planean
+por separado.
+
+| Meta | Depende de | Por qué va después, no antes |
+|------|------------|-------------------------------|
+| 🏠 Propiedad con Fanny | Puntos INFONAVIT/ISSEMyM, vivir juntos primero (ver regla de oro abajo) | Es la base física — sin domicilio propio, boda y familia se planean sobre terreno prestado |
+| 💍 Boda | Que la mudanza y la propiedad no se hayan comido el ahorro | Una boda es otro gasto grande — mejor después de que el patrimonio con Fanny ya tenga piso, no compitiendo con el enganche |
+| 👶 Familia | Boda (o al menos casa propia estable) + ingreso más sólido que el actual | Es la que más tiempo, dinero y estabilidad de vivienda necesita de las tres — la que se beneficia más de que las anteriores ya estén resueltas |
+| 🧰 Aprender a mantener una casa | No depende de nada — se puede empezar ya, gratis | A diferencia de las otras tres, esto no cuesta ni compite con el ahorro: se va aprendiendo de a poco mientras las otras avanzan |
+
+**Qué significa esto en la práctica:**
+
+- El orden real es **casa → boda → familia**, no las tres en paralelo.
+  Intentar avanzar las tres a la vez sería repetir el mismo error que
+  ya causó la caída de productividad de agosto (demasiadas pistas
+  activas a la vez) — ver [../perfil/rutina.md](../perfil/rutina.md).
+- **Aprender a mantener una casa** es la única de las cuatro que puede
+  arrancar ya sin esperar nada ni gastar dinero — sirve además para
+  cuando llegue la propiedad, no solo para la renta de diciembre.
+  - [ ] Definir qué tipo de mantenimiento te interesa aprender primero
+        (básico del hogar: plomería, electricidad ligera, presupuesto
+        doméstico, o algo más específico) — dime y lo desglosamos
+- Boda y familia quedan anotadas como meta 2028+, sin fecha ni monto
+  todavía — se detallan cuando la propiedad esté más cerca de ser real.
+
+**Cómo se conecta con lo que ya hay armado:**
+
+- Todo lo de la sección de Propiedad (arriba) sigue igual — sigue
+  siendo el primer paso concreto y gratis de este horizonte completo.
+- El ahorro de la mudanza ($47,000, ver
+  [ahorro.md](ahorro.md)) sigue intocable — nada de boda ni familia le
+  quita prioridad a eso.
+
+---
+
 ## Resumen de decisiones (31/08/2026)
 
 | Tema | Decisión |
