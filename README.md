@@ -17,8 +17,8 @@ corto plazo.** Detalle completo en [metas/patrimonio.md](metas/patrimonio.md).
 | Horizonte | Cuándo | Qué vive aquí |
 |-----------|--------|----------------|
 | 🔴 **Corto** | Ago – Dic 2026 | Titulación · Desempeño en Boost · Italiano · Ahorro de mudanza · Chevy funcionando |
-| 🟡 **Mediano** | 2027 | Cambio de coche · Cambio de trabajo con mejor sueldo · Fondo de emergencia |
-| 🟢 **Largo** | 2028+ | Propiedad con Fanny · maestría / academia |
+| 🟡 **Mediano** | 2027 | 💍 **Boda con Fanny (prioridad #1 de 2027)** · Cambio de coche · Cambio de trabajo con mejor sueldo · Fondo de emergencia |
+| 🟢 **Largo** | 2028+ | Propiedad con Fanny → familia (en ese orden) · aprender a mantener una casa (esta sí arranca ya) · maestría / academia |
 
 **Máximo 3 pistas activas a la vez.** Hoy son: 🎓 Titulación, 📊
 Desempeño, 🗣️ Italiano. Todo lo demás está en standby explícito — no
@@ -47,7 +47,10 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | 🚗 Cambiar el Chevy (coche o moto) | 2027 | Pospuesto a después de la mudanza — ver [metas/patrimonio.md](metas/patrimonio.md) |
 | 🚕 Trabajar un coche en Uber | ⏸️ Descartado por ahora | El Chevy no califica por año-modelo, y no hay horas libres reales |
 | 💳 Préstamo Fonacot / ISSEMyM | ⏸️ No por ahora | Un crédito de nómina estorba si cambias de trabajo — ver el análisis |
-| 🏠 **Propiedad con Fanny** | 2028+ | 🟢 **Arranca ya, y es gratis:** revisar puntos INFONAVIT (tú) e ISSEMyM (ella) |
+| 💍 **Boda con Fanny** | 2027 | 🔥 **Prioridad #1 de 2027** — antes que cambio de coche y fondo de emergencia. Sin monto todavía, ver [metas/patrimonio.md](metas/patrimonio.md) |
+| 🏠 Propiedad con Fanny | 2028+ | 🟢 **Arranca ya, y es gratis:** revisar puntos INFONAVIT (tú) e ISSEMyM (ella) |
+| 👶 Formar familia | 2028+ | Después de boda + casa propia estable — la más lejana de las cuatro |
+| 🧰 Aprender a mantener una casa | Arranca ya | Elegido: básico del hogar (plomería/electricidad ligera) — no compite con nada del ahorro, sin meta diaria |
 
 ## 📋 Trámites
 
@@ -117,11 +120,10 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🎓 [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) — estado del trámite, documentos y pasos pendientes.
 - 💼 [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) — rutas de búsqueda, ajustes de CV/LinkedIn y vacantes aplicadas.
 - 🧮 [Simulador interactivo del plan de ahorro](https://claude.ai/code/artifact/d66ad007-842c-4377-ac69-c9fdc8267002) — mueve los aportes de cada quien y la venta del Chevy para ver cómo cambia la fecha en que estarían listos.
-- 🎮 [HUD de Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tus metas como stats de videojuego, con los datos reales de `metas/` y `perfil/`. Se regenera cuando avances algo.
+- 🎮 [Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tu hoja de personaje: nivel, XP y trofeos reales de `logros.md`, barras de las 3 pistas activas, y atributos de vida (patrimonio, relación, salud, familia). Habilidades.exe se fusionó aquí el 31/08/2026. Se regenera cuando avances algo.
 - 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
 - 💵 [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e) — tablero para registrar ingresos y gastos, con resumen del mes y desglose por categoría. Guarda datos en tu navegador; exporta seguido para respaldar.
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
-- 🌳 [Habilidades.exe](https://claude.ai/code/artifact/3a0ddef9-d6a7-493d-a512-387301f153fa) — árbol de habilidades: tus metas, vínculo con Fanny, finanzas y desempeño como sendas de nodos completados, disponibles y bloqueados. Se regenera cuando avances algo.
 - 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — las 3 reglas del sistema, el horario Kronos de la semana con breaks reales, y el checklist diario/semanal (Aspect.exe se fusionó aquí el 31/08/2026). Se remapea cuando cambie tu horario.
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, para no competir con ese dinero.
 - 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
@@ -149,13 +151,16 @@ desincronizaban entre sí. Primera tanda ya hecha:
   completo, la leyenda de perspectivas (izquierda/alt incl. RT,
   generalista, oposición, experto) y links "seguir leyendo →" a la
   fuente original.
+- **Habilidades.exe → fusionado en Yo.exe.** Yo.exe se convirtió en hoja
+  de personaje completa: nivel/XP/trofeos, barras de las 3 pistas
+  activas y atributos de vida (patrimonio, relación, salud, familia) —
+  un solo lugar para ver el progreso, no dos.
 
 **Pendiente, mismo criterio (misma data, distinto empaque = fusionar):**
 
 | Fusionar | En | Por qué |
 |----------|-----|---------|
 | Tiempo.exe | Rutina.exe | Presupuesto semanal de horas — ya lo cubre la sección "Cuánto tiempo real tienes" |
-| Habilidades.exe | Yo.exe | Mismo dato (metas/logros) en dos visualizaciones — árbol de nodos vs. stats |
 
 ## 🤖 Automatizaciones (Routines)
 
