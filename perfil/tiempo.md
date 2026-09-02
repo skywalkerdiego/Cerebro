@@ -2,9 +2,11 @@
 
 Presupuesto semanal de tiempo real — a dónde se va cada hora del día
 según los turnos rotativos de Boost Mobile y el traslado. Los números
-salen de [rutina.md](rutina.md); este archivo documenta el modelo que
-usa [Tiempo.exe](https://claude.ai/code/artifact/01b588c9-30de-4d77-9599-c8d1927a0f39)
-para la vista visual de la semana.
+salen de [rutina.md](rutina.md); desde el 01/09/2026 la vista visual ya
+no es un tablero aparte (Tiempo.exe se desactualizaba solo) — es la
+barra de horas dentro de cada día en la tabla semanal de
+[Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433).
+Este archivo sigue siendo la fuente del modelo (los porcentajes de abajo).
 
 ## El modelo (día con turno)
 
@@ -35,5 +37,5 @@ no existe.
   noche) la fuente sigue siendo [rutina.md](rutina.md).
 - Duolingo y el tiempo con Fanny van todos los días, aparte de estos
   bloques — no compiten con el libre de la noche.
-- Cuando cambien tus turnos, dímelo y remapeo rutina.md y Tiempo.exe
-  juntos, como ya se hace con el resto del sistema.
+- Cuando cambien tus turnos, dímelo y remapeo rutina.md y la tabla
+  semanal de Rutina.exe (schedule + barras de horas) juntos.

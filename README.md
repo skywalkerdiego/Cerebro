@@ -82,6 +82,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | [perfil/edc.md](perfil/edc.md) | EDC diario y grooming kit — aligerar la mochila |
 | [perfil/cuarto.md](perfil/cuarto.md) | Plan para organizar el cuarto |
 | [perfil/servicios.md](perfil/servicios.md) | Internet/streaming (Totalplay) y telefonía (AT&T vs. alternativas) — comparativas para bajar el gasto fijo |
+| [perfil/tiempo.md](perfil/tiempo.md) | Presupuesto de horas del día — fusionado como vista dentro de [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433), ya no tiene tablero propio |
 | [perfil/viaje-cabana.md](perfil/viaje-cabana.md) | Escapada a cabaña con Fanny (28-30 ago 2026) — **cancelada** (falló el Aveo de mamá, sin pérdida de dinero). Tableros: [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) y [Alerta de Sistema](https://claude.ai/code/artifact/74510b0d-37ac-4714-a1e1-1b5ff6e3c5c1) |
 | [perfil/carros.md](perfil/carros.md) | Bitácora de mantenimiento del Chevy y el Aveo de mamá — tablero: [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) |
 
@@ -112,7 +113,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 
 ## Enlaces rápidos
 
-- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los 25 tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro). Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
+- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro), su panel "Ahora" en vivo con el bloque del día y el panel "Atención" con lo urgente con fecha. Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes, noticias con perspectiva y foco de la noche. Se republica sola cada 5am.
 - 🗺️ [Descubre.exe](https://claude.ai/code/artifact/776e9c82-74b6-4efc-9698-866474be9271) — hub de noticias y política, con cada fuente etiquetada según de dónde habla (izquierda/alternativa incl. RT, generalista, oposición, experto) y links "seguir leyendo →"; también eventos/conciertos/museos cerca de Neza-CDMX que aún no están en tu radar.
@@ -127,7 +128,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
 - 💵 [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e) — tablero para registrar ingresos y gastos, con resumen del mes y desglose por categoría. Guarda datos en tu navegador; exporta seguido para respaldar.
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
-- 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — las 3 reglas del sistema, el horario Kronos de la semana con breaks reales, y el checklist diario/semanal (Aspect.exe se fusionó aquí el 31/08/2026). Se remapea cuando cambie tu horario.
+- 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — las 3 reglas del sistema, el horario Kronos de la semana con su presupuesto de horas, los bloques accionables de hoy (la línea de tiempo de Aspect.exe, ahora con casillas) y el checklist de pendientes vivos (Aspect.exe, Tiempo.exe y Pendientes.exe se fusionaron aquí el 01/09/2026). Se remapea cuando cambie tu horario.
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, para no competir con ese dinero.
 - 📁 [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7) — índice de documentos reales: CV, ATI, solicitud de título.
 - 🧭 [Bitácora de Cabaña](https://claude.ai/code/artifact/022014ce-da2f-4832-8873-3d4d77e689fb) — qué pasó con la escapada cancelada del 28-30 ago (falló el Aveo de mamá, sin pérdida de dinero).
@@ -135,16 +136,13 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 - 🌳 [Árbol.exe](https://claude.ai/code/artifact/d0c4a5cf-e170-4c8b-a29e-df6f7f8ca699) — árbol genealógico visual: pareja, familia y amigos de un vistazo. Se actualiza a mano cuando cuentes algo nuevo.
 - 🚗 [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) — garage estilo videojuego: stats del Chevy y del Aveo de mamá (motor, frenos, llantas) y bitácora de mantenimiento, con el carro girando.
-- ✅ [Pendientes.exe](https://claude.ai/code/artifact/63d7f21a-ee1d-4176-9147-d6d5739e70b8) — checklist en vivo de lo más urgente ahora mismo, junto de `metas/`, `perfil/` y `eventos.md`. Se regenera a mano después de una sesión larga.
 
-## 🧹 Consolidación de tableros (en curso, 31/08/2026)
+## 🧹 Consolidación de tableros (auditoría 01/09/2026)
 
 Diego pidió reducir el ruido: 25 tableros era demasiado, con datos que se
-desincronizaban entre sí. Primera tanda ya hecha:
+desincronizaban entre sí (Tiempo.exe y Pendientes.exe llevaban semanas sin
+tocarse). Ronda 1 (31/08):
 
-- **Aspect.exe → fusionado en Rutina.exe.** Su checklist diario/semanal
-  vive ahora ahí; la línea de tiempo del día la cubre el panel "Ahora"
-  de Cerebro.exe.
 - **Eventos.exe → fusionado en Calendario.exe.** La grilla mensual y la
   línea de tiempo completa (Satélite, Corona Capital, Vaivén con su plan
   de hospedaje/presupuesto/checklist, cumpleaños, aniversario, Navidad)
@@ -159,11 +157,25 @@ desincronizaban entre sí. Primera tanda ya hecha:
   activas y atributos de vida (patrimonio, relación, salud, familia) —
   un solo lugar para ver el progreso, no dos.
 
-**Pendiente, mismo criterio (misma data, distinto empaque = fusionar):**
+Ronda 2 (01/09) — el primer intento de fusionar Aspect.exe en Rutina.exe
+(31/08) dejó solo el checklist genérico y perdió la línea de tiempo del
+día que Diego sí usaba; esta ronda la repone de verdad, integrada:
 
-| Fusionar | En | Por qué |
-|----------|-----|---------|
-| Tiempo.exe | Rutina.exe | Presupuesto semanal de horas — ya lo cubre la sección "Cuánto tiempo real tienes" |
+- **Aspect.exe → fusionado en Rutina.exe, esta vez con la línea de tiempo
+  real.** La sección "Hoy, en bloques" revive el timeline por horas de
+  Aspect (dormir, traslado, breaks, foco de la noche) pero con casillas
+  reales para los bloques accionables — no solo un checklist genérico
+  aparte.
+- **Tiempo.exe → fusionado en Rutina.exe.** El presupuesto de horas
+  (turno/traslado/sueño/libre) ahora es una barra dentro de cada día de
+  la tabla semanal — con el horario Kronos real, no una plantilla
+  aparte que se desactualizaba sola.
+- **Pendientes.exe → retirado.** Se regeneraba a mano y se desactualizaba
+  (llegó a mostrar un viaje ya cancelado). Lo urgente con fecha ya vivía
+  en vivo en el panel "Atención" de Cerebro.exe; el checklist accionable
+  pasó a "Pendientes vivos" dentro de Rutina.exe, en el mismo orden que
+  "Próximas 2 semanas" de este archivo — un solo lugar que se actualiza
+  aquí, no en tres tableros distintos.
 
 ## 🤖 Automatizaciones (Routines)
 
@@ -202,8 +214,8 @@ de placeholder, es señal de que ese brief no corrió.
 Ordenado por el día en que toca, según tu horario real de esta semana
 (ver [perfil/rutina.md](perfil/rutina.md)):
 
-- [ ] **Lun 31/08 + Mar 01/09 (noches)** — Imprimir, firmar con tinta negra y escanear el ATI y el formato de solicitud (no dependen del pago, adelantarlos deja un solo bloqueo)
 - [ ] **Mar 01/09 (Break 1)** — Arrancar Duolingo italiano, 1 lección
+- [ ] **Mié 02/09 (noche)** — Imprimir, firmar con tinta negra y escanear el ATI y el formato de solicitud (se corrió del martes por la noche — sales a las 5pm con un amigo; no depende del pago, adelantarlo deja un solo bloqueo)
 - [ ] **Vie 04/09 (tarde)** — Cotizar el arreglo del ventilador del Chevy
 - [ ] **Sáb 05/09 (día de pago)** — Generar la ficha nueva en SIGEREL y pagar los $620 **por SPEI** (funciona en sábado; concepto exacto: "Pago de título")
 - [ ] **Dom 06/09 (noche)** — Armar el PDF del comprobante (ficha + CEP, sin empalmar) y subir los 3 documentos al sistema de seguimiento
