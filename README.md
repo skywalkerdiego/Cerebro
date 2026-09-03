@@ -48,7 +48,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | 🚕 Trabajar un coche en Uber | ⏸️ Descartado por ahora | El Chevy no califica por año-modelo, y no hay horas libres reales |
 | 💳 Préstamo Fonacot / ISSEMyM | ⏸️ No por ahora | Un crédito de nómina estorba si cambias de trabajo — ver el análisis |
 | 💍 **Boda con Fanny** | 2027 | 🔥 **Prioridad #1 de 2027** — antes que cambio de coche y fondo de emergencia. Sin monto todavía, ver [metas/patrimonio.md](metas/patrimonio.md) |
-| 🏠 Propiedad con Fanny | 2028+ | 🟢 **Arranca ya, y es gratis:** revisar puntos INFONAVIT (tú) e ISSEMyM (ella) |
+| 🏠 Propiedad con Fanny | 2028+ | 🟢 Puntos INFONAVIT (tú) ✅ ya alcanzan — falta ISSEMyM (ella). Ver [metas/patrimonio.md](metas/patrimonio.md) |
 | 👶 Formar familia | 2028+ | Después de boda + casa propia estable — la más lejana de las cuatro |
 | 🧰 Aprender a mantener una casa | Arranca ya | Elegido: básico del hogar (plomería/electricidad ligera) — no compite con nada del ahorro, sin meta diaria |
 
@@ -219,5 +219,6 @@ Ordenado por el día en que toca, según tu horario real de esta semana
 - [ ] **Vie 04/09 (tarde)** — Cotizar el arreglo del ventilador del Chevy
 - [ ] **Sáb 05/09 (día de pago)** — Generar la ficha nueva en SIGEREL y pagar los $620 **por SPEI** (funciona en sábado; concepto exacto: "Pago de título")
 - [ ] **Dom 06/09 (noche)** — Armar el PDF del comprobante (ficha + CEP, sin empalmar) y subir los 3 documentos al sistema de seguimiento
-- [ ] **Cuando caiga (~30 min, gratis)** — Revisar tus puntos en Mi Cuenta INFONAVIT, y que Fanny revise su antigüedad en ISSEMyM
+- [x] Revisar tus puntos en Mi Cuenta INFONAVIT — **hecho 01/09/2026: ya alcanzas para solicitar crédito, subcuenta de vivienda $26,794.59 MXN**
+- [ ] **Cuando caiga (~30 min, gratis)** — Que Fanny revise su antigüedad en ISSEMyM
 - [x] Platicar con tu novia el monto/mecánica de la cuenta conjunta de ahorro — plan listo para revisar juntos
