@@ -151,6 +151,45 @@ el teléfono (saldo de la tarjeta, no efectivo) — sigue contando dentro
 del presupuesto de transporte aunque no uses el cambio de la mochila
 para eso.
 
+## Presupuesto de la quincena — corte 04/09/2026
+
+Diego reportó su estado de cuenta real (04/09/2026) y una lista de
+pagos pendientes para organizar antes de que llegue la nómina del
+05/09. Aclaración importante: **los $1,700 del carro y los $300 de
+"otro gasto" ya están incluidos dentro de los $2,000 para mamá**, no
+son extra.
+
+**Lo que tiene disponible ahorita:**
+
+| Cuenta | Monto |
+|---|---|
+| Nu (cuenta) | $606.98 |
+| Santander | $7,293.49 |
+| **Total líquido hoy** | **$7,900.47** |
+| Vales de despensa por cobrar en efectivo (~$1,400 reales, se usa $1,300 conservador) | +$1,300.00 |
+| **Total disponible (conservador)** | **$9,200.47** |
+
+**Lo que debe cubrir:**
+
+| Destino | Monto | Nota |
+|---|---|---|
+| Tarjeta de crédito (vence 07/09) | $3,132.88 | Pagar con débito (Nu/Santander), nunca con disposición de efectivo de la propia tarjeta — esa sí genera intereses |
+| Mamá (incluye $1,700 del carro + $300 de otro gasto) | $2,000.00 | Un solo pago de $2,000 a mamá |
+| Otro pago pendiente | $900.00 | Sin categoría específica reportada |
+| Ahorro conjunto con Fanny | $2,400.00 | Aporte al fondo conjunto |
+| **Total comprometido** | **$8,432.88** | |
+
+**Colchón resultante:** $9,200.47 − $8,432.88 = **$767.59** libres para
+compras regulares o imprevistos.
+
+**Recomendación sobre la tarjeta:** pagar el total ($3,132.88) desde
+Nu/Santander antes del 07/09 para no generar intereses. Una vez
+liquidada, usar la tarjeta para compras normales es seguro (no cobra
+interés si se paga el siguiente estado de cuenta a tiempo) — pero
+tratar ese límite disponible como crédito, no como el colchón real;
+el colchón real son los $767.59 de arriba. Nunca usar la tarjeta para
+disposición de efectivo/depósito, ahí sí aplican intereses inmediatos.
+
 ## Movimientos
 
 Reconstruido a partir de tu estado de cuenta real de Santander
