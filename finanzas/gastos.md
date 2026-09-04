@@ -151,6 +151,75 @@ el teléfono (saldo de la tarjeta, no efectivo) — sigue contando dentro
 del presupuesto de transporte aunque no uses el cambio de la mochila
 para eso.
 
+## Presupuesto de la quincena — corte 04/09/2026 (CERRADO)
+
+Diego reportó su estado de cuenta real (04/09/2026) y organizamos una
+lista de pagos pendientes hasta dejarla resuelta. Nota de cuentas: la
+de "$606.98" es **MercadoPago** (no Nu) — se decidió dejarla intacta
+como colchón (gana 5.4% anual), no se usó para ningún pago de esta
+quincena.
+
+### Cómo quedó al final
+
+1. **Tarjeta de crédito del banco** (corte agosto, $3,132.88, vencía
+   07/09) — **pagada desde Santander**. $7,293.49 − $3,132.88 =
+   $4,160.61 restantes en Santander (confirmado con el estado de
+   cuenta).
+2. **Pago a mamá** — en vez de darle $2,000 en efectivo (que incluían
+   $1,700 del carro + $300 de otro gasto), Diego **pagó el recibo de
+   AT&T ($2,077) con el límite que se liberó de la tarjeta del banco**
+   al pagarla. Mamá confirmó que esto sustituye completo el pago. Ese
+   cargo cae en el corte de **septiembre de la tarjeta MercadoPago**
+   (total $2,535.96, corta el **27/09**, límite disponible $1,064.04)
+   — se paga con la nómina que ya se haya cobrado para esa fecha, no
+   compite con esta quincena.
+3. **Vales Pluxee** ($1,548.49 de saldo): $818.40 ya se gastaron
+   directo en Bodega Aurrera (despensa de la casa). Del resto
+   ($730.09), Diego decidió **cambiarlo a efectivo con su amigo**
+   (~$100 de comisión) para tener disponibilidad de efectivo, en vez
+   de usarlo solo en super — ver el plan de efectivo abajo.
+4. **Otro pago pendiente ($900), ahorro conjunto con Fanny ($2,400) y
+   terapia ($350)** — los tres ya pagados desde Santander. Total
+   $3,650. $4,160.61 − $3,650.00 = **$510.61 restantes en Santander.**
+
+### Plan de efectivo para el resto de la quincena (hasta el 18/09)
+
+Diego no gasta en comida entre semana (le mandan lunch), así que su
+único gasto fijo de efectivo es transporte; lo demás es la salida con
+Fanny (tianguis, que ahí no se puede pagar con tarjeta).
+
+| Fuente | Monto |
+|---|---|
+| Santander (sobrante después de todos los pagos) | $510.61 |
+| Pluxee cambiado a efectivo con el amigo ($730.09 − ~$100 comisión) | +$630.09 |
+| **Total efectivo disponible** | **$1,140.70** |
+| − Transporte (10 días laborales × ~$15) | −$150.00 |
+| **Libre para el tianguis con Fanny + imprevistos** | **$990.70** |
+
+Con esto, la salida/plan con Fanny (quedarse en casa domingo, tianguis
+el lunes, tope sugerido $200-300) cabe cómodo, y sigue quedando un
+colchón de ~$690-790 para el resto de la quincena. Aparte, los
+$606.98 de MercadoPago siguen intactos como reserva de emergencia,
+sin tocar.
+
+**Resumen de cuentas al cierre de este presupuesto:**
+
+| Cuenta / fondo | Monto |
+|---|---|
+| Santander | $510.61 (antes de sacar el transporte) |
+| MercadoPago (cuenta, colchón intacto) | $606.98 |
+| Tarjeta MercadoPago (por pagar, vence 27/09) | $2,535.96 |
+| Pluxee (ya cambiado a efectivo) | $0 (los $730.09 pasan a efectivo) |
+
+**Confirmado como pagado (04/09/2026):** tarjeta del banco ($3,132.88,
+desde Santander), otro pago pendiente ($900), ahorro con Fanny
+($2,400) y terapia ($350) — los tres últimos también desde Santander.
+El AT&T ($2,077) se pagó con el límite liberado de la tarjeta del
+banco, cae en el corte de MercadoPago del 27/09. Reflejado también en
+el tablero [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e)
+como datos semilla (cuenta Pluxee agregada, movimientos y pendientes
+actualizados).
+
 ## Movimientos
 
 Reconstruido a partir de tu estado de cuenta real de Santander
