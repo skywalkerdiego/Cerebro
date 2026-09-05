@@ -2,7 +2,7 @@
 
 Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
-Última actualización: 2026-09-01 · **114 días para Navidad 2026** — la fecha límite del plan de mudanza.
+Última actualización: 2026-09-05 · **111 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
 `perfil/`, `finanzas/`, `desempeno/` y [logros.md](logros.md) con lo
@@ -32,12 +32,12 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
-| 1 | 🎓 Titulación | 🔥 Activa | ATI y solicitud listos; plan partido: firmar/escanear esta semana, pagar por SPEI el sáb 05/09, subir el dom 06/09 | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
+| 1 | 🎓 Titulación | 🔥 **Hoy** | ATI y solicitud firmados; **hoy 05/09 sacas la ficha y pagas por SPEI**, mañana 06/09 subes los 3 documentos y queda entregada | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
 | 2 | 📊 Desempeño en Boost | 🔥 Activa | Performance Total bajó a 97.53% (venía de 108.8%); FCR es el driver — plan en Llamadas.exe | [desempeno/metricas.md](desempeno/metricas.md) · [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) |
 | 3 | 🗣️ Italiano | 🔥 Activa | Arranca 01/09/2026 — 1 lección diaria en el Break 1 | [metas/aprendizaje.md](metas/aprendizaje.md) |
-| 4 | 💰 Ahorro de Diego y Fanny | ⚙️ Automática | $2,400 de $47,000 (5.1%); meta $12,000/mes en MercadoPago | [metas/ahorro.md](metas/ahorro.md) |
-| 5 | 🚗 Chevy funcionando | ⚠️ Atención | Radiador ✅ listo; **ventilador falla — no dejar que caliente**. Cotizar vie 04/09 | [metas/patrimonio.md](metas/patrimonio.md) |
-| 6 | 💼 Cambio de trabajo | ⏸️ Standby | Modo mantenimiento: 1-2 vacantes en la comida, sin bloques largos | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
+| 4 | 💰 Ahorro de Diego y Fanny | ⚙️ Automática | **$4,800 de $47,000 (10.2%)**; tu parte va al corriente, falta registrar la de Fanny | [metas/ahorro.md](metas/ahorro.md) |
+| 5 | 🚗 Chevy funcionando | ⚠️ **Atrasado** | Radiador ✅ listo; **ventilador falla — no dejar que caliente**. La cotización del vie 04/09 no se hizo: es lo primero del próximo día off | [metas/patrimonio.md](metas/patrimonio.md) |
+| 6 | 💼 Cambio de trabajo | ⏸️ Standby | Modo mantenimiento, ahora con **4 búsquedas guardadas** y el filtro de "2 de 3" para no perder tiempo | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
 | 7 | ✍️ Artículos · 🎓 Maestría · 📚 Lectura | ⏸️ Standby | Se retoman cuando la titulación esté entregada | [metas/trabajo.md](metas/trabajo.md) |
 
 ## 🟡🟢 Mediano y largo plazo — Patrimonio
@@ -48,7 +48,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | 🚕 Trabajar un coche en Uber | ⏸️ Descartado por ahora | El Chevy no califica por año-modelo, y no hay horas libres reales |
 | 💳 Préstamo Fonacot / ISSEMyM | ⏸️ No por ahora | Un crédito de nómina estorba si cambias de trabajo — ver el análisis |
 | 💍 **Boda con Fanny** | 2027 | 🔥 **Prioridad #1 de 2027** — antes que cambio de coche y fondo de emergencia. Sin monto todavía, ver [metas/patrimonio.md](metas/patrimonio.md) |
-| 🏠 Propiedad con Fanny | 2028+ | 🟢 Puntos INFONAVIT (tú) ✅ ya alcanzan — falta ISSEMyM (ella). Ver [metas/patrimonio.md](metas/patrimonio.md) |
+| 🏠 Propiedad con Fanny | 2028+ | 🟢 Puntos INFONAVIT (tú) ✅ ya alcanzan. **Siguiente:** recuperar la contraseña del portal → correr el simulador → que Fanny revise ISSEMyM. Ver [metas/patrimonio.md](metas/patrimonio.md) |
 | 👶 Formar familia | 2028+ | Después de boda + casa propia estable — la más lejana de las cuatro |
 | 🧰 Aprender a mantener una casa | Arranca ya | Elegido: básico del hogar (plomería/electricidad ligera) — no compite con nada del ahorro, sin meta diaria |
 
@@ -70,7 +70,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | [perfil/familia.md](perfil/familia.md) | Relación con tus papás y tu hermana |
 | [perfil/amigos.md](perfil/amigos.md) | Vida social y amistades |
 | [perfil/novia.md](perfil/novia.md) | Todo sobre tu novia |
-| [perfil/regalos-novia.md](perfil/regalos-novia.md) | Ideas de regalos para tu novia |
+| [perfil/regalos-novia.md](perfil/regalos-novia.md) | Ideas de regalos para tu novia — incluye el **[Recetario para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9)**, el kit de papelería imprimible (carta, separador y receta) |
 | [perfil/fechas-importantes.md](perfil/fechas-importantes.md) | Fechas importantes |
 | [perfil/rutina.md](perfil/rutina.md) | Plantilla de rutina personal según tu horario rotativo de trabajo |
 | [perfil/compras.md](perfil/compras.md) | Cosas para comprar, con Fondo cosillas aparte del ahorro de la mudanza |
@@ -88,10 +88,14 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 
 ## 💵 Finanzas
 
+Reorganizado el 05/09/2026 para que se entienda de un vistazo: arriba
+**los 3 números** (cuánto tengo · cuánto debo y cuándo · cuánto me
+queda libre), abajo la mecánica.
+
 | Archivo | Contenido |
 |---------|-----------|
-| [finanzas/README.md](finanzas/README.md) | Cómo funciona tu control de gastos personales |
-| [finanzas/gastos.md](finanzas/gastos.md) | Historial de ingresos y gastos |
+| [finanzas/README.md](finanzas/README.md) | **Empieza aquí.** Los 3 números del corte de hoy, tus cuentas, lo que debes con fecha, y las 2 metas financieras vivas |
+| [finanzas/gastos.md](finanzas/gastos.md) | El histórico: quincena por quincena (de la más nueva a la más vieja), recibos CFDI, aguinaldo y gastos de carros |
 
 ## 📊 Desempeño laboral
 
@@ -113,7 +117,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 
 ## Enlaces rápidos
 
-- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Panel de arranque cyberpunk con los tableros organizados por categoría (Visión general, Metas, Desempeño, Perfil, Finanzas, Registro), su panel "Ahora" en vivo con el bloque del día y el panel "Atención" con lo urgente con fecha. Guárdalo en la pantalla de inicio del teléfono para entrar con un toque.
+- 🧠 [**Cerebro.exe**](https://claude.ai/code/artifact/19dc184b-9e66-40e3-a25f-d4348f83bf4b) — **tu único punto de entrada.** Rediseñado el 05/09/2026 para que deje de sentirse como un tablero de cuadritos chiquitos: arriba lo que necesitas ahora (el bloque del momento, tu día, las 3 pistas, lo urgente con fecha) y abajo los tableros en **5 grupos cerrados** (Cada día · Trabajo y escuela · Dinero · Fanny y familia · Tú y tus cosas), cada uno con su nombre y una línea de para qué sirve. Letra más grande y menos ruido de fondo. Guárdalo en la pantalla de inicio del teléfono.
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes, noticias con perspectiva y foco de la noche. Se republica sola cada 5am.
 - 🗺️ [Descubre.exe](https://claude.ai/code/artifact/776e9c82-74b6-4efc-9698-866474be9271) — hub de noticias y política, con cada fuente etiquetada según de dónde habla (izquierda/alternativa incl. RT, generalista, oposición, experto) y links "seguir leyendo →"; también eventos/conciertos/museos cerca de Neza-CDMX que aún no están en tu radar.
@@ -126,7 +130,8 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🎮 [Yo.exe](https://claude.ai/code/artifact/f3018b22-33ba-4ddb-bda7-fd0fd8e924bf) — tu hoja de personaje: nivel, XP y trofeos reales de `logros.md`, barras de las 3 pistas activas, y atributos de vida (patrimonio, relación, salud, familia). Habilidades.exe se fusionó aquí el 31/08/2026. Se regenera cuando avances algo.
 - 📜 [Acta Patrimonial](https://claude.ai/code/artifact/4f25e5f2-4321-4051-bbec-044c67464a3e) — el horizonte largo como registro/acta: mudanza → boda → casa → familia, el fondo único que va creciendo, y el checklist de mantenimiento del hogar. Estilo distinto a propósito (papel/sello, no cyberpunk) — primer tablero de una posible nueva línea visual.
 - 💜 [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e) — dossier cyberpunk de perfil: tú y tu novia, gustos, fechas y contador de días juntos.
-- 💵 [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e) — tablero para registrar ingresos y gastos, con resumen del mes y desglose por categoría. Guarda datos en tu navegador; exporta seguido para respaldar.
+- ✉️ [Recetario para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9) — papelería imprimible para el detalle: hoja de carta con renglones (y el mandala de su tatuaje de marca de agua), separador de libros y una receta médica que no cura nada. Se imprime en 2 hojas; tú escribes la carta a mano.
+- 💵 [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e) — tablero estilo Moneyfy: cuentas reales (Santander, MercadoPago, Efectivo, Pluxee), pendientes de pagar con botón "ya lo pagué", accesos rápidos y presupuestos por categoría. Guarda datos en tu navegador; exporta seguido para respaldar. El resumen en texto vive en [finanzas/README.md](finanzas/README.md).
 - 📊 [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) — tablero de tus métricas reales en Boost Mobile (ACT chat/voice, Chat Survey, First Call Resolution, Performance Total), en "% to goal" — 100% siempre es la meta.
 - 🗓️ [Rutina.exe](https://claude.ai/code/artifact/4ef55817-2876-46f2-939e-7399e38db433) — las 3 reglas del sistema, el horario Kronos de la semana con su presupuesto de horas, los bloques accionables de hoy (la línea de tiempo de Aspect.exe, ahora con casillas) y el checklist de pendientes vivos (Aspect.exe, Tiempo.exe y Pendientes.exe se fusionaron aquí el 01/09/2026). Se remapea cuando cambie tu horario.
 - 🛒 [Compras.exe](https://claude.ai/code/artifact/ec0c9f2b-ad2e-46fa-9beb-4f00492373c3) — wishlist personal (perfume, pantalla, PS5, MacBook) con un Fondo cosillas aparte del ahorro de la mudanza, para no competir con ese dinero.
@@ -211,14 +216,65 @@ de placeholder, es señal de que ese brief no corrió.
 
 ## Próximas 2 semanas (lo más inmediato)
 
-Ordenado por el día en que toca, según tu horario real de esta semana
-(ver [perfil/rutina.md](perfil/rutina.md)):
+Ordenado por el día en que toca. Actualizado el **sáb 05/09/2026**.
 
-- [ ] **Mar 01/09 (Break 1)** — Arrancar Duolingo italiano, 1 lección
-- [ ] **Mié 02/09 (noche)** — Imprimir, firmar con tinta negra y escanear el ATI y el formato de solicitud (se corrió del martes por la noche — sales a las 5pm con un amigo; no depende del pago, adelantarlo deja un solo bloqueo)
-- [ ] **Vie 04/09 (tarde)** — Cotizar el arreglo del ventilador del Chevy
-- [ ] **Sáb 05/09 (día de pago)** — Generar la ficha nueva en SIGEREL y pagar los $620 **por SPEI** (funciona en sábado; concepto exacto: "Pago de título")
-- [ ] **Dom 06/09 (noche)** — Armar el PDF del comprobante (ficha + CEP, sin empalmar) y subir los 3 documentos al sistema de seguimiento
-- [x] Revisar tus puntos en Mi Cuenta INFONAVIT — **hecho 01/09/2026: ya alcanzas para solicitar crédito, subcuenta de vivienda $26,794.59 MXN**
-- [ ] **Cuando caiga (~30 min, gratis)** — Que Fanny revise su antigüedad en ISSEMyM
-- [x] Platicar con tu novia el monto/mecánica de la cuenta conjunta de ahorro — plan listo para revisar juntos
+### 🔥 Este fin de semana — la titulación se cierra
+
+- [ ] **HOY sáb 05/09** — Generar la ficha nueva en SIGEREL y pagar los
+      $620 **por SPEI** (funciona en sábado; concepto exacto: *"Pago de
+      título"*). Luego descargar el **CEP de BANXICO**.
+- [ ] **Dom 06/09 (noche)** — Armar el PDF del comprobante (ficha + CEP,
+      cada uno en su hoja, sin empalmar) y subir los **3 documentos** al
+      sistema de seguimiento. Con eso el trámite queda entregado.
+
+### ⚠️ Arrastrado de la semana pasada
+
+- [ ] **Cotizar el arreglo del ventilador del Chevy** — se corrió del
+      vie 04/09. Es lo primero del próximo día off. Mientras tanto: no
+      lo dejes calentar.
+
+### 💰 Dinero
+
+- [ ] **Hoy** — Dime el **depósito real de la nómina** para cerrar los
+      3 números de la quincena en [finanzas/README.md](finanzas/README.md)
+- [ ] **Hoy** — Revisa si el recibo trae "Anticipo de Nómina MINU". Si
+      **no** lo trae, lograste la meta de dejar de pedir adelantos
+- [ ] **Vie 18/09 (día de pago)** — Aporte de $2,400 al fondo de la mudanza
+- [ ] **Antes del 27/09** — Apartar $2,535.96 para la tarjeta MercadoPago
+      (trae adentro el recibo de AT&T de tu mamá)
+
+### 🎂 Fechas que se acercan
+
+- [ ] **Dom 20/09** — Cumpleaños de tu mamá · **Lun 21/09** — el de tu papá
+      (caen pegados: resuélvelos de un solo golpe)
+- [ ] **Dom 04/10** — Cumpleaños de tu hermana
+- [ ] **Mar 20/10** — **Aniversario, 2 años con Fanny** (faltan 45 días)
+
+### 🏠 Cuando caiga (gratis, sin fecha)
+
+- [ ] Recuperar la contraseña de **Mi Cuenta INFONAVIT** y correr el
+      **simulador de crédito** — ver [metas/patrimonio.md](metas/patrimonio.md)
+- [ ] Que Fanny revise su antigüedad en **ISSEMyM** (~30 min)
+- [ ] Mandarme la **captura de Kronos** de la semana del 07/09 para
+      remapear los breaks y el foco de cada noche
+- [ ] Imprimir el [Recetario para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9)
+      y escribirle la carta a mano
+
+### ✅ Ya hecho (confirmado)
+
+- [x] **Vie 04/09** — Cierre completo de la quincena: tarjeta del banco
+      ($3,132.88), AT&T de mamá ($2,077), ahorro ($2,400) y terapia ($350)
+- [x] **01/09** — Puntos INFONAVIT revisados: ya alcanzas para solicitar
+      crédito, subcuenta $26,794.59
+- [x] Platicar con Fanny el monto/mecánica de la cuenta conjunta de ahorro
+
+### ❓ Por confirmar (estaban planeados, no me dijiste si salieron)
+
+- [ ] **Mar 01/09** — ¿Arrancó el italiano en Duolingo? ¿Cómo va la racha?
+- [ ] **Mié 02/09** — ¿Ya imprimiste, firmaste en tinta negra y escaneaste
+      el ATI y la solicitud? **Si no, hazlo hoy**: sin eso no se puede
+      subir nada mañana aunque el pago ya esté hecho
+
+*(Dime cuáles sí y los paso a la lista de arriba y a
+[logros.md](logros.md). Prefiero preguntar que dar por hecho algo que
+no pasó.)*

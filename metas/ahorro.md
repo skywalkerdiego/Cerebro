@@ -4,7 +4,7 @@
 cuenta conjunta con tu novia, para irse a vivir juntos.
 **Fecha meta:** Antes de Navidad 2026 (idealmente listos a mediados de
 diciembre, para tener margen de maniobra).
-**Estado:** En marcha — primer depósito real ya hecho, ver
+**Estado:** En marcha — **$4,800 de $47,000 (10.2%)** al 05/09/2026, ver
 [Progreso real](#-progreso-real) abajo.
 
 ## Preguntas resueltas
@@ -108,28 +108,53 @@ Confirmen las tasas vigentes antes de mover dinero — cambian con el tiempo.*
 
 ## 📊 Progreso real
 
-**Acumulado: $2,400 de $47,000 (5.1%)**
+**Acumulado: $4,800 de $47,000 (10.2%)** · actualizado 05/09/2026
+
+```
+[██▓░░░░░░░░░░░░░░░░░]  10.2%   $4,800 / $47,000
+```
 
 | Fecha | Quién | Monto | Acumulado | Notas |
 |-------|-------|-------|-----------|-------|
 | 22/08/2026 | Diego | $2,400 | $2,400 | Primer depósito real — adelantado, antes de que arranque la ventana formal de septiembre |
+| 04/09/2026 | Diego | $2,400 | $4,800 | Segundo depósito, desde Santander en el corte de quincena (ver [../finanzas/gastos.md](../finanzas/gastos.md)) |
+
+**Ritmo real de Diego:** $2,400 por quincena = **$4,800/mes**, que es
+exactamente su parte del plan. Va al corriente. Lo que falta registrar
+es la parte de Fanny ($7,200/mes) — dime cuánto y cuándo deposita ella
+y lo sumo aquí.
 
 Cada vez que deposites (tú o Fanny), dime cuánto y quién, y lo agrego
-aquí — el acumulado y el % se recalculan solos con cada entrada nueva.
+aquí — el acumulado y el % se recalculan con cada entrada nueva.
 
 ## Seguimiento mensual
 
-Esta tabla es contra la meta de **$12,000/mes** de la ventana
-septiembre-diciembre; el depósito de arriba fue antes de que arranque
-esa ventana, así que todavía no se acredita a ningún mes — se
-reflejará en el mes que corresponda una vez que empiece septiembre.
+Contra la meta de **$12,000/mes** ($4,800 tú + $7,200 Fanny) de la
+ventana septiembre-diciembre.
 
-| Mes | Meta de ahorro (combinada) | Ahorrado real | Notas |
-|-----|------------------------------|-----------------|-------|
-| Septiembre 2026 | $12,000 | | |
-| Octubre 2026 | $12,000 | | |
-| Noviembre 2026 | $12,000 | | |
-| Diciembre 2026 (antes de Navidad) | $12,000 | | Meta límite — recalcular si se vende el Chevy antes |
+| Mes | Meta combinada | Diego | Fanny | Total real | Notas |
+|-----|----------------|-------|-------|------------|-------|
+| Septiembre 2026 | $12,000 | $2,400 de $4,800 | — | $2,400 | Falta tu depósito del 18/09 y registrar el de Fanny |
+| Octubre 2026 | $12,000 | | | | |
+| Noviembre 2026 | $12,000 | | | | |
+| Diciembre 2026 (antes de Navidad) | $12,000 | | | | Meta límite — recalcular si se vende el Chevy antes |
+
+*(El depósito del 22/08 fue antes de que arrancara la ventana formal;
+cuenta en el acumulado total pero no en el mes de septiembre.)*
+
+## ⚠️ Lo que hay que revisar de este plan (05/09/2026)
+
+El plan asume 4 meses completos de $12,000. A hoy quedan **3 meses y
+medio** y solo hay $4,800 registrados. Dos salidas posibles, no hay
+que decidirla hoy pero sí antes de octubre:
+
+1. **Subir el ritmo** a ~$13,500/mes combinados los meses que quedan.
+2. **Mover la fecha** de "antes de Navidad" a enero, que además es
+   temporada mucho más barata para rentar y mudarse.
+
+Lo que no conviene es dejarlo sin decidir hasta noviembre. Cuando
+tengas el número de Fanny, lo recalculamos con datos reales en vez de
+suposiciones.
 
 ## Notas
 

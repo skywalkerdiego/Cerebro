@@ -1,159 +1,130 @@
-# 💵 Finanzas personales
+# 💵 Finanzas — tu dinero, en 3 números
 
-Espacio distinto al ahorro conjunto de la mudanza
-([../metas/ahorro.md](../metas/ahorro.md)) — aquí llevamos control de
-**tu dinero del día a día**: cuánto entra, cuánto sale, en qué.
+> **La regla de este archivo:** arriba está *cómo estás hoy*, abajo
+> está *cómo funciona el sistema*. Si solo tienes 30 segundos, lee la
+> tabla de los 3 números y ya. El histórico completo vive en
+> [gastos.md](gastos.md); el ahorro conjunto de la mudanza vive aparte
+> en [../metas/ahorro.md](../metas/ahorro.md) y **no se mezcla** con
+> esto.
 
-## Punto de partida (15/08/2026)
+---
 
-- Ingreso mensual conocido: **~$20,000 MXN** (de `metas/ahorro.md`).
-- Compromiso fijo ya tomado: **$4,800/mes** al fondo conjunto con Fanny
-  (24% de tu ingreso).
-- Disponible antes de otros gastos fijos (renta actual, etc. — cuéntame
-  si quieres que los agregue): **~$15,200/mes**.
+## 🟢 Los 3 números (corte: 05/09/2026, día de pago)
 
-## Categorías sugeridas
+Todo tu dinero se resume en tres preguntas. Si sabes estas tres,
+sabes cómo estás.
 
-Comida, transporte, salidas/citas, ropa/estilo, perfumes, tatuajes,
-suscripciones, gustos personales, imprevistos, otros. Se pueden agregar
-las que quieras — el tablero interactivo acepta categoría libre.
+| # | Pregunta | Respuesta |
+|---|----------|-----------|
+| 1️⃣ | **¿Cuánto tengo?** | Ver "Cuentas" abajo |
+| 2️⃣ | **¿Cuánto debo y cuándo?** | Ver "Lo que debo" abajo |
+| 3️⃣ | **¿Cuánto me queda libre hasta el próximo pago (18/09)?** | Ver "Libre real" abajo |
 
-## Cómo se lleva esto
+### 1️⃣ Cuentas — cuánto tienes
 
-Dos formas de capturar, y no se mezclan solas:
+| Cuenta | Saldo | Para qué es |
+|--------|-------|-------------|
+| 🏦 **Santander** | $510.61 *(antes del depósito de hoy)* | Cuenta de nómina. Aquí cae el sueldo y de aquí salen los pagos grandes |
+| 💛 **MercadoPago** | $606.98 | **Colchón de emergencia — no se toca.** Gana ~5.4% anual |
+| 💵 **Efectivo** | ~$630 | Los vales Pluxee cambiados con tu amigo. Para transporte y tianguis |
+| 🎟️ **Pluxee (vales)** | $0 | Ya se gastó/cambió todo este ciclo |
+| 💰 **Fondo mudanza (con Fanny)** | $4,800 | Intocable. Vive en [../metas/ahorro.md](../metas/ahorro.md) |
 
-1. **Directo en el tablero** (enlace en el README principal) — lo que
-   captures ahí se guarda solo en ese navegador/dispositivo. Para
-   respaldarlo o pasarlo a otro lado, usa el botón "Exportar respaldo":
-   baja un Markdown que puedes pegar en `gastos.md` o mandarme en la
-   conversación.
-2. **Contándome en la conversación** ("gasté $350 en Chilis ayer") — yo
-   lo anoto en `gastos.md` (permanente en GitHub) *y* lo agrego como
-   dato semilla dentro del tablero, luego lo vuelvo a publicar. La
-   próxima vez que abras el tablero en cualquier navegador donde ya lo
-   hayas usado, ese movimiento aparece solo, fusionado con lo que ya
-   tenías — sin duplicarse.
+⚠️ **Hoy cae tu nómina.** En cuanto veas el depósito real en Santander,
+dímelo y actualizo este bloque completo. Hasta entonces, los números de
+arriba son los del cierre del 04/09.
 
-Lo que NO pasa: no hay sincronización en vivo entre lo que capturas tú
-mismo en el tablero y este archivo — esa dirección sigue siendo
-manual (exportar y pegar, o contarme los totales).
+### 2️⃣ Lo que debo — con fecha
 
-## Funciones del tablero
+| Cuándo | Qué | Monto | De dónde sale |
+|--------|-----|-------|----------------|
+| **Hoy 05/09** | 🎓 Ficha de titulación (SPEI, concepto *"Pago de título"*) | **$620.00** | Nómina de hoy |
+| **27/09** | 💳 Corte tarjeta MercadoPago (incluye el AT&T de $2,077 de mamá) | **$2,535.96** | Nómina del 18/09 |
+| Cada quincena | 🏦 Crédito de nómina Santander (se descuenta solo) | ~$307.89 | Automático, ya viene descontado |
+| **18/09** | 💰 Aporte al fondo de la mudanza | $2,400.00 | Nómina del 18/09 |
+| Diario | 🚌 Transporte (~$15/día laboral) | ~$150 por quincena | Efectivo |
 
-Rediseñado el 20/08/2026 al estilo de apps tipo Moneyfy — por cuentas,
-no solo un saldo suelto:
+**Total comprometido de esta quincena: ~$770** (ficha + transporte).
+La tarjeta de MercadoPago **no compite con esta quincena** — se paga
+con la nómina del 18/09.
 
-- **Cuentas** — Santander, Efectivo y MercadoPago por default (con sus
-  balances reales de hoy: $8,953.48, $93.50 y $0). Cada movimiento se
-  asigna a una cuenta, así que cada tarjeta siempre muestra cuánto hay
-  ahí de verdad. Puedes agregar/quitar cuentas desde el tablero
-  ("+ Cuenta"). Tocar una cuenta filtra el resto del tablero (gastos
-  por categoría, historial) a solo esa cuenta.
-- **Categorías con ícono** — eliges de una lista fija (🍔 Comida, 🚌
-  Transporte, 🎉 Salidas, 🩺 Salud, 💾 Ahorro, etc.) tocando un chip,
-  en vez de escribir texto libre. Más rápido y consistente.
-- **Transferencias entre cuentas** — tipo de movimiento aparte
-  ("Mover"), para cuando pasas dinero de una cuenta a otra sin que
-  cuente como gasto real.
-- **Pendientes de pagar** — lo que sabes que debes pero todavía no
-  sale de ninguna cuenta (boletos, deudas, ficha, etc.), con un botón
-  "Ya lo pagué" que te pregunta de qué cuenta salió y lo convierte en
-  movimiento real al instante.
-- **Accesos rápidos** — botones de un toque para gastos que se repiten
-  (Metro $5 desde Santander, Combi $7.50 desde Efectivo por default).
-  Agrega los tuyos con nombre, emoji, categoría, monto y cuenta.
-- **Historial agrupado por día** — en vez de una tabla plana, ves cada
-  movimiento con su ícono, cuenta y categoría, agrupado por fecha.
-- **Presupuestos por categoría** — le pones un límite mensual a una
-  categoría (ej. Comida: $3,000) y la barra se pone roja si te pasas.
-- **Gastos fijos recurrentes** — registras algo una vez (ej. Renta,
-  Netflix) y se agrega solo como gasto cada mes, sin que lo captures
-  a mano.
-- **Tendencia mensual** — gráfica de ingresos vs. gastos de los
-  últimos meses, en cuanto haya al menos 2 meses con movimientos.
+### 3️⃣ Libre real
 
-El "Disponible del mes" (el techo de $15,200 que no se entendía bien)
-ya no existe en el tablero — lo reemplazan las cuentas reales y los
-pendientes, que dicen lo mismo de forma más concreta: cuánto tienes,
-cuánto debes, cuánto te queda.
+```
+Lo que entra hoy (nómina)        →  por confirmar
+− Ficha de titulación                 $620.00
+− Transporte hasta el 18/09          ~$150.00
+− Aporte al ahorro (18/09)          $2,400.00
+− Guardar para la tarjeta (27/09)   $2,535.96
+─────────────────────────────────────────────
+= Libre real de la quincena          por calcular con el depósito real
+```
 
-## Quincena del 20/08/2026 (confirmado)
+**Cuando me digas el depósito de hoy, lleno este bloque y ya sabes con
+qué cuentas de verdad.**
 
-Diego reportó: 100 horas trabajadas + bono de $2,500, pago quincenal
-por nómina, ya con el adelanto de $1,400 y la comisión de $70
-descontados.
+---
 
-**Depósito real: $9,229.34 MXN** (confirmado con el estado de cuenta
-de Santander el 21/08 — el número que teníamos antes, $8,953.48, era
-en realidad tu saldo *después* de un cargo que no habíamos visto, no
-el depósito mismo). Sigue por debajo del estimado original
-(~$12,500–13,500); la diferencia es casi seguro ISR sobre las horas
-extra y el bono, como ya habíamos apuntado.
+## 🎯 Las 2 metas financieras vivas
 
-También apareció un **pago automático de crédito nómina ($307.89)** —
-un préstamo del banco que se descuenta solo, probablemente cada
-quincena. Vale la pena confirmar el saldo pendiente y si conviene
-liquidarlo antes, como mencionaste.
+| Meta | Estado | Cómo va |
+|------|--------|---------|
+| 🚫 **Dejar de pedir adelantos de nómina (MINU)** | En prueba desde esta quincena | El recibo del 20/08 traía $2,070 de anticipo. La prueba real es el recibo de HOY: si viene sin MINU, lo lograste |
+| 💰 **Aportar $4,800/mes al fondo de la mudanza** | ✅ Al corriente | $2,400 el 22/08 y $2,400 el 04/09 |
 
-**Recibo de nómina oficial (CFDI) recibido el 21/08/2026:** confirma el
-neto ($9,229.34) y trae el desglose completo de percepciones y
-deducciones (Horas sueldo, Compensación Extraordinaria Variable,
-Séptimo día, ISR, IMSS, etc.) — ver la tabla completa en
-[gastos.md](gastos.md#recibos-de-nómina-oficiales-cfdi). Ese mismo
-documento trae un "Anticipo de Nómina MINU" de $2,070.00 — Diego
-confirmó que sí son los adelantos que ha estado pidiendo (el estimado
-anterior de $1,400 + $70 comisión era impreciso).
+---
 
-**Meta nueva (21/08/2026): dejar de pedir adelantos.** A partir de la
-quincena que empieza el 05/09/2026, la idea es cubrir imprevistos con
-el colchón de cada quincena en vez de pedir anticipo — cada anticipo
-le resta una tajada al neto de la siguiente quincena (revisa el ciclo:
-$2,070 de esta quincena salió de sueldo que ya se había adelantado
-antes). Vale la pena que en la próxima quincena revisemos juntos si el
-colchón alcanzó sin necesidad de pedir.
+## 📋 Cómo funciona esto (la mecánica)
 
-### Reparto de la quincena (20/08 – ~04/09/2026)
+### Las dos formas de capturar un gasto
 
-Corrección: los boletos son de **Corona Capital** (no Vaivén) —
-evento nuevo, plan aparte pendiente. **Ya los pagaste** ($3,720 desde
-Santander, confirmado con tu saldo real) — Fanny ya había puesto
-$2,000 de eso.
+1. **Contándome en la conversación** — *"gasté $350 en Chilis ayer"*.
+   Yo lo anoto en [gastos.md](gastos.md) (queda permanente en GitHub)
+   y lo agrego como dato semilla en el tablero. **Esta es la que
+   manda.**
+2. **Directo en el tablero** [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e)
+   — se guarda solo en ese navegador. Para respaldarlo, usa
+   "Exportar respaldo" y mándame el Markdown.
 
-La cita con Fanny ya tiene montos reales (confirmados con el banco):
-hotel $580, gasolina $590.80, cerveza $189, y una compra en
-Farmacias Similares de $343 (anticonceptivos) que no teníamos
-registrada — Fanny puso $100 de esa. La terapia ($350) también ya se
-pagó.
+**No hay sincronización automática del tablero hacia este archivo.**
+El archivo `.md` es la fuente de verdad; el tablero es la vista.
 
-**Ya pagaste casi todo (21/08):** ahorro $2,400 a Fanny (confirmado —
-no eran $3,000), la primera deuda de $200, tu abuela ($500, entregado)
-y un apoyo nuevo de $800 a tu mamá para gas y despensa. La ficha de
-titulación se movió al **05/09/2026**, tu próximo pago quincenal:
-sacas la ficha nueva y la pagas ese mismo día en vez de forzarla ahora
-— no se pierde el trámite, solo se regenera la referencia de pago (ver
-[metas/titulacion.md](../metas/titulacion.md)).
+### Cuándo se actualiza
 
-Los boletos de cine (−$82, 21/08) y el tianguis (−$7, 21/08) ya
-salieron de ahí también — ver el desglose completo, cuenta por cuenta,
-en [gastos.md](gastos.md).
+| Momento | Qué hacemos |
+|---------|-------------|
+| **Día de pago** (5 y 20 de cada mes) | Cierro la quincena anterior en `gastos.md` y abro la nueva con los 3 números |
+| Cuando llega un recibo de nómina | Me lo mandas (foto/PDF), lo guardo en `biblioteca/finanzas/` y agrego el desglose |
+| Cuando pagas algo | Me dices y lo paso de "Lo que debo" a Movimientos |
+| Cuando revisas el banco | Me dices el saldo real y corrijo — el banco siempre gana sobre mi estimado |
 
-**Fanny te depositó $1,000 extra el 22/08/2026** — todavía sin
-comprometer. Sugerencia: usa $200 para liquidar la otra deuda y deja
-los $800 restantes en el colchón, como apoyo directo a la meta de
-dejar de pedir adelantos de nómina (MINU) la próxima quincena. La
-ficha ($620) sigue sin competir por este dinero — FES Aragón está en
-vacaciones administrativas hasta antes del 05/09, así que no se puede
-adelantar aunque haya flujo.
+### Categorías
 
-| Destino | Monto | Prioridad |
-|---|---|---|
-| Otra deuda (la segunda) | $200 | Alta |
-| Transporte, resto de la quincena | ~$210 (estimado) | Fijo |
-| **Colchón / imprevistos del resto de la quincena** | **$1,505.18** | Sin comprometer |
-| **Total que tienes ahorita (Santander + efectivo)** | **$1,915.18** | |
+🍔 Comida · 🚌 Transporte · 🎉 Salidas/citas · 🩺 Salud · 👕 Ropa/estilo ·
+💾 Ahorro · 🏠 Casa/familia · 📱 Servicios · 🎓 Trámites · 🎁 Regalos ·
+❓ Otros
+
+### El tablero (Finanzas.exe), estilo Moneyfy
+
+Rediseñado el 20/08/2026 con la lógica de apps tipo **Moneyfy**: no un
+saldo suelto, sino **cuentas reales**.
+
+- **Cuentas** (Santander, MercadoPago, Efectivo, Pluxee) — cada
+  movimiento se asigna a una; tocar una filtra todo el tablero.
+- **Categorías con ícono** — se eligen tocando un chip, no escribiendo.
+- **Transferencias** entre cuentas, que no cuentan como gasto.
+- **Pendientes de pagar** con botón "Ya lo pagué".
+- **Accesos rápidos** para gastos repetidos (Metro, combi).
+- **Historial agrupado por día**, presupuestos por categoría, gastos
+  fijos recurrentes y tendencia mensual.
+
+---
 
 ## Notas
 
-- Esto es tu presupuesto personal. El ahorro conjunto de la mudanza
-  sigue viviendo en [../metas/ahorro.md](../metas/ahorro.md) — no se
-  mezclan para no perder claridad de cuál dinero es cuál.
+- **Regla de oro:** el fondo de la mudanza ($12,000/mes combinados) no
+  se toca para tapar huecos de la quincena. Si un mes no alcanza, se
+  recorta de otro lado, no de ahí.
+- El crédito de nómina de Santander (~$307.89 por quincena) sigue sin
+  saldo confirmado. Vale la pena preguntarlo en el banco: si el saldo
+  es chico, liquidarlo libera esa cantidad cada quincena.

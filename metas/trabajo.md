@@ -3,7 +3,7 @@
 **Objetivo:** Salir del trabajo actual hacia uno mejor pagado, idealmente
 relacionado con Relaciones Internacionales, con foco en comercio exterior
 y aduanas.
-**Estado:** ⏸️ **Modo mantenimiento** desde el 31/08/2026 — 2 vacantes aplicadas (SMJ Consulting, NC Recruitment Agency), sin búsqueda activa por ahora.
+**Estado:** ⏸️ **Modo mantenimiento** desde el 31/08/2026 — 2 vacantes aplicadas (SMJ Consulting, NC Recruitment Agency). Actualizado 05/09/2026 con rutas de búsqueda fijas para los 15 min de la comida.
 
 Tablero: [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136)
 
@@ -41,6 +41,53 @@ actual y lo urgente es **más dinero y/o remoto**, no necesariamente
 comercio exterior específicamente. Comercio exterior sigue como meta de
 mediano plazo, pero no es la ruta más rápida a "gano más ya" (ver sección
 de ruta rápida abajo) — se corren en paralelo, no es o uno o el otro.
+
+## 🔎 Rutas de búsqueda — actualizado 05/09/2026
+
+Tú dijiste que quieres volver a mirar vacantes. Esto **no rompe el modo
+mantenimiento**: son 15 minutos en la comida, no un bloque de la noche.
+Lo que cambia es que ahora hay una lista fija de dónde buscar, en vez
+de empezar de cero cada vez.
+
+### Las 4 búsquedas guardadas (guárdalas en favoritos del celular)
+
+| Ruta | Dónde | Qué buscar exactamente |
+|------|-------|-------------------------|
+| 💵 **Remoto pagado en dólares** | [Indeed MX](https://mx.indeed.com/q-trabajo-remoto-espa%C3%B1ol,-pago-en-dolares-empleos.html) · [WeRemoto](https://www.weremoto.com/categoria-de-trabajo/atencion-al-cliente) | "customer success remoto", "bilingual support LatAm", "virtual assistant bilingual" |
+| 🖥️ **Salto lateral de CS, mejor empresa** | [Computrabajo](https://mx.computrabajo.com/trabajo-de-customer-success-manager-en-remoto) · [Glassdoor CDMX](https://www.glassdoor.com.mx/Empleo/ciudad-de-m%C3%A9xico-customer-success-empleos-SRCH_IL.0,16_IC5017436_KO17,33.htm) | "customer success", "soporte bilingüe", filtrando **home office** |
+| 🌎 **Comercio exterior (la meta de fondo)** | Indeed / OCC / LinkedIn | "auxiliar aduanal", "coordinador de importaciones", "analista de comercio exterior" |
+| 🔁 **Lo que ya tienes prendido** | [LinkedIn](https://www.linkedin.com/in/diego-ruiz-elizondo-634b48297) con #OpenToWork | Contestar a reclutadores que escriban, nada más |
+
+*(Estas son las plataformas donde de verdad viven estas vacantes en
+México — no te puedo listar puestos concretos aquí porque cambian cada
+día y no quiero apuntar una vacante que ya se cerró. Cuando encuentres
+una que te lata, mándamela y la analizamos: sueldo real, salario
+cotizado ante el IMSS, y si vale romper el modo mantenimiento.)*
+
+### El filtro de 30 segundos (antes de aplicar a nada)
+
+Una vacante vale tu tiempo solo si cumple **2 de estas 3**:
+
+1. 💰 **Sube el sueldo de forma clara** (no "paquete con bonos" — sueldo).
+2. 🏠 **Es remota o recorta el traslado de 2h40.**
+3. 🧾 **El salario registrado ante el IMSS es bueno**, no solo el
+   paquete con vales y fondo de ahorro.
+
+⚠️ El punto 3 pesa más de lo que parece: tus **puntos INFONAVIT y el
+monto del crédito de vivienda** dependen del salario cotizado, no del
+bruto con bonos — ver [patrimonio.md](patrimonio.md). Una oferta de
+"$27,000" que registra $12,000 ante el IMSS te **cuesta** dinero en la
+meta de la casa.
+
+### Cuidado con las estafas
+
+- Nunca pagues por capacitación, equipo o "trámite de contratación".
+- Nada de CURP, INE o datos bancarios antes de una oferta formal
+  **por escrito**.
+- Desconfía de procesos que viven solo en WhatsApp.
+
+- [ ] Revisar 1-2 vacantes en la comida, un par de veces por semana
+- [ ] Cuando algo pase el filtro de 2 de 3, mandármelo para analizarlo
 
 ## El panorama real (para no perder tiempo)
 

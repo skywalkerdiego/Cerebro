@@ -39,6 +39,9 @@ Tablero: [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da
 | 31/08/2026 | Armaste el sistema de noticias con etiquetas de perspectiva (izquierda/alternativa incl. RT, generalista, oposición, experto) y convertiste Descubre.exe en el hub dedicado de noticias/política con links "seguir leyendo →" | Sistema |
 | 31/08/2026 | Arrancaste el plan de italiano: definiste Duolingo + 1 lección diaria en el Break 1 como única métrica (la racha), con podcast de refuerzo en el traslado más adelante | Aprendizaje |
 | 01/09/2026 | Auditoría de tableros: la fusión de Aspect.exe del 31/08 había dejado solo un checklist genérico y perdido la línea de tiempo del día — la repusiste de verdad en Rutina.exe ("Hoy, en bloques", con casillas reales) y de paso fusionaste ahí Tiempo.exe (presupuesto de horas como barra por día) y retiraste Pendientes.exe, que se desactualizaba solo; Cerebro.exe quedó con menos tiles y sin URLs huérfanas | Sistema |
+| 04/09/2026 | Cerraste una quincena completa sin dejar nada colgado: pagaste la tarjeta del banco, cubriste el recibo de AT&T de tu mamá con el límite liberado, mandaste el ahorro conjunto, pagaste terapia y una deuda vieja, y cambiaste los vales a efectivo para tener con qué moverte | Finanzas |
+| 05/09/2026 | Reordenaste el sistema para que se entienda: Cerebro.exe dejó de ser una cuadrícula de tiles chiquitos y pasó a 5 grupos con nombre y descripción, las finanzas se reescribieron alrededor de 3 números (cuánto tengo, cuánto debo, cuánto me queda) y se armaron rutas fijas de búsqueda de trabajo | Sistema |
+| 05/09/2026 | Diseñaste un detalle para Fanny que no cuesta casi nada y sí significa: el Recetario, un kit imprimible de carta, separador y receta médica, hecho a la medida de sus gustos | Perfil |
 
 ## Notas
 

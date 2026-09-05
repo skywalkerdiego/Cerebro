@@ -11,7 +11,7 @@ para la versión visual: la semana con su presupuesto de horas, el día de
 hoy en bloques accionables y el checklist de pendientes vivos — Aspect.exe
 y Tiempo.exe se fusionaron ahí el 01/09/2026 (ver [tiempo.md](tiempo.md)).
 
-Última actualización: 01/09/2026 (fusión de Aspect.exe y Tiempo.exe en Rutina.exe).
+Última actualización: 05/09/2026 (cierre de la semana 31/08–06/09; falta la captura de Kronos de la siguiente).
 
 ## 🚦 Las 3 reglas del sistema (lo que cambió el 31/08/2026)
 
@@ -67,8 +67,26 @@ de salir.
 | **Mié 02/09** | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 🎓 Firmar en tinta negra + escanear los 2 documentos (se corrió del martes) |
 | **Jue 03/09 (Off)** | — | — | — | — | — | 💜 Fanny — te quedas en su casa |
 | **Vie 04/09 (Off)** | — | — | — | — | — | 💜 Fanny · 🚗 tarde: cotizar el ventilador del Chevy |
-| **Sáb 05/09** | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 💰 **Día de pago** — sacar ficha y pagar por SPEI (ver abajo) |
+| **Sáb 05/09** ← hoy | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 💰 **Día de pago** — sacar ficha y pagar por SPEI (ver abajo) |
 | **Dom 06/09** | 7am - 5pm | ~9:00 am | **12:45 pm** | ~3:00 pm | ~6:20 pm | 🎓 Armar el PDF del comprobante + subir los 3 documentos |
+
+## 📮 Semana del 07/09 al 13/09 — falta el horario
+
+**Esta tabla se acaba el domingo 06/09.** Mándame la captura de Kronos
+de la siguiente semana y la remapeo con las horas de comida y los
+breaks calculados. Mientras no llegue, Cerebro.exe te va a decir
+"falta el horario de esta semana" en vez de inventarse bloques.
+
+Lo que **no** cambia aunque no haya horario:
+
+- 🗣️ Duolingo en el Break 1, todos los días.
+- 🎯 Un solo foco por noche, y una noche libre a la semana.
+- 💜 Tiempo con Fanny, que no compite con el foco.
+
+**Lo primero que entra en el próximo día off:** cotizar el ventilador
+del Chevy — se corrió del viernes 04/09 y sigue pendiente.
+
+---
 
 ⚠️ **Martes 01/09 — la comida cae a las 10:30 am**, apenas 4.5h después
 de entrar. Eso te deja **5.5 horas seguidas** de 10:30 am a 4:00 pm con

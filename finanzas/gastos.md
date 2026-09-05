@@ -1,289 +1,195 @@
 # 📒 Registro de gastos e ingresos
 
-Historial que se llena a partir de los respaldos exportados del
-tablero interactivo, o de lo que me cuentes en la conversación. Ver
-[README.md](README.md) para cómo funciona esto.
+Histórico permanente. Para saber **cómo estás hoy**, ve a
+[README.md](README.md) — ahí están los 3 números. Aquí está el detalle,
+**de lo más nuevo a lo más viejo**.
 
-## Resumen mensual
+---
 
-| Mes | Ingresos | Gastos | Ahorrado (fuera del fondo conjunto) | Notas |
-|-----|----------|--------|--------------------------------------|-------|
-| | | | | |
+## 📅 Quincena actual — 05/09 al 18/09/2026
 
-## Recibos de nómina oficiales (CFDI)
+**Abierta el 05/09/2026 (día de pago).**
 
-Desglose tal como viene en el recibo de nómina oficial (CFDI) de TTEC
-CX Solutions México — respalda los montos de "Movimientos" más abajo.
-El documento original (imagen/PDF) vive en
-[biblioteca/finanzas/](../biblioteca/finanzas/).
+### Ingresos
 
-| Quincena (fecha de pago) | Percepciones | Deducciones | Neto a pagar | Documento |
-|---|---|---|---|---|
-| 20/08/2026 | $13,562.66 | $4,333.32 | **$9,229.34** | [recibo-nomina_2026-08-20.png](../biblioteca/finanzas/recibo-nomina_2026-08-20.png) |
+| Fecha | Concepto | Monto |
+|-------|----------|-------|
+| 05/09/2026 | Nómina quincenal | ⏳ **Por confirmar** — mándame el depósito real o el recibo |
 
-**Desglose del 20/08/2026** (15 días pagados, periodo 01/08–15/08/2026):
+### Compromisos de esta quincena
 
-| Percepciones | Monto |
-|---|---|
-| Horas sueldo | $8,215.69 |
-| Compensación Extraordinaria Variable | $2,550.00 |
-| Séptimo día | $1,504.80 |
-| Sueldo por Vacaciones | $809.96 |
-| Prima Dominical | $247.59 (+ $234.62 exento) |
+| Concepto | Categoría | Monto | Fecha | Estatus |
+|----------|-----------|-------|-------|---------|
+| Ficha de titulación (SPEI, "Pago de título") | 🎓 Trámites | $620.00 | 05/09 | 🔶 Pendiente — **hoy** |
+| Transporte (10 días laborales × ~$15) | 🚌 Transporte | ~$150.00 | al 18/09 | Recurrente |
+| Aporte al fondo de la mudanza | 💾 Ahorro | $2,400.00 | 18/09 | 🔶 Pendiente |
+| Guardar para la tarjeta MercadoPago | 💳 Deuda | $2,535.96 | corta 27/09 | 🔶 Reservar |
+| Crédito de nómina Santander | ❓ Otros | ~$307.89 | automático | Se descuenta solo |
 
-| Deducciones | Monto |
-|---|---|
-| Anticipo de Nómina MINU | $2,070.00 |
-| ISR | $1,915.13 |
-| Seguro Social (IMSS) | $348.19 |
-
-**Confirmado (21/08/2026):** el "Anticipo de Nómina MINU" de $2,070.00
-sí son los adelantos de nómina que Diego ha estado pidiendo — el
-estimado anterior de $1,400 + $70 de comisión era impreciso, el número
-real de esta quincena es $2,070.00. **Meta nueva:** dejar de pedir
-adelantos a partir de la próxima quincena (05/09/2026 en adelante),
-para no seguir perdiendo una parte del sueldo antes de tiempo. Vale la
-pena planear el colchón de cada quincena (ver "Saldo en vivo" abajo)
-pensando en cubrir imprevistos sin depender del anticipo.
-
-**Cómo se usa esto para futuras quincenas:** en cuanto llegue el
-siguiente recibo de nómina (foto o PDF), mándamelo en la conversación
-— lo guardo en `biblioteca/finanzas/`, agrego la fila a la tabla de
-arriba y actualizo el desglose. Así queda un historial real,
-quincena por quincena, en vez de depender solo del estimado del estado
-de cuenta bancario.
-
-## 🎁 Aguinaldo
-
-**Dato real (22/08/2026):** Diego mandó su recibo de nómina de la
-quincena del 16-30/11/2025 (pagado 05/12/2025), que incluye el
-aguinaldo del año pasado — guardado en
-[biblioteca/finanzas/recibo-nomina_2025-12-05.png](../biblioteca/finanzas/recibo-nomina_2025-12-05.png).
-Confirma que TTEC paga el **mínimo de ley (15 días)**, calculado sobre
-el salario ordinario (no el salario diario integrado de $729.7 que
-también aparece en el recibo):
-
-| Concepto | Monto |
-|---|---|
-| Aguinaldo bruto (15 días) | $8,181.60 |
-| Exento de ISR (30 UMA 2025 × $113.14) | $3,394.20 |
-| Gravado (sujeto a ISR) | $4,787.40 |
-| Salario diario implícito ($8,181.60 ÷ 15) | ~$545.44 |
-
-Ese aguinaldo venía mezclado en una quincena normal (percepciones
-totales $22,420.31, neto $18,916.38 esa quincena) — el ISR de esa
-quincena ($2,745.37) cubre tanto el sueldo normal como el aguinaldo
-juntos, no se puede separar limpio del recibo.
-
-**Proyección para diciembre 2026**, con el mismo método y tu salario
-diario más reciente (Horas sueldo $8,215.69 ÷ 15 días = ~$547.71/día,
-del recibo del 20/08/2026):
-
-| Concepto | Monto estimado |
-|---|---|
-| Aguinaldo bruto (15 días) | ~$8,215.69 |
-| Exento de ISR (30 UMA 2026 × $117.31) | ~$3,519.30 |
-| Gravado (sujeto a ISR) | ~$4,696.39 |
-| ISR estimado sobre lo gravado (~16-17%, según la tasa efectiva del recibo de 2025) | ~$770-800 |
-| **Neto estimado** | **~$7,400-7,450** |
-
-Como el año pasado, es probable que este monto llegue **mezclado con
-tu quincena normal de diciembre**, no como depósito aparte — así que el
-"neto a pagar" de esa quincena se va a ver inflado, no es solo el
-aguinaldo. En cuanto tengas el recibo real de diciembre 2026, lo
-comparamos aquí y ajustamos si TTEC cambió algo.
-
-## Saldo en vivo — quincena del 20/08 al 04/09/2026
-
-Próximo pago: **05/09/2026** (14 días).
-
-**Fanny te depositó $1,000 (22/08/2026)** — dinero extra, no comprometido
-todavía. **Sugerencia para aprovecharlo al máximo:** la ficha de
-titulación no se puede adelantar aunque tengas el dinero (FES Aragón
-sigue en vacaciones administrativas hasta antes del 05/09), así que no
-compite por este ingreso. Lo que sí tiene sentido:
-
-1. **Liquidar la otra deuda ($200)** — la quitas de encima ya, en vez de
-   dejarla pendiente el resto de la quincena.
-2. **El resto ($800) al colchón** — apoya directo tu meta nueva de
-   dejar de pedir adelantos de nómina (MINU) la próxima quincena, y te
-   da margen para lo que falte de definir del Corona Capital y del
-   domingo en Satélite.
-
-Dime si lo quieres así o prefieres repartirlo distinto — en lo que
-confirmes, lo dejo dentro del colchón sin comprometer.
-
-**Corrección con tu estado de cuenta real (21/08):** el depósito de
-nómina fue en realidad **$9,229.34** (no $8,953.48 — ese número era
-tu saldo *después* de un cargo que no habíamos visto). También
-aparecieron dos gastos que no teníamos registrados: un pago de
-**crédito nómina de $307.89** (préstamo del banco, se descuenta solo)
-y **$343 en Farmacias Similares** (anticonceptivos, Fanny puso $100 de
-esos). La terapia ($350) ya se pagó, no sigue pendiente.
-
-**Ya hiciste varios pagos más (21/08):** ahorro ($2,400 a Fanny —
-confirmado, no eran $3,000), la primera deuda de $200, tu abuela ($500,
-entregado), y un apoyo nuevo de $800 a tu mamá para gas y despensa.
-Sobre la ficha: decidiste esperar y sacar/pagar una ficha nueva el
-**05/09/2026**, día de tu próximo pago — no se pierde el trámite,
-solo se regenera la referencia de pago (ya actualizado en
-[metas/titulacion.md](../metas/titulacion.md)).
-
-| | Monto |
-|---|---|
-| Santander (con el depósito de Fanny de $1,000 ya adentro) | $1,855.68 |
-| Efectivo (después del tianguis, −$7) | $59.50 |
-| **Total que tienes ahorita** | **$1,915.18** |
-| Reservado (otra deuda #2 + transporte — la ficha se mueve a la próxima quincena) | −$410.00 |
-| **Libre real / colchón** | **$1,505.18** |
-
-| Destino | Monto | Estatus |
-|---|---|---|
-| Otra deuda (la segunda, distinta a la que ya pagaste) | $200 | Pendiente |
-| Transporte del resto de la quincena | ~$210 | Estimado |
-| Ficha de titulación (ficha nueva) | $620 | Objetivo: sacarla y pagarla el 05/09 |
-
-**Cómo lo trackeamos:** en cuanto pagues algo, dímelo aquí en la
-conversación ("ya pagué el hotel, $600" o "gasté $15 en combi") y lo
-paso de "Compromisos pendientes" (o lo agrego si es nuevo) a
-Movimientos, con el saldo bancario recalculado. El metro lo pagas con
-el teléfono (saldo de la tarjeta, no efectivo) — sigue contando dentro
-del presupuesto de transporte aunque no uses el cambio de la mochila
-para eso.
-
-## Presupuesto de la quincena — corte 04/09/2026 (CERRADO)
-
-Diego reportó su estado de cuenta real (04/09/2026) y organizamos una
-lista de pagos pendientes hasta dejarla resuelta. Nota de cuentas: la
-de "$606.98" es **MercadoPago** (no Nu) — se decidió dejarla intacta
-como colchón (gana 5.4% anual), no se usó para ningún pago de esta
-quincena.
-
-### Cómo quedó al final
-
-1. **Tarjeta de crédito del banco** (corte agosto, $3,132.88, vencía
-   07/09) — **pagada desde Santander**. $7,293.49 − $3,132.88 =
-   $4,160.61 restantes en Santander (confirmado con el estado de
-   cuenta).
-2. **Pago a mamá** — en vez de darle $2,000 en efectivo (que incluían
-   $1,700 del carro + $300 de otro gasto), Diego **pagó el recibo de
-   AT&T ($2,077) con el límite que se liberó de la tarjeta del banco**
-   al pagarla. Mamá confirmó que esto sustituye completo el pago. Ese
-   cargo cae en el corte de **septiembre de la tarjeta MercadoPago**
-   (total $2,535.96, corta el **27/09**, límite disponible $1,064.04)
-   — se paga con la nómina que ya se haya cobrado para esa fecha, no
-   compite con esta quincena.
-3. **Vales Pluxee** ($1,548.49 de saldo): $818.40 ya se gastaron
-   directo en Bodega Aurrera (despensa de la casa). Del resto
-   ($730.09), Diego decidió **cambiarlo a efectivo con su amigo**
-   (~$100 de comisión) para tener disponibilidad de efectivo, en vez
-   de usarlo solo en super — ver el plan de efectivo abajo.
-4. **Otro pago pendiente ($900), ahorro conjunto con Fanny ($2,400) y
-   terapia ($350)** — los tres ya pagados desde Santander. Total
-   $3,650. $4,160.61 − $3,650.00 = **$510.61 restantes en Santander.**
-
-### Plan de efectivo para el resto de la quincena (hasta el 18/09)
-
-Diego no gasta en comida entre semana (le mandan lunch), así que su
-único gasto fijo de efectivo es transporte; lo demás es la salida con
-Fanny (tianguis, que ahí no se puede pagar con tarjeta).
-
-| Fuente | Monto |
-|---|---|
-| Santander (sobrante después de todos los pagos) | $510.61 |
-| Pluxee cambiado a efectivo con el amigo ($730.09 − ~$100 comisión) | +$630.09 |
-| **Total efectivo disponible** | **$1,140.70** |
-| − Transporte (10 días laborales × ~$15) | −$150.00 |
-| **Libre para el tianguis con Fanny + imprevistos** | **$990.70** |
-
-Con esto, la salida/plan con Fanny (quedarse en casa domingo, tianguis
-el lunes, tope sugerido $200-300) cabe cómodo, y sigue quedando un
-colchón de ~$690-790 para el resto de la quincena. Aparte, los
-$606.98 de MercadoPago siguen intactos como reserva de emergencia,
-sin tocar.
-
-**Resumen de cuentas al cierre de este presupuesto:**
-
-| Cuenta / fondo | Monto |
-|---|---|
-| Santander | $510.61 (antes de sacar el transporte) |
-| MercadoPago (cuenta, colchón intacto) | $606.98 |
-| Tarjeta MercadoPago (por pagar, vence 27/09) | $2,535.96 |
-| Pluxee (ya cambiado a efectivo) | $0 (los $730.09 pasan a efectivo) |
-
-**Confirmado como pagado (04/09/2026):** tarjeta del banco ($3,132.88,
-desde Santander), otro pago pendiente ($900), ahorro con Fanny
-($2,400) y terapia ($350) — los tres últimos también desde Santander.
-El AT&T ($2,077) se pagó con el límite liberado de la tarjeta del
-banco, cae en el corte de MercadoPago del 27/09. Reflejado también en
-el tablero [Finanzas.exe](https://claude.ai/code/artifact/6841396f-30cd-494e-8139-b05c33caec8e)
-como datos semilla (cuenta Pluxee agregada, movimientos y pendientes
-actualizados).
-
-## Movimientos
-
-Reconstruido a partir de tu estado de cuenta real de Santander
-(21/08/2026) — estos números ya no son estimados.
+### Movimientos confirmados
 
 | Fecha | Tipo | Categoría | Descripción | Monto |
 |-------|------|-----------|-------------|-------|
-| 20/08/2026 | Ingreso | Nómina | Quincena (100h + bono $2,500, neto tras adelanto y comisión) | +$9,229.34 |
-| 20/08/2026 | Gasto | Otros | Pago de crédito nómina (préstamo del banco, automático) | −$307.89 |
+| — | — | — | *(Todavía nada capturado esta quincena)* | — |
+
+### 🎯 La prueba de esta quincena
+
+El recibo de hoy es el examen de la meta de **dejar de pedir adelantos
+de nómina (MINU)**. Si viene sin la deducción "Anticipo de Nómina
+MINU", significa que el colchón de la quincena pasada aguantó solo —
+que es exactamente el punto. Mándame el recibo y lo verificamos.
+
+---
+
+## ✅ Quincena del 20/08 al 04/09/2026 — CERRADA
+
+Cerrada el 04/09/2026 con el estado de cuenta real en la mano.
+
+### Cómo terminó
+
+| Cuenta / fondo | Saldo al cierre |
+|---|---|
+| 🏦 Santander | $510.61 |
+| 💛 MercadoPago (colchón, intacto) | $606.98 |
+| 💵 Efectivo (Pluxee cambiado, − comisión) | ~$630.09 |
+| 🎟️ Pluxee | $0 |
+| 💳 Tarjeta MercadoPago (deuda que pasa a septiembre) | −$2,535.96 |
+
+### Los 4 pagos del cierre (04/09)
+
+1. **Tarjeta de crédito del banco** — $3,132.88 desde Santander
+   (corte de agosto, vencía 07/09). $7,293.49 − $3,132.88 = $4,160.61.
+2. **Pago a mamá** — en vez de darle $2,000 en efectivo ($1,700 del
+   carro + $300 de otro gasto), pagaste el **recibo de AT&T ($2,077)
+   con el límite liberado de la tarjeta**. Mamá confirmó que eso
+   sustituye el pago completo. Ese cargo cae en el corte de
+   **septiembre de la tarjeta MercadoPago** (total $2,535.96, corta el
+   27/09).
+3. **Vales Pluxee** ($1,548.49) — $818.40 se fueron en despensa en
+   Bodega Aurrera; los otros $730.09 se cambiaron a efectivo con un
+   amigo (~$100 de comisión) para tener disponibilidad real.
+4. **Otro pago pendiente ($900) + ahorro con Fanny ($2,400) + terapia
+   ($350)** — los tres desde Santander. $4,160.61 − $3,650 = $510.61.
+
+**Nota de cuentas:** la cuenta de "$606.98" es **MercadoPago** (no Nu).
+Se dejó intacta como colchón porque gana ~5.4% anual.
+
+### Plan de efectivo que quedó
+
+| Fuente | Monto |
+|---|---|
+| Santander sobrante | $510.61 |
+| Pluxee → efectivo | +$630.09 |
+| **Disponible** | **$1,140.70** |
+| − Transporte (10 días × ~$15) | −$150.00 |
+| **Libre para tianguis con Fanny + imprevistos** | **$990.70** |
+
+### Movimientos del 20/08 (reconstruidos del estado de cuenta real)
+
+| Fecha | Tipo | Categoría | Descripción | Monto |
+|-------|------|-----------|-------------|-------|
+| 20/08/2026 | Ingreso | Nómina | Quincena (100h + bono $2,500, neto tras anticipo MINU) | +$9,229.34 |
+| 20/08/2026 | Gasto | Otros | Crédito de nómina Santander (automático) | −$307.89 |
 | 20/08/2026 | Gasto | Salud | Terapia | −$350.00 |
 | 20/08/2026 | Gasto | Transporte | Gasolina (tarjeta) | −$483.80 |
 | 20/08/2026 | Transferencia | — | Retiro de cajero: Santander → Efectivo | −$950.00 |
 | 20/08/2026 | Gasto | Salidas/citas | Cerveza (OXXO) | −$189.00 |
-| 20/08/2026 | Gasto | Salud | Farmacias Similares (anticonceptivos) — Fanny puso $100 de esto | −$343.00 |
+| 20/08/2026 | Gasto | Salud | Farmacias Similares (anticonceptivos; Fanny puso $100) | −$343.00 |
 | 20/08/2026 | Gasto | Salidas/citas | Hotel | −$580.00 |
-| 21/08/2026 | Ingreso | Fanny | Para los boletos de Corona Capital (vía MercadoPago, a Santander) | +$2,000.00 |
-| — | Gasto | Salidas/citas | Tacos (efectivo, no aparece en el banco) | −$410.00 |
-| — | Gasto | Transporte | Gasolina, la parte en efectivo | −$107.00 |
-| — | Ingreso | Fanny | En efectivo (la misma de arriba, no es extra) | +$100.00 |
-| — | Gasto | Otros | Efectivo sin detalle — para cuadrar con lo que reportaste ($566.50 reales: $500 apartados + $66.50 sueltos) | −$60.00 |
-| 21/08/2026 | Gasto | Salidas/citas | Boletos Corona Capital (total, ya con los $2,000 de Fanny adentro) | −$3,720.00 |
-| 21/08/2026 | Gasto | Ahorro | Aporte a ahorro conjunto, enviado a Fanny | −$2,400.00 |
-| 21/08/2026 | Gasto | Otros | Deuda (la primera de las dos) | −$200.00 |
-| 21/08/2026 | Gasto | Otros | Efectivo → tu abuela (entregado) | −$500.00 |
-| 21/08/2026 | Gasto | Otros | Apoyo a tu mamá (gas + despensa) | −$800.00 |
-| 21/08/2026 | Gasto | Salidas/citas | Boletos de cine (2, Harry Potter y la Piedra Filosofal 25 años de magia, Cinepolis Sentura Tlalnepantla, sala 6, viernes 28/08 9:20pm) — Santander | −$82.00 |
-| 21/08/2026 | Gasto | Comida | Tianguis (efectivo, sueltos) | −$7.00 |
-| 22/08/2026 | Ingreso | Fanny | Depósito extra, sin comprometer todavía — ver sugerencia de reparto arriba | +$1,000.00 |
+| 21/08/2026 | Ingreso | Fanny | Para boletos de Corona Capital | +$2,000.00 |
+| 21/08/2026 | Gasto | Salidas/citas | Boletos Corona Capital (total) | −$3,720.00 |
+| 21/08/2026 | Gasto | Ahorro | Aporte al fondo conjunto (a Fanny) | −$2,400.00 |
+| 21/08/2026 | Gasto | Otros | Deuda #1 | −$200.00 |
+| 21/08/2026 | Gasto | Otros | Efectivo → tu abuela | −$500.00 |
+| 21/08/2026 | Gasto | Casa/familia | Apoyo a tu mamá (gas + despensa) | −$800.00 |
+| 21/08/2026 | Gasto | Salidas/citas | 2 boletos de cine (HP y la Piedra Filosofal, Cinépolis Sentura) | −$82.00 |
+| 21/08/2026 | Gasto | Comida | Tianguis (efectivo) | −$7.00 |
+| 22/08/2026 | Ingreso | Fanny | Depósito extra | +$1,000.00 |
+| 04/09/2026 | Gasto | Deuda | Tarjeta de crédito del banco (corte agosto) | −$3,132.88 |
+| 04/09/2026 | Gasto | Otros | Otro pago pendiente | −$900.00 |
+| 04/09/2026 | Gasto | Ahorro | Aporte al fondo conjunto (a Fanny) | −$2,400.00 |
+| 04/09/2026 | Gasto | Salud | Terapia | −$350.00 |
+| 04/09/2026 | Gasto | Servicios | Recibo AT&T de mamá (cargado a tarjeta MercadoPago) | −$2,077.00 |
+| 04/09/2026 | Gasto | Comida | Despensa Bodega Aurrera (vales Pluxee) | −$818.40 |
+| — | Gasto | Salidas/citas | Tacos (efectivo) | −$410.00 |
+| — | Gasto | Transporte | Gasolina, parte en efectivo | −$107.00 |
 
-## Compromisos pendientes de esta quincena (20/08/2026)
+---
 
-Reportados por Diego, aún no confirmados como pagados — avísame cuando
-salga cada uno y lo paso a Movimientos.
+## 🧾 Recibos de nómina oficiales (CFDI)
 
-| Concepto | Categoría | Monto | Estatus |
-|----------|-----------|-------|---------|
-| Otra deuda (la segunda) | Otros | $200 | Pendiente |
-| Transporte quincena (~12 días laborales) | Transporte | ~$210 (por confirmar días) | Recurrente |
-| Domingo 23/08: turno + desvío a Satélite (transporte público) + hamburguesa y helado con Fanny + regreso | Transporte + Salidas/citas | ~$280-390 estimado (~$31-41 transporte: metro + combi El Rosario-Satélite ida y vuelta + Metrobús L6 — su mamá lo recoge en la parada, sin combi final — + ~$250-350 hamburguesa y helado en McDonald's, actualizado 22/08) | Estimado — falta confirmar montos reales ese día. Ruta completa en [../perfil/rutina.md](../perfil/rutina.md#domingo-2308-ruta-a-satélite-y-de-regreso) |
-| Chicles, body mist y cable USB-C, en puestos camino al metro (hoy) | Compras | ~$90-190 estimado | Estimado de puesto/tianguis, ver [../perfil/compras.md](../perfil/compras.md#dónde-comprar-barato) |
+Desglose tal como viene en el recibo oficial de TTEC CX Solutions
+México. Los documentos originales viven en
+[biblioteca/finanzas/](../biblioteca/finanzas/).
 
-## 🚗 Carros (29/08/2026)
+| Quincena (fecha de pago) | Percepciones | Deducciones | Neto | Documento |
+|---|---|---|---|---|
+| 05/09/2026 | ⏳ por recibir | | | — |
+| 20/08/2026 | $13,562.66 | $4,333.32 | **$9,229.34** | [recibo-nomina_2026-08-20.png](../biblioteca/finanzas/recibo-nomina_2026-08-20.png) |
+| 05/12/2025 | $22,420.31 | $3,503.93 | **$18,916.38** | [recibo-nomina_2025-12-05.png](../biblioteca/finanzas/recibo-nomina_2025-12-05.png) — incluye aguinaldo |
 
-Ver [carros.md](../perfil/carros.md) para el detalle completo (Chevy y
-Aveo de mamá) y [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7)
-para el tablero.
+### Desglose del 20/08/2026 (periodo 01/08–15/08, 15 días)
+
+| Percepciones | Monto | | Deducciones | Monto |
+|---|---|---|---|---|
+| Horas sueldo | $8,215.69 | | Anticipo de Nómina MINU | $2,070.00 |
+| Compensación Extraordinaria Variable | $2,550.00 | | ISR | $1,915.13 |
+| Séptimo día | $1,504.80 | | Seguro Social (IMSS) | $348.19 |
+| Sueldo por Vacaciones | $809.96 | | | |
+| Prima Dominical | $247.59 (+$234.62 exento) | | | |
+
+**El dato que importa:** los $2,070 de "Anticipo de Nómina MINU" son
+los adelantos que has estado pidiendo. Cada uno le come una tajada al
+neto de la quincena siguiente. De ahí la meta de dejar de pedirlos.
+
+**Cómo se llena esto:** cuando llegue un recibo nuevo (foto o PDF),
+mándamelo — lo guardo en `biblioteca/finanzas/`, agrego la fila y
+actualizo el desglose.
+
+---
+
+## 🎁 Aguinaldo
+
+**Dato real (recibo del 05/12/2025):** TTEC paga el **mínimo de ley
+(15 días)**, calculado sobre el salario ordinario — no sobre el salario
+diario integrado de $729.70 que también aparece en el recibo.
+
+| Concepto | 2025 (real) | 2026 (proyección) |
+|---|---|---|
+| Aguinaldo bruto (15 días) | $8,181.60 | ~$8,215.69 |
+| Exento de ISR (30 UMA) | $3,394.20 | ~$3,519.30 |
+| Gravado | $4,787.40 | ~$4,696.39 |
+| ISR estimado sobre lo gravado | — | ~$770–800 |
+| **Neto estimado** | — | **~$7,400–7,450** |
+
+Como en 2025, es probable que llegue **mezclado con la quincena normal
+de diciembre**, no como depósito aparte — así que ese "neto a pagar"
+se va a ver inflado y no es solo aguinaldo.
+
+💡 **Idea:** ese aguinaldo (~$7,400) cae justo en la recta final de la
+meta de la mudanza. Es el único ingreso extra grande del año que ya
+está confirmado — vale la pena decidir desde ahora a dónde va, antes
+de que llegue y se disuelva.
+
+---
+
+## 🚗 Carros — gastos abiertos
+
+Detalle completo en [../perfil/carros.md](../perfil/carros.md) ·
+tablero [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7).
 
 | Concepto | Monto | Estatus |
 |---|---|---|
-| Radiador del Chevy — refacción | Por confirmar monto | ✅ Pagada |
-| Radiador del Chevy — mano de obra | Por confirmar monto | 🔶 Pendiente de pago |
-| Aveo de mamá — diagnóstico eléctrico (30/08) | Por cotizar | 🔶 Programado |
+| Radiador del Chevy — refacción | Por confirmar | ✅ Pagada |
+| Radiador del Chevy — mano de obra | Por confirmar | 🔶 Pendiente de pago |
+| **Ventilador del Chevy — cotización** | Por cotizar | ⚠️ **Se corrió del vie 04/09 — sigue sin cotizar** |
+| Aveo de mamá — diagnóstico eléctrico | Por cotizar | 🔶 Programado 30/08 |
 
-Dime los montos reales en cuanto los tengas (el de la refacción que ya
-pagaste, y el de la mano de obra cuando lo confirmes) y los paso a
-Movimientos / Compromisos pendientes de la quincena que corresponda.
+---
 
-## Movido a la próxima quincena (05/09 en adelante)
+## Resumen mensual
 
-| Concepto | Categoría | Monto | Nota |
-|----------|-----------|-------|------|
-| Ficha de titulación (ficha nueva) | Otros | $620 | La original vencía 29/08; se saca y paga la nueva el **05/09/2026**, día de pago. Ver [metas/titulacion.md](../metas/titulacion.md). |
-
-**Nota sobre el préstamo:** el crédito nómina ($307.89 esta quincena)
-probablemente se descuenta solo cada quincena, no es un pago único —
-vale la pena confirmarlo y ver si conviene liquidarlo antes, como
-mencionaste. Dime si quieres que investiguemos eso.
+| Mes | Ingresos | Gastos | Ahorrado (fondo conjunto) | Notas |
+|-----|----------|--------|---------------------------|-------|
+| Agosto 2026 | $12,229.34 (nómina + Fanny) | ~$11,700 | $2,400 | Quincena pesada: Corona Capital, apoyo a mamá y abuela |
+| Septiembre 2026 | *(en curso)* | | $2,400 al 04/09 | |

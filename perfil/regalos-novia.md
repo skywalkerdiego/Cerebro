@@ -5,11 +5,74 @@ Espacio para juntar ideas de regalo, ligado a fechas importantes (ver
 disponible (ver [../metas/ahorro.md](../metas/ahorro.md)). Sus gustos
 completos están en [novia.md](novia.md).
 
-Próxima fecha: **aniversario, 20 de octubre** (2 años).
+Próxima fecha: **aniversario, 20 de octubre** (2 años) — faltan **45 días** al 05/09/2026.
 
 **Presupuesto:** no te importa gastar algo considerable con tal de que
 le guste. Idea que ya tienes en mente para el aniversario: una comida
 + unos zapatos o algo de maquillaje.
+
+## 🎁 Detalle de ahora — el kit de papel (05/09/2026)
+
+**Lo que pediste:** un detallito ya, sin gastar mucho, pero que
+signifique. Una carta escrita a mano, sobre algo bonito.
+
+**Lo que se armó:** un **kit imprimible de 3 piezas**, diseñado a la
+medida de sus gustos (Snoopy, Twenty One Pilots, Joji, Game of Thrones,
+The Walking Dead) y de que es doctora. Tú lo imprimes y lo escribes a
+mano — el diseño es el envoltorio, las palabras son tuyas.
+
+Tablero/imprimible: **[Kit para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9)**
+
+| Pieza | Qué es | Para qué |
+|-------|--------|----------|
+| ✉️ **Hoja de carta** | Papel de carta con marco ilustrado y renglones guía | La carta escrita a mano |
+| 🔖 **Separador de libros** | Marcapáginas con línea de electro y la constelación de ustedes dos | Que lo use a diario en sus libros y fanfics — se acuerda de ti sin que estés |
+| 💊 **Receta médica** | Tarjetita tipo receta: "Rx: 2 abrazos cada 8 h, por tiempo indefinido" | El chiste interno de que es doctora. Es la pieza que la va a hacer reír |
+
+### Cuánto cuesta
+
+| Concepto | Costo |
+|----------|-------|
+| Impresión a color en papel grueso (opalina/cartulina), 2 hojas | $20 – $60 |
+| Sobre bonito (papelería) | $10 – $30 |
+| *(Opcional)* algo chico que acompañe: café de especialidad, una flor, su snack | $80 – $200 |
+| **Total** | **$30 – $290** |
+
+**No compite con el ahorro de la mudanza ni con el regalo del
+aniversario** — ese sigue siendo aparte, el 20/10 (faltan 45 días).
+
+### Qué escribirle (guion, no texto para copiar)
+
+Tú escribes mejor que yo lo que sientes por ella — eso ya está en
+[novia.md](novia.md). Esto es solo el esqueleto para que no te
+quedes viendo la hoja en blanco:
+
+1. **Un momento específico, no un adjetivo.** No "eres increíble",
+   sino *el día que…*. El detalle concreto es lo que se recuerda.
+2. **Algo que solo ustedes dos entiendan.** El tatuaje del mandala,
+   "Disco" de Surf Curse, la clase de música de la prepa, Tris.
+3. **Algo que hayas notado de ella últimamente** — que le estresa el
+   trabajo y el dinero (está en [novia.md](novia.md)). Nombrarlo y
+   decirle que lo ves vale más que cualquier cumplido genérico.
+4. **Una promesa chiquita y cumplible**, no una grande y vaga. Las
+   metas grandes (mudanza, boda) ya están en el sistema; aquí va algo
+   de esta semana.
+5. **Cierre corto.** Una línea. Las cartas largas se leen una vez;
+   las que cierran bien se releen.
+
+⚠️ **No la escribas en el celular y la copies.** Escríbela directo
+sobre la hoja, con errores y todo — es justamente lo que la hace valer.
+
+### Notas del diseño
+
+Los dibujos del kit son **ilustración original** hecha a la medida
+(línea, no personajes con copyright): una casita de perro con su pájaro,
+electro/estetoscopio, un lobo y un cuervo de invierno, una brújula,
+notas y un vinilo. Son guiños a lo que le gusta, no calcas de los
+personajes — se ve mejor impreso y no es un póster genérico bajado de
+internet.
+
+---
 
 ## Regalos en puerta (22/08/2026)
 
