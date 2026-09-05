@@ -56,7 +56,11 @@ plan del domingo con Fanny en [README.md](README.md#-plan-para-el-domingo-con-fa
 
 | Fecha | Tipo | Categoría | Descripción | Monto |
 |-------|------|-----------|-------------|-------|
-| — | — | — | *(Todavía nada capturado en cuentas de efectivo/débito esta quincena — el gasto de los libros fue a crédito, ver arriba)* | — |
+| 05/09/2026 | Transferencia | — | Retiro de cajero: Santander → Efectivo | −$300.00 |
+
+Con esto, Santander queda en **$210.61** ($510.61 − $300) y el efectivo
+sube a **~$930** (~$630 que quedaron de la quincena pasada, sin
+confirmar hoy, + los $300 nuevos).
 
 ### 🎯 La prueba de esta quincena
 

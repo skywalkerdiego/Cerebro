@@ -27,11 +27,11 @@ Checado directo en tus apps (Santander, MercadoPago, Pluxee) el
 
 | Cuenta | Saldo | Para qué es |
 |--------|-------|-------------|
-| 🏦 **Santander** | $510.61 | Ya incluye la nómina de esta quincena — cayó antes de tiempo (viernes 04/09), porque **cuando el día de pago (5 o 20) cae en fin de semana, se paga el hábil anterior** |
+| 🏦 **Santander** | **$210.61** | Después de sacar $300 en cajero (05/09). Ya incluye la nómina de esta quincena — cayó antes de tiempo (viernes 04/09), porque **cuando el día de pago (5 o 20) cae en fin de semana, se paga el hábil anterior** |
 | 💛 **MercadoPago (cuenta)** | $606.98 | **Colchón de emergencia — no se toca.** Gana ~5.4% anual |
 | 🍽️ **Pluxee — Restaurante** | $714.09 | Bolsa que descubrimos hoy: es **solo para comer fuera** (restaurantes), no sirve para gasolina ni súper |
-| 🎟️ **Pluxee — Despensa** | ~$0 | Ya se gastó en Bodega Aurrera (última cifra conocida) |
-| 💵 **Efectivo** | ~$630 *(última cifra conocida, sin confirmar hoy)* | Para transporte y lo que Pluxee no cubre |
+| 🎟️ **Pluxee — Despensa** | ~$0 *(por confirmar — Diego está viendo con un amigo cambiarla a efectivo)* | Categoría cerrada a comida/súper, no a gasolina ni otros gastos |
+| 💵 **Efectivo** | **~$930** *(~$630 que quedaban de la quincena pasada, sin confirmar hoy, + $300 recién sacados)* | Para gasolina, transporte y lo que Pluxee no cubre |
 | 💰 **Fondo mudanza (con Fanny)** | $4,800 | Intocable. Vive en [../metas/ahorro.md](../metas/ahorro.md) |
 
 ✅ **La nómina de esta quincena ya cayó** — se pagó antes de tiempo el
@@ -71,11 +71,12 @@ salen de la nómina del 18/09, no de lo que tienes ahorita.
 ### 3️⃣ Libre real
 
 ```
-Santander (ya con la nómina de esta quincena adentro)   $510.61
-Pluxee Restaurante (solo para comer fuera)               $714.09
-− Transporte hasta el 18/09                              ~$150.00
+Santander (después del retiro de $300 del 05/09)          $210.61
+Efectivo (~$630 de antes + $300 recién sacados)           ~$930.00
+Pluxee Restaurante (solo para comer fuera)                 $714.09
+− Transporte hasta el 18/09                                ~$150.00
 ──────────────────────────────────────────────────────────────
-= Libre real para gasolina, antojitos e imprevistos     ~$1,074.70
+= Libre real para gasolina, antojitos e imprevistos      ~$1,704.70
 ```
 
 El aporte al ahorro ($2,400) y la tarjeta MercadoPago ($3,201.59) **no
@@ -83,16 +84,25 @@ salen de este dinero** — se pagan con la nómina que caiga el 18/09.
 Cuando confirmes el depósito de esta quincena, este bloque se
 recalcula con el número real en vez de "por confirmar".
 
-### 🚗💜 Plan para el domingo con Fanny
+### 🚇 Reparto del retiro del 05/09 ($300 en efectivo + $210.61 en Santander)
 
-- **Gasolina:** paga con Santander débito — tienes $510.61 libres, de
-  sobra para un tanque/recorrido.
+- **Metro (se queda en Santander, no se saca):** ~$70 — cubre los
+  viajes de regreso ($5 c/u, contactless) de esta semana y la que sigue.
+- **Combi + cambio suelto (efectivo):** ~$140 del efectivo recién
+  sacado — cubre los regresos en combi (~$8 c/u) más un colchón de
+  monedas/billetes chicos.
+- **Sobrante en Santander (~$140.61):** en vez de mandarlo a
+  MercadoPago de una vez, déjalo un par de días como colchón — si
+  después de la quincena sigue sin usarse, ese es el que se transfiere.
+
+### 🚗💜 Plan para ver a Fanny (gasolina)
+
+- **Gasolina: paga en efectivo**, no con Santander débito — con el
+  retiro de hoy tienes efectivo de sobra (~$930) y así no le quitas
+  nada al colchón que se quedó en Santander para el metro.
 - **Antojito:** paga con **Pluxee Restaurante** si el lugar lo acepta
   — tienes $714.09 ahí sin tocar, y es justo para esto. Si es algo de
   tianguis/puesto que no acepta tarjeta, usa efectivo.
-- **Lo que quede de Santander** ($510.61 menos la gasolina) es tu
-  colchón hasta el 18/09 — no hace falta guardarlo todo, pero evita
-  dejarlo en $0.
 
 ---
 
