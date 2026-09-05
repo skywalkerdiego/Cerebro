@@ -27,16 +27,21 @@ Checado directo en tus apps (Santander, MercadoPago, Pluxee) el
 
 | Cuenta | Saldo | Para qué es |
 |--------|-------|-------------|
-| 🏦 **Santander** | $510.61 | Igual que el cierre del 04/09 — la nómina de esta quincena **todavía no aparece aquí** |
+| 🏦 **Santander** | $510.61 | Ya incluye la nómina de esta quincena — cayó antes de tiempo (viernes 04/09), porque **cuando el día de pago (5 o 20) cae en fin de semana, se paga el hábil anterior** |
 | 💛 **MercadoPago (cuenta)** | $606.98 | **Colchón de emergencia — no se toca.** Gana ~5.4% anual |
 | 🍽️ **Pluxee — Restaurante** | $714.09 | Bolsa que descubrimos hoy: es **solo para comer fuera** (restaurantes), no sirve para gasolina ni súper |
 | 🎟️ **Pluxee — Despensa** | ~$0 | Ya se gastó en Bodega Aurrera (última cifra conocida) |
 | 💵 **Efectivo** | ~$630 *(última cifra conocida, sin confirmar hoy)* | Para transporte y lo que Pluxee no cubre |
 | 💰 **Fondo mudanza (con Fanny)** | $4,800 | Intocable. Vive en [../metas/ahorro.md](../metas/ahorro.md) |
 
-⚠️ **La nómina de esta quincena aún no aparece en Santander** (mismo
-$510.61 del cierre del 04/09). En cuanto la veas reflejada, dime el
-monto y actualizo este bloque.
+✅ **La nómina de esta quincena ya cayó** — se pagó antes de tiempo el
+viernes 04/09 porque el 5 de septiembre cayó sábado (regla: día de
+pago en fin de semana → se paga el hábil anterior). Ya está incluida
+en el $510.61 y en los pagos que se hicieron ese mismo día (tarjeta,
+ahorro, etc. — ver [gastos.md](gastos.md)). Solo falta el **recibo
+(CFDI)**, que siempre llega unos días después — cuando lo tengas,
+mándamelo para el desglose y para confirmar si vino con o sin el
+anticipo MINU.
 
 ⚠️ **Hay $5,437.81 sin explicar** que entraron a Santander entre el
 22/08 y el 04/09 — ver el detalle en
@@ -66,7 +71,7 @@ salen de la nómina del 18/09, no de lo que tienes ahorita.
 ### 3️⃣ Libre real
 
 ```
-Santander (disponible ahorita, nómina todavía no cae)   $510.61
+Santander (ya con la nómina de esta quincena adentro)   $510.61
 Pluxee Restaurante (solo para comer fuera)               $714.09
 − Transporte hasta el 18/09                              ~$150.00
 ──────────────────────────────────────────────────────────────
@@ -151,6 +156,10 @@ pago.
 
 ## Notas
 
+- **Regla de los días de pago:** si el 5 o el 20 cae en fin de semana,
+  la nómina se paga el día hábil anterior (viernes, normalmente) — no
+  el 5/20 exacto. Vale la pena revisar el calendario cada quincena en
+  vez de asumir la fecha fija.
 - **Regla de oro:** el fondo de la mudanza ($12,000/mes combinados) no
   se toca para tapar huecos de la quincena. Si un mes no alcanza, se
   recorta de otro lado, no de ahí.

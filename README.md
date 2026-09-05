@@ -231,21 +231,25 @@ esperando respuesta. Mientras tanto:
 - [ ] Cuando llegue la respuesta, avisar aquí para replanear el trámite
       completo si hace falta.
 
-### ⚠️ Arrastrado de la semana pasada
-
-- [ ] **Cotizar el arreglo del ventilador del Chevy** — se corrió del
-      vie 04/09. Es lo primero del próximo día off. Mientras tanto: no
-      lo dejes calentar.
-
 ### 💰 Dinero
 
-- [ ] **Hoy** — Dime el **depósito real de la nómina** para cerrar los
-      3 números de la quincena en [finanzas/README.md](finanzas/README.md)
-- [ ] **Hoy** — Revisa si el recibo trae "Anticipo de Nómina MINU". Si
-      **no** lo trae, lograste la meta de dejar de pedir adelantos
+- [x] La nómina de esta quincena ya cayó (adelantada al vie 04/09 por
+      el fin de semana) — está reflejada en el $510.61 de Santander
+- [ ] Cuando llegue el **recibo (CFDI)**, mándamelo para el desglose y
+      para confirmar si vino con "Anticipo de Nómina MINU" o no
+- [ ] **Dom 06/09** — Plan con Fanny: gasolina desde Santander débito,
+      antojito desde **Pluxee Restaurante** ($714.09, recién
+      descubierto) — ver [finanzas/README.md](finanzas/README.md)
 - [ ] **Vie 18/09 (día de pago)** — Aporte de $2,400 al fondo de la mudanza
-- [ ] **Antes del 27/09** — Apartar $2,535.96 para la tarjeta MercadoPago
-      (trae adentro el recibo de AT&T de tu mamá)
+- [ ] **Antes del 27/09** — Apartar $3,201.59 para la tarjeta MercadoPago
+      (AT&T de mamá + los 2 libros para Fanny) — solo quedan $398.41 de
+      límite libre, no cargar más ahí antes del 18/09
+
+### ⚠️ Arrastrado
+
+- [ ] **Cotizar el arreglo del ventilador del Chevy** — se corrió del
+      vie 04/09, ahora agendado para el **jue 10/09** (próximo día off).
+      Mientras tanto: no lo dejes calentar.
 
 ### 🎂 Fechas que se acercan
 
@@ -259,10 +263,10 @@ esperando respuesta. Mientras tanto:
 - [ ] Recuperar la contraseña de **Mi Cuenta INFONAVIT** y correr el
       **simulador de crédito** — ver [metas/patrimonio.md](metas/patrimonio.md)
 - [ ] Que Fanny revise su antigüedad en **ISSEMyM** (~30 min)
-- [ ] Mandarme la **captura de Kronos** de la semana del 07/09 para
-      remapear los breaks y el foco de cada noche
 - [ ] Imprimir el [Recetario para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9)
-      y escribirle la carta a mano
+      (ya con la tarjetita ex libris) y escribirle la carta a mano
+- [ ] Forrar *The Handmaid's Tale* + *The Testaments* — recomendaciones
+      en [perfil/regalos-novia.md](perfil/regalos-novia.md)
 
 ### ✅ Ya hecho (confirmado)
 
@@ -271,13 +275,17 @@ esperando respuesta. Mientras tanto:
 - [x] **01/09** — Puntos INFONAVIT revisados: ya alcanzas para solicitar
       crédito, subcuenta $26,794.59
 - [x] Platicar con Fanny el monto/mecánica de la cuenta conjunta de ahorro
+- [x] **05/09** — Kronos de la semana 07/09-13/09 recibido y remapeado
+      en [perfil/rutina.md](perfil/rutina.md)
+- [x] **05/09** — Compraste *The Handmaid's Tale* + *The Testaments*
+      para Fanny, junto con el Recetario
 
 ### ❓ Por confirmar (estaban planeados, no me dijiste si salieron)
 
 - [ ] **Mar 01/09** — ¿Arrancó el italiano en Duolingo? ¿Cómo va la racha?
 - [ ] **Mié 02/09** — ¿Ya imprimiste, firmaste en tinta negra y escaneaste
-      el ATI y la solicitud? **Si no, hazlo hoy**: sin eso no se puede
-      subir nada mañana aunque el pago ya esté hecho
+      el ATI y la solicitud? *(Ya no es urgente — la titulación está en
+      pausa — pero dime si quedó hecho para no perder el avance.)*
 
 *(Dime cuáles sí y los paso a la lista de arriba y a
 [logros.md](logros.md). Prefiero preguntar que dar por hecho algo que

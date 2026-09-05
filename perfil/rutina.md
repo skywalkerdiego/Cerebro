@@ -11,7 +11,7 @@ para la versión visual: la semana con su presupuesto de horas, el día de
 hoy en bloques accionables y el checklist de pendientes vivos — Aspect.exe
 y Tiempo.exe se fusionaron ahí el 01/09/2026 (ver [tiempo.md](tiempo.md)).
 
-Última actualización: 05/09/2026 (cierre de la semana 31/08–06/09; falta la captura de Kronos de la siguiente).
+Última actualización: 05/09/2026 (remapeo de la semana 07/09–13/09 con la captura nueva de Kronos).
 
 ## 🚦 Las 3 reglas del sistema (lo que cambió el 31/08/2026)
 
@@ -54,37 +54,54 @@ salida temprana, te quedan **~2.5 horas libres reales** por la noche
 (ya descontando comer y dejar listo lo del día siguiente) — alcanza
 para **una cosa con foco**, no para varias.
 
-## 📅 Semana del 31/08 al 06/09/2026 (horario Kronos confirmado)
-
-Horas de comida tomadas directo de la captura de Kronos del 31/08.
-Los breaks cortos (~10-15 min) caen ~2h después de entrar y ~2h antes
-de salir.
+<details>
+<summary>Semana del 31/08 al 06/09/2026 (ya pasada)</summary>
 
 | Día | Turno | Break 1 | 🍽️ Comida | Break 2 | Llegas | Foco de la noche |
 |-----|-------|---------|-----------|---------|--------|-------------------|
-| **Lun 31/08** | 7am - 5pm | ~9:00 am | **12:45 pm** | ~3:00 pm | ~6:20 pm | 🎓 Titulación — imprimir ATI + solicitud |
-| **Mar 01/09** | 6am - 4pm | ~8:00 am | **10:30 am** ⚠️ | ~1:45 pm | sales a las 5pm | 🎮 Sales con un amigo — comer, videojuegos, checar vacantes, bañarte y dormir |
-| **Mié 02/09** | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 🎓 Firmar en tinta negra + escanear los 2 documentos (se corrió del martes) |
-| **Jue 03/09 (Off)** | — | — | — | — | — | 💜 Fanny — te quedas en su casa |
-| **Vie 04/09 (Off)** | — | — | — | — | — | 💜 Fanny · 🚗 tarde: cotizar el ventilador del Chevy |
-| **Sáb 05/09** ← hoy | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | ⏸️ Titulación en pausa (esperando respuesta del profesor) — noche libre real |
-| **Dom 06/09** | 7am - 5pm | ~9:00 am | **12:45 pm** | ~3:00 pm | ~6:20 pm | 🎓 Armar el PDF del comprobante + subir los 3 documentos |
+| Lun 31/08 | 7am - 5pm | ~9:00 am | 12:45 pm | ~3:00 pm | ~6:20 pm | 🎓 Titulación — imprimir ATI + solicitud |
+| Mar 01/09 | 6am - 4pm | ~8:00 am | 10:30 am ⚠️ | ~1:45 pm | sales a las 5pm | 🎮 Sales con un amigo |
+| Mié 02/09 | 6am - 4pm | ~8:00 am | 11:30 am | ~2:00 pm | ~5:20 pm | 🎓 Firmar y escanear ATI + solicitud |
+| Jue 03/09 (Off) | — | — | — | — | — | 💜 Fanny |
+| Vie 04/09 (Off) | — | — | — | — | — | 💜 Fanny · 🚗 cotizar ventilador (no se hizo) |
+| Sáb 05/09 | 6am - 4pm | ~8:00 am | 11:30 am | ~2:00 pm | ~5:20 pm | ⏸️ Titulación en pausa |
+| Dom 06/09 | 7am - 5pm | ~9:00 am | 12:45 pm | ~3:00 pm | ~6:20 pm | 🎓 Armar comprobante + subir documentos |
 
-## 📮 Semana del 07/09 al 13/09 — falta el horario
+</details>
 
-**Esta tabla se acaba el domingo 06/09.** Mándame la captura de Kronos
-de la siguiente semana y la remapeo con las horas de comida y los
-breaks calculados. Mientras no llegue, Cerebro.exe te va a decir
-"falta el horario de esta semana" en vez de inventarse bloques.
+## 📅 Semana del 07/09 al 13/09/2026 (horario Kronos confirmado) ← actual
 
-Lo que **no** cambia aunque no haya horario:
+Leído de la captura de Aspect que mandaste. Los mismos días off que la
+semana pasada (jueves y viernes) — parece que el ciclo se repite por
+ahora.
 
-- 🗣️ Duolingo en el Break 1, todos los días.
-- 🎯 Un solo foco por noche, y una noche libre a la semana.
-- 💜 Tiempo con Fanny, que no compite con el foco.
+| Día | Turno | Break 1 | 🍽️ Comida | Break 2 | Llegas | Foco de la noche |
+|-----|-------|---------|-----------|---------|--------|-------------------|
+| **Lun 07/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
+| **Mar 08/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
+| **Mié 09/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
+| **Jue 10/09 (Off)** | — | — | — | — | — | 🚗 Cotizar el ventilador del Chevy (arrastrado desde el 04/09) · 💜 Fanny el resto del día |
+| **Vie 11/09 (Off)** | — | — | — | — | — | 💜 Fanny · bloque largo de la tarde |
+| **Sáb 12/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
+| **Dom 13/09** | 7am - 5pm | ~10:00 am | ~12:00 pm | ~3:00 pm | ~6:20 pm | — |
 
-**Lo primero que entra en el próximo día off:** cotizar el ventilador
-del Chevy — se corrió del viernes 04/09 y sigue pendiente.
+⚠️ **La captura se cortaba en 3:00 pm**, así que no vi la hora exacta
+de salida de los turnos — asumo que siguen siendo de 10 horas (6am-4pm
+y 7am-5pm, como siempre). Dime si alguno terminó distinto y lo corrijo.
+
+**Novedad de esta semana: Uber pagado en las mañanas.** Te lo mandan a
+diario, así que el traslado de ida ya no te cuesta nada — solo pagas
+el regreso (metro $5 por el teléfono, sin efectivo + combi $7.50-8 en
+efectivo). Ver el desglose de cuánto sacar del cajero en
+[../finanzas/README.md](../finanzas/README.md).
+
+**Lo primero que entra en el próximo día off (jueves):** cotizar el
+ventilador del Chevy — se corrió del viernes 04/09 y sigue pendiente;
+se movió al lunes por si hay oportunidad de resolverlo antes, pero el
+jueves es el respaldo firme.
+
+**Todos los días, sin excepción:** 🗣️ Duolingo (en el Break 1) y 💜
+tiempo con Fanny. Estas dos no compiten con el foco de la noche.
 
 ---
 

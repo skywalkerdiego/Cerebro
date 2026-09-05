@@ -14,7 +14,7 @@ Histórico permanente. Para saber **cómo estás hoy**, ve a
 
 | Fecha | Concepto | Monto |
 |-------|----------|-------|
-| 05/09/2026 | Nómina quincenal | ⏳ **Por confirmar** — el recibo llega días después; Santander todavía muestra el mismo saldo del cierre del 04/09 ($510.61), así que el depósito no se ha reflejado ahí todavía |
+| 04/09/2026 | Nómina quincenal | ✅ Ya pagada — se adelantó al viernes 04/09 porque el 5 de septiembre cayó sábado (el día de pago en fin de semana se paga el hábil anterior). Ya está adentro del $510.61 de Santander. **Monto exacto: por confirmar** — el recibo (CFDI) llega días después |
 
 ### 📸 Saldos reales checados en tus apps (05/09/2026)
 
@@ -60,10 +60,11 @@ plan del domingo con Fanny en [README.md](README.md#-plan-para-el-domingo-con-fa
 
 ### 🎯 La prueba de esta quincena
 
-El recibo de hoy es el examen de la meta de **dejar de pedir adelantos
-de nómina (MINU)**. Si viene sin la deducción "Anticipo de Nómina
-MINU", significa que el colchón de la quincena pasada aguantó solo —
-que es exactamente el punto. Mándame el recibo y lo verificamos.
+El recibo de esta nómina (ya pagada el 04/09, ver arriba) es el examen
+de la meta de **dejar de pedir adelantos de nómina (MINU)**. Si viene
+sin la deducción "Anticipo de Nómina MINU", significa que el colchón
+de la quincena pasada aguantó solo — que es exactamente el punto.
+Mándame el recibo en cuanto llegue y lo verificamos.
 
 ---
 
