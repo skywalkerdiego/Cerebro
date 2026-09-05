@@ -11,27 +11,35 @@ Próxima fecha: **aniversario, 20 de octubre** (2 años) — faltan **45 días**
 le guste. Idea que ya tienes en mente para el aniversario: una comida
 + unos zapatos o algo de maquillaje.
 
-## 🎁 Detalle de ahora — el kit de papel (05/09/2026)
+## 🎁 Detalle de ahora — el kit de papel + el libro (05/09/2026)
 
 **Lo que pediste:** un detallito ya, sin gastar mucho, pero que
 signifique. Una carta escrita a mano, sobre algo bonito.
 
-**Lo que se armó:** un **kit imprimible de 3 piezas**, diseñado a la
+**Lo que se armó:** un **kit imprimible de 4 piezas**, diseñado a la
 medida de sus gustos (Snoopy, Twenty One Pilots, Joji, Game of Thrones,
 The Walking Dead) y de que es doctora. Tú lo imprimes y lo escribes a
 mano — el diseño es el envoltorio, las palabras son tuyas.
 
+**Se completó con un regalo real:** compraste *The Handmaid's Tale* +
+*The Testaments* (Margaret Atwood) — el separador del kit ahora tiene
+para dónde ir.
+
 Tablero/imprimible: **[Kit para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9)**
-— actualizado 05/09/2026: más rosa, el separador con más elementos de
-doctora (estetoscopio con corazón, curita, pastillita, cruz médica) y
-un botón para descargar las 2 hojas como imagen y mandarlas directo
-por WhatsApp, además del de imprimir/guardar como PDF.
+— actualizado 05/09/2026: paleta más rosa, el separador con más
+elementos de doctora y detalles tiernos (estetoscopio con corazón,
+curita, pastillita, cruz médica, huellita de Tris, moño), y una
+**tarjetita ex libris** nueva para meter en el libro ("Este libro es de
+Fanny"). El botón de imprimir abre el diálogo de tu navegador para
+guardar como PDF — **si quieres el PDF exacto sin pasar por ahí, pídemelo
+en el chat y te lo mando directo**, siempre actualizado.
 
 | Pieza | Qué es | Para qué |
 |-------|--------|----------|
 | ✉️ **Hoja de carta** | Papel de carta con marco ilustrado y renglones guía | La carta escrita a mano |
 | 🔖 **Separador de libros** | Marcapáginas con línea de electro y la constelación de ustedes dos | Que lo use a diario en sus libros y fanfics — se acuerda de ti sin que estés |
 | 💊 **Receta médica** | Tarjetita tipo receta: "Rx: 2 abrazos cada 8 h, por tiempo indefinido" | El chiste interno de que es doctora. Es la pieza que la va a hacer reír |
+| 📚 **Tarjetita ex libris** | Placa "Este libro es de Fanny · De: ___" + espacio para una notita corta | Se mete en *The Handmaid's Tale* / *The Testaments* — el regalo del libro y el del papel quedan conectados |
 
 ### Cuánto cuesta
 
@@ -44,6 +52,29 @@ por WhatsApp, además del de imprimir/guardar como PDF.
 
 **No compite con el ahorro de la mudanza ni con el regalo del
 aniversario** — ese sigue siendo aparte, el 20/10 (faltan 45 días).
+
+### 📖 Forrar los libros — recomendaciones
+
+Querías forrar *The Handmaid's Tale* y *The Testaments* antes de
+dárselos. Depende de qué buscas:
+
+| Opción | Cómo se ve | Dónde/costo |
+|--------|------------|-------------|
+| **Forro transparente adhesivo** (el clásico "forro de libros") | Protege el libro pero se sigue viendo la portada original — buena opción si la portada ya es bonita | Papelería, $15–35 por libro |
+| **Papel kraft + algo escrito/dibujado a mano** | Oculta la portada y la reemplaza con algo tuyo — combina bien con el estilo hecho-a-mano del resto del regalo | Kraft ~$10–20 el pliego (alcanza para varios libros), gratis si ya tienes plumones |
+| **Forro de tela o vinil de patrón** | Más durable, se ve más "de colección" | Papelerías grandes o Amazon/Mercado Libre, $40–90 por libro |
+| **Forro rojo liso** (nod al mood de *The Handmaid's Tale*, sin ser literal) | Un solo color rojo/vino, sobrio, conecta con el libro sin poner imágenes explícitas de la serie | Cualquier papel/tela roja que tengas, o forro liso de papelería |
+
+**Sugerencia concreta:** si quieres que se sienta parte del mismo
+regalo que el Recetario, el kraft + algo escrito a mano es lo más
+consistente — mismo espíritu de "yo lo hice para ti" que la carta. El
+forro transparente es la opción segura si no quieres arriesgar que se
+vea torcido.
+
+**Sobre la tarjetita que ya armé:** ya no tienes que diseñar una desde
+cero — la ex libris del kit (arriba) ya cubre eso. Si prefieres algo
+más simple, una notita de papel doblada dentro de la primera página
+también funciona perfecto — no todo tiene que ser elaborado.
 
 ### 🛍️ Qué comprar para acompañarlo (opcional, barato)
 
@@ -145,7 +176,7 @@ investigarlas a fondo (tallas, marca, dónde comprar):
 
 | Fecha | Ocasión | Regalo | Notas |
 |-------|---------|--------|-------|
-| | | | |
+| 05/09/2026 | Detalle sin motivo | *The Handmaid's Tale* + *The Testaments* (Margaret Atwood) — libro que quería desde hace tiempo | Va junto con el [Recetario para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9): el separador se usa en este libro, y hay una tarjetita ex libris para meter adentro |
 
 ## Notas
 

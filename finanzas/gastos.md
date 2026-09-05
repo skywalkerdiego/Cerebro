@@ -14,7 +14,23 @@ Histórico permanente. Para saber **cómo estás hoy**, ve a
 
 | Fecha | Concepto | Monto |
 |-------|----------|-------|
-| 05/09/2026 | Nómina quincenal | ⏳ **Por confirmar** — mándame el depósito real o el recibo |
+| 05/09/2026 | Nómina quincenal | ⏳ **Por confirmar** — el recibo llega días después; Santander todavía muestra el mismo saldo del cierre del 04/09 ($510.61), así que el depósito no se ha reflejado ahí todavía |
+
+### 📸 Saldos reales checados en tus apps (05/09/2026)
+
+| Cuenta | Saldo |
+|--------|-------|
+| 🏦 Santander (SUPER NOMINA) | $510.61 |
+| 💛 MercadoPago (cuenta, colchón) | $606.98 |
+| 🍽️ Pluxee — Restaurante | **$714.09** *(bolsa que no teníamos registrada — es solo para comer fuera, no para gasolina ni súper)* |
+| 💳 MercadoPago tarjeta de crédito — total a pagar | $3,201.59 (antes $2,535.96) |
+| 💳 MercadoPago tarjeta de crédito — límite disponible | $398.41 |
+
+**La tarjeta de crédito subió $665.63** desde el último corte
+registrado. Coincide casi exacto con **los 2 libros que le compraste a
+Fanny** (*The Handmaid's Tale* + *The Testaments*) — lo más probable es
+que se hayan cargado ahí. Confírmame el monto exacto del ticket cuando
+lo tengas y lo dejo preciso; mientras tanto uso $665.63 como estimado.
 
 ### Compromisos de esta quincena
 
@@ -23,14 +39,24 @@ Histórico permanente. Para saber **cómo estás hoy**, ve a
 | ~~Ficha de titulación (SPEI, "Pago de título")~~ | 🎓 Trámites | $620.00 | — | ⏸️ **En pausa** — no pagar hasta confirmar la modalidad, ver [../metas/titulacion.md](../metas/titulacion.md) |
 | Transporte (10 días laborales × ~$15) | 🚌 Transporte | ~$150.00 | al 18/09 | Recurrente |
 | Aporte al fondo de la mudanza | 💾 Ahorro | $2,400.00 | 18/09 | 🔶 Pendiente |
-| Guardar para la tarjeta MercadoPago | 💳 Deuda | $2,535.96 | corta 27/09 | 🔶 Reservar |
+| Guardar para la tarjeta MercadoPago | 💳 Deuda | **$3,201.59** | corta 27/09 | 🔶 Reservar — solo $398.41 de límite libre, no cargar más antes del 18/09 |
 | Crédito de nómina Santander | ❓ Otros | ~$307.89 | automático | Se descuenta solo |
+
+### 🎁 Regalo para Fanny — libros (05/09/2026)
+
+| Concepto | Categoría | Monto | Cuenta | Estatus |
+|----------|-----------|-------|--------|---------|
+| *The Handmaid's Tale* + *The Testaments* (Margaret Atwood) | 🎁 Regalos | ~$665.63 (estimado) | Tarjeta de crédito MercadoPago | Comprado — confirmar monto exacto con el ticket |
+
+No sale de tu efectivo ni de Santander — quedó cargado a la tarjeta de
+crédito, que se paga hasta el 27/09 con la nómina del 18/09. Ver el
+plan del domingo con Fanny en [README.md](README.md#-plan-para-el-domingo-con-fanny).
 
 ### Movimientos confirmados
 
 | Fecha | Tipo | Categoría | Descripción | Monto |
 |-------|------|-----------|-------------|-------|
-| — | — | — | *(Todavía nada capturado esta quincena)* | — |
+| — | — | — | *(Todavía nada capturado en cuentas de efectivo/débito esta quincena — el gasto de los libros fue a crédito, ver arriba)* | — |
 
 ### 🎯 La prueba de esta quincena
 

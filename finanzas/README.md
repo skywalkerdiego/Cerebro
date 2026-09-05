@@ -9,7 +9,7 @@
 
 ---
 
-## 🟢 Los 3 números (corte: 05/09/2026, día de pago)
+## 🟢 Los 3 números (checado con tus apps, 05/09/2026)
 
 Todo tu dinero se resume en tres preguntas. Si sabes estas tres,
 sabes cómo estás.
@@ -22,17 +22,21 @@ sabes cómo estás.
 
 ### 1️⃣ Cuentas — cuánto tienes
 
+Checado directo en tus apps (Santander, MercadoPago, Pluxee) el
+05/09/2026:
+
 | Cuenta | Saldo | Para qué es |
 |--------|-------|-------------|
-| 🏦 **Santander** | $510.61 *(antes del depósito de hoy)* | Cuenta de nómina. Aquí cae el sueldo y de aquí salen los pagos grandes |
-| 💛 **MercadoPago** | $606.98 | **Colchón de emergencia — no se toca.** Gana ~5.4% anual |
-| 💵 **Efectivo** | ~$630 | Los vales Pluxee cambiados con tu amigo. Para transporte y tianguis |
-| 🎟️ **Pluxee (vales)** | $0 | Ya se gastó/cambió todo este ciclo |
+| 🏦 **Santander** | $510.61 | Igual que el cierre del 04/09 — la nómina de esta quincena **todavía no aparece aquí** |
+| 💛 **MercadoPago (cuenta)** | $606.98 | **Colchón de emergencia — no se toca.** Gana ~5.4% anual |
+| 🍽️ **Pluxee — Restaurante** | $714.09 | Bolsa que descubrimos hoy: es **solo para comer fuera** (restaurantes), no sirve para gasolina ni súper |
+| 🎟️ **Pluxee — Despensa** | ~$0 | Ya se gastó en Bodega Aurrera (última cifra conocida) |
+| 💵 **Efectivo** | ~$630 *(última cifra conocida, sin confirmar hoy)* | Para transporte y lo que Pluxee no cubre |
 | 💰 **Fondo mudanza (con Fanny)** | $4,800 | Intocable. Vive en [../metas/ahorro.md](../metas/ahorro.md) |
 
-⚠️ **Hoy cae tu nómina.** En cuanto veas el depósito real en Santander,
-dímelo y actualizo este bloque completo. Hasta entonces, los números de
-arriba son los del cierre del 04/09.
+⚠️ **La nómina de esta quincena aún no aparece en Santander** (mismo
+$510.61 del cierre del 04/09). En cuanto la veas reflejada, dime el
+monto y actualizo este bloque.
 
 ⚠️ **Hay $5,437.81 sin explicar** que entraron a Santander entre el
 22/08 y el 04/09 — ver el detalle en
@@ -44,7 +48,7 @@ vino ese dinero. Vale la pena identificarlo.
 
 | Cuándo | Qué | Monto | De dónde sale |
 |--------|-----|-------|----------------|
-| **27/09** | 💳 Corte tarjeta MercadoPago (incluye el AT&T de $2,077 de mamá) | **$2,535.96** | Nómina del 18/09 |
+| **27/09** | 💳 Corte tarjeta MercadoPago — incluye el AT&T ($2,077) y ahora también **los 2 libros para Fanny** (ver abajo) | **$3,201.59** | Nómina del 18/09. Solo quedan **$398.41** de límite disponible — no cargues más a esta tarjeta antes del 18/09 |
 | Cada quincena | 🏦 Crédito de nómina Santander (se descuenta solo) | ~$307.89 | Automático, ya viene descontado |
 | **18/09** | 💰 Aporte al fondo de la mudanza | $2,400.00 | Nómina del 18/09 |
 | Diario | 🚌 Transporte (~$15/día laboral) | ~$150 por quincena | Efectivo |
@@ -55,23 +59,35 @@ titularse por promedio sigue aplicando. Ver
 [../metas/titulacion.md](../metas/titulacion.md). Ese dinero **no se
 gasta** hasta que se confirme el trámite.
 
-**Total comprometido de esta quincena: ~$150** (solo transporte, por
-ahora). La tarjeta de MercadoPago **no compite con esta quincena** —
-se paga con la nómina del 18/09.
+**Total comprometido de esta quincena, en efectivo/débito: ~$150**
+(solo transporte). La tarjeta de MercadoPago y el aporte al ahorro
+salen de la nómina del 18/09, no de lo que tienes ahorita.
 
 ### 3️⃣ Libre real
 
 ```
-Lo que entra hoy (nómina)        →  por confirmar
-− Transporte hasta el 18/09          ~$150.00
-− Aporte al ahorro (18/09)          $2,400.00
-− Guardar para la tarjeta (27/09)   $2,535.96
-─────────────────────────────────────────────
-= Libre real de la quincena          por calcular con el depósito real
+Santander (disponible ahorita, nómina todavía no cae)   $510.61
+Pluxee Restaurante (solo para comer fuera)               $714.09
+− Transporte hasta el 18/09                              ~$150.00
+──────────────────────────────────────────────────────────────
+= Libre real para gasolina, antojitos e imprevistos     ~$1,074.70
 ```
 
-**Cuando me digas el depósito de hoy, lleno este bloque y ya sabes con
-qué cuentas de verdad.**
+El aporte al ahorro ($2,400) y la tarjeta MercadoPago ($3,201.59) **no
+salen de este dinero** — se pagan con la nómina que caiga el 18/09.
+Cuando confirmes el depósito de esta quincena, este bloque se
+recalcula con el número real en vez de "por confirmar".
+
+### 🚗💜 Plan para el domingo con Fanny
+
+- **Gasolina:** paga con Santander débito — tienes $510.61 libres, de
+  sobra para un tanque/recorrido.
+- **Antojito:** paga con **Pluxee Restaurante** si el lugar lo acepta
+  — tienes $714.09 ahí sin tocar, y es justo para esto. Si es algo de
+  tianguis/puesto que no acepta tarjeta, usa efectivo.
+- **Lo que quede de Santander** ($510.61 menos la gasolina) es tu
+  colchón hasta el 18/09 — no hace falta guardarlo todo, pero evita
+  dejarlo en $0.
 
 ---
 
