@@ -80,7 +80,7 @@ ahora.
 | **Lun 07/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
 | **Mar 08/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
 | **Mié 09/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
-| **Jue 10/09 (Off)** | — | — | — | — | — | 🚗 Cotizar el ventilador del Chevy (arrastrado desde el 04/09) · 💜 Fanny el resto del día |
+| **Jue 10/09 (Off)** | — | — | — | — | — | 💜 Fanny — día completo |
 | **Vie 11/09 (Off)** | — | — | — | — | — | 💜 Fanny · bloque largo de la tarde |
 | **Sáb 12/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
 | **Dom 13/09** | 7am - 5pm | ~10:00 am | ~12:00 pm | ~3:00 pm | ~6:20 pm | — |
@@ -95,10 +95,8 @@ el regreso (metro $5 por el teléfono, sin efectivo + combi $7.50-8 en
 efectivo). Ver el desglose de cuánto sacar del cajero en
 [../finanzas/README.md](../finanzas/README.md).
 
-**Lo primero que entra en el próximo día off (jueves):** cotizar el
-ventilador del Chevy — se corrió del viernes 04/09 y sigue pendiente;
-se movió al lunes por si hay oportunidad de resolverlo antes, pero el
-jueves es el respaldo firme.
+**✅ El Chevy ya quedó arreglado** (ventilador y radiador) — jueves
+10/09 queda libre de verdad, sin ese pendiente.
 
 **Todos los días, sin excepción:** 🗣️ Duolingo (en el Break 1) y 💜
 tiempo con Fanny. Estas dos no compiten con el foco de la noche.

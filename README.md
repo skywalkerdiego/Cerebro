@@ -36,7 +36,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | 2 | 📊 Desempeño en Boost | 🔥 Activa | Performance Total bajó a 97.53% (venía de 108.8%); FCR es el driver — plan en Llamadas.exe | [desempeno/metricas.md](desempeno/metricas.md) · [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) |
 | 3 | 🗣️ Italiano | 🔥 Activa | Arranca 01/09/2026 — 1 lección diaria en el Break 1 | [metas/aprendizaje.md](metas/aprendizaje.md) |
 | 4 | 💰 Ahorro de Diego y Fanny | ⚙️ Automática | **$4,800 de $47,000 (10.2%)**; tu parte va al corriente, falta registrar la de Fanny | [metas/ahorro.md](metas/ahorro.md) |
-| 5 | 🚗 Chevy funcionando | ⚠️ **Atrasado** | Radiador ✅ listo; **ventilador falla — no dejar que caliente**. La cotización del vie 04/09 no se hizo: es lo primero del próximo día off | [metas/patrimonio.md](metas/patrimonio.md) |
+| 5 | 🚗 Chevy funcionando | ✅ **Resuelto** | Radiador y ventilador, ambos arreglados (05/09/2026) — sin riesgo de sobrecalentamiento pendiente | [metas/patrimonio.md](metas/patrimonio.md) |
 | 6 | 💼 Cambio de trabajo | ⏸️ Standby | Modo mantenimiento, ahora con **4 búsquedas guardadas** y el filtro de "2 de 3" para no perder tiempo | [metas/trabajo.md](metas/trabajo.md) · [Trabajo.exe](https://claude.ai/code/artifact/fe81e91b-4a6f-4e04-aa6f-8355a64bb136) |
 | 7 | ✍️ Artículos · 🎓 Maestría · 📚 Lectura | ⏸️ Standby | Se retoman cuando la titulación esté entregada | [metas/trabajo.md](metas/trabajo.md) |
 
@@ -245,12 +245,6 @@ esperando respuesta. Mientras tanto:
       (AT&T de mamá + los 2 libros para Fanny) — solo quedan $398.41 de
       límite libre, no cargar más ahí antes del 18/09
 
-### ⚠️ Arrastrado
-
-- [ ] **Cotizar el arreglo del ventilador del Chevy** — se corrió del
-      vie 04/09, ahora agendado para el **jue 10/09** (próximo día off).
-      Mientras tanto: no lo dejes calentar.
-
 ### 🎂 Fechas que se acercan
 
 - [ ] **Dom 20/09** — Cumpleaños de tu mamá · **Lun 21/09** — el de tu papá
@@ -279,6 +273,7 @@ esperando respuesta. Mientras tanto:
       en [perfil/rutina.md](perfil/rutina.md)
 - [x] **05/09** — Compraste *The Handmaid's Tale* + *The Testaments*
       para Fanny, junto con el Recetario
+- [x] **05/09** — Chevy arreglado: ventilador y radiador, ambos listos
 
 ### ❓ Por confirmar (estaban planeados, no me dijiste si salieron)
 

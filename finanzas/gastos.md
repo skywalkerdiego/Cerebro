@@ -230,7 +230,7 @@ tablero [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-448
 |---|---|---|
 | Radiador del Chevy — refacción | Por confirmar | ✅ Pagada |
 | Radiador del Chevy — mano de obra | Por confirmar | 🔶 Pendiente de pago |
-| **Ventilador del Chevy — cotización** | Por cotizar | ⚠️ **Se corrió del vie 04/09 — sigue sin cotizar** |
+| **Ventilador del Chevy — arreglo** | Por confirmar | ✅ **Arreglado (05/09)** — dime el monto para registrarlo aquí y en el pool de la quincena |
 | Aveo de mamá — diagnóstico eléctrico | Por cotizar | 🔶 Programado 30/08 |
 
 ---
