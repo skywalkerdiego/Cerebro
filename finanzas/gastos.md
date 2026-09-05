@@ -84,6 +84,27 @@ Se dejó intacta como colchón porque gana ~5.4% anual.
 | − Transporte (10 días × ~$15) | −$150.00 |
 | **Libre para tianguis con Fanny + imprevistos** | **$990.70** |
 
+### ⚠️ Un hueco de $5,437.81 sin explicar
+
+Al reconciliar el tablero con los saldos reales salió una diferencia:
+entre el **22/08 y el 04/09** entraron **$5,437.81** a Santander que
+nunca se registraron aquí.
+
+| Fecha | Saldo Santander | De dónde sale el dato |
+|---|---|---|
+| 22/08/2026 | $1,855.68 | Reconstruido de los movimientos registrados |
+| 04/09/2026 | $7,293.49 | Tu estado de cuenta real, antes de los pagos del cierre |
+| **Diferencia** | **+$5,437.81** | **Sin identificar** |
+
+No es un error de captura: el saldo del 04/09 es el bueno (viene del
+banco). Lo que falta es saber **de dónde salió ese dinero** — puede ser
+un pago de nómina intermedio, un depósito de Fanny, o una devolución.
+
+**Está registrado en Finanzas.exe como "Ajuste de reconciliación"** para
+que el tablero no muestre Santander en negativo, pero vale la pena
+identificarlo: $5,437.81 es más de media quincena. Revisa tu estado de
+cuenta entre esas fechas y dime qué fue, y lo desgloso.
+
 ### Movimientos del 20/08 (reconstruidos del estado de cuenta real)
 
 | Fecha | Tipo | Categoría | Descripción | Monto |
