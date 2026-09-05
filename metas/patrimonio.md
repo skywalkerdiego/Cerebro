@@ -35,30 +35,26 @@ la continuidad laboral es literalmente parte del plan de la casa.
 
 ## 🚗 El Chevy: arreglar vs. cambiar
 
-**Contexto (31/08/2026):** el radiador ya quedó, pero hay un problema
-con el **ventilador**. Recomendación del taller: **no dejarlo
-calentar**.
+**✅ Resuelto (05/09/2026):** el ventilador ya quedó arreglado. Junto
+con el radiador (ya listo desde antes), el Chevy está funcionando bien
+— ya no hay riesgo de sobrecalentamiento pendiente.
 
-### Lo urgente: el ventilador (esto sí es de esta quincena)
+<details>
+<summary>Contexto del problema (ya resuelto)</summary>
 
-Un motor que se sobrecalienta no es "un pendiente más" — es el riesgo
-de fundir la junta de la cabeza y convertir un arreglo de miles en uno
-de decenas de miles. Con radiador nuevo y ventilador fallando, el
-coche está a una hora de tráfico de un problema caro.
+El radiador quedó bien desde el 31/08, pero apareció un problema con
+el **ventilador** — recomendación del taller en su momento: no dejarlo
+calentar. Un motor que se sobrecalienta no es "un pendiente más" — es
+el riesgo de fundir la junta de la cabeza y convertir un arreglo de
+miles en uno de decenas de miles. Ya se cotizó y arregló, así que este
+riesgo queda cerrado.
 
-- [ ] Preguntar en el taller **qué falla exactamente**: ¿el
-      electroventilador (motor), el relevador/fusible, o el sensor de
-      temperatura? Son tres arreglos de costo muy distinto 🔎
-- [ ] Cotizar el arreglo (viernes 04/09 por la tarde, según
-      [../perfil/rutina.md](../perfil/rutina.md))
-- [ ] Mientras tanto — reglas de manejo defensivo del Chevy:
-      - Ver el indicador de temperatura **siempre**, no solo a veces
-      - Evitar tráfico parado y horas pico si se puede (el ventilador
-        es justo lo que enfría cuando NO hay aire de avance)
-      - Si sube la aguja: prender la calefacción al máximo (roba calor
-        al motor) y orillarse. Nunca abrir el radiador en caliente.
-      - Traslados largos a Satélite/casa de Fanny: mejor de noche o
-        temprano, no a mediodía
+Reglas de manejo defensivo que ya no son obligatorias pero no está de
+más recordar: ver el indicador de temperatura de vez en cuando, y si
+alguna vez vuelve a subir la aguja, prender la calefacción al máximo
+(roba calor al motor) y orillarse — nunca abrir el radiador en caliente.
+
+</details>
 
 ### La decisión de fondo
 
@@ -388,7 +384,7 @@ vez (ver [../perfil/rutina.md](../perfil/rutina.md)).
 
 | Tema | Decisión |
 |------|----------|
-| 🚗 Chevy | **Arreglar el ventilador**, no cambiarlo. Cotizar el viernes 04/09 |
+| 🚗 Chevy | **Arreglado** (05/09/2026) — ventilador y radiador ambos listos, funcionando bien |
 | 🔊 Bocinas tipo Beetle | Antojo válido → Fondo cosillas, no meta |
 | 🚕 Uber con préstamo | **No ahora** — el Chevy no califica y no hay horas |
 | 💳 Fonacot | **No** mientras el cambio de trabajo siga en el horizonte |
