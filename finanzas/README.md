@@ -34,6 +34,12 @@ sabes cómo estás.
 dímelo y actualizo este bloque completo. Hasta entonces, los números de
 arriba son los del cierre del 04/09.
 
+⚠️ **Hay $5,437.81 sin explicar** que entraron a Santander entre el
+22/08 y el 04/09 — ver el detalle en
+[gastos.md](gastos.md#️-un-hueco-de-543781-sin-explicar). No es un
+error del saldo (el del banco es el bueno), es que no sabemos de dónde
+vino ese dinero. Vale la pena identificarlo.
+
 ### 2️⃣ Lo que debo — con fecha
 
 | Cuándo | Qué | Monto | De dónde sale |
@@ -107,7 +113,10 @@ El archivo `.md` es la fuente de verdad; el tablero es la vista.
 ### El tablero (Finanzas.exe), estilo Moneyfy
 
 Rediseñado el 20/08/2026 con la lógica de apps tipo **Moneyfy**: no un
-saldo suelto, sino **cuentas reales**.
+saldo suelto, sino **cuentas reales**. Actualizado el 05/09/2026 para
+que abra con **los mismos 3 números de este archivo** — cuánto tengo,
+cuánto debo, cuánto me queda — más los días que faltan para tu próximo
+pago.
 
 - **Cuentas** (Santander, MercadoPago, Efectivo, Pluxee) — cada
   movimiento se asigna a una; tocar una filtra todo el tablero.
