@@ -9,8 +9,7 @@ que los cuenta solo.*
 
 | Faltan | Fecha | Qué es | Necesita algo de ti |
 |--------|-------|--------|----------------------|
-| **Hoy** | 05/09/2026 | 💰 Día de pago · sacar y pagar la ficha de titulación ($620) por SPEI | Sí — hoy mismo |
-| **Mañana** | 06/09/2026 | 🎓 Armar el PDF del comprobante y subir los 3 documentos | Sí |
+| **Hoy** | 05/09/2026 | ⏸️ Titulación en pausa — esperando respuesta del profesor sobre el límite de 2 años para titularse por promedio | No pagar la ficha todavía — ver [titulacion.md](../metas/titulacion.md) |
 | **15 días** | 20/09/2026 | 🎂 Cumpleaños de tu mamá | Regalo/detalle — ver [regalos-familia.md](regalos-familia.md) |
 | **16 días** | 21/09/2026 | 🎂 Cumpleaños de tu papá | Regalo/detalle |
 | **22 días** | 27/09/2026 | 💳 Corte de la tarjeta MercadoPago ($2,535.96, trae el AT&T) | Sí — dejar el dinero listo |

@@ -22,6 +22,10 @@ The Walking Dead) y de que es doctora. Tú lo imprimes y lo escribes a
 mano — el diseño es el envoltorio, las palabras son tuyas.
 
 Tablero/imprimible: **[Kit para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9)**
+— actualizado 05/09/2026: más rosa, el separador con más elementos de
+doctora (estetoscopio con corazón, curita, pastillita, cruz médica) y
+un botón para descargar las 2 hojas como imagen y mandarlas directo
+por WhatsApp, además del de imprimir/guardar como PDF.
 
 | Pieza | Qué es | Para qué |
 |-------|--------|----------|
@@ -40,6 +44,25 @@ Tablero/imprimible: **[Kit para Fanny](https://claude.ai/code/artifact/9141d18a-
 
 **No compite con el ahorro de la mudanza ni con el regalo del
 aniversario** — ese sigue siendo aparte, el 20/10 (faltan 45 días).
+
+### 🛍️ Qué comprar para acompañarlo (opcional, barato)
+
+Preguntaste qué comprarle de acompañamiento — algo sencillo y bonito,
+sin gastar de más. Opciones concretas, de sus gustos reales
+([novia.md](novia.md)):
+
+| Opción | Por qué | Costo aprox. |
+|--------|---------|--------------|
+| 🐶 **Algo chiquito de Snoopy** (llavero, sticker, figura pequeña) | Es su fandom más "de peluche" — se consigue fácil en tiendas de regalos o Miniso | $50 – $150 |
+| 🧴 **Un básico de Elf o Cerave** (labial, mascarilla, crema chica) | Marcas que ya usa — no falla, y es de su rutina diaria de skincare | $80 – $180 |
+| ☕ **Su café o cerveza favorita** + algo dulce | Combina bien con leer la carta juntos, en su próxima cita | $60 – $150 |
+| 🌻 **Una flor sola o un ramo chico** (no tiene que ser rosas) | Clásico, funciona siempre, y remata bien el sobre de papel | $50 – $120 |
+| 📖 **Algo de Harry Potter chiquito** (marcapáginas de Ravenclaw, pin del águila) | Es Ravenclaw y le fascina el fandom — un detalle de casa siempre pega | $70 – $150 |
+
+**Recomendación:** elige solo **uno**, no los cinco — el Recetario ya
+es el regalo; esto es el acompañante. El café/cerveza + el sobre es
+probablemente lo más fácil de conseguir hoy mismo si sales del trabajo
+a las 4pm y la ves después.
 
 ### Qué escribirle (guion, no texto para copiar)
 
