@@ -3,7 +3,14 @@
 **Objetivo:** Terminar el trámite de titulación (FES Aragón, Relaciones Internacionales).
 **Fecha límite deseada:** antes de diciembre 2026 (entre más pronto, mejor —
 esto desbloquea el resto del año).
-**Estado:** En proceso — ATI y formato de solicitud ya llenados y listos para imprimir/firmar/escanear; falta hacer el pago para armar el comprobante.
+**Estado (05/09/2026):** 🔥 **Hoy y mañana se cierra.** Hoy sacas la
+ficha nueva y pagas por SPEI; mañana domingo armas el PDF del
+comprobante y subes los 3 documentos.
+
+**Lo único que puede descarrilarlo:** que el ATI y la solicitud
+firmados/escaneados (planeados para la noche del mié 02/09) todavía no
+estén listos. Si es el caso, **hazlos hoy** — el pago sin los
+documentos escaneados no sirve de nada mañana.
 
 Contacto de la carrera: titulacion.relacionesinternacionales@aragon.unam.mx
 Sistema de seguimiento: https://seguimientotitulacion.unam.mx/expediente/21179
@@ -40,10 +47,10 @@ El sistema no da el motivo específico del rechazo. Usa el checklist de abajo
 
 - [x] Llenar el ATI (versión "Expediente DGAE") con los datos personales
 - [x] Llenar el formato de solicitud y elección de título (Licenciado en Relaciones Internacionales, cuenta 318117676, cartulina imitación pergamino)
-- [ ] **Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud.** ⬅️ **Hazlo PRIMERO** (noches del lun 31/08 y mar 01/09). Estos dos **no dependen del pago** — adelantarlos deja un solo bloqueo real en el trámite.
-- [ ] Hacer el pago de la ficha ($620.00). La ficha original vencía el 29/08/2026, pero **decidiste esperar y sacar una ficha nueva** en vez de forzar el pago con esa — no se pierde el trámite, solo se regenera la referencia de pago. **Fecha objetivo: sábado 05/09/2026**, día de tu pago quincenal. Cuando la saques, actualiza aquí el convenio/referencia/CLABE reales de esa ficha.
-- [ ] Armar el comprobante de pago (ficha + recibo/CEP en un solo PDF) — noche del dom 06/09
-- [ ] Subir los 3 documentos corregidos al sistema de seguimiento — noche del dom 06/09
+- [ ] **Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud.** ⬅️ Estaba planeado para la noche del **mié 02/09**; no me confirmaste si salió. **Si sigue pendiente, es la tarea de hoy** — sin esto no se puede subir nada mañana aunque el pago ya esté hecho.
+- [ ] **HOY (sáb 05/09):** Hacer el pago de la ficha ($620.00). La ficha original vencía el 29/08/2026; se saca una **ficha nueva** en SIGEREL — no se pierde el trámite, solo se regenera la referencia. Cuando la saques, mándame el convenio/referencia/CLABE reales y los anoto aquí.
+- [ ] **Mañana (dom 06/09, noche):** Armar el comprobante de pago (ficha + CEP de BANXICO en un solo PDF, cada uno en su hoja)
+- [ ] **Mañana (dom 06/09, noche):** Subir los 3 documentos corregidos al sistema de seguimiento
 
 ### ⏰ Ojo: el 05/09 cae en sábado y trabajas 6am-4pm
 

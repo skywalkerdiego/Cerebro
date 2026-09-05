@@ -243,6 +243,54 @@ confirmó que la palanca 1 y 2 ya están dando resultado antes de lo
 previsto. Sigue sin ser "ya, ahorita" — pero el "imposible" de hace un
 rato ya no describe bien la situación real.
 
+### 🔑 Recuperar el acceso a Mi Cuenta INFONAVIT (05/09/2026)
+
+Diego no recuerda la contraseña del portal y va a reiniciarla. Los
+pasos, para no perder tiempo:
+
+1. Entra a [micuenta.infonavit.org.mx/cambio-contrasenia](https://micuenta.infonavit.org.mx/cambio-contrasenia)
+   (o "Olvidé mi contraseña" en la pantalla de acceso).
+2. Necesitas tu **NSS (Número de Seguridad Social)** a la mano — viene
+   en tu recibo de nómina, en el CFDI que ya está guardado en
+   [biblioteca/finanzas/](../biblioteca/finanzas/).
+3. Captura el NSS y el captcha; te llega el enlace de restablecimiento
+   **al correo registrado**.
+4. **Si ya no tienes acceso a ese correo:** se valida identidad por
+   teléfono o en un Centro de Servicio Infonavit (CESI). Infonatel:
+   **55 9171 5050** (CDMX) o **800 008 3900** (resto del país).
+
+### 📸 La captura de puntos que se perdió
+
+Diego mandó en algún momento una imagen con sus puntos INFONAVIT, pero
+esa conversación ya no se encuentra. Lo que **sí quedó registrado** de
+esa consulta (01/09/2026) es lo importante:
+
+- ✅ Ya alcanza los puntos para solicitar el crédito.
+- 💰 Subcuenta de vivienda: **$26,794.59 MXN**.
+
+Lo que **falta** es el número exacto de puntos y el monto de crédito
+que ofrecerían. Cuando recuperes el acceso, vuelve a sacar la captura
+y **mándamela en el chat** — con eso guardo la imagen en
+`biblioteca/` y lleno los dos huecos de una vez, para no depender de
+que una sesión vieja aparezca.
+
+### ▶️ Los 3 pasos, en orden, para cerrar el tema de la casa
+
+| # | Paso | Cuánto cuesta | Estado |
+|---|------|----------------|--------|
+| 1 | Recuperar acceso a Mi Cuenta INFONAVIT | Gratis, ~10 min | 🔶 En eso estás |
+| 2 | Correr el **simulador de crédito** dentro del portal y anotar el monto ofrecido | Gratis, ~15 min | ⬜ Bloqueado por el paso 1 |
+| 3 | Que Fanny revise su antigüedad y elegibilidad en **ISSEMyM** | Gratis, ~30 min | ⬜ Sin arrancar |
+
+Con esos tres datos (tus puntos, tu monto, su elegibilidad) se puede
+calcular por primera vez **cuánto darían combinados con "Unamos
+Créditos"** — que es el número que hoy no existe y sin el cual todo lo
+de la casa sigue siendo teoría.
+
+**Recordatorio de la regla de oro:** tener el número no significa
+ejercer el crédito. Primero mudanza (2026), luego boda (2027), y solo
+entonces se evalúa comprar.
+
 ### Regla de oro para no atorarse
 
 **Primero la mudanza (rentar juntos, diciembre 2026), después la
