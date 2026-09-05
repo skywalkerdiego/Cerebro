@@ -30,8 +30,8 @@ Checado directo en tus apps (Santander, MercadoPago, Pluxee) el
 | 🏦 **Santander** | **$210.61** | Después de sacar $300 en cajero (05/09). Ya incluye la nómina de esta quincena — cayó antes de tiempo (viernes 04/09), porque **cuando el día de pago (5 o 20) cae en fin de semana, se paga el hábil anterior** |
 | 💛 **MercadoPago (cuenta)** | $606.98 | **Colchón de emergencia — no se toca.** Gana ~5.4% anual |
 | 🍽️ **Pluxee — Restaurante** | $714.09 | Bolsa que descubrimos hoy: es **solo para comer fuera** (restaurantes), no sirve para gasolina ni súper |
-| 🎟️ **Pluxee — Despensa** | ~$0 *(por confirmar — Diego está viendo con un amigo cambiarla a efectivo)* | Categoría cerrada a comida/súper, no a gasolina ni otros gastos |
-| 💵 **Efectivo** | **~$930** *(~$630 que quedaban de la quincena pasada, sin confirmar hoy, + $300 recién sacados)* | Para gasolina, transporte y lo que Pluxee no cubre |
+| 🎟️ **Pluxee — Despensa** | ~$0 | La despensa de la casa ya está cubierta — no hace falta cambiarla a efectivo ni gastarla en nada más por ahora |
+| 💵 **Efectivo** | **~$300** *(+ cambio suelto)* — es lo único que tiene, confirmado por Diego el 05/09 | Para combi, gasolina y lo que Pluxee no cubre |
 | 💰 **Fondo mudanza (con Fanny)** | $4,800 | Intocable. Vive en [../metas/ahorro.md](../metas/ahorro.md) |
 
 ✅ **La nómina de esta quincena ya cayó** — se pagó antes de tiempo el
@@ -72,11 +72,11 @@ salen de la nómina del 18/09, no de lo que tienes ahorita.
 
 ```
 Santander (después del retiro de $300 del 05/09)          $210.61
-Efectivo (~$630 de antes + $300 recién sacados)           ~$930.00
+Efectivo (confirmado, es todo lo que hay)                  ~$300.00
 Pluxee Restaurante (solo para comer fuera)                 $714.09
 − Transporte hasta el 18/09                                ~$150.00
 ──────────────────────────────────────────────────────────────
-= Libre real para gasolina, antojitos e imprevistos      ~$1,704.70
+= Libre real para gasolina, antojitos e imprevistos      ~$1,074.70
 ```
 
 El aporte al ahorro ($2,400) y la tarjeta MercadoPago ($3,201.59) **no
@@ -84,22 +84,31 @@ salen de este dinero** — se pagan con la nómina que caiga el 18/09.
 Cuando confirmes el depósito de esta quincena, este bloque se
 recalcula con el número real en vez de "por confirmar".
 
+⚠️ El estimado anterior de "~$630 en efectivo de la quincena pasada"
+resultó incorrecto — Diego confirmó (05/09) que **los $300 del retiro
+son todo su efectivo**. Ver el detalle en
+[gastos.md](gastos.md#movimientos-confirmados).
+
 ### 🚇 Reparto del retiro del 05/09 ($300 en efectivo + $210.61 en Santander)
 
 - **Metro (se queda en Santander, no se saca):** ~$70 — cubre los
   viajes de regreso ($5 c/u, contactless) de esta semana y la que sigue.
-- **Combi + cambio suelto (efectivo):** ~$140 del efectivo recién
-  sacado — cubre los regresos en combi (~$8 c/u) más un colchón de
-  monedas/billetes chicos.
-- **Sobrante en Santander (~$140.61):** en vez de mandarlo a
-  MercadoPago de una vez, déjalo un par de días como colchón — si
-  después de la quincena sigue sin usarse, ese es el que se transfiere.
+- **Combi + cambio suelto (efectivo):** ~$95 del efectivo — cubre los
+  regresos en combi (~$8 c/u) de las dos semanas; el resto (~$205) se
+  queda como colchón de billetes/monedas chicos.
+- **Gasolina: paga con Santander débito**, no efectivo — después de
+  apartar el metro quedan **~$140.61** ahí, y así no le quitas nada al
+  colchón de combi/cambio que necesitas todos los días. Si el tanque
+  cuesta más de eso, completa la diferencia con parte del efectivo
+  (tienes margen en el colchón de ~$205).
+- Por ahora no mandes nada a MercadoPago — el efectivo real quedó más
+  ajustado de lo que pensábamos, así que mejor esperar al depósito del
+  18/09 antes de mover algo ahí.
 
 ### 🚗💜 Plan para ver a Fanny (gasolina)
 
-- **Gasolina: paga en efectivo**, no con Santander débito — con el
-  retiro de hoy tienes efectivo de sobra (~$930) y así no le quitas
-  nada al colchón que se quedó en Santander para el metro.
+- **Gasolina:** con Santander débito (ver reparto arriba) — si no
+  alcanza para el tanque completo, complementa con efectivo.
 - **Antojito:** paga con **Pluxee Restaurante** si el lugar lo acepta
   — tienes $714.09 ahí sin tocar, y es justo para esto. Si es algo de
   tianguis/puesto que no acepta tarjeta, usa efectivo.

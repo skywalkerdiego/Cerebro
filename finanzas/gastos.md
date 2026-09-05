@@ -58,9 +58,22 @@ plan del domingo con Fanny en [README.md](README.md#-plan-para-el-domingo-con-fa
 |-------|------|-----------|-------------|-------|
 | 05/09/2026 | Transferencia | — | Retiro de cajero: Santander → Efectivo | −$300.00 |
 
-Con esto, Santander queda en **$210.61** ($510.61 − $300) y el efectivo
-sube a **~$930** (~$630 que quedaron de la quincena pasada, sin
-confirmar hoy, + los $300 nuevos).
+Con esto, Santander queda en **$210.61** ($510.61 − $300).
+
+⚠️ **Corrección (05/09/2026):** el estimado de "~$630 que quedaron de
+la quincena pasada" era incorrecto — Diego confirmó que **los $300 del
+retiro son todo su efectivo** (más algo de cambio suelto). Ese
+$630.09 nunca se detalló a dónde se fue; queda como otro hueco sin
+explicar, parecido al de Santander de la quincena pasada, pero ya no
+hay que seguir usándolo como referencia. **El efectivo real de hoy es
+~$300** (+ cambio suelto).
+
+**Sobre los vales de despensa:** la despensa de la casa ya está
+cubierta — no hace falta comprar nada más ahí. Diego seguía
+considerando cambiarlos a efectivo con su amigo (comisión real: menos
+de $100, no ~14% como se estimó antes), pero como no hay gasto de
+despensa pendiente, **no hace falta hacer el cambio por ahora** — el
+vale se queda como está.
 
 ### 🎯 La prueba de esta quincena
 
