@@ -32,7 +32,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
-| 1 | 🎓 Titulación | 🔥 **Hoy** | ATI y solicitud firmados; **hoy 05/09 sacas la ficha y pagas por SPEI**, mañana 06/09 subes los 3 documentos y queda entregada | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
+| 1 | 🎓 Titulación | ⏸️ **En pausa** | Posible problema: titularse por promedio podría no aplicar si ya pasaron 2 años desde el egreso — esperando respuesta del profesor. **No pagar la ficha todavía.** | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
 | 2 | 📊 Desempeño en Boost | 🔥 Activa | Performance Total bajó a 97.53% (venía de 108.8%); FCR es el driver — plan en Llamadas.exe | [desempeno/metricas.md](desempeno/metricas.md) · [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) |
 | 3 | 🗣️ Italiano | 🔥 Activa | Arranca 01/09/2026 — 1 lección diaria en el Break 1 | [metas/aprendizaje.md](metas/aprendizaje.md) |
 | 4 | 💰 Ahorro de Diego y Fanny | ⚙️ Automática | **$4,800 de $47,000 (10.2%)**; tu parte va al corriente, falta registrar la de Fanny | [metas/ahorro.md](metas/ahorro.md) |
@@ -218,14 +218,18 @@ de placeholder, es señal de que ese brief no corrió.
 
 Ordenado por el día en que toca. Actualizado el **sáb 05/09/2026**.
 
-### 🔥 Este fin de semana — la titulación se cierra
+### ⏸️ Titulación — en pausa, no pagar todavía
 
-- [ ] **HOY sáb 05/09** — Generar la ficha nueva en SIGEREL y pagar los
-      $620 **por SPEI** (funciona en sábado; concepto exacto: *"Pago de
-      título"*). Luego descargar el **CEP de BANXICO**.
-- [ ] **Dom 06/09 (noche)** — Armar el PDF del comprobante (ficha + CEP,
-      cada uno en su hoja, sin empalmar) y subir los **3 documentos** al
-      sistema de seguimiento. Con eso el trámite queda entregado.
+Diego reportó que **titularse por promedio podría no aplicar si ya
+pasaron 2 años desde que egresó** — mandó correo a su profesor y está
+esperando respuesta. Mientras tanto:
+
+- [ ] **No pagar la ficha ($620)** ni imprimir/firmar el ATI/solicitud
+      — podrían no servir si cambia la modalidad. Ver el detalle en
+      [metas/titulacion.md](metas/titulacion.md).
+- [ ] Dar seguimiento al correo si no hay respuesta en unos días.
+- [ ] Cuando llegue la respuesta, avisar aquí para replanear el trámite
+      completo si hace falta.
 
 ### ⚠️ Arrastrado de la semana pasada
 

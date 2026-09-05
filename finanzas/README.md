@@ -44,21 +44,25 @@ vino ese dinero. Vale la pena identificarlo.
 
 | Cuándo | Qué | Monto | De dónde sale |
 |--------|-----|-------|----------------|
-| **Hoy 05/09** | 🎓 Ficha de titulación (SPEI, concepto *"Pago de título"*) | **$620.00** | Nómina de hoy |
 | **27/09** | 💳 Corte tarjeta MercadoPago (incluye el AT&T de $2,077 de mamá) | **$2,535.96** | Nómina del 18/09 |
 | Cada quincena | 🏦 Crédito de nómina Santander (se descuenta solo) | ~$307.89 | Automático, ya viene descontado |
 | **18/09** | 💰 Aporte al fondo de la mudanza | $2,400.00 | Nómina del 18/09 |
 | Diario | 🚌 Transporte (~$15/día laboral) | ~$150 por quincena | Efectivo |
 
-**Total comprometido de esta quincena: ~$770** (ficha + transporte).
-La tarjeta de MercadoPago **no compite con esta quincena** — se paga
-con la nómina del 18/09.
+⏸️ **La ficha de titulación ($620) se quitó de esta lista** — el
+trámite está en pausa mientras Diego confirma con su profesor si
+titularse por promedio sigue aplicando. Ver
+[../metas/titulacion.md](../metas/titulacion.md). Ese dinero **no se
+gasta** hasta que se confirme el trámite.
+
+**Total comprometido de esta quincena: ~$150** (solo transporte, por
+ahora). La tarjeta de MercadoPago **no compite con esta quincena** —
+se paga con la nómina del 18/09.
 
 ### 3️⃣ Libre real
 
 ```
 Lo que entra hoy (nómina)        →  por confirmar
-− Ficha de titulación                 $620.00
 − Transporte hasta el 18/09          ~$150.00
 − Aporte al ahorro (18/09)          $2,400.00
 − Guardar para la tarjeta (27/09)   $2,535.96

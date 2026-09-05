@@ -67,7 +67,7 @@ de salir.
 | **Mié 02/09** | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 🎓 Firmar en tinta negra + escanear los 2 documentos (se corrió del martes) |
 | **Jue 03/09 (Off)** | — | — | — | — | — | 💜 Fanny — te quedas en su casa |
 | **Vie 04/09 (Off)** | — | — | — | — | — | 💜 Fanny · 🚗 tarde: cotizar el ventilador del Chevy |
-| **Sáb 05/09** ← hoy | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | 💰 **Día de pago** — sacar ficha y pagar por SPEI (ver abajo) |
+| **Sáb 05/09** ← hoy | 6am - 4pm | ~8:00 am | **11:30 am** | ~2:00 pm | ~5:20 pm | ⏸️ Titulación en pausa (esperando respuesta del profesor) — noche libre real |
 | **Dom 06/09** | 7am - 5pm | ~9:00 am | **12:45 pm** | ~3:00 pm | ~6:20 pm | 🎓 Armar el PDF del comprobante + subir los 3 documentos |
 
 ## 📮 Semana del 07/09 al 13/09 — falta el horario
@@ -105,26 +105,41 @@ urgente nuevo, pero la mecánica es la misma).
 **Todos los días, sin excepción:** 🗣️ Duolingo (en el Break 1) y 💜
 tiempo con Fanny. Estas dos no compiten con el foco de la noche.
 
-## ⏰ El problema del día de pago (resuelto)
+## ⏸️ El plan del pago de la ficha — en pausa (05/09/2026)
+
+Este plan de partir el trámite en 3 noches (firmar/escanear → pagar por
+SPEI → subir documentos) sigue guardado abajo por si se necesita, pero
+**está en pausa**: Diego reportó que titularse por promedio podría no
+aplicar si ya pasaron 2 años desde que egresó, y está esperando la
+respuesta de su profesor. **No pagues la ficha ni firmes nada hasta
+que llegue esa respuesta** — ver [../metas/titulacion.md](../metas/titulacion.md).
+
+Esto en realidad te libera la noche del sábado: sin el pago pendiente,
+hoy queda como noche libre de verdad.
+
+<details>
+<summary>Plan original (para retomar si se confirma la modalidad)</summary>
 
 El plan decía "pagar la ficha de titulación el 05/09, día de pago" —
 pero el 05/09 cae **sábado** y además trabajas 6am-4pm. FES Aragón y el
 banco están cerrados. La solución no es mover la fecha, es partir el
 trámite:
 
-1. **Lun 31/08 y Mar 01/09 (noches):** imprime, firma con tinta negra y
+1. **Noches previas:** imprime, firma con tinta negra y
    escanea el **ATI** y el **formato de solicitud**. Estos dos **no
    dependen del pago** — adelantarlos deja un solo bloqueo real.
-2. **Sáb 05/09 (Break 2 o en la noche):** entra a SIGEREL desde el
+2. **Día de pago (Break 2 o en la noche):** entra a SIGEREL desde el
    celular, genera la ficha nueva ($620) y **paga por transferencia
    SPEI** — SPEI funciona 24/7, incluido sábado. El concepto debe decir
    exactamente *"Pago de título"*.
-3. **Dom 06/09 (noche):** arma el PDF del comprobante (ficha + CEP de
+3. **Al día siguiente (noche):** arma el PDF del comprobante (ficha + CEP de
    BANXICO, cada uno en su hoja, sin empalmar) y sube los 3 documentos
    al sistema de seguimiento.
 
-Con esto la titulación queda entregada el domingo 06/09 sin necesitar
-un solo día hábil de oficina.
+Con esto la titulación quedaría entregada sin necesitar un solo día
+hábil de oficina — retomar tal cual en cuanto se confirme la modalidad.
+
+</details>
 
 ## Durante el turno: qué hacer en los breaks
 

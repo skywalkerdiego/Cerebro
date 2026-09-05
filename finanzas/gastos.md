@@ -20,7 +20,7 @@ Histórico permanente. Para saber **cómo estás hoy**, ve a
 
 | Concepto | Categoría | Monto | Fecha | Estatus |
 |----------|-----------|-------|-------|---------|
-| Ficha de titulación (SPEI, "Pago de título") | 🎓 Trámites | $620.00 | 05/09 | 🔶 Pendiente — **hoy** |
+| ~~Ficha de titulación (SPEI, "Pago de título")~~ | 🎓 Trámites | $620.00 | — | ⏸️ **En pausa** — no pagar hasta confirmar la modalidad, ver [../metas/titulacion.md](../metas/titulacion.md) |
 | Transporte (10 días laborales × ~$15) | 🚌 Transporte | ~$150.00 | al 18/09 | Recurrente |
 | Aporte al fondo de la mudanza | 💾 Ahorro | $2,400.00 | 18/09 | 🔶 Pendiente |
 | Guardar para la tarjeta MercadoPago | 💳 Deuda | $2,535.96 | corta 27/09 | 🔶 Reservar |

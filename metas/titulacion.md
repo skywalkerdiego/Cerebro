@@ -3,14 +3,47 @@
 **Objetivo:** Terminar el trámite de titulación (FES Aragón, Relaciones Internacionales).
 **Fecha límite deseada:** antes de diciembre 2026 (entre más pronto, mejor —
 esto desbloquea el resto del año).
-**Estado (05/09/2026):** 🔥 **Hoy y mañana se cierra.** Hoy sacas la
-ficha nueva y pagas por SPEI; mañana domingo armas el PDF del
-comprobante y subes los 3 documentos.
 
-**Lo único que puede descarrilarlo:** que el ATI y la solicitud
-firmados/escaneados (planeados para la noche del mié 02/09) todavía no
-estén listos. Si es el caso, **hazlos hoy** — el pago sin los
-documentos escaneados no sirve de nada mañana.
+## ⏸️ EN PAUSA (05/09/2026) — no hagas el pago todavía
+
+Diego reportó algo importante: **parece que si pasan más de 2 años
+desde que egresaste, ya no puedes titularte por promedio.** Mandó un
+correo a su profesor/asesor preguntando si esto aplica en su caso y
+está esperando respuesta.
+
+**Mientras no llegue esa respuesta:**
+
+- 🚫 **No pagar la ficha de titulación ($620).** Si resulta que la
+  modalidad por promedio ya no aplica, esa ficha específica podría no
+  servir — sería pagar por un trámite equivocado.
+- 🚫 No imprimir/firmar/escanear el ATI y la solicitud tampoco si
+  todavía no lo has hecho — esos formatos son específicos de la
+  modalidad por promedio; si cambia la modalidad, cambia el papeleo.
+- ✅ Lo único que sí toca ahorita es **dar seguimiento al correo** — si
+  no hay respuesta en unos días, es válido reenviarlo o llamar
+  directamente a la coordinación:
+  titulacion.relacionesinternacionales@aragon.unam.mx
+
+**Falta un dato para poder calcular esto con precisión:** ¿en qué
+fecha exacta egresaste (terminaste créditos/generación)? Con eso puedo
+calcular si de verdad ya pasaron los 2 años o si todavía estás dentro
+del plazo — dímelo en cuanto lo tengas a la mano y actualizo esta
+sección con el cálculo real en vez de la incertidumbre de ahorita.
+
+**Qué pasa si el profesor confirma que ya no aplica por promedio:**
+no se pierde el trabajo hecho (el ATI y la solicitud llenados siguen
+sirviendo como referencia), pero el trámite cambiaría de modalidad
+(posiblemente a titulación por tesis, por examen general de
+conocimientos, u otra que ofrezca la facultad) — eso sí es un cambio
+de plan real, no solo un ajuste de fecha. En cuanto tengas la
+respuesta, lo replaneamos juntos.
+
+---
+
+*Todo lo de abajo (documentos, checklist, pasos) sigue siendo válido
+**si la modalidad por promedio se confirma** — se deja tal cual para
+no perder el trabajo ya hecho, pero está en pausa hasta que llegue esa
+confirmación.*
 
 Contacto de la carrera: titulacion.relacionesinternacionales@aragon.unam.mx
 Sistema de seguimiento: https://seguimientotitulacion.unam.mx/expediente/21179
@@ -43,16 +76,16 @@ Tablero: [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-83
 El sistema no da el motivo específico del rechazo. Usa el checklist de abajo
 (sacado de la guía de llenado oficial) para revisar cada uno antes de resubir.
 
-## Pasos pendientes
+## Pasos pendientes (retomar solo si se confirma la modalidad por promedio)
 
 - [x] Llenar el ATI (versión "Expediente DGAE") con los datos personales
 - [x] Llenar el formato de solicitud y elección de título (Licenciado en Relaciones Internacionales, cuenta 318117676, cartulina imitación pergamino)
-- [ ] **Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud.** ⬅️ Estaba planeado para la noche del **mié 02/09**; no me confirmaste si salió. **Si sigue pendiente, es la tarea de hoy** — sin esto no se puede subir nada mañana aunque el pago ya esté hecho.
-- [ ] **HOY (sáb 05/09):** Hacer el pago de la ficha ($620.00). La ficha original vencía el 29/08/2026; se saca una **ficha nueva** en SIGEREL — no se pierde el trámite, solo se regenera la referencia. Cuando la saques, mándame el convenio/referencia/CLABE reales y los anoto aquí.
-- [ ] **Mañana (dom 06/09, noche):** Armar el comprobante de pago (ficha + CEP de BANXICO en un solo PDF, cada uno en su hoja)
-- [ ] **Mañana (dom 06/09, noche):** Subir los 3 documentos corregidos al sistema de seguimiento
+- [ ] Imprimir, firmar a mano con tinta negra y escanear: ATI, formato de solicitud. *(En pausa — no lo hagas hasta confirmar la modalidad, ver arriba)*
+- [ ] ~~Hacer el pago de la ficha ($620.00)~~ **EN PAUSA — no pagar hasta la respuesta del profesor.** La ficha original vencía el 29/08/2026; cuando se confirme la modalidad, se saca una ficha nueva en SIGEREL.
+- [ ] Armar el comprobante de pago (ficha + CEP de BANXICO en un solo PDF, cada uno en su hoja) — *pendiente de que se destrabe lo de arriba*
+- [ ] Subir los 3 documentos corregidos al sistema de seguimiento — *pendiente de que se destrabe lo de arriba*
 
-### ⏰ Ojo: el 05/09 cae en sábado y trabajas 6am-4pm
+### ⏰ Plan de pago por SPEI (en pausa — guardado para cuando se confirme la modalidad)
 
 El plan decía "pagar el día de pago", pero ese día no hay banco ni
 oficinas de FES Aragón abiertas, y tú estás en turno. **La solución es
