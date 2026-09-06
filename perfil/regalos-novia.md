@@ -26,13 +26,18 @@ mano — el diseño es el envoltorio, las palabras son tuyas.
 para dónde ir.
 
 Tablero/imprimible: **[Kit para Fanny](https://claude.ai/code/artifact/9141d18a-8ce1-4279-afe0-362e57c24ce9)**
-— actualizado 05/09/2026: paleta más rosa, el separador con más
-elementos de doctora y detalles tiernos (estetoscopio con corazón,
-curita, pastillita, cruz médica, huellita de Tris, moño), y una
-**tarjetita ex libris** nueva para meter en el libro ("Este libro es de
-Fanny"). El botón de imprimir abre el diálogo de tu navegador para
-guardar como PDF — **si quieres el PDF exacto sin pasar por ahí, pídemelo
-en el chat y te lo mando directo**, siempre actualizado.
+— actualizado 06/09/2026: revisión de diseño a pedido tuyo — los
+dibujitos que se sentían muy geométricos (el disco de vinil y la
+brújula, que eran círculos perfectos de compás) ahora están dibujados
+a mano como el resto del set, y se corrigió un desbordamiento real en
+la segunda hoja donde el separador se encimaba con la tarjetita del
+libro. Sigue con la paleta rosa, el separador con detalles de doctora
+(estetoscopio con corazón, curita, pastillita, cruz médica, huellita
+de Tris, moño) y la **tarjetita ex libris** para meter en el libro
+("Este libro es de Fanny"). El botón de imprimir abre el diálogo de tu
+navegador para guardar como PDF — **si quieres el PDF exacto sin pasar
+por ahí, pídemelo en el chat y te lo mando directo**, siempre
+actualizado.
 
 | Pieza | Qué es | Para qué |
 |-------|--------|----------|
