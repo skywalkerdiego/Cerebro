@@ -2,7 +2,7 @@
 
 Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
-Última actualización: 2026-09-05 · **111 días para Navidad 2026** — la fecha límite del plan de mudanza.
+Última actualización: 2026-09-09 · **107 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
 `perfil/`, `finanzas/`, `desempeno/` y [logros.md](logros.md) con lo
@@ -32,7 +32,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
-| 1 | 🎓 Titulación | ⏸️ **En pausa** | Posible problema: titularse por promedio podría no aplicar si ya pasaron 2 años desde el egreso — esperando respuesta del profesor. **No pagar la ficha todavía.** | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
+| 1 | 🎓 Titulación | ⏸️ **En pausa** | Respondió el Jefe de Carrera (09/09): van a hacer una consulta interna sobre el caso de Diego y avisan cuando tengan la información — todavía no es la respuesta final. **No pagar la ficha todavía.** | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
 | 2 | 📊 Desempeño en Boost | 🔥 Activa | Performance Total bajó a 97.53% (venía de 108.8%); FCR es el driver — plan en Llamadas.exe | [desempeno/metricas.md](desempeno/metricas.md) · [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) |
 | 3 | 🗣️ Italiano | 🔥 Activa | Arranca 01/09/2026 — 1 lección diaria en el Break 1 | [metas/aprendizaje.md](metas/aprendizaje.md) |
 | 4 | 💰 Ahorro de Diego y Fanny | ⚙️ Automática | **$4,800 de $47,000 (10.2%)**; tu parte va al corriente, falta registrar la de Fanny | [metas/ahorro.md](metas/ahorro.md) |
@@ -221,15 +221,18 @@ Ordenado por el día en que toca. Actualizado el **sáb 05/09/2026**.
 ### ⏸️ Titulación — en pausa, no pagar todavía
 
 Diego reportó que **titularse por promedio podría no aplicar si ya
-pasaron 2 años desde que egresó** — mandó correo a su profesor y está
-esperando respuesta. Mientras tanto:
+pasaron 2 años desde que egresó** — mandó correo a su profesor. El
+**09/09 respondió David García Contreras (Jefe de Carrera)**: van a
+consultar con el área correspondiente y avisan cuando tengan la
+información — sigue sin ser la respuesta final. Mientras tanto:
 
 - [ ] **No pagar la ficha ($620)** ni imprimir/firmar el ATI/solicitud
       — podrían no servir si cambia la modalidad. Ver el detalle en
       [metas/titulacion.md](metas/titulacion.md).
-- [ ] Dar seguimiento al correo si no hay respuesta en unos días.
-- [ ] Cuando llegue la respuesta, avisar aquí para replanear el trámite
-      completo si hace falta.
+- [ ] Dar seguimiento si no hay respuesta de la consulta interna en
+      unos días.
+- [ ] Cuando llegue la respuesta con el resultado real, avisar aquí
+      para replanear el trámite completo si hace falta.
 
 ### 💰 Dinero
 

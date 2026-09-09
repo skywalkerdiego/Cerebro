@@ -14,43 +14,120 @@ calendario de verdad (por mes, con los días marcados), está
 
 - **Fecha:** sábado 17 de octubre de 2026, 3:00 pm.
 - **Sede:** Jardines de México, km 129 carretera México-Acapulco,
-  Tequesquitengo, Morelos.
+  Tehuixtla (Tequesquitengo), Morelos.
 - **Cartel:** Joji, ZHU, Bob Moses, Madeon, Kavinsky, The Midnight,
   Drama, Max Styler, Clubz, Juana Aguirre, Ralphie Choo, Ant Dot, Adam
   Tent, entre otros.
-- **Boletos:** Ticketmaster, entre $4,464 y $8,184 MXN según zona.
+- **Transporte:** en el Chevy — ~140 km desde Neza, ~2 h por la
+  México-Acapulco. El Chevy quedó arreglado el 05/09/2026 (radiador +
+  ventilador, ver [../metas/patrimonio.md](../metas/patrimonio.md)),
+  así que va sin el riesgo de sobrecalentamiento que tenía antes —
+  igual vale la pena checar aceite, presión de llantas y refrigerante
+  un día antes de salir, por rutina.
 - **Cae 3 días antes del aniversario** (20/10) — vale la pena
   considerar si conviene estirar el viaje en vez de dos salidas
   separadas, dependiendo del presupuesto y el turno de esa semana.
 
-### Hospedaje (opciones económicas cerca de Tequesquitengo)
+### 🎟️ Boletos — el precio sube por fases, entre antes mejor
+
+| Zona | Precio (con cargos) |
+|------|----------------------|
+| General | $2,604 (fase 1) → $4,092 (fase 5) |
+| Comfort | $3,906 (fase 1) → $6,138 (fase 5) |
+| Banamex VIP | $5,208 (fase 1) → $8,184 (fase 5) |
+
+La venta arrancó el 13/05/2026, así que probablemente ya va en una
+fase alta — checa el precio real en Ticketmaster antes de comprar,
+porque solo sube. **Recomendación: General** — es la que más se
+acerca al tope que ya tenían contemplado para el concierto en
+[../metas/ahorro.md](../metas/ahorro.md) ($2,000–3,000 por persona);
+Comfort/VIP son upgrades válidos si el presupuesto da más margen.
+
+### 🏨 Hospedaje (opciones económicas cerca de Tequesquitengo)
 
 - Hotel La Laguna — 3 estrellas, restaurante, bar, estacionamiento
-  gratis, recepción 24h.
-- Teques Inn — opción sencilla, dos albercas al aire libre.
+  gratis, recepción 24h, en el pueblo.
+- Teques Inn — opción sencilla, dos albercas al aire libre, de las más
+  económicas.
+- Hotel Ameyali — referencia de precio real: ~$1,257 la noche para 2
+  personas (checado agosto 2026).
 - Ver más en Booking (desde ~$65 USD/noche) — precios y disponibilidad
-  cambian seguido, checar cerca de la fecha porque ese fin de semana
-  se llena rápido.
+  cambian seguido, y ese fin de semana se llena rápido por el festival
+  — reserva con tiempo.
 
-### Presupuesto estimado (2 personas, referencia)
+### 🌄 Algo con bonito paisaje cerca
+
+Dos opciones — una gratis y una de excursión corta:
+
+- **Gratis, el mismo sábado:** el malecón de la Laguna de
+  Tequesquitengo, antes de entrar al festival — atardecer sobre el
+  lago sin gastar nada. Si quieren armar más, en el muelle rentan
+  lanchas (~$1,200–1,300/hora, se puede compartir) y motos acuáticas
+  (~$1,000/30 min), pero ya es un gasto aparte.
+- **De excursión, el domingo antes de volver:** **Grutas de
+  Cacahuamilpa** (Guerrero), ~40–50 min desde Tequesquitengo — de las
+  cavernas más grandes de América, salones enormes, recorrido de ~2 h.
+  Entrada ~$100 por persona (mitad para estudiantes/INAPAM), guía
+  grupal opcional ~$150. Abre de 10 am a 5 pm. Queda de camino: de ahí
+  se retoma la carretera de regreso a México sin tener que desandar el
+  camino.
+
+### 💰 Presupuesto estimado (2 personas, con Grutas incluidas)
 
 | Concepto | Estimado |
 |----------|----------|
-| 2 boletos (zona media) | ~$9,000–12,000 |
-| Hotel (1 noche, 2 personas) | ~$1,200–2,000 |
-| Gasolina + comida del viaje | ~$1,000–1,500 |
-| **Total aprox.** | **~$11,200–15,500 MXN** |
+| 2 boletos General (según fase al comprar) | ~$5,200–8,200 |
+| Hotel (1 noche, 2 personas) | ~$1,200–1,600 |
+| Estacionamiento del festival (boleto aparte, Ticketmaster) | ~$150–300 |
+| Gasolina (ida y vuelta + desvío a Grutas, ~350 km) | ~$850–950 |
+| Comida del viaje (2 días, 2 personas) | ~$800–1,200 |
+| Entrada Grutas de Cacahuamilpa (2 personas) | ~$200 |
+| **Total aprox.** | **~$8,400–12,450 MXN** *(comprando pronto y en General)* |
+
+Si el boleto se compra tarde (fase alta) o suben a Comfort, el total
+sube a ~$11,000–15,000. La zona de boleto es la variable que más
+mueve el presupuesto — vale la pena decidirla pronto.
+
+### 🎒 Consejos para el festival
+
+- **El estacionamiento se compra aparte en Ticketmaster** (Estándar o
+  Preferente) — no viene incluido en el boleto de entrada, cómpralo
+  con tiempo para no llegar sin dónde dejar el Chevy.
+- **No dejan entrar:** comida, bebidas, armas, drones ni mascotas. Es
+  **+18 años**.
+- Efectivo en chico — no todos los puestos de adentro aceptan tarjeta.
+- Protector solar, tenis cómodos, power bank cargado — el festival
+  arranca a las 3 pm, todavía hay sol.
+- Descargar el mapa offline de la ruta — la señal en la
+  México-Acapulco es irregular.
+- Checar el clima de Tequesquitengo cerca de la fecha (mediados de
+  octubre, cola de temporada de lluvias en Morelos).
+- Playlist previa con Joji, ZHU, Madeon, Kavinsky y The Midnight para
+  ir entrando en ambiente.
+
+### 🗓️ Plan sugerido (sábado–domingo)
+
+| Cuándo | Qué |
+|--------|-----|
+| Sáb, mañana | Salir de Neza (~2 h de camino) |
+| Sáb, mediodía | Check-in en el hotel de Tequesquitengo, comer algo |
+| Sáb, tarde (antes de las 3 pm) | Malecón de la laguna — el paisaje gratis |
+| Sáb, 3 pm en adelante | Festival |
+| Sáb, noche | Regreso al hotel |
+| Dom, mañana | Desayuno + Grutas de Cacahuamilpa (~40–50 min, ~2 h de recorrido) |
+| Dom, tarde | Regreso a Neza |
 
 ### Pendientes
 
-- [ ] Comprar boletos (Ticketmaster)
+- [ ] Decidir zona de boleto (General recomendado) y comprarlo pronto
+      — el precio solo sube
+- [ ] Comprar el pase de estacionamiento en Ticketmaster
 - [ ] Reservar hotel en Tequesquitengo
 - [ ] Confirmar turno/día libre en Boost para ese fin de semana
-- [ ] Definir transporte (~1h45 desde Neza)
 - [ ] Meter el gasto total a Finanzas.exe en cuanto esté definido
 
 Los checks de este viaje se guardan directamente en el navegador
-dentro de Eventos.exe (localStorage) — dile a Claude cuando avances
+dentro de Calendario.exe (localStorage) — dile a Claude cuando avances
 algo para que quede reflejado aquí también.
 
 ## 🎬 Cine — CANCELADO (era viernes 28 de agosto 2026, 9:20 pm)

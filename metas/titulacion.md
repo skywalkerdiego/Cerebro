@@ -11,6 +11,14 @@ desde que egresaste, ya no puedes titularte por promedio.** Mandó un
 correo a su profesor/asesor preguntando si esto aplica en su caso y
 está esperando respuesta.
 
+**Actualización (09/09/2026):** llegó respuesta de **David García
+Contreras, Jefe de Carrera de Relaciones Internacionales**. No es la
+respuesta final todavía — dice que van a hacer una consulta interna
+con el área correspondiente para saber qué procede en el caso de
+Diego, y que avisan en cuanto tengan la información. Sigue en pausa
+exactamente igual que antes: no pagar la ficha ni imprimir/firmar
+nada mientras no llegue esa segunda respuesta con el resultado real.
+
 **Mientras no llegue esa respuesta:**
 
 - 🚫 **No pagar la ficha de titulación ($620).** Si resulta que la
