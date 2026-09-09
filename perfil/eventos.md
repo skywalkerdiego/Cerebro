@@ -28,20 +28,14 @@ calendario de verdad (por mes, con los días marcados), está
   considerar si conviene estirar el viaje en vez de dos salidas
   separadas, dependiendo del presupuesto y el turno de esa semana.
 
-### 🎟️ Boletos — el precio sube por fases, entre antes mejor
+### 🎟️ Boletos — ✅ comprados (09/09/2026)
 
-| Zona | Precio (con cargos) |
-|------|----------------------|
-| General | $2,604 (fase 1) → $4,092 (fase 5) |
-| Comfort | $3,906 (fase 1) → $6,138 (fase 5) |
-| Banamex VIP | $5,208 (fase 1) → $8,184 (fase 5) |
-
-La venta arrancó el 13/05/2026, así que probablemente ya va en una
-fase alta — checa el precio real en Ticketmaster antes de comprar,
-porque solo sube. **Recomendación: General** — es la que más se
-acerca al tope que ya tenían contemplado para el concierto en
-[../metas/ahorro.md](../metas/ahorro.md) ($2,000–3,000 por persona);
-Comfort/VIP son upgrades válidos si el presupuesto da más margen.
+**Zona General, $5,784 en total — 3 pagos MSI de $1,928.** Cae dentro
+del tope de $2,000–3,000 por persona ya contemplado para el concierto
+en [../metas/ahorro.md](../metas/ahorro.md) (~$2,892/persona). Falta
+confirmar en qué tarjeta quedaron los 3 pagos para que
+[finanzas/gastos.md](../finanzas/gastos.md) lleve las fechas de corte
+exactas — avísame cuando lo tengas a la mano.
 
 ### 🏨 Hospedaje (opciones económicas cerca de Tequesquitengo)
 
@@ -76,17 +70,16 @@ Dos opciones — una gratis y una de excursión corta:
 
 | Concepto | Estimado |
 |----------|----------|
-| 2 boletos General (según fase al comprar) | ~$5,200–8,200 |
+| 2 boletos General | **$5,784** *(ya pagado, 3 MSI de $1,928)* |
 | Hotel (1 noche, 2 personas) | ~$1,200–1,600 |
 | Estacionamiento del festival (boleto aparte, Ticketmaster) | ~$150–300 |
 | Gasolina (ida y vuelta + desvío a Grutas, ~350 km) | ~$850–950 |
 | Comida del viaje (2 días, 2 personas) | ~$800–1,200 |
 | Entrada Grutas de Cacahuamilpa (2 personas) | ~$200 |
-| **Total aprox.** | **~$8,400–12,450 MXN** *(comprando pronto y en General)* |
+| **Total aprox.** | **~$8,984–10,034 MXN** |
 
-Si el boleto se compra tarde (fase alta) o suben a Comfort, el total
-sube a ~$11,000–15,000. La zona de boleto es la variable que más
-mueve el presupuesto — vale la pena decidirla pronto.
+Con el boleto ya cerrado, lo único que sigue moviendo el presupuesto
+es el hotel y la gasolina — el resto es un rango chico.
 
 ### 🎒 Consejos para el festival
 
@@ -119,8 +112,7 @@ mueve el presupuesto — vale la pena decidirla pronto.
 
 ### Pendientes
 
-- [ ] Decidir zona de boleto (General recomendado) y comprarlo pronto
-      — el precio solo sube
+- [x] Comprar boletos — General, $5,784 en 3 MSI de $1,928 (09/09/2026)
 - [ ] Comprar el pase de estacionamiento en Ticketmaster
 - [ ] Reservar hotel en Tequesquitengo
 - [ ] Confirmar turno/día libre en Boost para ese fin de semana
