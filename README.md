@@ -2,7 +2,7 @@
 
 Espacio para vaciar todo lo que tengo en la cabeza y darle seguimiento.
 
-Última actualización: 2026-09-05 · **111 días para Navidad 2026** — la fecha límite del plan de mudanza.
+Última actualización: 2026-09-09 · **107 días para Navidad 2026** — la fecha límite del plan de mudanza.
 
 Cada vez que hablemos, actualizamos este archivo y los de `metas/`,
 `perfil/`, `finanzas/`, `desempeno/` y [logros.md](logros.md) con lo
@@ -32,7 +32,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
-| 1 | 🎓 Titulación | ⏸️ **En pausa** | Posible problema: titularse por promedio podría no aplicar si ya pasaron 2 años desde el egreso — esperando respuesta del profesor. **No pagar la ficha todavía.** | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
+| 1 | 🎓 Titulación | ⏸️ **En pausa** | Respondió el Jefe de Carrera (09/09): van a hacer una consulta interna sobre el caso de Diego y avisan cuando tengan la información — todavía no es la respuesta final. **No pagar la ficha todavía.** | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
 | 2 | 📊 Desempeño en Boost | 🔥 Activa | Performance Total bajó a 97.53% (venía de 108.8%); FCR es el driver — plan en Llamadas.exe | [desempeno/metricas.md](desempeno/metricas.md) · [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) |
 | 3 | 🗣️ Italiano | 🔥 Activa | Arranca 01/09/2026 — 1 lección diaria en el Break 1 | [metas/aprendizaje.md](metas/aprendizaje.md) |
 | 4 | 💰 Ahorro de Diego y Fanny | ⚙️ Automática | **$4,800 de $47,000 (10.2%)**; tu parte va al corriente, falta registrar la de Fanny | [metas/ahorro.md](metas/ahorro.md) |
@@ -121,7 +121,8 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🌤️ [Hoy.exe](https://claude.ai/code/artifact/b7358df3-d5c4-4b82-80c6-e4f375a149aa) — fecha y hora en vivo, clima cerca de tu casa y de tu trabajo, y lo más próximo en el calendario.
 - 📰 [Periódico.exe](https://claude.ai/code/artifact/4169c45b-465f-4ecd-9015-7f76693f3614) — tu portada diaria: titular del día, clima, próximo evento, pendientes urgentes, noticias con perspectiva y foco de la noche. Se republica sola cada 5am.
 - 🗺️ [Descubre.exe](https://claude.ai/code/artifact/776e9c82-74b6-4efc-9698-866474be9271) — hub de noticias y política, con cada fuente etiquetada según de dónde habla (izquierda/alternativa incl. RT, generalista, oposición, experto) y links "seguir leyendo →"; también eventos/conciertos/museos cerca de Neza-CDMX que aún no están en tu radar.
-- 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes con la línea de tiempo completa de cada evento (cine, conciertos, cumpleaños, aniversario), incluido el plan de Nescafé Vaivén (Eventos.exe se fusionó aquí el 31/08/2026).
+- 📅 [Calendario.exe](https://claude.ai/code/artifact/8b911d1f-0b5a-4d0a-9d11-41d7b7a4e778) — calendario real por mes con la línea de tiempo completa de cada evento (cine, conciertos, cumpleaños, aniversario), con link al plan del Vaivén (Eventos.exe se fusionó aquí el 31/08/2026).
+- 🎪 [Vaivén.exe](https://claude.ai/code/artifact/a99bf33b-8059-4c26-b568-29c6721c3eff) — plan completo del viaje al Nescafé Vaivén con Fanny (17/10, Tequesquitengo): boletos, hospedaje, paisaje cercano, presupuesto e itinerario. Se separó de Calendario.exe el 09/09/2026 — el plan había crecido demasiado para leerse cómodo ahí.
 - ✍️ [Artículos.exe](https://claude.ai/code/artifact/25b45539-b542-44ea-9085-a19aeb4edca8) — checklist de investigación por caso, fuentes, prompt de redacción y banco de ideas para los siguientes artículos.
 - 📞 [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5) — flujo de llamada (cuenta suspendida, escalación, crédito) con la frase exacta del playbook en cada paso, priorizado por tus categorías más débiles del IS Evaluation.
 - 🎓 [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) — estado del trámite, documentos y pasos pendientes.
@@ -182,6 +183,13 @@ día que Diego sí usaba; esta ronda la repone de verdad, integrada:
   "Próximas 2 semanas" de este archivo — un solo lugar que se actualiza
   aquí, no en tres tableros distintos.
 
+Excepción deliberada (09/09): el plan del Vaivén, que vivía dentro de
+Calendario.exe, se sacó a su propio tablero (**Vaivén.exe**) — no por
+volver a los 25 tableros de antes, sino porque un plan de viaje
+completo (hospedaje, presupuesto, itinerario, checklist) sí necesita
+su propio espacio para leerse bien; forzarlo dentro del calendario era
+el problema, no la solución.
+
 ## 🤖 Automatizaciones (Routines)
 
 Cinco avisos automáticos al día, ajustados a tus breaks reales. Los tres
@@ -221,15 +229,18 @@ Ordenado por el día en que toca. Actualizado el **sáb 05/09/2026**.
 ### ⏸️ Titulación — en pausa, no pagar todavía
 
 Diego reportó que **titularse por promedio podría no aplicar si ya
-pasaron 2 años desde que egresó** — mandó correo a su profesor y está
-esperando respuesta. Mientras tanto:
+pasaron 2 años desde que egresó** — mandó correo a su profesor. El
+**09/09 respondió David García Contreras (Jefe de Carrera)**: van a
+consultar con el área correspondiente y avisan cuando tengan la
+información — sigue sin ser la respuesta final. Mientras tanto:
 
 - [ ] **No pagar la ficha ($620)** ni imprimir/firmar el ATI/solicitud
       — podrían no servir si cambia la modalidad. Ver el detalle en
       [metas/titulacion.md](metas/titulacion.md).
-- [ ] Dar seguimiento al correo si no hay respuesta en unos días.
-- [ ] Cuando llegue la respuesta, avisar aquí para replanear el trámite
-      completo si hace falta.
+- [ ] Dar seguimiento si no hay respuesta de la consulta interna en
+      unos días.
+- [ ] Cuando llegue la respuesta con el resultado real, avisar aquí
+      para replanear el trámite completo si hace falta.
 
 ### 💰 Dinero
 

@@ -14,44 +14,20 @@ calendario de verdad (por mes, con los días marcados), está
 
 - **Fecha:** sábado 17 de octubre de 2026, 3:00 pm.
 - **Sede:** Jardines de México, km 129 carretera México-Acapulco,
-  Tequesquitengo, Morelos.
-- **Cartel:** Joji, ZHU, Bob Moses, Madeon, Kavinsky, The Midnight,
-  Drama, Max Styler, Clubz, Juana Aguirre, Ralphie Choo, Ant Dot, Adam
-  Tent, entre otros.
-- **Boletos:** Ticketmaster, entre $4,464 y $8,184 MXN según zona.
+  Tehuixtla (Tequesquitengo), Morelos.
+- **Boletos:** ✅ comprados (09/09/2026) — zona General, $5,784 en 3
+  MSI de $1,928.
 - **Cae 3 días antes del aniversario** (20/10) — vale la pena
   considerar si conviene estirar el viaje en vez de dos salidas
   separadas, dependiendo del presupuesto y el turno de esa semana.
 
-### Hospedaje (opciones económicas cerca de Tequesquitengo)
-
-- Hotel La Laguna — 3 estrellas, restaurante, bar, estacionamiento
-  gratis, recepción 24h.
-- Teques Inn — opción sencilla, dos albercas al aire libre.
-- Ver más en Booking (desde ~$65 USD/noche) — precios y disponibilidad
-  cambian seguido, checar cerca de la fecha porque ese fin de semana
-  se llena rápido.
-
-### Presupuesto estimado (2 personas, referencia)
-
-| Concepto | Estimado |
-|----------|----------|
-| 2 boletos (zona media) | ~$9,000–12,000 |
-| Hotel (1 noche, 2 personas) | ~$1,200–2,000 |
-| Gasolina + comida del viaje | ~$1,000–1,500 |
-| **Total aprox.** | **~$11,200–15,500 MXN** |
-
-### Pendientes
-
-- [ ] Comprar boletos (Ticketmaster)
-- [ ] Reservar hotel en Tequesquitengo
-- [ ] Confirmar turno/día libre en Boost para ese fin de semana
-- [ ] Definir transporte (~1h45 desde Neza)
-- [ ] Meter el gasto total a Finanzas.exe en cuanto esté definido
-
-Los checks de este viaje se guardan directamente en el navegador
-dentro de Eventos.exe (localStorage) — dile a Claude cuando avances
-algo para que quede reflejado aquí también.
+**Plan completo del viaje** (cartel, transporte, hospedaje, paisaje
+cercano, presupuesto, itinerario, consejos del festival y pendientes)
+vive en su propio tablero: [Vaivén.exe](https://claude.ai/code/artifact/a99bf33b-8059-4c26-b568-29c6721c3eff)
+— se separó de Calendario.exe el 09/09/2026 porque ya no cabía cómodo
+ahí. Los checks se guardan en el navegador dentro de ese tablero —
+dile a Claude cuando avances algo para que quede reflejado aquí
+también.
 
 ## 🎬 Cine — CANCELADO (era viernes 28 de agosto 2026, 9:20 pm)
 

@@ -42,6 +42,15 @@ lo tengas y lo dejo preciso; mientras tanto uso $665.63 como estimado.
 | Guardar para la tarjeta MercadoPago | 💳 Deuda | **$3,201.59** | corta 27/09 | 🔶 Reservar — solo $398.41 de límite libre, no cargar más antes del 18/09 |
 | Crédito de nómina Santander | ❓ Otros | ~$307.89 | automático | Se descuenta solo |
 
+### 🎪 Boletos Nescafé Vaivén (09/09/2026)
+
+| Concepto | Categoría | Monto | Cuenta | Estatus |
+|----------|-----------|-------|--------|---------|
+| 2 boletos General, Jardines de México (17/10) | 🎉 Salidas/citas | $5,784.00 (3 MSI de $1,928.00) | Por confirmar | Comprados — plan completo en [../perfil/eventos.md](../perfil/eventos.md) |
+
+Falta saber en qué tarjeta quedaron los 3 pagos para meter las fechas
+de corte exactas — dime cuando lo tengas a la mano.
+
 ### 🎁 Regalo para Fanny — libros (05/09/2026)
 
 | Concepto | Categoría | Monto | Cuenta | Estatus |
