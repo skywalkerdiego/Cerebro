@@ -16,16 +16,24 @@ la personalidad de cada quien.
 
 ## Mamá — 20 de septiembre
 
-- **Con significado:** aún por definir — cuéntame qué le gusta, qué la
-  hace sentir especial, algo que hayan vivido juntos que pueda
-  convertirse en regalo (carta, foto, detalle hecho a mano).
-- **Material:** por definir — dime sus gustos (ropa, accesorios,
-  algo de casa, algo de belleza/cuidado personal) y armamos opciones.
+- **Material:** ella ya pidió **un abrigo** (09/09/2026) — dirección
+  confirmada, solo falta cerrar detalles: ¿qué presupuesto manejas?
+  ¿conoces su talla y el color/estilo que usa más (básico/neutro vs.
+  algo con más personalidad)? Con eso ya se puede buscar opciones
+  concretas.
+- **Con significado:** para que no se quede solo en "el abrigo", una
+  idea barata de combinar: una carta corta a mano metida en el
+  bolsillo o una foto de ambos junto con el regalo — cuéntame si
+  quieres que te ayude a armar el texto.
 
 ## Papá — 21 de septiembre
 
 - **Con significado:** aún por definir.
-- **Material:** aún por definir.
+- **Material:** aún por definir — no tengo registrados sus gustos
+  todavía (ver hueco en [familia.md](familia.md)). Dime qué le gusta
+  (algo que use en el día a día, un hobby, una marca que prefiera) y
+  en la misma plática te doy opciones concretas — quedan 12 días, hay
+  tiempo de sobra.
 
 ## Hermana — 4 de octubre
 
