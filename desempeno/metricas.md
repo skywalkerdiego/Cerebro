@@ -11,6 +11,7 @@ los valores son "% to goal" — 100% es la meta.
 | Periodo anterior (compartida 17/08/2026) | 110% |
 | 16/08/2026 (agosto 2026 a la fecha) | 100.6% |
 | 22/08/2026 (agosto 2026 a la fecha) | 99.11% |
+| 09/09/2026 (septiembre 2026 a la fecha) | 97.5% |
 
 ## Chat Survey
 
@@ -19,6 +20,7 @@ los valores son "% to goal" — 100% es la meta.
 | Periodo anterior (compartida 17/08/2026) | 103% |
 | 16/08/2026 (agosto 2026 a la fecha) | 100.5% |
 | 22/08/2026 (agosto 2026 a la fecha) | 100.61% |
+| 09/09/2026 (septiembre 2026 a la fecha) | 101.8% |
 
 ## ACT · Voice / Escalations
 
@@ -27,6 +29,7 @@ los valores son "% to goal" — 100% es la meta.
 | Periodo anterior (compartida 17/08/2026) | 105.2% |
 | 16/08/2026 (agosto 2026 a la fecha) | 104.2% |
 | 22/08/2026 (agosto 2026 a la fecha) | 99.82% |
+| 09/09/2026 (septiembre 2026 a la fecha) | 97% |
 
 ## First Call Resolution
 
@@ -35,6 +38,7 @@ los valores son "% to goal" — 100% es la meta.
 | Periodo anterior (compartida 17/08/2026) | 110% |
 | 16/08/2026 (agosto 2026 a la fecha) | 95.9% |
 | 22/08/2026 (agosto 2026 a la fecha) | 95.44% |
+| 09/09/2026 (septiembre 2026 a la fecha) | **102.7%** |
 
 ## Performance Total
 
@@ -43,6 +47,7 @@ los valores son "% to goal" — 100% es la meta.
 | Periodo anterior (compartida 17/08/2026) | 108.8% |
 | 16/08/2026 (agosto 2026 a la fecha) | 98.9% |
 | 22/08/2026 (agosto 2026 a la fecha) | 97.53% |
+| 09/09/2026 (septiembre 2026 a la fecha) | **100.6%** |
 
 ## Coaching de Armando Cortes (tu supervisor) — foco: subir FCR
 
@@ -112,6 +117,32 @@ para trabajarla: [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-40
 | Summarize the Issue | 61.8% |
 | **Reinforce Brand Closing** | **45.6%** |
 
+### Captura de septiembre 2026 (Playbook Intelligent Scoring, corte 09/09/2026)
+
+Overall Score: **90.00%** (meta 88%) — nivel **HERO**, 137
+evaluaciones. Primera vez arriba de meta desde que se sigue esta
+métrica. Tendencia de 6 meses: 84.2% → 87.8% → 82.5% → 85.1% → 85.9% →
+**90.0%**.
+
+| Bloque | % | Sub-categoría | % |
+|--------|---|----------------|---|
+| First Impressions | **96.50%** | Welcome with Brand/Agent Group | 99.27% |
+| | | Offer Your Assistance | 100.00% |
+| | | Use Ownership Statements | 97.81% |
+| | | Demonstrate Respect | 86.13% |
+| | | Acknowledge Customer Concern | 99.27% |
+| Identifying Needs | **86.50%** | Actively Listen | 90.51% |
+| | | Summarize the Issue | 82.48% |
+| Providing Resolution | **89.78%** | Summarize the Resolution | 89.78% |
+| Last Impressions | **77.37%** | Acknowledge Customer | 97.08% |
+| | | **Reinforce Brand Closing** | **57.66%** |
+
+Comparado contra la captura del 17/08: **Summarize the Issue** subió de
+61.8% a 82.48% (+20.7 pts), **Demonstrate Respect** de 72.1% a 86.13%
+(+14 pts), y **Reinforce Brand Closing** — la categoría más débil —
+subió de 45.6% a 57.66% (+12 pts), pero sigue siendo con diferencia el
+punto más bajo del tablero.
+
 ## Notas
 
 - Captura del 16/08/2026: STAR 98.9%, Performance 98.9%, Promote y VOC
@@ -152,3 +183,15 @@ para trabajarla: [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-40
   meta de coaching subida; vale la pena confirmarlo con él si te
   genera duda). Volumen: 446 contactos de voz (Escalations), 289 de
   chat.
+- **Captura del 09/09/2026** ("Diego Ruiz Elizondo - September, 2026"):
+  Performance Total de vuelta arriba de meta en **100.6%** (venía de
+  97.53% el 22/08) — el driver es el **FCR, que se recuperó a 102.7%**
+  (venía de 95.44%, absoluto 76% vs meta 74%; volumen 156 contactos de
+  Wireless GE OS Escalations Voice). ACT Voice (97%) y ACT Chat (97.5%)
+  bajaron un poco de meta pero siguen cerca (volumen 67 contactos de
+  Wireless GE Chat); Chat Survey subió a 101.8% (4.92 vs meta 4.84). En
+  paralelo, el IS Evaluation (calidad de llamada) llegó a **90.00%**,
+  nivel HERO, la primera vez arriba de la meta de 88% — confirma que el
+  plan de FCR de Llamadas.exe (escalar rápido, reconocer todos los
+  temas, investigar antes de decir "no se puede") sí está funcionando,
+  no solo en el número de FCR sino también en calidad de llamada.

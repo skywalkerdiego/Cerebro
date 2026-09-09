@@ -33,7 +33,7 @@ conjunto en marcha y el desempeño de vuelta arriba de meta.
 | # | Meta | Prioridad | Estado | Detalle |
 |---|------|-----------|--------|---------|
 | 1 | 🎓 Titulación | ⏸️ **En pausa** | Respondió el Jefe de Carrera (09/09): van a hacer una consulta interna sobre el caso de Diego y avisan cuando tengan la información — todavía no es la respuesta final. **No pagar la ficha todavía.** | [metas/titulacion.md](metas/titulacion.md) · [Titulación.exe](https://claude.ai/code/artifact/ab59366f-ab5f-4bff-835e-348255129efc) |
-| 2 | 📊 Desempeño en Boost | 🔥 Activa | Performance Total bajó a 97.53% (venía de 108.8%); FCR es el driver — plan en Llamadas.exe | [desempeno/metricas.md](desempeno/metricas.md) · [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) |
+| 2 | 📊 Desempeño en Boost | ✅ De vuelta arriba de meta | Performance Total 100.6% (venía de 97.53%) — el FCR se recuperó a 102.7% y el IS Evaluation llegó a 90% (HERO). Foco puntual: Reinforce Brand Closing sigue débil (57.66%) | [desempeno/metricas.md](desempeno/metricas.md) · [Desempeño.exe](https://claude.ai/code/artifact/9451d24a-fcd6-4017-b8c5-8f641583c24e) |
 | 3 | 🗣️ Italiano | 🔥 Activa | Arranca 01/09/2026 — 1 lección diaria en el Break 1 | [metas/aprendizaje.md](metas/aprendizaje.md) |
 | 4 | 💰 Ahorro de Diego y Fanny | ⚙️ Automática | **$4,800 de $47,000 (10.2%)**; tu parte va al corriente, falta registrar la de Fanny | [metas/ahorro.md](metas/ahorro.md) |
 | 5 | 🚗 Chevy funcionando | ✅ **Resuelto** | Radiador y ventilador, ambos arreglados (05/09/2026) — sin riesgo de sobrecalentamiento pendiente | [metas/patrimonio.md](metas/patrimonio.md) |

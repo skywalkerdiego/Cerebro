@@ -79,3 +79,10 @@ Mismo patrón que `finanzas/`:
   sin resolver en la misma llamada. Detalle completo + banco de frases
   en [metricas.md](metricas.md) y en
   [Llamadas.exe](https://claude.ai/code/artifact/cc525f96-4b21-4056-87df-b53c0bda9db5).
+- **09/09/2026 — el plan de FCR funcionó:** Performance Total volvió a
+  meta (100.6%, venía de 97.53%) gracias a que el FCR se recuperó a
+  102.7% (venía de 95.44%). Además el IS Evaluation de calidad de
+  llamada llegó a **90.00%** (nivel HERO), la primera vez arriba de su
+  meta de 88%. Nuevo foco puntual: **Reinforce Brand Closing** sigue
+  siendo la categoría más débil (57.66%, aunque subió de 45.6%). Ver
+  desglose completo en [metricas.md](metricas.md).
