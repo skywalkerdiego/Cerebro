@@ -35,9 +35,16 @@ Lee, en este orden:
    sacar una nueva). No repitas una alerta de fecha que el archivo ya
    marcó como resuelta o superada.
 
-No leas todo `perfil/`, `finanzas/` ni `desempeno/` a menos que el
-usuario pida explícitamente ese ángulo — esta skill es sobre las metas
-del proyecto de diciembre, no un dump completo de Cerebro.
+No hace falta leer **todo** `perfil/`, `finanzas/` ni `desempeno/`
+archivo por archivo — esta skill es sobre las metas del proyecto de
+diciembre, no un dump completo de Cerebro. Pero sí revisa, aunque sea
+rápido, `finanzas/README.md` y `desempeno/metricas.md` (los que
+`README.md` ya lista como "empieza aquí" de esas dos secciones) además
+de lo de `metas/`: son las fuentes reales detrás de Finanzas.exe y
+Desempeño.exe, y si algo ahí cambió y esta skill no lo detecta, esos
+tableros se quedan desactualizados sin que nadie se dé cuenta. Si el
+usuario pide explícitamente ese ángulo a fondo (perfil completo, etc.),
+ahí sí profundiza más.
 
 ## 2. Presentar el resumen
 
@@ -72,7 +79,7 @@ mismo turno, siguiendo las convenciones que ya usa el repo:
   usuario vea después), agrega una fila nueva a la tabla de
   `logros.md` con el formato `| Fecha | Logro | Área |` que ya usa ese
   archivo. Ten presente que `logros.md` explica que los tableros
-  Yo.exe/Habilidades.exe/Cerebro.exe recalculan trofeos y XP a partir
+  Yo.exe/Cerebro.exe recalculan trofeos y XP a partir
   de esa tabla — por eso vale la pena mantenerla al día, aunque no
   regeneres los tableros tú mismo aquí (ver paso 4).
 - No inventes detalles que el usuario no dio — si falta un dato (monto,
@@ -82,14 +89,16 @@ mismo turno, siguiendo las convenciones que ya usa el repo:
 Si el usuario solo quiere el resumen y no menciona avances nuevos, no
 toques ningún archivo — este paso es condicional.
 
-## 4. Cierre: ofrecer actualizar los tableros
+## 4. Cierre: republicar los tableros afectados
 
-Si editaste algún archivo en el paso 3, termina preguntando si quiere
-que también se actualicen los tableros `.exe` (Artifacts) relacionados
-con lo que cambió — por ejemplo Yo.exe, Habilidades.exe, Titulación.exe,
-Trabajo.exe, Logros.exe, según qué tocaste. **No los regeneres sin que
-lo confirme** — son artifacts ya publicados y regenerarlos de más genera
-ruido de versiones innecesario.
+Si editaste algún archivo en el paso 3, sigue la regla de `CLAUDE.md`
+("Mantener los tableros sincronizados"): republica en este mismo turno,
+**sin preguntar**, el o los tableros `.exe` cuyo contenido realmente
+cambió — por ejemplo Yo.exe, Titulación.exe, Trabajo.exe, Logros.exe,
+Finanzas.exe, Desempeño.exe, según qué tocaste. No regeneres los que no
+cambiaron, y no rediseñes — solo edita el dato que se movió (`Artifact`
+`read` con la URL del README, editar, `Artifact` `publish` con la misma
+URL). Al final, di en la conversación qué tableros republicaste.
 
-Si no hubo cambios (solo fue un chequeo informativo), no hace falta
-preguntar esto.
+Si no hubo cambios (solo fue un chequeo informativo), no hay nada que
+republicar.
