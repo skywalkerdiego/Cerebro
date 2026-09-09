@@ -56,15 +56,22 @@ solo con la sensación de "duermo mal".
 |-------|-----------------|---------------|-------|
 | — | — | — | — |
 
+## Patrón identificado (09/09/2026)
+
+No es falta de tiempo por el traslado ni problema de calidad de sueño
+en sí — **el patrón es que se te va el tiempo en cosas extra antes de
+dejar listo lo del día siguiente**, y eso recorta las horas de sueño.
+Confirmaste que quieres que los briefs (5am/6pm/8pm) te pregunten de
+vez en cuando por esto.
+
 ## Lo que no sé y me serviría saber
 
-- Del sueño: ¿es que no te alcanza el tiempo por el traslado de 2h40,
-  o es que aunque tengas tiempo no logras dormir bien?
-- ¿Has probado algo para mejorarlo (rutina antes de dormir, evitar
-  pantallas, algo así), o es territorio sin explorar todavía?
-- ¿Quieres que el brief de las 5am/5:30pm/8pm (ver
-  [hoy.md](hoy.md)) te pregunte de vez en cuando por esto, o prefieres
-  que sea un tema aparte que tú saques cuando quieras?
+- ¿Qué son esas "cosas extra" en concreto — celular/redes, algo de
+  trabajo, platicar, videojuegos? Si lo identificamos, se puede poner
+  un límite de tiempo específico en vez de uno genérico.
+- ¿Has probado algo para cortarlo a tiempo (una alarma, dejar el
+  celular fuera del cuarto, algo así), o es territorio sin explorar
+  todavía?
 
 ## Cómo usar esto
 

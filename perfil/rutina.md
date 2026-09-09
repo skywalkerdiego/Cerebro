@@ -11,7 +11,7 @@ para la versión visual: la semana con su presupuesto de horas, el día de
 hoy en bloques accionables y el checklist de pendientes vivos — Aspect.exe
 y Tiempo.exe se fusionaron ahí el 01/09/2026 (ver [tiempo.md](tiempo.md)).
 
-Última actualización: 05/09/2026 (remapeo de la semana 07/09–13/09 con la captura nueva de Kronos).
+Última actualización: 09/09/2026 (horas de comida confirmadas con la captura completa del team GET).
 
 ## 🚦 Las 3 reglas del sistema (lo que cambió el 31/08/2026)
 
@@ -71,23 +71,20 @@ para **una cosa con foco**, no para varias.
 
 ## 📅 Semana del 07/09 al 13/09/2026 (horario Kronos confirmado) ← actual
 
-Leído de la captura de Aspect que mandaste. Los mismos días off que la
-semana pasada (jueves y viernes) — parece que el ciclo se repite por
-ahora.
+Confirmado con la captura completa del team GET (09/09/2026) — turnos
+de 10 horas y horas de comida exactas, ya no son estimadas. Los mismos
+días off que la semana pasada (jueves y viernes) — el ciclo se repite
+por ahora.
 
 | Día | Turno | Break 1 | 🍽️ Comida | Break 2 | Llegas | Foco de la noche |
 |-----|-------|---------|-----------|---------|--------|-------------------|
-| **Lun 07/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
-| **Mar 08/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
-| **Mié 09/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
+| **Lun 07/09** | 6am - 4pm | ~8:00 am | 11:30 am | ~2:00 pm | ~5:20 pm | — |
+| **Mar 08/09** | 6am - 4pm | ~8:00 am | 11:30 am | ~2:00 pm | ~5:20 pm | — |
+| **Mié 09/09** | 6am - 4pm | ~8:00 am | 11:30 am | ~2:00 pm | ~5:20 pm | — |
 | **Jue 10/09 (Off)** | — | — | — | — | — | 💜 Fanny — día completo |
 | **Vie 11/09 (Off)** | — | — | — | — | — | 💜 Fanny · bloque largo de la tarde |
-| **Sáb 12/09** | 6am - 4pm | ~8:00 am | ~11:00 am | ~2:00 pm | ~5:20 pm | — |
-| **Dom 13/09** | 7am - 5pm | ~10:00 am | ~12:00 pm | ~3:00 pm | ~6:20 pm | — |
-
-⚠️ **La captura se cortaba en 3:00 pm**, así que no vi la hora exacta
-de salida de los turnos — asumo que siguen siendo de 10 horas (6am-4pm
-y 7am-5pm, como siempre). Dime si alguno terminó distinto y lo corrijo.
+| **Sáb 12/09** | 6am - 4pm | ~8:00 am | 12:00 pm | ~2:30 pm | ~5:20 pm | — |
+| **Dom 13/09** | 7am - 5pm | ~9:00 am | 12:45 pm | ~3:00 pm | ~6:20 pm | — |
 
 **Novedad de esta semana: Uber pagado en las mañanas.** Te lo mandan a
 diario, así que el traslado de ida ya no te cuesta nada — solo pagas

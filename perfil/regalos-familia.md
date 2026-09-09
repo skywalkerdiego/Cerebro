@@ -28,12 +28,15 @@ la personalidad de cada quien.
 
 ## Papá — 21 de septiembre
 
-- **Con significado:** aún por definir.
-- **Material:** aún por definir — no tengo registrados sus gustos
-  todavía (ver hueco en [familia.md](familia.md)). Dime qué le gusta
-  (algo que use en el día a día, un hobby, una marca que prefiera) y
-  en la misma plática te doy opciones concretas — quedan 12 días, hay
-  tiempo de sobra.
+Es del **Cruz Azul** y le gustan los **enjambres de nuez de Sanborns**
+(confirmado 09/09/2026).
+
+- **Material:** algo de Cruz Azul (jersey oficial, gorra, taza o
+  bufanda) — dime tu presupuesto y si prefieres algo oficial de tienda
+  de la Liga MX o algo más informal/genérico del equipo.
+- **Con significado:** combínalo con una caja de enjambres de nuez de
+  Sanborns como parte del detalle — sencillo, pero es justo su antojo,
+  no un genérico.
 
 ## Hermana — 4 de octubre
 

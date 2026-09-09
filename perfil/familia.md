@@ -10,7 +10,9 @@ relación con ellos, y si hay algo pendiente ahí.
 - **Mamá** — cumpleaños el 20 de septiembre. Ver
   [fechas-importantes.md](fechas-importantes.md).
 - **Papá** — cumpleaños el 21 de septiembre, un día después que tu
-  mamá. Ver [fechas-importantes.md](fechas-importantes.md).
+  mamá. Ver [fechas-importantes.md](fechas-importantes.md). Le gusta
+  mucho el fútbol — es del Cruz Azul — y le gustan los enjambres de
+  nuez de Sanborns (09/09/2026).
 - **Hermana** — nació el 4 de octubre de 2004. Se llevan muy bien:
   escuchan música juntos y a veces fuman marihuana juntos. Ver
   [intereses.md](intereses.md).
