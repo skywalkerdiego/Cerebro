@@ -105,17 +105,19 @@ Para gastos chicos rutinarios ("150 comida"), **no toques
 `README.md`** — solo `gastos.md`. Evita que el archivo se llene de
 ediciones triviales que no cambian la foto general.
 
-## 4. Confirmar y republicar
+## 4. Confirmar y preguntar antes de republicar
 
 - Confirma en una línea lo que registraste: monto, categoría, fecha, y
   en qué archivo quedó — no hace falta un resumen largo.
-- Sigue la regla de `CLAUDE.md` ("Mantener los tableros
-  sincronizados"): si el cambio en `gastos.md` (y/o `README.md`) afecta
-  lo que se ve en **Finanzas.exe**, republica ese tablero en el mismo
-  turno sin que Diego tenga que pedirlo — `Artifact` `read` con la URL
-  de Finanzas.exe (está en el README principal), agrega el movimiento
-  como dato semilla (no rediseñes el tablero), y `Artifact` `publish`
-  con la misma URL.
+- **Excepción a la regla general de `CLAUDE.md`** ("Mantener los
+  tableros sincronizados"): para esta skill, la republicación de
+  **Finanzas.exe NO es automática**. Si el cambio en `gastos.md` (y/o
+  `README.md`) afecta lo que se ve ahí, pregunta explícitamente
+  *"¿republico Finanzas.exe?"* y espera el OK de Diego antes de tocar
+  el tablero. Solo si confirma, sigue el flujo normal: `Artifact`
+  `read` con la URL de Finanzas.exe (está en el README principal),
+  agrega el movimiento como dato semilla (no rediseñes el tablero), y
+  `Artifact` `publish` con la misma URL.
 - Recuerda que Finanzas.exe guarda su propio estado en `localStorage`
   del navegador — el dato semilla que agregues puede no aparecer si
   Diego ya tiene datos guardados localmente ahí. El archivo `.md` sigue
