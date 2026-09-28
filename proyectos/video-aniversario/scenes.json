@@ -1,0 +1,152 @@
+{
+  "_doc": "Capa de dirección: orden narrativo, preferencias de cada escena y cámara. Los TIEMPOS no están aquí: los decide tools/build_timeline.py a partir del análisis de la canción. Coordenadas de cámara normalizadas a la imagen (x, y = centro de la ventana; z = zoom, 1 = la ventana más grande que cabe). mode: 'dolly' = arranca con resorte y sigue a velocidad constante; 'settle' = llega con resorte y se asienta.",
+  "titles": {
+    "names": "Fanny & Diego",
+    "names_stack": ["Fanny", "&", "Diego"],
+    "subtitle": "dos años de nosotros",
+    "dates": "20 · 10 · 2024  —  20 · 10 · 2026",
+    "end_big": ["Feliz", "aniversario"],
+    "end_small": "y por todos los que faltan",
+    "end_sign": "Fanny & Diego · 20.10.2026"
+  },
+  "acts": {
+    "1": "Cómo empezamos",
+    "2": "Nuestros días",
+    "3": "Nuestras aventuras",
+    "4": "Dos años"
+  },
+  "scenes": [
+    {
+      "id": "titulo", "act": 0, "weight": 1.0, "energy": 0.1, "board": "#5b2333",
+      "transition": "none"
+    },
+    {
+      "id": "prepa", "act": 1, "weight": 1.0, "energy": 0.3, "board": "#23505a",
+      "caption": "clase de música",
+      "transition": "drop", "why_transition": "El primer parche se cose al tablero: la historia empieza a armarse.",
+      "fx": ["notas"],
+      "cam9": {"aspect": 1.0, "mode": "dolly", "from": {"x": 0.30, "y": 0.5, "z": 1.0}, "to": {"x": 0.70, "y": 0.5, "z": 1.04}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.36, "y": 0.5, "z": 1.0}, "to": {"x": 0.62, "y": 0.5, "z": 1.05}},
+      "why_cam": "Paneo lateral de él (platillos) a ella (bailando en el xilófono) y al letrero PREPA 9: el movimiento cuenta que se encontraron en esa clase."
+    },
+    {
+      "id": "amoshit", "act": 1, "weight": 1.6, "energy": 0.35, "board": "#23505a",
+      "caption": "y ahí empezó todo",
+      "transition": "slide", "why_transition": "Jalón de hilo: la escena del hilo entra jalada por un hilo rojo.",
+      "fx": ["pelusa"],
+      "cam9": {"aspect": 1.3, "mode": "dolly", "from": {"x": 0.27, "y": 0.52, "z": 1.02}, "to": {"x": 0.73, "y": 0.5, "z": 1.04}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.34, "y": 0.52, "z": 1.02}, "to": {"x": 0.66, "y": 0.5, "z": 1.06}},
+      "why_cam": "La cámara recorre el hilo 'Amoshit' de él hacia ella, como si lo siguiera con el dedo."
+    },
+    {
+      "id": "cafe", "act": 2, "weight": 1.05, "energy": 0.35, "board": "#8a5a1c",
+      "caption": "las mañanas contigo",
+      "transition": "fade", "why_transition": "Disolvencia de fieltro: pasa el tiempo, llega la vida diaria (y la mañana).",
+      "fx": ["polvo_luz", "rayos"],
+      "cam9": {"aspect": 0.888, "mode": "settle", "from": {"x": 0.5, "y": 0.5, "z": 1.0}, "to": {"x": 0.5, "y": 0.44, "z": 1.14}},
+      "cam16": {"aspect": 0.888, "mode": "settle", "from": {"x": 0.5, "y": 0.5, "z": 1.0}, "to": {"x": 0.5, "y": 0.44, "z": 1.12}},
+      "why_cam": "Push-in lento que se asienta entre las dos caras: la escena más íntima pide quietud."
+    },
+    {
+      "id": "cocina", "act": 2, "weight": 0.8, "energy": 0.4, "board": "#8a5a1c",
+      "caption": "cocinar juntos",
+      "transition": "flip", "why_transition": "Vuelta de página del álbum: siguiente momento del mismo día.",
+      "cam9": {"aspect": 1.0, "mode": "dolly", "from": {"x": 0.44, "y": 0.66, "z": 1.22}, "to": {"x": 0.5, "y": 0.42, "z": 1.06}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.47, "y": 0.62, "z": 1.14}, "to": {"x": 0.52, "y": 0.45, "z": 1.02}},
+      "why_cam": "Tilt ascendente: de las manos (cuchillo, verduras, olla) a sus caras."
+    },
+    {
+      "id": "snoopy", "act": 2, "weight": 0.75, "energy": 0.45, "board": "#8a5a1c",
+      "caption": "Tris y Snoopy",
+      "transition": "drop",
+      "fx": ["botones"],
+      "cam9": {"aspect": 0.888, "mode": "settle", "spring": {"zeta": 0.72}, "from": {"x": 0.33, "y": 0.42, "z": 1.22}, "to": {"x": 0.6, "y": 0.6, "z": 1.12}},
+      "cam16": {"aspect": 0.888, "mode": "settle", "spring": {"zeta": 0.72}, "from": {"x": 0.33, "y": 0.42, "z": 1.2}, "to": {"x": 0.6, "y": 0.6, "z": 1.1}},
+      "why_cam": "Paneo juguetón (resorte subamortiguado, con rebote) de la casita de Snoopy a Tris: la escena es de jugar."
+    },
+    {
+      "id": "coche", "act": 2, "weight": 1.0, "energy": 0.8, "board": "#3b2a55",
+      "caption": "a donde sea",
+      "transition": "whip", "why_transition": "Barrido rápido: entra el coro, sube la energía.",
+      "fx": ["sol", "viento", "bache"],
+      "layers": [{"src": "coche_0_fondo", "p": -0.3}, {"src": "coche_1_coche", "p": 0.15}],
+      "cam9": {"aspect": 1.0, "mode": "dolly", "from": {"x": 0.52, "y": 0.5, "z": 1.1}, "to": {"x": 0.42, "y": 0.52, "z": 1.16}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.55, "y": 0.5, "z": 1.1}, "to": {"x": 0.45, "y": 0.52, "z": 1.14}},
+      "why_cam": "Travelling con parallax (coche vs. colinas) y el coche rebotando con los beats: se siente que van manejando."
+    },
+    {
+      "id": "tacos", "act": 2, "weight": 1.0, "energy": 0.8, "board": "#3b2a55",
+      "caption": "tacos y chelas",
+      "transition": "slide",
+      "fx": ["salud"],
+      "cam9": {"aspect": 1.0, "mode": "settle", "from": {"x": 0.5, "y": 0.52, "z": 1.0}, "to": {"x": 0.5, "y": 0.4, "z": 1.2}},
+      "cam16": {"aspect": 1.778, "mode": "settle", "from": {"x": 0.5, "y": 0.52, "z": 1.0}, "to": {"x": 0.5, "y": 0.42, "z": 1.15}},
+      "why_cam": "Push-in hacia el brindis; el choque de tarros cae en un tiempo fuerte y suelta espuma de fieltro."
+    },
+    {
+      "id": "vinilos", "act": 2, "weight": 0.75, "energy": 0.7, "board": "#3b2a55",
+      "caption": "nuestra música",
+      "transition": "flip",
+      "fx": ["notas"],
+      "cam9": {"aspect": 1.0, "mode": "dolly", "from": {"x": 0.76, "y": 0.52, "z": 1.02}, "to": {"x": 0.26, "y": 0.5, "z": 1.02}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.64, "y": 0.52, "z": 1.02}, "to": {"x": 0.38, "y": 0.5, "z": 1.05}},
+      "why_cam": "Paneo de derecha a izquierda (el único a contrapelo): del tocadiscos a los pósters de Kendrick e Interpol."
+    },
+    {
+      "id": "karaoke", "act": 2, "weight": 1.25, "energy": 0.85, "board": "#3b2a55",
+      "caption": "cantar a todo pulmón",
+      "transition": "whip",
+      "fx": ["reflectores", "notas"],
+      "cam9": {"aspect": 0.8, "mode": "dolly", "from": {"x": 0.5, "y": 0.4, "z": 1.0}, "to": {"x": 0.5, "y": 0.58, "z": 1.16}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.5, "y": 0.42, "z": 1.0}, "to": {"x": 0.5, "y": 0.55, "z": 1.12}},
+      "why_cam": "Grúa que baja de los reflectores al micrófono; las luces laten con el beat."
+    },
+    {
+      "id": "pelicula", "act": 2, "weight": 1.1, "energy": 0.25, "board": "#1d1b33",
+      "caption": "noches de película",
+      "transition": "darken", "why_transition": "Se apagan las luces: la música baja al break.",
+      "fx": ["tele", "luciernagas"],
+      "cam9": {"aspect": 1.35, "mode": "settle", "from": {"x": 0.29, "y": 0.47, "z": 1.32}, "to": {"x": 0.5, "y": 0.5, "z": 1.0}},
+      "cam16": {"aspect": 1.778, "mode": "settle", "from": {"x": 0.3, "y": 0.47, "z": 1.28}, "to": {"x": 0.5, "y": 0.5, "z": 1.0}},
+      "why_cam": "Pull-back: abre en la película en blanco y negro de la tele y se aleja hasta revelarlos abrazados en el sillón; luciérnagas de lana en la oscuridad. Termina con la tele en cuadro porque de su pantalla nace la siguiente escena."
+    },
+    {
+      "id": "safari", "act": 3, "weight": 1.1, "energy": 0.6, "board": "#2d4a2b",
+      "caption": "el safari",
+      "transition": "grow", "why_transition": "La pantalla de la tele crece y se vuelve la siguiente aventura.",
+      "fx": ["flash"],
+      "layers": [{"src": "safari_0_fondo", "p": -0.25}, {"src": "safari_1_frente", "p": 0.18}],
+      "cam9": {"aspect": 0.8, "mode": "dolly", "from": {"x": 0.34, "y": 0.45, "z": 1.12}, "to": {"x": 0.6, "y": 0.42, "z": 1.14}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.44, "y": 0.44, "z": 1.1}, "to": {"x": 0.56, "y": 0.42, "z": 1.16}},
+      "why_cam": "Parallax en 2 planos (coche y jirafa / sabana): de su selfie a la jirafa que los mira. Flash de la cámara en un tiempo fuerte."
+    },
+    {
+      "id": "aviario", "act": 3, "weight": 1.0, "energy": 0.7, "board": "#2d4a2b",
+      "caption": "el aviario",
+      "transition": "slide",
+      "fx": ["hojas"],
+      "layers": [{"src": "aviario_0_fondo", "p": -0.25}, {"src": "aviario_1_pareja", "p": 0.0}, {"src": "aviario_2_plantas", "p": 0.3}],
+      "cam9": {"aspect": 0.8, "mode": "dolly", "from": {"x": 0.5, "y": 0.34, "z": 1.1}, "to": {"x": 0.5, "y": 0.58, "z": 1.26}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.5, "y": 0.4, "z": 1.1}, "to": {"x": 0.5, "y": 0.55, "z": 1.22}},
+      "why_cam": "Grúa descendente con parallax en 3 planos: del letrero del domo a ellos, entre plantas en primer plano."
+    },
+    {
+      "id": "puente", "act": 4, "weight": 1.0, "energy": 1.0, "board": "#5b2333", "anchor": "climax",
+      "transition": "flash", "why_transition": "Corte seco con destello EXACTO en el golpe del clímax.",
+      "fx": ["confeti", "sol_letrero"],
+      "layers": [{"src": "puente_0_fondo", "p": -0.16}, {"src": "puente_1_puente", "p": 0.1}],
+      "cam9": {"aspect": 0.8, "mode": "dolly", "from": {"x": 0.5, "y": 0.36, "z": 1.1}, "to": {"x": 0.49, "y": 0.62, "z": 1.3}},
+      "cam16": {"aspect": 1.778, "mode": "dolly", "from": {"x": 0.5, "y": 0.34, "z": 1.1}, "to": {"x": 0.49, "y": 0.6, "z": 1.3}},
+      "why_cam": "Abre en el letrero '2 AÑOS JUNTOS' justo en el clímax (con confeti de fieltro) y baja con parallax hasta sus manos tomadas."
+    },
+    {
+      "id": "retrato", "act": 4, "weight": 1.0, "energy": 0.3, "board": "#5b2333",
+      "transition": "fade", "why_transition": "Disolvencia lenta: la música se despide.",
+      "fx": ["polvo_luz", "final"],
+      "layers": [{"src": "retrato_0_fondo", "p": -0.25}, {"src": "retrato_1_sala", "p": 0.12}],
+      "cam9": {"aspect": 0.66, "mode": "settle", "from": {"x": 0.5, "y": 0.3, "z": 1.12}, "to": {"x": 0.5, "y": 0.5, "z": 1.06}},
+      "cam16": {"aspect": 0.66, "mode": "settle", "from": {"x": 0.5, "y": 0.3, "z": 1.12}, "to": {"x": 0.5, "y": 0.5, "z": 1.06}},
+      "why_cam": "Grúa suave del atardecer a los dos con Tris y los peluches; se asienta para el texto final."
+    }
+  ]
+}
