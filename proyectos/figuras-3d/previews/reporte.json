@@ -1,0 +1,80 @@
+{
+ "diego": {
+  "caras_marching": 2215522,
+  "caras": 476014,
+  "cerrada": true,
+  "piezas": 1,
+  "huecos_y_astillas_quitados": [
+   -0.001,
+   -0.0
+  ],
+  "volumen_cm3": 23.72,
+  "medidas_mm": [
+   35.4,
+   32.0,
+   73.0
+  ],
+  "seg": 50.6,
+  "stl_mb": 23.8
+ },
+ "fanny": {
+  "caras_marching": 1744766,
+  "caras": 298658,
+  "cerrada": true,
+  "piezas": 1,
+  "huecos_y_astillas_quitados": [
+   -0.0,
+   -0.0
+  ],
+  "volumen_cm3": 16.91,
+  "medidas_mm": [
+   33.3,
+   31.0,
+   69.1
+  ],
+  "seg": 29.0,
+  "stl_mb": 14.9
+ },
+ "tris": {
+  "caras_marching": 849416,
+  "caras": 209754,
+  "cerrada": true,
+  "piezas": 1,
+  "huecos_y_astillas_quitados": [
+   -0.085,
+   -0.004,
+   -0.006,
+   -0.002,
+   -0.0,
+   -0.0,
+   -0.0,
+   -0.0254,
+   -0.0
+  ],
+  "volumen_cm3": 7.33,
+  "medidas_mm": [
+   27.0,
+   27.0,
+   32.9
+  ],
+  "seg": 7.9,
+  "stl_mb": 10.5
+ },
+ "base": {
+  "caras_marching": 1106684,
+  "caras": 93366,
+  "cerrada": true,
+  "piezas": 1,
+  "huecos_y_astillas_quitados": [
+   -0.0
+  ],
+  "volumen_cm3": 19.96,
+  "medidas_mm": [
+   83.0,
+   69.0,
+   5.0
+  ],
+  "seg": 8.3,
+  "stl_mb": 4.7
+ }
+}
