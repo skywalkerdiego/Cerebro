@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Fanny &amp; Diego — T2·E24 «Dos años»</title>
+<style>
+  @font-face { font-family: "Fredoka"; src: url("../assets/fonts/Fredoka.ttf"); font-weight: 300 700; }
+  @font-face { font-family: "Dancing"; src: url("../assets/fonts/DancingScript.ttf"); font-weight: 400 700; }
+  html, body { margin: 0; background: #0d0b10; }
+  canvas { display: block; }
+  body.preview canvas { max-height: calc(100vh - 44px); max-width: 100vw; margin: 0 auto; }
+  #bar { position: fixed; left: 0; right: 0; bottom: 0; display: none; gap: 8px; padding: 8px;
+         background: #000a; color: #eee; font: 13px system-ui; align-items: center; }
+  body.preview #bar { display: flex; }
+  #bar input[type=range] { flex: 1; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="bar"><button id="play">▶︎</button><input id="pos" type="range" min="0" max="1000" value="0"><span id="time">0.00</span></div>
+<script src="episode.js"></script>
+<script src="ep.js"></script>
+<script>
+  // Vista previa: episodio/index.html?preview=1&format=16x9  (el render llama seek(t) directo)
+  (async () => {
+    const q = new URLSearchParams(location.search);
+    if (!q.get("preview")) return;
+    document.body.classList.add("preview");
+    await window.ready;
+    const audio = new Audio(q.get("audio") || "audio/episodio_mezcla.wav");
+    const pos = document.getElementById("pos"), time = document.getElementById("time");
+    const D = window.DURATION;
+    let playing = false;
+    const draw = (t) => { window.seek(t); pos.value = (t / D) * 1000; time.textContent = t.toFixed(2); };
+    document.getElementById("play").onclick = () => { playing = !playing; if (playing) audio.play(); else audio.pause(); };
+    pos.oninput = () => { audio.currentTime = (pos.value / 1000) * D; draw(audio.currentTime); };
+    const loop = () => { if (playing) draw(audio.currentTime); requestAnimationFrame(loop); };
+    draw(parseFloat(q.get("t") || "0")); loop();
+  })();
+</script>
+</body>
+</html>

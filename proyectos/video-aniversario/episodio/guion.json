@@ -1,0 +1,964 @@
+{
+  "_doc": "Guion ejecutable del episodio (ver guion.md). Cada secuencia es una lista de eventos que avanzan un cursor: say (línea de diálogo; kind say|think|shout|bark|squawk|sing|silent), wait (s), cam (encuadre de rigs.json; cut=true corta, move=s para moverse con resorte), act (movimiento de un handle: env hold|stay|osc|pulse|clink), fx (efecto visual), sfx (sonido), blush, mark:song (arranca nuestra canción). at = desfase respecto al cursor (no lo avanza); snap = beat|downbeat espera al siguiente tiempo. PARTE A dura lo que dura el diálogo (redondeado a compases del tema a 100 BPM); PARTE B se reparte sobre la canción y el puente arranca en su clímax.",
+  "meta": {
+    "series": "Fanny & Diego",
+    "subtitle": "la serie",
+    "season": 2,
+    "episode": 24,
+    "episode_title": "Dos años",
+    "date": "20·10·2026",
+    "theme_bpm": 100
+  },
+  "cast": {
+    "diego": {
+      "name": "Diego",
+      "voice": {
+        "f0": 175,
+        "spread": 0.22,
+        "rate": 4.6,
+        "formant": 1.0,
+        "breath": 0.05
+      }
+    },
+    "fanny": {
+      "name": "Fanny",
+      "voice": {
+        "f0": 285,
+        "spread": 0.28,
+        "rate": 4.9,
+        "formant": 1.14,
+        "breath": 0.07
+      }
+    },
+    "tris": {
+      "name": "Tris",
+      "voice": {
+        "kind": "bark",
+        "f0": 520
+      }
+    },
+    "loro": {
+      "name": "Loro",
+      "voice": {
+        "f0": 610,
+        "spread": 0.35,
+        "rate": 5.6,
+        "formant": 1.3,
+        "rasp": 0.5
+      }
+    },
+    "ambos": {
+      "name": "Los dos",
+      "voice": {
+        "kind": "duet",
+        "of": [
+          "diego",
+          "fanny"
+        ]
+      }
+    }
+  },
+  "partA": [
+    {
+      "id": "cold_open",
+      "scene": "cafe",
+      "music": "cajita",
+      "transition": "fade",
+      "events": [
+        {
+          "cam": "wide",
+          "cut": true
+        },
+        {
+          "cam": "two",
+          "move": 3.4
+        },
+        {
+          "fx": "vapor",
+          "dur": "scene"
+        },
+        {
+          "fx": "polvo_luz",
+          "dur": "scene"
+        },
+        {
+          "wait": 1.5
+        },
+        {
+          "act": "fanny_head",
+          "env": "stay",
+          "rot": -2.5,
+          "dur": 0.5
+        },
+        {
+          "say": "fanny",
+          "text": "¿Sabes qué día es hoy?"
+        },
+        {
+          "cam": "diego",
+          "cut": true
+        },
+        {
+          "act": "diego_head",
+          "env": "osc",
+          "rot": 2.2,
+          "n": 1.5,
+          "dur": 1.2
+        },
+        {
+          "say": "diego",
+          "text": "Mmm… ¿martes?"
+        },
+        {
+          "cam": "fanny",
+          "cut": true
+        },
+        {
+          "act": "fanny_brow",
+          "env": "hold",
+          "dy": -3.5,
+          "dur": 1.7
+        },
+        {
+          "act": "fanny_head",
+          "env": "hold",
+          "rot": 5,
+          "dur": 1.7
+        },
+        {
+          "sfx": "tin"
+        },
+        {
+          "say": "fanny",
+          "text": "¬¬",
+          "kind": "silent",
+          "hold": 0.6
+        },
+        {
+          "cam": "two",
+          "cut": true
+        },
+        {
+          "act": "diego_body",
+          "env": "osc",
+          "s": 0.018,
+          "n": 5,
+          "dur": 1.3
+        },
+        {
+          "act": "diego_head",
+          "env": "osc",
+          "rot": 2.5,
+          "n": 5,
+          "dur": 1.3
+        },
+        {
+          "say": "diego",
+          "text": "¡Es broma! Hoy cumplimos dos años."
+        },
+        {
+          "act": "diego_head",
+          "env": "stay",
+          "rot": 3.5,
+          "dur": 0.9,
+          "at": -0.2
+        },
+        {
+          "act": "fanny_head",
+          "env": "stay",
+          "rot": -4.5,
+          "dur": 0.9,
+          "at": -0.2
+        },
+        {
+          "fx": "corazones",
+          "dur": 3.2
+        },
+        {
+          "say": "fanny",
+          "text": "Dos años…"
+        },
+        {
+          "wait": 1.0
+        }
+      ]
+    },
+    {
+      "id": "titulo",
+      "card": "title",
+      "music": "tema",
+      "transition": "whip",
+      "bars": 3
+    },
+    {
+      "id": "prepa",
+      "scene": "prepa",
+      "music": "banda",
+      "transition": "flashback",
+      "slug": "Hace un buen rato…",
+      "events": [
+        {
+          "cam": "wide",
+          "cut": true
+        },
+        {
+          "cam": "two",
+          "move": 2.4
+        },
+        {
+          "wait": 1.4
+        },
+        {
+          "cam": "diego",
+          "move": 1.0
+        },
+        {
+          "say": "diego",
+          "kind": "think",
+          "text": "Ok… no la mires… no la mires…"
+        },
+        {
+          "act": "diego_head",
+          "env": "hold",
+          "rot": 8,
+          "dur": 0.45,
+          "at": -1.1
+        },
+        {
+          "sfx": "crash",
+          "snap": "downbeat"
+        },
+        {
+          "act": "cym_top",
+          "env": "pulse",
+          "dx": -20,
+          "dy": 22
+        },
+        {
+          "act": "diego_body",
+          "env": "pulse",
+          "s": 0.05
+        },
+        {
+          "fx": "impacto",
+          "dur": 0.7
+        },
+        {
+          "act": "fanny_head",
+          "env": "stay",
+          "rot": -9,
+          "dur": 0.3,
+          "at": 0.25
+        },
+        {
+          "wait": 0.6
+        },
+        {
+          "cam": "fanny",
+          "cut": true
+        },
+        {
+          "say": "fanny",
+          "text": "¿Siempre tocas así de fuerte?"
+        },
+        {
+          "cam": "diego",
+          "cut": true
+        },
+        {
+          "say": "diego",
+          "text": "Solo cuando tú estás."
+        },
+        {
+          "blush": "diego",
+          "dur": 2.4,
+          "at": -0.6
+        },
+        {
+          "wait": 0.7
+        }
+      ]
+    },
+    {
+      "id": "amoshit",
+      "scene": "amoshit",
+      "music": "hilo",
+      "transition": "dip",
+      "slug": "Y un día…",
+      "events": [
+        {
+          "cam": "wide",
+          "cut": true
+        },
+        {
+          "wait": 1.2
+        },
+        {
+          "cam": "fanny",
+          "move": 0.9
+        },
+        {
+          "wait": 0.4
+        },
+        {
+          "say": "fanny",
+          "text": "Amoshit."
+        },
+        {
+          "cam": "diego",
+          "move": 1.1
+        },
+        {
+          "wait": 0.5
+        },
+        {
+          "say": "diego",
+          "text": "Amoshit."
+        },
+        {
+          "cam": "wide",
+          "move": 1.6
+        },
+        {
+          "fx": "hilo_brillo",
+          "dur": 2.6
+        },
+        {
+          "wait": 1.9
+        }
+      ]
+    },
+    {
+      "id": "coche_a",
+      "scene": "coche",
+      "music": "radio",
+      "transition": "cut",
+      "events": [
+        {
+          "cam": "two",
+          "cut": true
+        },
+        {
+          "fx": "viento",
+          "dur": "scene"
+        },
+        {
+          "wait": 0.9
+        },
+        {
+          "say": "fanny",
+          "kind": "shout",
+          "text": "¡Pon nuestra canción!"
+        },
+        {
+          "sfx": "click",
+          "at": 0.1
+        },
+        {
+          "mark": "song",
+          "at": 0.25
+        }
+      ]
+    }
+  ],
+  "partB": [
+    {
+      "id": "coche",
+      "scene": "coche",
+      "energy": 0.35,
+      "weight": 1.1,
+      "transition": "none",
+      "continues": true,
+      "events": [
+        {
+          "cam": "wide",
+          "move": 2.6
+        },
+        {
+          "fx": "notas",
+          "dur": "scene"
+        },
+        {
+          "fx": "viento",
+          "dur": "scene"
+        },
+        {
+          "wait": 1.0
+        },
+        {
+          "say": "diego",
+          "text": "¿A dónde vamos?"
+        },
+        {
+          "say": "fanny",
+          "kind": "shout",
+          "text": "¡A donde sea!"
+        },
+        {
+          "act": "fanny_armL",
+          "env": "osc",
+          "rot": 10,
+          "n": 3,
+          "dur": 1.5
+        },
+        {
+          "act": "fanny_armR",
+          "env": "osc",
+          "rot": -10,
+          "n": 3,
+          "dur": 1.5
+        }
+      ]
+    },
+    {
+      "id": "cocina",
+      "scene": "cocina",
+      "energy": 0.4,
+      "weight": 1.0,
+      "transition": "cut",
+      "events": [
+        {
+          "cam": "two",
+          "cut": true
+        },
+        {
+          "wait": 0.4
+        },
+        {
+          "cam": "fanny",
+          "move": 0.7
+        },
+        {
+          "say": "fanny",
+          "text": "¿Le pusiste sal?"
+        },
+        {
+          "cam": "diego",
+          "cut": true
+        },
+        {
+          "act": "diego_head",
+          "env": "hold",
+          "rot": -5,
+          "dur": 1.8
+        },
+        {
+          "say": "diego",
+          "text": "…¿había que ponerle sal?"
+        },
+        {
+          "sfx": "grillos",
+          "at": 0.1
+        },
+        {
+          "wait": 0.3
+        }
+      ]
+    },
+    {
+      "id": "snoopy",
+      "scene": "snoopy",
+      "energy": 0.45,
+      "weight": 0.9,
+      "transition": "cut",
+      "events": [
+        {
+          "cam": "two",
+          "cut": true
+        },
+        {
+          "say": "fanny",
+          "text": "Tris, te presento a Snoopy."
+        },
+        {
+          "cam": "tris",
+          "move": 0.5
+        },
+        {
+          "act": "tris_head",
+          "env": "osc",
+          "rot": 9,
+          "n": 2,
+          "dur": 0.9
+        },
+        {
+          "say": "tris",
+          "kind": "bark",
+          "text": "¡Guau!"
+        },
+        {
+          "act": "snoopy",
+          "env": "pulse",
+          "dy": -8,
+          "at": 0.2
+        },
+        {
+          "wait": 0.4
+        }
+      ]
+    },
+    {
+      "id": "vinilos",
+      "scene": "vinilos",
+      "energy": 0.6,
+      "weight": 1.0,
+      "transition": "cut",
+      "events": [
+        {
+          "cam": "two",
+          "cut": true
+        },
+        {
+          "fx": "notas",
+          "dur": "scene"
+        },
+        {
+          "say": "diego",
+          "text": "¿Kendrick o Interpol?"
+        },
+        {
+          "cam": "fanny",
+          "cut": true
+        },
+        {
+          "say": "fanny",
+          "text": "¿Por qué no los dos?"
+        },
+        {
+          "cam": "two",
+          "move": 0.8
+        }
+      ]
+    },
+    {
+      "id": "tacos",
+      "scene": "tacos",
+      "energy": 0.7,
+      "weight": 1.2,
+      "transition": "cut",
+      "events": [
+        {
+          "cam": "two",
+          "cut": true
+        },
+        {
+          "act": "mugs",
+          "env": "clink",
+          "dy": 7,
+          "at": 0
+        },
+        {
+          "say": "diego",
+          "text": "¿Unos tacos?"
+        },
+        {
+          "say": "fanny",
+          "kind": "shout",
+          "text": "¡Con chelas!"
+        },
+        {
+          "cam": "mugs",
+          "move": 0.6
+        },
+        {
+          "say": "ambos",
+          "kind": "shout",
+          "text": "¡Salud!",
+          "snap": "downbeat",
+          "clink": true
+        },
+        {
+          "fx": "salud"
+        },
+        {
+          "sfx": "clink"
+        },
+        {
+          "wait": 0.8
+        }
+      ]
+    },
+    {
+      "id": "karaoke",
+      "scene": "karaoke",
+      "energy": 0.85,
+      "weight": 1.0,
+      "transition": "cut",
+      "events": [
+        {
+          "cam": "two",
+          "cut": true
+        },
+        {
+          "fx": "reflectores",
+          "dur": "scene"
+        },
+        {
+          "fx": "notas",
+          "dur": "scene"
+        },
+        {
+          "say": "ambos",
+          "kind": "sing",
+          "text": "♪ ♫ ♪",
+          "beats": 6
+        },
+        {
+          "cam": "wide",
+          "move": 1.2
+        },
+        {
+          "say": "ambos",
+          "kind": "sing",
+          "text": "♫ ♪ ♫",
+          "beats": 4
+        }
+      ]
+    },
+    {
+      "id": "pelicula",
+      "scene": "pelicula",
+      "energy": 0.3,
+      "weight": 1.2,
+      "transition": "dip",
+      "events": [
+        {
+          "cam": "wide",
+          "cut": true
+        },
+        {
+          "fx": "tele",
+          "dur": "scene"
+        },
+        {
+          "fx": "luciernagas",
+          "dur": "scene"
+        },
+        {
+          "cam": "couple",
+          "move": 1.6
+        },
+        {
+          "say": "fanny",
+          "text": "¿Otro de That '70s Show?"
+        },
+        {
+          "act": "fanny_head",
+          "env": "stay",
+          "rot": 7,
+          "dx": 5,
+          "dy": -2,
+          "dur": 0.9
+        },
+        {
+          "say": "diego",
+          "text": "Siempre uno más."
+        },
+        {
+          "cam": "tv",
+          "move": 1.3
+        },
+        {
+          "wait": 1.0
+        }
+      ]
+    },
+    {
+      "id": "safari",
+      "scene": "safari",
+      "energy": 0.75,
+      "weight": 1.2,
+      "transition": "tv",
+      "events": [
+        {
+          "cam": "wide",
+          "cut": true
+        },
+        {
+          "wait": 0.5
+        },
+        {
+          "say": "fanny",
+          "kind": "shout",
+          "text": "¡Foto con la jirafa!"
+        },
+        {
+          "act": "camera",
+          "env": "pulse",
+          "dy": -5
+        },
+        {
+          "fx": "flash"
+        },
+        {
+          "sfx": "shutter"
+        },
+        {
+          "act": "giraffe",
+          "env": "stay",
+          "rot": -5,
+          "dur": 0.7,
+          "at": 0.3
+        },
+        {
+          "cam": "giraffe",
+          "move": 0.8,
+          "at": 0.3
+        },
+        {
+          "wait": 0.5
+        },
+        {
+          "cam": "two",
+          "cut": true
+        },
+        {
+          "say": "diego",
+          "text": "Creo que quiere salir en la foto."
+        }
+      ]
+    },
+    {
+      "id": "aviario",
+      "scene": "aviario",
+      "energy": 0.8,
+      "weight": 1.0,
+      "transition": "cut",
+      "events": [
+        {
+          "cam": "wide",
+          "cut": true
+        },
+        {
+          "fx": "hojas",
+          "dur": "scene"
+        },
+        {
+          "cam": "parrot",
+          "move": 0.6
+        },
+        {
+          "act": "parrot_head",
+          "env": "osc",
+          "rot": 10,
+          "n": 3,
+          "dur": 1.5
+        },
+        {
+          "say": "loro",
+          "kind": "squawk",
+          "text": "¡Dos años! ¡Dos años!"
+        },
+        {
+          "cam": "diego",
+          "cut": true
+        },
+        {
+          "say": "diego",
+          "text": "¿Quién le enseñó eso?"
+        },
+        {
+          "cam": "two",
+          "move": 0.6
+        },
+        {
+          "act": "fanny_hands",
+          "env": "osc",
+          "dy": -3,
+          "n": 5,
+          "dur": 1.2
+        },
+        {
+          "act": "fanny_head",
+          "env": "osc",
+          "rot": 3,
+          "n": 3,
+          "dur": 1.2
+        },
+        {
+          "wait": 0.3
+        }
+      ]
+    },
+    {
+      "id": "puente",
+      "scene": "puente",
+      "energy": 1.0,
+      "weight": 1.6,
+      "anchor": "climax",
+      "transition": "flash",
+      "events": [
+        {
+          "cam": "sign",
+          "cut": true
+        },
+        {
+          "fx": "confeti"
+        },
+        {
+          "fx": "sol_letrero",
+          "dur": "scene"
+        },
+        {
+          "sfx": "pop"
+        },
+        {
+          "wait": 1.8
+        },
+        {
+          "cam": "couple",
+          "move": 1.6
+        },
+        {
+          "wait": 0.6
+        },
+        {
+          "act": "fanny_head",
+          "env": "stay",
+          "rot": -8,
+          "dur": 0.6
+        },
+        {
+          "say": "fanny",
+          "text": "Dos años, ¿eh?"
+        },
+        {
+          "act": "diego_head",
+          "env": "stay",
+          "rot": 7,
+          "dur": 0.6
+        },
+        {
+          "say": "diego",
+          "text": "Y todos los que faltan."
+        },
+        {
+          "act": "tris_head",
+          "env": "osc",
+          "rot": 8,
+          "n": 2,
+          "dur": 0.8
+        },
+        {
+          "say": "tris",
+          "kind": "bark",
+          "text": "¡Guau!"
+        }
+      ]
+    },
+    {
+      "id": "epilogo",
+      "scene": "retrato",
+      "energy": 0.25,
+      "weight": 1.4,
+      "transition": "dip",
+      "events": [
+        {
+          "cam": "faces",
+          "cut": true
+        },
+        {
+          "wait": 0.7
+        },
+        {
+          "say": "diego",
+          "text": "¿Otro capítulo mañana?"
+        },
+        {
+          "act": "diego_head",
+          "env": "stay",
+          "rot": 3,
+          "dur": 0.8
+        },
+        {
+          "act": "fanny_head",
+          "env": "stay",
+          "rot": -3,
+          "dur": 0.8
+        },
+        {
+          "say": "fanny",
+          "text": "Todos los que quieras."
+        },
+        {
+          "cam": "tris",
+          "move": 1.4
+        },
+        {
+          "wait": 1.2
+        },
+        {
+          "cam": "family",
+          "move": 2.2
+        },
+        {
+          "card": "continuara",
+          "at": 0.8
+        }
+      ]
+    }
+  ],
+  "credits": {
+    "music": "cajita_creditos",
+    "cards": [
+      {
+        "lines": [
+          "Fanny & Diego",
+          "~la serie",
+          "~Temporada 2, capítulo 24: «Dos años»"
+        ],
+        "portraits": []
+      },
+      {
+        "lines": [
+          "~Protagonizada por",
+          "Fanny",
+          "~y",
+          "Diego"
+        ],
+        "portraits": [
+          "fanny",
+          "diego"
+        ]
+      },
+      {
+        "lines": [
+          "~Con la participación especial de",
+          "Tris",
+          "~(como ella misma)"
+        ],
+        "portraits": [
+          "tris"
+        ]
+      },
+      {
+        "lines": [
+          "~y",
+          "Snoopy, el changuito",
+          "y los pingüinos"
+        ],
+        "portraits": [
+          "snoopy",
+          "changuito",
+          "pinguino"
+        ]
+      },
+      {
+        "lines": [
+          "~Escrita, dirigida",
+          "~y hecha con amor por",
+          "Diego"
+        ],
+        "portraits": []
+      },
+      {
+        "lines": [
+          "Feliz aniversario, Fanny",
+          "~20/10/2024  —  20/10/2026"
+        ],
+        "portraits": [],
+        "final": true
+      }
+    ]
+  }
+}

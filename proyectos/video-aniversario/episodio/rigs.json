@@ -1,0 +1,2808 @@
+{
+ "_doc": "Rigs del puppet warp. Coordenadas en px de assets/scenes/raw/<img>.png. Tipos de handle: rot (gira alrededor de pivot), scale (respira: escala alrededor de pivot), move (traslada). Región de influencia: círculo c con r0 (peso 1) a r1 (peso 0), o cápsula seg [[x1,y1],[x2,y2]]. chars: qué handles son cabeza/boca/cuerpo de cada personaje y dónde nace su globo. frames: encuadres (x, y normalizados; z zoom; fit cover|contain). loops: movimiento propio de la escena (beat = golpe en cada tiempo; sin = vaivén; circle = círculo).",
+ "cafe": {
+  "raw": [
+   347,
+   391
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "scale",
+    "c": [
+     95,
+     330
+    ],
+    "r0": 60,
+    "r1": 150,
+    "pivot": [
+     95,
+     391
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     105,
+     172
+    ],
+    "r0": 58,
+    "r1": 105,
+    "pivot": [
+     115,
+     245
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     121,
+     218
+    ],
+    "r0": 6,
+    "r1": 22
+   },
+   "fanny_body": {
+    "type": "scale",
+    "c": [
+     265,
+     330
+    ],
+    "r0": 55,
+    "r1": 130,
+    "pivot": [
+     265,
+     391
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     262,
+     192
+    ],
+    "r0": 46,
+    "r1": 90,
+    "pivot": [
+     255,
+     252
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     249,
+     229
+    ],
+    "r0": 5,
+    "r1": 18
+   },
+   "fanny_brow": {
+    "type": "move",
+    "c": [
+     257,
+     174
+    ],
+    "r0": 10,
+    "r1": 22
+   },
+   "fanny_hair": {
+    "type": "move",
+    "c": [
+     318,
+     250
+    ],
+    "r0": 20,
+    "r1": 60
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     112,
+     92
+    ],
+    "jawAmp": 5,
+    "mouth": {
+     "c": [
+      121,
+      211
+     ],
+     "w": 27
+    },
+    "cheeks": [
+     [
+      95,
+      205
+     ],
+     [
+      150,
+      203
+     ]
+    ],
+    "cheekR": 11
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     262,
+     128
+    ],
+    "jawAmp": 4,
+    "mouth": {
+     "c": [
+      249,
+      223
+     ],
+     "w": 23
+    },
+    "cheeks": [
+     [
+      228,
+      212
+     ],
+     [
+      282,
+      210
+     ]
+    ],
+    "cheekR": 10
+   }
+  },
+  "eyes": [],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "contain"
+   },
+   "two": {
+    "x": 0.5,
+    "y": 0.48,
+    "z": 1,
+    "fit": "cover"
+   },
+   "diego": {
+    "x": 0.34,
+    "y": 0.47,
+    "z": 1.4,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.72,
+    "y": 0.52,
+    "z": 1.4,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "fanny_hair",
+    "kind": "sin",
+    "dx": 1.2,
+    "period": 5.2
+   }
+  ],
+  "props": {
+   "steam": [
+    [
+     155,
+     305
+    ],
+    [
+     229,
+     305
+    ]
+   ]
+  }
+ },
+ "prepa": {
+  "raw": [
+   703,
+   300
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "scale",
+    "c": [
+     215,
+     215
+    ],
+    "r0": 30,
+    "r1": 85,
+    "pivot": [
+     215,
+     290
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     218,
+     100
+    ],
+    "r0": 33,
+    "r1": 60,
+    "pivot": [
+     222,
+     142
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     233,
+     140
+    ],
+    "r0": 3,
+    "r1": 12
+   },
+   "cym_top": {
+    "type": "move",
+    "c": [
+     305,
+     140
+    ],
+    "r0": 32,
+    "r1": 54
+   },
+   "cym_low": {
+    "type": "move",
+    "c": [
+     252,
+     195
+    ],
+    "r0": 26,
+    "r1": 44
+   },
+   "fanny_body": {
+    "type": "move",
+    "c": [
+     455,
+     165
+    ],
+    "r0": 32,
+    "r1": 78
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     445,
+     95
+    ],
+    "r0": 27,
+    "r1": 50,
+    "pivot": [
+     448,
+     128
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     447,
+     116
+    ],
+    "r0": 3,
+    "r1": 11
+   },
+   "fanny_arm": {
+    "type": "rot",
+    "seg": [
+     [
+      420,
+      126
+     ],
+     [
+      393,
+      112
+     ]
+    ],
+    "r0": 9,
+    "r1": 22,
+    "pivot": [
+     422,
+     128
+    ]
+   },
+   "snoopy": {
+    "type": "move",
+    "c": [
+     378,
+     185
+    ],
+    "r0": 16,
+    "r1": 30
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     218,
+     58
+    ],
+    "jawAmp": 3
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     446,
+     58
+    ],
+    "jawAmp": 2.5
+   }
+  },
+  "eyes": [
+   {
+    "who": "diego",
+    "c": [
+     218,
+     119
+    ],
+    "rx": 2.9,
+    "ry": 2.9,
+    "follow": "diego_head"
+   },
+   {
+    "who": "diego",
+    "c": [
+     242,
+     114.6
+    ],
+    "rx": 2.9,
+    "ry": 3.0,
+    "follow": "diego_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     430.2,
+     94.4
+    ],
+    "rx": 3.2,
+    "ry": 3.4,
+    "follow": "fanny_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     452.5,
+     95.1
+    ],
+    "rx": 3.3,
+    "ry": 3.2,
+    "follow": "fanny_head"
+   }
+  ],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.47,
+    "y": 0.5,
+    "z": 1,
+    "fit": "cover"
+   },
+   "diego": {
+    "x": 0.35,
+    "y": 0.44,
+    "z": 1.4,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.62,
+    "y": 0.42,
+    "z": 1.4,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "cym_top",
+    "kind": "beat",
+    "every": 2,
+    "dx": -12,
+    "dy": 12
+   },
+   {
+    "h": "cym_low",
+    "kind": "beat",
+    "every": 2,
+    "dx": 4,
+    "dy": -5
+   },
+   {
+    "h": "diego_head",
+    "kind": "beat",
+    "every": 2,
+    "rot": 2.5
+   },
+   {
+    "h": "fanny_body",
+    "kind": "beat",
+    "every": 1,
+    "dy": -5
+   },
+   {
+    "h": "fanny_arm",
+    "kind": "sin",
+    "rot": 9,
+    "beats": 2
+   },
+   {
+    "h": "snoopy",
+    "kind": "beat",
+    "every": 1,
+    "dy": -4,
+    "offset": 0.5
+   }
+  ]
+ },
+ "amoshit": {
+  "raw": [
+   703,
+   301
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "scale",
+    "c": [
+     135,
+     150
+    ],
+    "r0": 20,
+    "r1": 55,
+    "pivot": [
+     135,
+     212
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     130,
+     90
+    ],
+    "r0": 20,
+    "r1": 38,
+    "pivot": [
+     133,
+     113
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     137,
+     104
+    ],
+    "r0": 2,
+    "r1": 8
+   },
+   "fanny_body": {
+    "type": "scale",
+    "c": [
+     600,
+     165
+    ],
+    "r0": 20,
+    "r1": 50,
+    "pivot": [
+     600,
+     212
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     590,
+     105
+    ],
+    "r0": 18,
+    "r1": 34,
+    "pivot": [
+     590,
+     126
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     588,
+     117
+    ],
+    "r0": 2,
+    "r1": 7
+   },
+   "tris_head": {
+    "type": "rot",
+    "c": [
+     82,
+     172
+    ],
+    "r0": 13,
+    "r1": 26,
+    "pivot": [
+     75,
+     192
+    ]
+   },
+   "thread1": {
+    "type": "move",
+    "c": [
+     290,
+     150
+    ],
+    "r0": 22,
+    "r1": 66
+   },
+   "thread2": {
+    "type": "move",
+    "c": [
+     390,
+     140
+    ],
+    "r0": 22,
+    "r1": 66
+   },
+   "thread3": {
+    "type": "move",
+    "c": [
+     480,
+     138
+    ],
+    "r0": 22,
+    "r1": 60
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     132,
+     60
+    ],
+    "jawAmp": 1.5
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     592,
+     76
+    ],
+    "jawAmp": 1.3
+   },
+   "tris": {
+    "head": "tris_head",
+    "bubble": [
+     85,
+     150
+    ]
+   }
+  },
+  "eyes": [],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "contain"
+   },
+   "diego": {
+    "x": 0.24,
+    "y": 0.47,
+    "z": 1.3,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.78,
+    "y": 0.45,
+    "z": 1.3,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "thread1",
+    "kind": "sin",
+    "dy": 2.2,
+    "period": 1.9,
+    "phase": 0
+   },
+   {
+    "h": "thread2",
+    "kind": "sin",
+    "dy": 2.2,
+    "period": 1.9,
+    "phase": 1.1
+   },
+   {
+    "h": "thread3",
+    "kind": "sin",
+    "dy": 2.0,
+    "period": 1.9,
+    "phase": 2.2
+   },
+   {
+    "h": "tris_head",
+    "kind": "sin",
+    "rot": 5,
+    "period": 2.6
+   }
+  ]
+ },
+ "coche": {
+  "raw": [
+   703,
+   300
+  ],
+  "handles": {
+   "car": {
+    "type": "move",
+    "c": [
+     340,
+     172
+    ],
+    "r0": 120,
+    "r1": 205
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     318,
+     50
+    ],
+    "r0": 26,
+    "r1": 48,
+    "pivot": [
+     318,
+     86
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     321,
+     72
+    ],
+    "r0": 3,
+    "r1": 10
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     425,
+     56
+    ],
+    "r0": 26,
+    "r1": 46,
+    "pivot": [
+     425,
+     90
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     413,
+     82
+    ],
+    "r0": 3,
+    "r1": 11
+   },
+   "fanny_armL": {
+    "type": "rot",
+    "seg": [
+     [
+      398,
+      78
+     ],
+     [
+      375,
+      45
+     ]
+    ],
+    "r0": 9,
+    "r1": 18,
+    "pivot": [
+     398,
+     80
+    ]
+   },
+   "fanny_armR": {
+    "type": "rot",
+    "seg": [
+     [
+      455,
+      82
+     ],
+     [
+      490,
+      50
+     ]
+    ],
+    "r0": 9,
+    "r1": 18,
+    "pivot": [
+     455,
+     85
+    ]
+   },
+   "fanny_hair": {
+    "type": "move",
+    "c": [
+     496,
+     70
+    ],
+    "r0": 14,
+    "r1": 40
+   },
+   "tris_head": {
+    "type": "rot",
+    "c": [
+     355,
+     110
+    ],
+    "r0": 15,
+    "r1": 28,
+    "pivot": [
+     355,
+     128
+    ]
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "bubble": [
+     300,
+     22
+    ],
+    "jawAmp": 2.5
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "bubble": [
+     440,
+     24
+    ],
+    "jawAmp": 3
+   }
+  },
+  "eyes": [],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.53,
+    "y": 0.45,
+    "z": 1.2,
+    "fit": "cover"
+   },
+   "diego": {
+    "x": 0.46,
+    "y": 0.34,
+    "z": 1.55,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.6,
+    "y": 0.34,
+    "z": 1.55,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "car",
+    "kind": "beat",
+    "every": 1,
+    "dy": -3
+   },
+   {
+    "h": "fanny_armL",
+    "kind": "sin",
+    "rot": 8,
+    "beats": 1
+   },
+   {
+    "h": "fanny_armR",
+    "kind": "sin",
+    "rot": -8,
+    "beats": 1
+   },
+   {
+    "h": "fanny_hair",
+    "kind": "sin",
+    "dx": 3,
+    "dy": 1,
+    "period": 0.7
+   },
+   {
+    "h": "tris_head",
+    "kind": "sin",
+    "rot": 4,
+    "period": 1.6
+   }
+  ]
+ },
+ "cocina": {
+  "raw": [
+   703,
+   357
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "scale",
+    "c": [
+     260,
+     230
+    ],
+    "r0": 40,
+    "r1": 110,
+    "pivot": [
+     260,
+     357
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     252,
+     110
+    ],
+    "r0": 55,
+    "r1": 95,
+    "pivot": [
+     258,
+     178
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     273,
+     156
+    ],
+    "r0": 4,
+    "r1": 16
+   },
+   "knife_hand": {
+    "type": "move",
+    "c": [
+     222,
+     255
+    ],
+    "r0": 18,
+    "r1": 36
+   },
+   "fanny_body": {
+    "type": "scale",
+    "c": [
+     440,
+     240
+    ],
+    "r0": 40,
+    "r1": 100,
+    "pivot": [
+     440,
+     357
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     428,
+     135
+    ],
+    "r0": 48,
+    "r1": 85,
+    "pivot": [
+     432,
+     190
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     423,
+     169
+    ],
+    "r0": 4,
+    "r1": 15
+   },
+   "spoon_hand": {
+    "type": "move",
+    "c": [
+     380,
+     222
+    ],
+    "r0": 16,
+    "r1": 34
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     250,
+     40
+    ],
+    "jawAmp": 4
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     440,
+     70
+    ],
+    "jawAmp": 3.5
+   }
+  },
+  "eyes": [
+   {
+    "who": "diego",
+    "c": [
+     258.5,
+     118.6
+    ],
+    "rx": 4.6,
+    "ry": 4.8,
+    "follow": "diego_head"
+   },
+   {
+    "who": "diego",
+    "c": [
+     296.5,
+     114.8
+    ],
+    "rx": 3.8,
+    "ry": 4.4,
+    "follow": "diego_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     397.3,
+     133.8
+    ],
+    "rx": 5.2,
+    "ry": 5.2,
+    "follow": "fanny_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     438.8,
+     135.4
+    ],
+    "rx": 5.4,
+    "ry": 5.6,
+    "follow": "fanny_head"
+   }
+  ],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.48,
+    "y": 0.45,
+    "z": 1.05,
+    "fit": "cover"
+   },
+   "diego": {
+    "x": 0.38,
+    "y": 0.38,
+    "z": 1.45,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.6,
+    "y": 0.42,
+    "z": 1.45,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "knife_hand",
+    "kind": "beat",
+    "every": 1,
+    "dy": 6
+   },
+   {
+    "h": "spoon_hand",
+    "kind": "circle",
+    "r": 4,
+    "period": 1.3
+   }
+  ]
+ },
+ "snoopy": {
+  "raw": [
+   348,
+   391
+  ],
+  "handles": {
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     125,
+     205
+    ],
+    "r0": 30,
+    "r1": 55,
+    "pivot": [
+     130,
+     242
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     148,
+     229
+    ],
+    "r0": 3,
+    "r1": 11
+   },
+   "snoopy": {
+    "type": "move",
+    "c": [
+     188,
+     265
+    ],
+    "r0": 25,
+    "r1": 45
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     270,
+     190
+    ],
+    "r0": 36,
+    "r1": 62,
+    "pivot": [
+     275,
+     238
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     268,
+     216
+    ],
+    "r0": 3,
+    "r1": 12
+   },
+   "diego_hand": {
+    "type": "move",
+    "c": [
+     228,
+     255
+    ],
+    "r0": 12,
+    "r1": 26
+   },
+   "tris_head": {
+    "type": "rot",
+    "c": [
+     240,
+     285
+    ],
+    "r0": 24,
+    "r1": 42,
+    "pivot": [
+     248,
+     318
+    ]
+   },
+   "tris_jaw": {
+    "type": "move",
+    "c": [
+     236,
+     301
+    ],
+    "r0": 3,
+    "r1": 10
+   }
+  },
+  "chars": {
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "bubble": [
+     118,
+     150
+    ],
+    "jawAmp": 2.5
+   },
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "bubble": [
+     272,
+     128
+    ],
+    "jawAmp": 3
+   },
+   "tris": {
+    "head": "tris_head",
+    "jaw": "tris_jaw",
+    "bubble": [
+     248,
+     238
+    ],
+    "jawAmp": 3
+   }
+  },
+  "eyes": [],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "contain"
+   },
+   "two": {
+    "x": 0.55,
+    "y": 0.61,
+    "z": 1,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.42,
+    "y": 0.6,
+    "z": 1.2,
+    "fit": "cover"
+   },
+   "tris": {
+    "x": 0.66,
+    "y": 0.7,
+    "z": 1.2,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "diego_hand",
+    "kind": "sin",
+    "dx": 5,
+    "period": 0.9
+   },
+   {
+    "h": "tris_head",
+    "kind": "sin",
+    "rot": 4,
+    "period": 2.5
+   },
+   {
+    "h": "snoopy",
+    "kind": "sin",
+    "dy": -3,
+    "period": 1.1
+   }
+  ]
+ },
+ "vinilos": {
+  "raw": [
+   703,
+   300
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "scale",
+    "c": [
+     290,
+     150
+    ],
+    "r0": 30,
+    "r1": 80,
+    "pivot": [
+     290,
+     190
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     292,
+     36
+    ],
+    "r0": 28,
+    "r1": 50,
+    "pivot": [
+     290,
+     72
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     296,
+     53
+    ],
+    "r0": 3,
+    "r1": 10
+   },
+   "fanny_body": {
+    "type": "scale",
+    "c": [
+     440,
+     160
+    ],
+    "r0": 30,
+    "r1": 75,
+    "pivot": [
+     440,
+     190
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     435,
+     40
+    ],
+    "r0": 26,
+    "r1": 48,
+    "pivot": [
+     438,
+     74
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     436,
+     58
+    ],
+    "r0": 3,
+    "r1": 10
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     270,
+     12
+    ],
+    "jawAmp": 2.5
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     460,
+     14
+    ],
+    "jawAmp": 2.5
+   }
+  },
+  "eyes": [
+   {
+    "who": "diego",
+    "c": [
+     283,
+     32.8
+    ],
+    "rx": 3.4,
+    "ry": 3.2,
+    "follow": "diego_head"
+   },
+   {
+    "who": "diego",
+    "c": [
+     305.5,
+     31.2
+    ],
+    "rx": 2.8,
+    "ry": 3.0,
+    "follow": "diego_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     422.9,
+     36.8
+    ],
+    "rx": 3.0,
+    "ry": 3.8,
+    "follow": "fanny_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     445.7,
+     38.8
+    ],
+    "rx": 3.8,
+    "ry": 4.0,
+    "follow": "fanny_head"
+   }
+  ],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.52,
+    "y": 0.36,
+    "z": 1.25,
+    "fit": "cover"
+   },
+   "diego": {
+    "x": 0.42,
+    "y": 0.26,
+    "z": 1.65,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.62,
+    "y": 0.28,
+    "z": 1.65,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "diego_head",
+    "kind": "beat",
+    "every": 1,
+    "rot": 3,
+    "dy": 1
+   },
+   {
+    "h": "fanny_head",
+    "kind": "beat",
+    "every": 1,
+    "rot": -3,
+    "dy": 1,
+    "offset": 0.5
+   }
+  ]
+ },
+ "tacos": {
+  "raw": [
+   703,
+   296
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "scale",
+    "c": [
+     220,
+     200
+    ],
+    "r0": 40,
+    "r1": 120,
+    "pivot": [
+     220,
+     296
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     215,
+     62
+    ],
+    "r0": 50,
+    "r1": 85,
+    "pivot": [
+     222,
+     135
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     229,
+     101
+    ],
+    "r0": 4,
+    "r1": 16
+   },
+   "fanny_body": {
+    "type": "scale",
+    "c": [
+     500,
+     210
+    ],
+    "r0": 40,
+    "r1": 110,
+    "pivot": [
+     500,
+     296
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     500,
+     72
+    ],
+    "r0": 45,
+    "r1": 80,
+    "pivot": [
+     495,
+     138
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     492,
+     101
+    ],
+    "r0": 4,
+    "r1": 15
+   },
+   "tris_head": {
+    "type": "rot",
+    "c": [
+     75,
+     190
+    ],
+    "r0": 25,
+    "r1": 45,
+    "pivot": [
+     75,
+     232
+    ]
+   },
+   "mugs": {
+    "type": "move",
+    "c": [
+     362,
+     120
+    ],
+    "r0": 62,
+    "r1": 100
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     210,
+     10
+    ],
+    "jawAmp": 4
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     510,
+     14
+    ],
+    "jawAmp": 4
+   }
+  },
+  "eyes": [
+   {
+    "who": "diego",
+    "c": [
+     212.2,
+     63.3
+    ],
+    "rx": 5.1,
+    "ry": 5.6,
+    "follow": "diego_head"
+   },
+   {
+    "who": "diego",
+    "c": [
+     246.5,
+     63
+    ],
+    "rx": 4.2,
+    "ry": 5.0,
+    "follow": "diego_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     478.2,
+     63.2
+    ],
+    "rx": 5.2,
+    "ry": 6.4,
+    "follow": "fanny_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     515.5,
+     66.5
+    ],
+    "rx": 6.0,
+    "ry": 6.6,
+    "follow": "fanny_head"
+   }
+  ],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.5,
+    "y": 0.45,
+    "z": 1.0,
+    "fit": "cover"
+   },
+   "diego": {
+    "x": 0.33,
+    "y": 0.36,
+    "z": 1.45,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.69,
+    "y": 0.38,
+    "z": 1.45,
+    "fit": "cover"
+   },
+   "mugs": {
+    "x": 0.515,
+    "y": 0.38,
+    "z": 1.7,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "tris_head",
+    "kind": "sin",
+    "rot": 5,
+    "period": 2.2
+   }
+  ]
+ },
+ "karaoke": {
+  "raw": [
+   703,
+   460
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "rot",
+    "c": [
+     310,
+     300
+    ],
+    "r0": 40,
+    "r1": 110,
+    "pivot": [
+     310,
+     395
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     300,
+     170
+    ],
+    "r0": 40,
+    "r1": 70,
+    "pivot": [
+     305,
+     228
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     316,
+     213
+    ],
+    "r0": 4,
+    "r1": 15
+   },
+   "fanny_body": {
+    "type": "rot",
+    "c": [
+     410,
+     320
+    ],
+    "r0": 35,
+    "r1": 100,
+    "pivot": [
+     410,
+     395
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     415,
+     195
+    ],
+    "r0": 35,
+    "r1": 62,
+    "pivot": [
+     410,
+     248
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     405,
+     226
+    ],
+    "r0": 4,
+    "r1": 13
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     290,
+     112
+    ],
+    "jawAmp": 4
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     430,
+     140
+    ],
+    "jawAmp": 3.5
+   },
+   "ambos": {
+    "head": "diego_head",
+    "bubble": [
+     360,
+     110
+    ]
+   }
+  },
+  "eyes": [],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.5,
+    "y": 0.47,
+    "z": 1.4,
+    "fit": "cover"
+   },
+   "diego": {
+    "x": 0.44,
+    "y": 0.4,
+    "z": 1.85,
+    "fit": "cover"
+   },
+   "fanny": {
+    "x": 0.58,
+    "y": 0.44,
+    "z": 1.85,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "diego_body",
+    "kind": "sin",
+    "rot": 1.8,
+    "beats": 2
+   },
+   {
+    "h": "fanny_body",
+    "kind": "sin",
+    "rot": -1.8,
+    "beats": 2
+   },
+   {
+    "h": "diego_head",
+    "kind": "beat",
+    "every": 1,
+    "rot": 2
+   }
+  ]
+ },
+ "pelicula": {
+  "raw": [
+   703,
+   295
+  ],
+  "handles": {
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     590,
+     60
+    ],
+    "r0": 36,
+    "r1": 65,
+    "pivot": [
+     592,
+     112
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     525,
+     125
+    ],
+    "r0": 30,
+    "r1": 55,
+    "pivot": [
+     532,
+     172
+    ]
+   },
+   "diego_hand": {
+    "type": "move",
+    "c": [
+     505,
+     212
+    ],
+    "r0": 12,
+    "r1": 26
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "bubble": [
+     610,
+     14
+    ]
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "bubble": [
+     470,
+     70
+    ]
+   }
+  },
+  "eyes": [],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "contain"
+   },
+   "tv": {
+    "x": 0.293,
+    "y": 0.52,
+    "z": 1.8,
+    "fit": "cover"
+   },
+   "couple": {
+    "x": 0.76,
+    "y": 0.45,
+    "z": 1.3,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1.0,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "diego_hand",
+    "kind": "sin",
+    "dy": 1.5,
+    "period": 3.5
+   }
+  ],
+  "props": {
+   "tv_screen": [
+    159,
+    117,
+    254,
+    189
+   ]
+  }
+ },
+ "safari": {
+  "raw": [
+   703,
+   476
+  ],
+  "handles": {
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     200,
+     200
+    ],
+    "r0": 55,
+    "r1": 95,
+    "pivot": [
+     204,
+     280
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     198.6,
+     247
+    ],
+    "r0": 6,
+    "r1": 22
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     295,
+     215
+    ],
+    "r0": 50,
+    "r1": 88,
+    "pivot": [
+     285,
+     300
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     285,
+     251
+    ],
+    "r0": 4,
+    "r1": 15
+   },
+   "camera": {
+    "type": "move",
+    "c": [
+     262,
+     288
+    ],
+    "r0": 22,
+    "r1": 40
+   },
+   "tris_head": {
+    "type": "rot",
+    "c": [
+     395,
+     150
+    ],
+    "r0": 26,
+    "r1": 45,
+    "pivot": [
+     395,
+     192
+    ]
+   },
+   "tris_jaw": {
+    "type": "move",
+    "c": [
+     393,
+     169
+    ],
+    "r0": 3,
+    "r1": 10
+   },
+   "giraffe": {
+    "type": "rot",
+    "c": [
+     515,
+     150
+    ],
+    "r0": 55,
+    "r1": 110,
+    "pivot": [
+     610,
+     330
+    ]
+   },
+   "giraffe_ear": {
+    "type": "rot",
+    "c": [
+     585,
+     70
+    ],
+    "r0": 10,
+    "r1": 22,
+    "pivot": [
+     575,
+     86
+    ]
+   },
+   "bird": {
+    "type": "move",
+    "c": [
+     650,
+     365
+    ],
+    "r0": 8,
+    "r1": 18
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "bubble": [
+     190,
+     112
+    ],
+    "jawAmp": 4,
+    "mouth": {
+     "c": [
+      198.6,
+      241.6
+     ],
+     "w": 27.5
+    }
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "bubble": [
+     310,
+     125
+    ],
+    "jawAmp": 4
+   },
+   "tris": {
+    "head": "tris_head",
+    "jaw": "tris_jaw",
+    "bubble": [
+     400,
+     100
+    ],
+    "jawAmp": 3
+   }
+  },
+  "eyes": [],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.47,
+    "z": 1,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.34,
+    "y": 0.44,
+    "z": 1.3,
+    "fit": "cover"
+   },
+   "giraffe": {
+    "x": 0.68,
+    "y": 0.35,
+    "z": 1.45,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "giraffe",
+    "kind": "sin",
+    "rot": 2,
+    "period": 3.4
+   },
+   {
+    "h": "giraffe_ear",
+    "kind": "sin",
+    "rot": 10,
+    "period": 1.3
+   },
+   {
+    "h": "bird",
+    "kind": "beat",
+    "every": 1,
+    "dy": -3
+   },
+   {
+    "h": "diego_head",
+    "kind": "sin",
+    "rot": 1.5,
+    "period": 2.4
+   },
+   {
+    "h": "fanny_head",
+    "kind": "sin",
+    "rot": -1.5,
+    "period": 2.4
+   },
+   {
+    "h": "tris_jaw",
+    "kind": "sin",
+    "dy": 1.5,
+    "period": 0.5
+   }
+  ]
+ },
+ "aviario": {
+  "raw": [
+   703,
+   514
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "scale",
+    "c": [
+     320,
+     330
+    ],
+    "r0": 45,
+    "r1": 120,
+    "pivot": [
+     320,
+     432
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     320,
+     195
+    ],
+    "r0": 38,
+    "r1": 68,
+    "pivot": [
+     318,
+     248
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     331,
+     230
+    ],
+    "r0": 4,
+    "r1": 13
+   },
+   "parrot_head": {
+    "type": "rot",
+    "c": [
+     176,
+     172
+    ],
+    "r0": 14,
+    "r1": 28,
+    "pivot": [
+     170,
+     200
+    ]
+   },
+   "parrot_beak": {
+    "type": "move",
+    "c": [
+     188,
+     187
+    ],
+    "r0": 3,
+    "r1": 9
+   },
+   "toucan_head": {
+    "type": "rot",
+    "c": [
+     222,
+     200
+    ],
+    "r0": 20,
+    "r1": 40,
+    "pivot": [
+     215,
+     226
+    ]
+   },
+   "fanny_body": {
+    "type": "scale",
+    "c": [
+     425,
+     370
+    ],
+    "r0": 40,
+    "r1": 100,
+    "pivot": [
+     425,
+     440
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     427,
+     232
+    ],
+    "r0": 34,
+    "r1": 60,
+    "pivot": [
+     425,
+     284
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     421,
+     255
+    ],
+    "r0": 4,
+    "r1": 12
+   },
+   "fanny_hands": {
+    "type": "move",
+    "c": [
+     410,
+     292
+    ],
+    "r0": 12,
+    "r1": 26
+   },
+   "hbird1": {
+    "type": "move",
+    "c": [
+     250,
+     60
+    ],
+    "r0": 10,
+    "r1": 22
+   },
+   "hbird2": {
+    "type": "move",
+    "c": [
+     465,
+     45
+    ],
+    "r0": 10,
+    "r1": 22
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     330,
+     140
+    ],
+    "jawAmp": 3.5
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     440,
+     180
+    ],
+    "jawAmp": 3
+   },
+   "loro": {
+    "head": "parrot_head",
+    "jaw": "parrot_beak",
+    "bubble": [
+     150,
+     128
+    ],
+    "jawAmp": 3
+   }
+  },
+  "eyes": [
+   {
+    "who": "diego",
+    "c": [
+     316.5,
+     202.5
+    ],
+    "rx": 3.4,
+    "ry": 3.6,
+    "follow": "diego_head"
+   },
+   {
+    "who": "diego",
+    "c": [
+     345,
+     203.4
+    ],
+    "rx": 3.4,
+    "ry": 3.8,
+    "follow": "diego_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     407,
+     224
+    ],
+    "rx": 3.4,
+    "ry": 3.6,
+    "follow": "fanny_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     431,
+     228.3
+    ],
+    "rx": 3.5,
+    "ry": 3.9,
+    "follow": "fanny_head"
+   }
+  ],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.45,
+    "z": 1,
+    "fit": "cover"
+   },
+   "two": {
+    "x": 0.52,
+    "y": 0.46,
+    "z": 1.35,
+    "fit": "cover"
+   },
+   "parrot": {
+    "x": 0.32,
+    "y": 0.38,
+    "z": 1.75,
+    "fit": "cover"
+   },
+   "diego": {
+    "x": 0.46,
+    "y": 0.41,
+    "z": 1.75,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "toucan_head",
+    "kind": "sin",
+    "rot": 6,
+    "period": 2.1
+   },
+   {
+    "h": "hbird1",
+    "kind": "sin",
+    "dy": 3,
+    "dx": 2,
+    "period": 0.9
+   },
+   {
+    "h": "hbird2",
+    "kind": "sin",
+    "dy": 3,
+    "dx": -2,
+    "period": 1.1
+   },
+   {
+    "h": "parrot_head",
+    "kind": "sin",
+    "rot": 4,
+    "period": 1.7
+   }
+  ]
+ },
+ "puente": {
+  "raw": [
+   703,
+   519
+  ],
+  "handles": {
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     300,
+     285
+    ],
+    "r0": 28,
+    "r1": 50,
+    "pivot": [
+     300,
+     322
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     413,
+     300
+    ],
+    "r0": 26,
+    "r1": 46,
+    "pivot": [
+     413,
+     337
+    ]
+   },
+   "hands": {
+    "type": "move",
+    "c": [
+     363,
+     380
+    ],
+    "r0": 12,
+    "r1": 26
+   },
+   "tris_head": {
+    "type": "rot",
+    "c": [
+     160,
+     392
+    ],
+    "r0": 22,
+    "r1": 40,
+    "pivot": [
+     155,
+     426
+    ]
+   },
+   "cattail1": {
+    "type": "move",
+    "c": [
+     118,
+     60
+    ],
+    "r0": 12,
+    "r1": 40
+   },
+   "cattail2": {
+    "type": "move",
+    "c": [
+     175,
+     110
+    ],
+    "r0": 12,
+    "r1": 40
+   },
+   "cattail3": {
+    "type": "move",
+    "c": [
+     515,
+     45
+    ],
+    "r0": 12,
+    "r1": 40
+   },
+   "cattail4": {
+    "type": "move",
+    "c": [
+     560,
+     110
+    ],
+    "r0": 12,
+    "r1": 40
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "bubble": [
+     280,
+     228
+    ]
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "bubble": [
+     440,
+     240
+    ]
+   },
+   "tris": {
+    "head": "tris_head",
+    "bubble": [
+     160,
+     340
+    ]
+   }
+  },
+  "eyes": [],
+  "frames": {
+   "wide": {
+    "x": 0.5,
+    "y": 0.3,
+    "z": 1,
+    "fit": "cover"
+   },
+   "sign": {
+    "x": 0.5,
+    "y": 0.17,
+    "z": 1.5,
+    "fit": "cover"
+   },
+   "couple": {
+    "x": 0.5,
+    "y": 0.62,
+    "z": 1.45,
+    "fit": "cover"
+   }
+  },
+  "loops": [
+   {
+    "h": "cattail1",
+    "kind": "sin",
+    "dx": 2.2,
+    "period": 2.6,
+    "phase": 0
+   },
+   {
+    "h": "cattail2",
+    "kind": "sin",
+    "dx": 2.0,
+    "period": 2.9,
+    "phase": 0.7
+   },
+   {
+    "h": "cattail3",
+    "kind": "sin",
+    "dx": 2.2,
+    "period": 2.7,
+    "phase": 1.4
+   },
+   {
+    "h": "cattail4",
+    "kind": "sin",
+    "dx": 2.0,
+    "period": 3.1,
+    "phase": 2.0
+   },
+   {
+    "h": "hands",
+    "kind": "sin",
+    "dx": 2,
+    "period": 2.4
+   },
+   {
+    "h": "tris_head",
+    "kind": "sin",
+    "rot": 4,
+    "period": 3
+   }
+  ]
+ },
+ "retrato": {
+  "raw": [
+   704,
+   1530
+  ],
+  "handles": {
+   "diego_body": {
+    "type": "scale",
+    "c": [
+     245,
+     780
+    ],
+    "r0": 90,
+    "r1": 220,
+    "pivot": [
+     245,
+     900
+    ]
+   },
+   "diego_head": {
+    "type": "rot",
+    "c": [
+     260,
+     515
+    ],
+    "r0": 105,
+    "r1": 170,
+    "pivot": [
+     262,
+     660
+    ]
+   },
+   "diego_jaw": {
+    "type": "move",
+    "c": [
+     287,
+     604
+    ],
+    "r0": 8,
+    "r1": 30
+   },
+   "fanny_body": {
+    "type": "scale",
+    "c": [
+     495,
+     780
+    ],
+    "r0": 85,
+    "r1": 200,
+    "pivot": [
+     495,
+     900
+    ]
+   },
+   "fanny_head": {
+    "type": "rot",
+    "c": [
+     487,
+     555
+    ],
+    "r0": 95,
+    "r1": 155,
+    "pivot": [
+     487,
+     665
+    ]
+   },
+   "fanny_jaw": {
+    "type": "move",
+    "c": [
+     491,
+     627
+    ],
+    "r0": 7,
+    "r1": 26
+   },
+   "tris_head": {
+    "type": "rot",
+    "c": [
+     375,
+     1010
+    ],
+    "r0": 80,
+    "r1": 140,
+    "pivot": [
+     380,
+     1150
+    ]
+   },
+   "tris_jaw": {
+    "type": "move",
+    "c": [
+     365,
+     1068
+    ],
+    "r0": 8,
+    "r1": 24
+   },
+   "tris_earL": {
+    "type": "rot",
+    "c": [
+     262,
+     1000
+    ],
+    "r0": 25,
+    "r1": 55,
+    "pivot": [
+     285,
+     930
+    ]
+   },
+   "tris_earR": {
+    "type": "rot",
+    "c": [
+     500,
+     990
+    ],
+    "r0": 25,
+    "r1": 55,
+    "pivot": [
+     470,
+     925
+    ]
+   },
+   "monkey_head": {
+    "type": "rot",
+    "c": [
+     75,
+     580
+    ],
+    "r0": 30,
+    "r1": 55,
+    "pivot": [
+     80,
+     632
+    ]
+   }
+  },
+  "chars": {
+   "diego": {
+    "head": "diego_head",
+    "jaw": "diego_jaw",
+    "body": "diego_body",
+    "bubble": [
+     250,
+     380
+    ],
+    "jawAmp": 9
+   },
+   "fanny": {
+    "head": "fanny_head",
+    "jaw": "fanny_jaw",
+    "body": "fanny_body",
+    "bubble": [
+     500,
+     420
+    ],
+    "jawAmp": 8
+   },
+   "tris": {
+    "head": "tris_head",
+    "jaw": "tris_jaw",
+    "bubble": [
+     380,
+     870
+    ],
+    "jawAmp": 8
+   }
+  },
+  "eyes": [
+   {
+    "who": "diego",
+    "c": [
+     242,
+     528
+    ],
+    "rx": 10,
+    "ry": 10.5,
+    "follow": "diego_head"
+   },
+   {
+    "who": "diego",
+    "c": [
+     317.5,
+     527
+    ],
+    "rx": 9.6,
+    "ry": 10,
+    "follow": "diego_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     442.5,
+     563.5
+    ],
+    "rx": 11,
+    "ry": 11.5,
+    "follow": "fanny_head"
+   },
+   {
+    "who": "fanny",
+    "c": [
+     524.5,
+     559.5
+    ],
+    "rx": 11,
+    "ry": 11.5,
+    "follow": "fanny_head"
+   },
+   {
+    "who": "tris",
+    "c": [
+     323.1,
+     985.1
+    ],
+    "rx": 11.5,
+    "ry": 13,
+    "follow": "tris_head"
+   },
+   {
+    "who": "tris",
+    "c": [
+     407.6,
+     994.1
+    ],
+    "rx": 11.8,
+    "ry": 13,
+    "follow": "tris_head"
+   }
+  ],
+  "frames": {
+   "top": {
+    "x": 0.5,
+    "y": 0.13,
+    "z": 1,
+    "fit": "cover"
+   },
+   "faces": {
+    "x": 0.5,
+    "y": 0.37,
+    "z": 1.05,
+    "fit": "cover"
+   },
+   "tris": {
+    "x": 0.5,
+    "y": 0.67,
+    "z": 1.1,
+    "fit": "cover"
+   },
+   "family": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 1,
+    "fit": "contain"
+   }
+  },
+  "loops": [
+   {
+    "h": "tris_jaw",
+    "kind": "sin",
+    "dy": 4,
+    "period": 0.46
+   },
+   {
+    "h": "tris_earL",
+    "kind": "sin",
+    "rot": 3,
+    "period": 1.9
+   },
+   {
+    "h": "tris_earR",
+    "kind": "sin",
+    "rot": -3,
+    "period": 2.1
+   },
+   {
+    "h": "monkey_head",
+    "kind": "sin",
+    "rot": 4,
+    "period": 2.8
+   }
+  ]
+ }
+}

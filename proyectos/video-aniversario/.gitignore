@@ -1,0 +1,15 @@
+# intermedios regenerables con tools/prepare_assets.sh / make_video.sh
+assets/scenes/x4/
+assets/scenes/depth/
+assets/scenes/layers/*.png
+assets/scenes/layers/*_preview.jpg
+assets/audio/song.wav
+assets/audio/analysis.json
+out/frames_*/
+out/*_compartir.mp4
+# episodio (v2): la mezcla se regenera con tools/episode_audio.py / make_episode.sh
+episodio/audio/
+out/render_*.log
+out/episodio_prueba_*.mp4
+tools/__pycache__/
+out/*_preview.jpg
