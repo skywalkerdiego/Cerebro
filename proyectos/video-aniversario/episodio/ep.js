@@ -660,7 +660,7 @@
       const age0 = t - f.t;
       if (age0 < 0) return;
       const tq = q12(t);
-      const cx = S.rw * 0.5, cy = S.rh * 0.45;
+      const cx = S.rw * 0.53, cy = S.rh * 0.66;
       for (let i = 0; i < 9; i++) {
         const st = i * 0.28, age = q12(tq - f.t) - st;
         if (age < 0 || age > 2.4) continue;
@@ -674,8 +674,8 @@
     impacto(g, f, t, v, S) {  // ¡CRASH!: estrella de fieltro y líneas de golpe
       const age = q12(t) - f.t;
       if (age < 0 || age > 0.7) return;
-      const h = S.rig.handles.cym_top, p = v.at(h.c[0] - 10, h.c[1] + 5);
-      const k = landing(age, 0.08, 0.5), R = v.s * 55 * k, fade = clamp(1 - (age - 0.35) / 0.35);
+      const h = S.rig.handles.cym_top, p = v.at(h.c[0] + 22, h.c[1] - 18);
+      const k = landing(age, 0.08, 0.5), R = v.s * 26 * k, fade = clamp(1 - (age - 0.3) / 0.3);
       g.save(); g.translate(p[0], p[1]); g.globalAlpha = fade;
       g.fillStyle = COL.mustard; g.strokeStyle = COL.thread; g.lineWidth = v.s * 2;
       g.beginPath();
@@ -702,8 +702,8 @@
       g.save(); g.lineCap = "round";
       for (let i = 0; i < 8; i++) {
         const ph = (t * (1.1 + hash(i) * 0.8) + hash(i * 3)) % 1;
-        const x = v.x0 + v.w * (1.25 - ph * 1.6), y = v.y0 + v.h * (0.12 + 0.7 * hash(i * 7));
-        g.strokeStyle = `rgba(255,245,225,${0.22 * Math.sin(Math.PI * ph)})`; g.lineWidth = v.w * 0.004;
+        const x = v.x0 + v.w * (1.25 - ph * 1.6), y = v.y0 + v.h * (0.55 + 0.4 * hash(i * 7));
+        g.strokeStyle = `rgba(255,245,225,${0.16 * Math.sin(Math.PI * ph)})`; g.lineWidth = v.w * 0.0035;
         g.beginPath(); g.moveTo(x, y); g.quadraticCurveTo(x + v.w * 0.08, y - v.w * 0.01, x + v.w * 0.17, y); g.stroke();
       }
       g.restore();
@@ -1119,7 +1119,7 @@
     gl.uniform2f(U.u_shift, cam.shx || 0, cam.shy || 0);
     // fondo desenfocado (solo se ve si el encuadre no llena)
     const bs = Math.max(ST.w / S.rw, ST.h / S.rh) * 1.1;
-    gl.uniform2f(U.u_raw, S.rw, S.rh); gl.uniform3f(U.u_cam, S.rw / 2, S.rh / 2, bs); gl.uniform1i(U.u_n, 0); gl.uniform1f(U.u_bright, 0.5);
+    gl.uniform2f(U.u_raw, S.rw, S.rh); gl.uniform3f(U.u_cam, S.rw / 2, S.rh / 2, bs); gl.uniform1i(U.u_n, 0); gl.uniform1f(U.u_bright, 0.72);
     gl.activeTexture(gl.TEXTURE0); gl.bindTexture(gl.TEXTURE_2D, S.blur);
     if (!S.quad) S.quad = makeGrid(1, 1);
     gl.bindVertexArray(S.quad.vao); gl.drawElements(gl.TRIANGLES, S.quad.n, gl.UNSIGNED_INT, 0);
@@ -1254,10 +1254,11 @@
     const hasP = ports.length > 0;
     const pr = ST.h * 0.11;
     ports.forEach((p, k) => portrait(g, p, ST.w / 2 + (k - (ports.length - 1) / 2) * pr * 2.8, ST.h * 0.3, pr, c.t + 0.1 + k * 0.15, t, null));
-    const L = c.lines, big = (s) => s.length < 22 && !/^(y|Protagonizada por|Con la participación especial de|Escrita, dirigida|y hecha con amor por)$/.test(s);
+    const L = c.lines, big = (s) => !s.startsWith("~");
     let y = hasP ? ST.h * 0.58 : ST.h * (0.5 - 0.06 * L.length);
     L.forEach((s, k) => {
-      const isBig = big(s) && k > 0 || (L.length <= 2 && k === 0);
+      const isBig = big(s);
+      s = s.replace(/^~/, "");
       if (isBig) {
         drawFeltWord(g, { text: s, size: ST.h * (c.final ? 0.1 : 0.085), colors: [COL.cream, COL.mustard, COL.pink], thread: COL.thread, seed: 9 + k }, ST.w / 2, y, c.t + 0.15 + k * 0.2, t, { stagger: 0.03 });
         y += ST.h * 0.13;
@@ -1323,7 +1324,7 @@
         const dx = Math.sin(k * 0.55 + u * 14) * amp;
         g.drawImage(src, 0, k * bh * RS, SW, bh * RS + 1, ST.x + dx, ST.y + k * bh, ST.w, bh + 1);
       }
-      g.save(); g.fillStyle = "#faeed7"; g.globalAlpha = Math.pow(Math.sin(Math.PI * p), 2) * 0.85; g.fillRect(ST.x, ST.y, ST.w, ST.h); g.restore();
+      g.save(); g.fillStyle = "#faeed7"; g.globalAlpha = Math.pow(Math.sin(Math.PI * p), 3) * 0.6; g.fillRect(ST.x, ST.y, ST.w, ST.h); g.restore();
     } else if (tr.type === "tv") {  // la pantalla de la tele crece y se vuelve la aventura
       renderSeq(gA, A, t); renderSeq(gB, B, t); put(stageA);
       const e = settle(u, tr.dur * 0.85);
@@ -1393,9 +1394,9 @@
       g.fillStyle = "rgba(60,30,20,0.85)"; g.beginPath(); g.ellipse(x + 10, y + 8, 46, 11, 0, 0, Math.PI * 2); g.fill();
       g.setLineDash([9, 7]); g.strokeStyle = "rgba(255,245,230,0.6)"; g.lineWidth = 2.5; roundRect(g, x - 30, y + 22, 80, 78, 16); g.stroke(); g.setLineDash([]);
     };
-    mug(120, 1560, "#7fa6c9"); mug(240, 1585, "#c0564a");
+    mug(88, 1605, "#7fa6c9"); mug(196, 1632, "#c0564a");
     // carrete
-    const sx = 900, sy = 1570;
+    const sx = 985, sy = 1600;
     g.save(); g.shadowColor = "rgba(0,0,0,0.4)"; g.shadowBlur = 16; g.shadowOffsetY = 8;
     felt(() => roundRect(g, sx - 70, sy, 140, 24, 10), "#c9a57a");
     felt(() => roundRect(g, sx - 70, sy + 106, 140, 24, 10), "#c9a57a");

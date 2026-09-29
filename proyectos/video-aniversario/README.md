@@ -105,6 +105,21 @@ de caricatura para el "Continuará…" y créditos en fieltro.
   `assets/scenes/raw/`, su rig en `episodio/rigs.json` y su escena en
   `episodio/guion.json`.
 
+## Cómo se hizo (loop de crítica)
+
+1. **Guion** (`guion.md` → `guion.json`) a partir de lo que hay en el
+   segundo cerebro, y **rigs** anotados sobre hojas con cuadrícula
+   (`tools/grid_view.py`); los ojos se afinaron detectando el botón oscuro
+   de cada ojo.
+2. **Clip de prueba** (cold open + entrada) enviado temprano.
+3. **Crítica** con cuadros clave de cada escena calificados del 1 al 10:
+
+   | Ronda | Peores (nota) | Arreglo |
+   |---|---|---|
+   | Stills | Colitas de globo encajadas en la frente · globos tapando la cara del otro · párpados como parches planos · tarros que no se podían separar | Colita corta que apunta a la boca · lugar del globo elegido entre varios candidatos evitando caras · parpadeo por aplastamiento de la malla · brindis: los tarros bajan y suben juntos en el "¡Salud!" |
+   | 1 (video completo) | Prepa (6): la estrella del ¡crash! tapaba a Diego y el flashback se lavaba · Coche (7): rayas de viento sobre las caras · Créditos (7): primera tarjeta pobre y faltaba el pingüino | Estrella chica en el borde del platillo, destello crema más suave · viento solo sobre el camino · créditos con texto cosido + fieltro y los tres peluches |
+   | 2 (render final) | (en curso) | |
+
 ## Código del episodio
 
 ```

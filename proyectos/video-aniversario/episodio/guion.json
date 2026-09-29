@@ -900,15 +900,16 @@
       {
         "lines": [
           "Fanny & Diego",
-          "la serie"
+          "~la serie",
+          "~Temporada 2, capítulo 24: «Dos años»"
         ],
-        "portrait": null
+        "portraits": []
       },
       {
         "lines": [
-          "Protagonizada por",
+          "~Protagonizada por",
           "Fanny",
-          "y",
+          "~y",
           "Diego"
         ],
         "portraits": [
@@ -918,9 +919,9 @@
       },
       {
         "lines": [
-          "Con la participación especial de",
+          "~Con la participación especial de",
           "Tris",
-          "(como ella misma)"
+          "~(como ella misma)"
         ],
         "portraits": [
           "tris"
@@ -928,19 +929,20 @@
       },
       {
         "lines": [
-          "y",
+          "~y",
           "Snoopy, el changuito",
           "y los pingüinos"
         ],
         "portraits": [
           "snoopy",
-          "changuito"
+          "changuito",
+          "pinguino"
         ]
       },
       {
         "lines": [
-          "Escrita, dirigida",
-          "y hecha con amor por",
+          "~Escrita, dirigida",
+          "~y hecha con amor por",
           "Diego"
         ],
         "portraits": []
@@ -948,7 +950,7 @@
       {
         "lines": [
           "Feliz aniversario, Fanny",
-          "20·10·2026"
+          "~20/10/2024  —  20/10/2026"
         ],
         "portraits": [],
         "final": true
