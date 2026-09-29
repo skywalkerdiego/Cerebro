@@ -11,3 +11,4 @@ out/*_compartir.mp4
 episodio/audio/
 out/render_*.log
 out/episodio_prueba_*.mp4
+tools/__pycache__/
