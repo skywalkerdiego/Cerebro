@@ -7,3 +7,7 @@ assets/audio/song.wav
 assets/audio/analysis.json
 out/frames_*/
 out/*_compartir.mp4
+# episodio (v2): la mezcla se regenera con tools/episode_audio.py / make_episode.sh
+episodio/audio/
+out/render_*.log
+out/episodio_prueba_*.mp4

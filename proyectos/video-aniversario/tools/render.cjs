@@ -3,6 +3,7 @@
  *   node tools/render.cjs --format 9x16 --q final --out out/video_9x16.mp4
  *   node tools/render.cjs --format 16x9 --q draft --fps 15 --out out/animatic_16x9.mp4
  *   node tools/render.cjs --format 9x16 --stills 4.5,12,30 --outdir out/stills
+ *   node tools/render.cjs --page episodio/index.html --format 16x9 --from 0 --to 13 --audio a.wav --out out/prueba.mp4
  *
  * Levanta un servidor estático local (así el canvas no queda "contaminado"
  * por imágenes file://), abre N pestañas en paralelo, cada una llama
@@ -26,6 +27,9 @@ const QUAL = args.q || "final";
 const FPS = parseFloat(args.fps || "30");
 const WORKERS = parseInt(args.workers || "4", 10);
 const AUDIO = args.audio || null;
+const PAGE = args.page || "engine/index.html";   // v1 (tablero) o episodio/index.html
+const FROM = parseFloat(args.from || "0");
+const TO = args.to ? parseFloat(args.to) : null;
 
 function serve() {
   const types = { ".html": "text/html", ".js": "text/javascript", ".png": "image/png", ".jpg": "image/jpeg", ".webp": "image/webp", ".ttf": "font/ttf", ".wav": "audio/wav", ".json": "application/json" };
@@ -44,7 +48,7 @@ async function openPage(browser, port) {
   const page = await browser.newPage({ viewport: { width: Math.round(w * scale), height: Math.round(h * scale) } });
   page.on("pageerror", (e) => console.error("[página]", e.message));
   page.on("console", (m) => { if (m.type() === "error") console.error("[consola]", m.text()); });
-  await page.goto(`http://127.0.0.1:${port}/engine/index.html?format=${FORMAT}&q=${QUAL}`);
+  await page.goto(`http://127.0.0.1:${port}/${PAGE}?format=${FORMAT}&q=${QUAL}`);
   await page.evaluate(() => window.ready);
   return page;
 }
@@ -74,7 +78,7 @@ async function main() {
     }
     const page0 = await openPage(browser, port);
     const duration = await page0.evaluate(() => window.DURATION);
-    const n = Math.floor(duration * FPS);
+    const n = Math.floor(((TO ?? duration) - FROM) * FPS);
     const frames = path.join(ROOT, "out", `frames_${FORMAT}_${QUAL}`);
     fs.rmSync(frames, { recursive: true, force: true });
     fs.mkdirSync(frames, { recursive: true });
@@ -86,7 +90,7 @@ async function main() {
       while (true) {
         const i = next++;
         if (i >= n) break;
-        const buf = await grab(pg, i / FPS, "image/jpeg");
+        const buf = await grab(pg, FROM + i / FPS, "image/jpeg");
         fs.writeFileSync(path.join(frames, `${String(i).padStart(5, "0")}.jpg`), buf);
         done++;
         if (done % 100 === 0) {
@@ -125,6 +129,7 @@ function encode(frames, n) {
   if (fs.existsSync(audio)) {
     const g = loudnessGain(audio);
     // -map 0:v (cuadros) + -map 1:a (solo el audio) -> el video de origen nunca entra
+    if (FROM > 0) a.push("-ss", String(FROM));
     a.push("-i", audio, "-map", "0:v:0", "-map", "1:a:0", "-af", `volume=${g.toFixed(2)}dB`, "-c:a", "aac", "-b:a", "256k", "-ar", "48000");
   }
   a.push("-c:v", "libx264", "-preset", preset, "-crf", crf, "-pix_fmt", "yuv420p", "-profile:v", "high",

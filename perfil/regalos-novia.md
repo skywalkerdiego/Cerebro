@@ -18,11 +18,19 @@ dos (la prepa, "Amoshit", los días juntos, el bioparque y el retrato
 con Tris y los peluches), en vertical 9:16 y horizontal 16:9. Proyecto
 completo y cómo se hizo: [proyectos/video-aniversario](../proyectos/video-aniversario/README.md).
 
+- **Versión 2 (29/09/2026) — un capítulo de su "serie":** *Fanny & Diego
+  — la serie, T2·E24 «Dos años»*. Las láminas se vuelven títeres (se
+  mueven, parpadean, hablan con globos de fieltro y vocecitas de
+  balbuceo) y cuentan la historia: café del aniversario, flashback a la
+  prepa, "Amoshit", el coche con *su canción*, los días juntos, el
+  bioparque y el puente "2 años juntos" en el clímax de la canción.
+  Guion: [episodio/guion.md](../proyectos/video-aniversario/episodio/guion.md).
+  La versión 1 (tablero de fieltro, solo cámara) sigue ahí.
 - **Pendiente para la versión final:** la canción (el mp4 de ~65 s) no
   llegó a la sesión, así que por ahora el video lleva una pista temporal
   original sincronizada con el mismo análisis. Manda el mp4 (adjunto o
   en Drive) y se re-renderiza con la canción en minutos
-  (`./make_video.sh cancion.mp4`).
+  (`./make_episode.sh cancion.mp4`).
 - De las 20 láminas llegaron 14: faltan la cascada, dormir con Tris y
   el retrato abrazados riendo (y otras 3). Se pueden sumar sin rehacer
   nada.

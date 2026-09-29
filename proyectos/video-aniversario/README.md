@@ -1,19 +1,139 @@
-# 🎬 Fanny & Diego — video de aniversario (2 años)
+# 🎬 Fanny & Diego — la serie · T2·E24 «Dos años»
 
-Video animado en estilo fieltro/stop-motion para el 20/10/2026, hecho 100 %
-con código: las láminas originales se componen como capas en un HTML con
-`seek(t)`, se renderizan cuadro por cuadro con Playwright y se unen con
-ffmpeg. Ningún personaje se redibujó: la animación es de cámara, luz,
-planos y detalles de fieltro alrededor del arte.
+Un **capítulo de miniserie** animado para el aniversario (20/10/2026).
+Las láminas de fieltro originales se vuelven **títeres**: las cabezas giran
+y asienten, los cuerpos respiran, los ojos de botón parpadean, las bocas
+hablan sílaba por sílaba, los tarros brindan, la jirafa se asoma a la
+foto… y todo se cuenta con **diálogo** en globos de fieltro cosidos y
+vocecitas de balbuceo. Nada se redibujó: es la misma lámina, animada
+(malla deformable en WebGL, detalles de fieltro encima).
 
 | Entregable | Archivo |
 |---|---|
-| Video vertical 9:16 (1080×1920, 30 fps) | `out/aniversario_9x16.mp4` |
-| Video horizontal 16:9 (1920×1080, 30 fps) | `out/aniversario_16x9.mp4` |
-| Animatic (baja calidad, 15 fps) | `out/animatic_9x16.mp4` |
-| Versiones para compartir (< 30 MB, misma resolución) | `out/*_compartir.mp4` (las genera `make_video.sh`; no se versionan) |
-| Guía de estilo | [`style_guide.md`](style_guide.md) |
-| Beat sheet (escena · tiempo · movimiento) | [`beat_sheet.md`](beat_sheet.md) |
+| **Episodio horizontal 16:9** (1920×1080, 30 fps) | `out/episodio_16x9.mp4` |
+| **Episodio vertical 9:16** (1080×1920, 30 fps, "en la tele de fieltro") | `out/episodio_9x16.mp4` |
+| Versiones para compartir (< 30 MB) | `out/episodio_*_compartir.mp4` (las genera `make_episode.sh`) |
+| Guion (legible) | [`episodio/guion.md`](episodio/guion.md) |
+| Guion ejecutable (diálogos, acciones, cámara) | [`episodio/guion.json`](episodio/guion.json) |
+| Rigs de cada lámina (cabezas, bocas, ojos, manos, objetos) | [`episodio/rigs.json`](episodio/rigs.json) |
+
+```bash
+./make_episode.sh ruta/a/cancion.mp4   # con la canción real (solo toma el audio)
+./make_episode.sh                       # con la pista temporal original
+```
+
+## El capítulo
+
+| # | Escena | Qué pasa |
+|---|---|---|
+| 1 | **Cold open** — café | "¿Sabes qué día es hoy?" · "Mmm… ¿martes?" · ella lo mira ¬¬ · "¡Es broma! Hoy cumplimos dos años." · corazoncitos de fieltro |
+| 2 | **Entrada de la serie** | *Fanny & Diego — la serie*, con retratos del elenco (Fanny, Diego, Tris) y "Temporada 2 · Capítulo 24 · «Dos años»" (temporada 2 = segundo año, capítulo 24 = mes 24) |
+| 3 | **Flashback** — prepa 9 | "Hace un buen rato…" Él toca los platillos pensando "no la mires…", ¡CRASH!, ella voltea: "¿Siempre tocas así de fuerte?" · "Solo cuando tú estás." (se sonroja) |
+| 4 | **Amoshit** | "Y un día…" Los dos lo dicen, y un brillo recorre el hilo rojo de ella a él |
+| 5 | **El coche** | "¡Pon nuestra canción!" → clic → **empieza la canción** |
+| 6 | Montaje sobre la canción | coche ("¿A dónde vamos?" "¡A donde sea!"), cocina ("¿Le pusiste sal?" … grillos), Snoopy y Tris ("¡Guau!"), vinilos ("¿Kendrick o Interpol?" "¿Por qué no los dos?"), tacos (el "¡Salud!" cae en un tiempo fuerte), karaoke, noche de *That '70s Show* (ella se recarga en él), y de la tele sale el safari ("Creo que quiere salir en la foto") y el aviario (el loro grita "¡Dos años!") |
+| 7 | **Clímax** — el puente "2 AÑOS JUNTOS" | cae **exactamente en el clímax de la canción**: destello y confeti. "Dos años, ¿eh?" · "Y todos los que faltan." · "¡Guau!" |
+| 8 | **Epílogo** — en casa | "¿Otro capítulo mañana?" · "Todos los que quieras." → iris de caricatura: **Continuará…** |
+| 9 | Créditos | "Protagonizada por Fanny y Diego · Tris (como ella misma) · Snoopy, el changuito y los pingüinos · Escrita, dirigida y hecha con amor por Diego · Feliz aniversario, Fanny" |
+
+No se inventó nada de su historia: todo sale de lo que hay en
+`perfil/novia.md` y de las láminas; "Amoshit" solo se dice, no se explica.
+
+## Decisiones creativas (versión 2)
+
+**1. Títeres sin tijeras.** Cada lámina se dibuja sobre una malla densa
+(una celda cada 2 px de la lámina) y en `rigs.json` cada escena tiene
+*handles*: cabeza (gira sobre el cuello), cuerpo (respira), mandíbula,
+brazos (cápsulas que giran desde el hombro), objetos (tarros, cámara,
+jirafa, platillos, espadañas, colibríes). Cada handle deforma la malla con
+una caída suave, así que no hay recortes ni huecos: se mueve la lámina
+misma. Encima de eso: *idle* (respiración y vaivén de cabeza, distinto
+por personaje), loops de escena a tiempo con la música (los platillos
+cada dos tiempos, Fanny bailando en el xilófono, el coche que brinca) y
+acciones del guion (ladear la cabeza, levantar la ceja, recargarse,
+aplaudir, el ¡crash!).
+
+**2. Bocas, ojos y sonrojo.** Las mandíbulas tienen una "compuerta": solo
+se mueve lo que está debajo de la línea de la boca, así que la boca se
+abre de verdad sin estirar la nariz. En el café (sonrisas cerradas) se
+suma una boquita de fieltro que se abre por sílaba. Los ojos de botón
+parpadean aplastándose hasta volverse una rayita (a 12 fps, como
+stop-motion); las pestañas de Fanny se juntan solas. El sonrojo de Diego
+en la prepa es fieltro rosa difuminado.
+
+**3. Diálogo que se lee y se oye.** Los globos son de fieltro crema con
+puntada roja (el hilo de "Amoshit"), se escriben sílaba por sílaba al
+ritmo de la voz, y su lugar se elige probando varias posiciones: gana la
+que no tapa caras ni otros globos, con la colita apuntando a la boca.
+Hay globos de pensamiento (nube), de grito (picos) y el del loro
+(amarillo, dentado). Las voces son **balbuceo tipo Animal Crossing pero
+con las vocales reales del guion** (síntesis por formantes a/e/i/o/u,
+consonantes de ataque y entonación: las preguntas suben al final), así
+que "¿Sabes qué día es hoy?" *suena* a esa frase sin decir palabras.
+Diego más grave, Fanny más aguda, el loro raspa, Tris ladra.
+
+**4. La música cuenta la estructura.** Antes de "nuestra canción" hay un
+tema original a 100 BPM (cajita musical en el café, tema de la serie en
+la entrada, banda escolar en la prepa que se corta con el ¡CRASH!,
+ternura en Amoshit, motor y radio en el coche). La canción entra con el
+clic del estéreo, y desde ahí la **canción manda**: las escenas se
+reparten con programación dinámica sobre sus tiempos fuertes, cada una
+con un mínimo duro (lo que dura su diálogo) y el puente arranca en el
+clímax detectado. La canción baja 5 dB solo cuando alguien habla y todo
+queda a −14 LUFS.
+
+**5. 9:16 = el capítulo en la tele de fieltro.** Las láminas son
+apaisadas; en vertical el episodio se ve en una tele de los 70 de
+fieltro (guiño a *That '70s Show*) con pantalla 4:3, el logo de la serie
+arriba, las tazas del café y el carrete de hilo rojo en la mesa, y una
+etiqueta "♪ nuestra canción ♪" que brinca a tiempo mientras suena.
+
+**6. Lenguaje de serie.** Rótulos cosidos ("Hace un buen rato…", "Y un
+día…"), el pasado con tono cálido y bordes crema, transición de
+flashback con ondas, barrido con desenfoque de movimiento, la pantalla
+de la tele que crece y se vuelve el safari, destello en el clímax, iris
+de caricatura para el "Continuará…" y créditos en fieltro.
+
+## ⚠️ Lo que falta (igual que en la v1)
+
+- **La canción** no llegó a la sesión: el episodio usa la pista temporal
+  original (`tools/compose_scratch.py`) analizada con el mismo analizador.
+  Con el mp4: `./make_episode.sh cancion.mp4` re-reparte las escenas sobre
+  la canción real, vuelve a poner el puente en su clímax y re-renderiza.
+- **6 de las 20 láminas** (la cascada, dormir con Tris, el retrato
+  abrazados riendo y otras 3). Para sumarlas: la lámina en
+  `assets/scenes/raw/`, su rig en `episodio/rigs.json` y su escena en
+  `episodio/guion.json`.
+
+## Código del episodio
+
+```
+make_episode.sh            un comando: canción -> tiempos -> audio -> 16:9 + 9:16 -> verificación
+episodio/guion.md          el guion legible
+episodio/guion.json        el guion ejecutable: diálogos, acciones, cámara, efectos, sonidos
+episodio/rigs.json         por lámina: handles (cabeza, mandíbula, cuerpo, brazos, objetos), ojos, globos, encuadres, loops
+episodio/index.html        la página (canvas); ?preview=1&format=16x9 para verla en el navegador
+episodio/ep.js             motor: malla WebGL2 deformable, títeres, globos, cámara, transiciones, tarjetas, tele 9:16
+episodio/episode.js/.json  GENERADOS: tiempos de cada escena, sílabas de cada línea y eventos de audio
+tools/build_episode.py     guion + canción -> línea de tiempo (sílabas en español, DP sobre la canción, clímax)
+tools/episode_audio.py     voces de balbuceo por formantes, efectos, música de la parte A, mezcla a -14 LUFS
+tools/grid_view.py         hojas con cuadrícula para anotar los rigs
+```
+
+---
+
+# Versión 1 — el tablero de fieltro (solo cámara)
+
+La primera versión sigue en el repo: las mismas láminas como parches
+cosidos sobre un tablero, con cámara, luz y parallax (sin títeres ni
+diálogo).
+
+| Entregable v1 | Archivo |
+|---|---|
+| Video vertical 9:16 | `out/aniversario_9x16.mp4` |
+| Video horizontal 16:9 | `out/aniversario_16x9.mp4` |
+| Animatic | `out/animatic_9x16.mp4` |
+| Guía de estilo / beat sheet | [`style_guide.md`](style_guide.md) · [`beat_sheet.md`](beat_sheet.md) |
 
 ## ⚠️ Lo que no llegó (y cómo terminarlo)
 
@@ -29,7 +149,7 @@ planos y detalles de fieltro alrededor del arte.
 
    **Para la versión final con la canción:**
    ```bash
-   ./make_video.sh ruta/a/cancion.mp4
+   ./make_video.sh ruta/a/cancion.mp4   # v1 (o ./make_episode.sh para el episodio)
    ```
    Extrae solo el audio (`ffmpeg -vn`), re-analiza tempo, secciones y
    clímax, vuelve a repartir las escenas, renderiza ambos formatos y verifica
