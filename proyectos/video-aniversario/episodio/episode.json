@@ -2488,6 +2488,11 @@
       "t": 86.438,
       "frame": "giraffe",
       "move": 0.8
+     },
+     {
+      "t": 86.638,
+      "frame": "two",
+      "cut": true
      }
     ],
     "acts": [

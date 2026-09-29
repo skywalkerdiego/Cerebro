@@ -709,6 +709,10 @@
           "wait": 0.5
         },
         {
+          "cam": "two",
+          "cut": true
+        },
+        {
           "say": "diego",
           "text": "Creo que quiere salir en la foto."
         }

@@ -15,5 +15,6 @@ python3 tools/split_panels.py      # 4 láminas -> 14 escenas (raw/)
 python3 tools/clean_numbers.py     # borra los números de galería de las esquinas
 python3 tools/upscale.py           # Real-ESRGAN x4 en CPU (x4/, ~25 min, no se versiona)
 python3 tools/prepare_hd.py        # mezcla 60 % ESRGAN + 40 % Lanczos a 3x (hd/)
+python3 tools/fix_safari_diego.py  # safari: el de la gorra es Diego (en la lámina salían dos Fannys)
 python3 tools/depth.py             # mapas de profundidad (depth/)
 python3 tools/layers.py            # planos de parallax (layers/)

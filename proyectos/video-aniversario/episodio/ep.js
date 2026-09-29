@@ -660,12 +660,12 @@
       const age0 = t - f.t;
       if (age0 < 0) return;
       const tq = q12(t);
-      const cx = S.rw * 0.53, cy = S.rh * 0.66;
+      const cx = S.rw * 0.535, cy = S.rh * 0.7;
       for (let i = 0; i < 9; i++) {
         const st = i * 0.28, age = q12(tq - f.t) - st;
         if (age < 0 || age > 2.4) continue;
         const life = age / 2.4;
-        const p = v.at(cx + (hash(i * 7) - 0.5) * S.rw * 0.35 + Math.sin(age * 3 + i) * 6, cy - life * S.rh * 0.35);
+        const p = v.at(cx + (hash(i * 7) - 0.5) * S.rw * 0.07 + Math.sin(age * 3 + i) * 4, cy - life * S.rh * 0.3);
         const sz = v.s * S.rw * 0.03 * (0.8 + 0.5 * hash(i)) * landing(age, 0.25, 0.5);
         g.save(); g.translate(p[0], p[1]); g.rotate(Math.sin(age * 4 + i) * 0.25); g.globalAlpha = clamp((1 - life) * 2.5);
         feltHeart(g, sz, [COL.red, COL.pink, "#f39aa8"][i % 3]); g.restore();

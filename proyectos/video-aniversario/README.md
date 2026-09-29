@@ -88,7 +88,14 @@ fieltro (guiño a *That '70s Show*) con pantalla 4:3, el logo de la serie
 arriba, las tazas del café y el carrete de hilo rojo en la mesa, y una
 etiqueta "♪ nuestra canción ♪" que brinca a tiempo mientras suena.
 
-**6. Lenguaje de serie.** Rótulos cosidos ("Hace un buen rato…", "Y un
+**6. Una sola corrección al arte, pedida por Diego.** En la lámina del
+safari los dos personajes eran Fanny. El de la gorra ahora es Diego: su
+cabeza sale de otra lámina (el café, donde tiene casi la misma pose),
+alineada por los lentes, recortada a mano y con Fanny, las manos y la
+cámara por delante; el color se igualó a la luz del safari. Todo lo demás
+es la lámina tal cual (`tools/fix_safari_diego.py`, reversible).
+
+**7. Lenguaje de serie.** Rótulos cosidos ("Hace un buen rato…", "Y un
 día…"), el pasado con tono cálido y bordes crema, transición de
 flashback con ondas, barrido con desenfoque de movimiento, la pantalla
 de la tele que crece y se vuelve el safari, destello en el clímax, iris
@@ -118,7 +125,9 @@ de caricatura para el "Continuará…" y créditos en fieltro.
    |---|---|---|
    | Stills | Colitas de globo encajadas en la frente · globos tapando la cara del otro · párpados como parches planos · tarros que no se podían separar | Colita corta que apunta a la boca · lugar del globo elegido entre varios candidatos evitando caras · parpadeo por aplastamiento de la malla · brindis: los tarros bajan y suben juntos en el "¡Salud!" |
    | 1 (video completo) | Prepa (6): la estrella del ¡crash! tapaba a Diego y el flashback se lavaba · Coche (7): rayas de viento sobre las caras · Créditos (7): primera tarjeta pobre y faltaba el pingüino | Estrella chica en el borde del platillo, destello crema más suave · viento solo sobre el camino · créditos con texto cosido + fieltro y los tres peluches |
-   | 2 (render final) | (en curso) | |
+   | 2 (video completo) | Café: los corazoncitos pasaban por las caras · puente: el letrero cortaba las cabezas · 9:16: las tazas encimadas en la etiqueta y el "·" que no existe en la letra cursiva | Corazones solo en el hueco entre los dos · encuadre del letrero más alto · utilería reacomodada y fechas con "/" |
+   | Nota de Diego | **Safari: salían dos Fannys** (el de la gorra también tenía la cara y el pelo azul de ella). Recolorear el pelo no bastó: seguía pareciendo Fanny | `tools/fix_safari_diego.py`: trasplante de la cabeza de Diego desde la lámina del café (misma pose: inclinado hacia ella, ojos cerrados, lentes), alineada por los lentes, con Fanny, las manos y la cámara delante y el color igualado a la luz del safari. Ahora Diego sale y habla en cuadro. El original queda como `safari_original.*` |
+   | Final | Todas las escenas en 8 o más | — |
 
 ## Código del episodio
 
