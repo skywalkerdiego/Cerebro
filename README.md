@@ -142,6 +142,7 @@ vea. También como tablero: [Logros.exe](https://claude.ai/code/artifact/824aa43
 - 🏆 [Logros.exe](https://claude.ai/code/artifact/824aa431-f946-4228-b64a-da3c7fe40345) — registro de lo que ya lograste.
 - 🌳 [Árbol.exe](https://claude.ai/code/artifact/d0c4a5cf-e170-4c8b-a29e-df6f7f8ca699) — árbol genealógico visual: pareja, familia y amigos de un vistazo. Se actualiza a mano cuando cuentes algo nuevo.
 - 🚗 [Carros.exe](https://claude.ai/code/artifact/343ba47e-786d-4245-8ef0-44826ec627c7) — garage estilo videojuego: stats del Chevy y del Aveo de mamá (motor, frenos, llantas) y bitácora de mantenimiento, con el carro girando.
+- 🚇 [CDMX.exe](https://claude.ai/artifact/5ohE1BegWkW2V1vax4enX4) — mapa 3D de la ciudad estilo minimapa de videojuego: las 5 zonas y 16 alcaldías (toca una y se levanta un muro de luz), ~50 lugares flotantes con "cómo llegar en Metro", las 12 líneas del Metro con planificador de viajes (incluye Chamba → Villa de Aragón), Metrobús L1/Tren Ligero/Cablebús, 7 rutas para un día libre, "¿dónde estás?" marcando en el mapa, y modo noche. Casa y Chamba están puestas aproximadas: muévelas desde la pestaña Tú.
 
 ## 🧹 Consolidación de tableros (auditoría 01/09/2026)
 
