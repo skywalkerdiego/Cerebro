@@ -87,5 +87,10 @@ los aspectos, y le gusta mucho escribirle y contarle lo que siente.
   importa ahora mismo, y vale la pena que este archivo lo refleje.
 - La foto de los dos (evento formal, 15/08/2026) ya está incorporada en
   el dossier visual [Nosotros.exe](https://claude.ai/code/artifact/958d66cd-dbca-442a-b286-37994df7026e).
+- Se prepara para el **ENARM**; le interesan Ginecología y Obstetricia o
+  Pediatría, y lo que más le cuesta es Pediatría y Medicina Familiar.
+  Diego le armó [Ruta ENARM](https://claude.ai/artifact/7r46sG5rfdMLzskWoppfKM)
+  (12/10/2026), una app tipo Duolingo para estudiar en el iPhone junto
+  con su curso en línea.
 - Este archivo es un borrador armado con lo que me has contado —
   cuéntame más cuando quieras y lo voy sumando.
