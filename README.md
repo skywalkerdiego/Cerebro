@@ -110,6 +110,11 @@ Documentos reales (PDFs, comprobantes, escaneos) que respaldan lo
 registrado en las demás secciones, organizados por tema. También como
 tablero: [Biblioteca.exe](https://claude.ai/code/artifact/35790e36-7e9e-4768-a2e1-17acfd3d1bb7).
 
+## 🧠 [Conocimiento](conocimiento/README.md)
+
+Notas de cosas que aprendí de fuentes externas, para reutilizarlas
+después (p. ej. cómo pedir animaciones/videos hechos con código).
+
 ## 🏆 [Logros](logros.md)
 
 Lo que ya lograste, no lo que falta — para que el avance también se
